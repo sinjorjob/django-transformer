@@ -10,8 +10,11 @@ https://github.com/YutaroOgawa/pytorch_advanced/blob/master/LICENSE
 
 https://github.com/chakki-works/chABSA-dataset
 
-chABSA-datasetのデータの本文がネガティブか、ポジティブ化を自動判定するDjangoのWEBアプリケーションのコードも付属しています。     なお、全データセットのうち、1970個を訓練データ数、843個をテストデータとしてモデルを構築しています。
+chABSA-datasetのデータの本文がネガティブか、ポジティブ化を自動判定するDjangoのWEBアプリケーションのコードも付属しています。     
+なお、全データセットのうち、1970個を訓練データ数、843個をテストデータとしてモデルを構築しています。
 
+Djangoアプリのデモ動画  
+![transformer](https://user-images.githubusercontent.com/34405452/66707507-7f5c6500-ed7c-11e9-9a2d-342100379cfd.gif)
 
 # フォルダ構成  
 
