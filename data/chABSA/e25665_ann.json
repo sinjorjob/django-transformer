@@ -1,0 +1,163 @@
+{
+  "header": {
+    "document_id": "E25665",
+    "document_name": "宮越ホールディングス株式会社",
+    "doc_text": "有価証券報告書",
+    "edi_id": "E25665",
+    "security_code": "66200",
+    "category33": "電気機器",
+    "category17": "電機・精密",
+    "scale": "7"
+  },
+  "sentences": [
+    {
+      "sentence_id": 0,
+      "sentence": "当連結会計年度における当社グループをとりまく経済環境は、景気が緩やかな回復基調にあるものの、英国のＥＵ離脱、米国の政権移行、株式や為替の不安定な市場動向など、今後の世界経済に与える不確実性は、多岐にわたり、景気の先行き不透明な状況が続いていくものと思われます",
+      "opinions": [
+        {
+          "target": "景気",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 28,
+          "to": 30
+        },
+        {
+          "target": "株式",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 62,
+          "to": 64
+        },
+        {
+          "target": "為替",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 65,
+          "to": 67
+        },
+        {
+          "target": "景気",
+          "category": "NULL#general",
+          "polarity": "neutral",
+          "from": 103,
+          "to": 105
+        }
+      ]
+    },
+    {
+      "sentence_id": 1,
+      "sentence": "一方で、当社グループの主要な事業拠点である中国深セン市は、国際都市として堅実な経済成長を続け、物価、不動産価格の上昇率は他の地域に比べ、いずれも高い伸び率を示し、不動産賃貸市場におきましても底堅い需要に支えられ、市況は好調に推移しております",
+      "opinions": [
+        {
+          "target": "経済成長",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 39,
+          "to": 43
+        },
+        {
+          "target": "物価",
+          "category": "NULL#price",
+          "polarity": "positive",
+          "from": 47,
+          "to": 49
+        },
+        {
+          "target": "不動産価格",
+          "category": "NULL#price",
+          "polarity": "positive",
+          "from": 50,
+          "to": 55
+        },
+        {
+          "target": "需要",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 98,
+          "to": 100
+        },
+        {
+          "target": "市況",
+          "category": "market#general",
+          "polarity": "positive",
+          "from": 106,
+          "to": 108
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "sentence": "このような状況下、当社グループは深セン市における不動産の賃貸管理及び開発事業に経営資源を集中し、所有物件（建物114千㎡・土地127千㎡）の効率的な活用とハイレベルな運用管理を行うことにより、稼働率の高い安定した収益基盤の強化を図り業績の拡大を目指してまいりました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 3,
+      "sentence": "この結果、当連結会計年度における営業収益は1,235百万円（前期比9.5％減）、営業利益723百万円（前期比15.1％増）、経常利益733百万円（前期比91.7％増）、親会社株主に帰属する当期純利益376百万円（前期比38.7％減）を計上いたしました",
+      "opinions": [
+        {
+          "target": "営業収益",
+          "category": "NULL#sales",
+          "polarity": "negative",
+          "from": 16,
+          "to": 20
+        },
+        {
+          "target": "営業利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 40,
+          "to": 44
+        },
+        {
+          "target": "経常利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 62,
+          "to": 66
+        },
+        {
+          "target": "当期純利益",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 94,
+          "to": 99
+        }
+      ]
+    },
+    {
+      "sentence_id": 4,
+      "sentence": "不動産開発事業について",
+      "opinions": []
+    },
+    {
+      "sentence_id": 5,
+      "sentence": "中国深セン市は、人口1,800万人を擁し、中央政府が進める次世代の現代サービス産業の高度化を担うべく、ハイテク・情報・金融等を基盤とした国際都市への転換を図り、香港、マカオを一体化した一大経済圏の中心に位置する中国華南地区の中心都市として発展を続けております",
+      "opinions": []
+    },
+    {
+      "sentence_id": 6,
+      "sentence": "深セン皇冠（中国）電子有限公司（以下「皇冠電子」という",
+      "opinions": []
+    },
+    {
+      "sentence_id": 7,
+      "sentence": "）は、市の中心にあたる福田区に位置し、官公庁に近く、交通インフラ（主要幹線道路、地下鉄駅、高速道路ＩＣ、市最大のバスターミナル等）等、都市機能が集中した付加価値の高いエリアに所在しています",
+      "opinions": []
+    },
+    {
+      "sentence_id": 8,
+      "sentence": "現在、皇冠電子は、オフィス、商業施設、レジデンスなどで構成する大型総合都市開発事業を進めており、日本をはじめ海外の先進的建設技術や運営管理を導入し、深セン市経済発展のモデルとなる都市開発を目指しております",
+      "opinions": []
+    },
+    {
+      "sentence_id": 9,
+      "sentence": "当該開発事業は、深セン市の重大プロジェクトとして中国政府をはじめとした国内外の多方面にわたる企業・団体から協賛を受け、深セン市政府関係部門と協議を図りながら、開発申請に向け事業計画の策定を進め、当該プロジェクトをグループの成長戦略の柱に位置付けております",
+      "opinions": []
+    },
+    {
+      "sentence_id": 10,
+      "sentence": "当社グループは、「不動産開発及び賃貸管理事業」のみの単一セグメントであるため、セグメント別の記載を省略しております",
+      "opinions": []
+    }
+  ]
+}

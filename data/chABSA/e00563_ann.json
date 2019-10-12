@@ -1,0 +1,495 @@
+{
+  "header": {
+    "document_id": "E00563",
+    "document_name": "東海染工株式会社",
+    "doc_text": "有価証券報告書",
+    "edi_id": "E00563",
+    "security_code": "35770",
+    "category33": "繊維製品",
+    "category17": "素材・化学",
+    "scale": "7"
+  },
+  "sentences": [
+    {
+      "sentence_id": 0,
+      "sentence": "当連結会計年度における我が国経済は、企業収益や雇用環境の改善が続き、緩やかな回復基調を続けておりますが、個人消費が低迷していることに加え、米国の政策動向や新興国の経済の下振れリスクなどにより、景気の先行きは不透明な状況で推移いたしました",
+      "opinions": [
+        {
+          "target": "企業収益",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 18,
+          "to": 22
+        },
+        {
+          "target": "雇用環境",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 23,
+          "to": 27
+        },
+        {
+          "target": "個人消費",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 52,
+          "to": 56
+        },
+        {
+          "target": "先行き",
+          "category": "NULL#general",
+          "polarity": "neutral",
+          "from": 99,
+          "to": 102
+        }
+      ]
+    },
+    {
+      "sentence_id": 1,
+      "sentence": "染色加工業界におきましては、国内では、衣料品需要が少子高齢化や人口減少などによって構造的に減少傾向にあることに加え、消費者の根強い節約志向もあり、百貨店などの店頭で衣料品販売の低迷が深まっており、受注環境は厳しさを増しております",
+      "opinions": [
+        {
+          "target": "衣料品需要",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 19,
+          "to": 24
+        },
+        {
+          "target": "衣料品販売",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 82,
+          "to": 87
+        },
+        {
+          "target": "受注環境",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 98,
+          "to": 102
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "sentence": "海外では、当社が進出している東南アジア地域において、タイでは、国王崩御に伴う自粛ムードも徐々に収まりつつありますが、依然として個人の消費意欲は停滞している状況です",
+      "opinions": [
+        {
+          "target": "自粛ムード",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 38,
+          "to": 43
+        },
+        {
+          "target": "消費意欲",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 66,
+          "to": 70
+        }
+      ]
+    },
+    {
+      "sentence_id": 3,
+      "sentence": "一方、インドネシアでは、民間消費が堅調な伸びを維持し、景気は徐々に回復に向かっており、新たな事業機会の広がりが期待されるなど、今後も人口増加や中間所得層の拡大により衣料分野や生活関連分野などで需要増加が見込まれます",
+      "opinions": [
+        {
+          "target": "民間消費",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 12,
+          "to": 16
+        },
+        {
+          "target": "景気",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 27,
+          "to": 29
+        }
+      ]
+    },
+    {
+      "sentence_id": 4,
+      "sentence": "このような状況のもと、当社グループは、海外での事業展開を加速させると同時に、強固な収益基盤を構築するために各事業で収益力強化に向けた取り組みを進めました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 5,
+      "sentence": "染色加工事業では、国内では、安定的な売上が確保できるユニフォームや資材関連など非衣料分野の受注強化を進め、海外では、需要旺盛なインドネシアで更なる売上拡大を図ったことに加え、フィリピンに販社を設立し、新たな販路開拓にも取り組みました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 6,
+      "sentence": "その一方で、非衣料化に伴う加工料単価の低下に対応するため、国内・海外の各生産拠点で原価低減活動の強化を一層推進し、染色加工事業全体で収益力の向上に努めております",
+      "opinions": []
+    },
+    {
+      "sentence_id": 7,
+      "sentence": "縫製品販売事業では、インドネシア一貫生産の活用を軸に、商品の充実・拡販を図りながら、採算を重視した販売への集約を積極的に取り組んでいるため、一時的に売上は減少していますが、有力取引先との取り組みを深め、収益体質強化に向けて、販売体制の再構築を進めております",
+      "opinions": [
+        {
+          "target": "売上",
+          "category": "NULL#sales",
+          "polarity": "negative",
+          "from": 74,
+          "to": 76
+        }
+      ]
+    },
+    {
+      "sentence_id": 8,
+      "sentence": "また保育サービス事業では、主力の企業内保育所数の増加に努めると同時に、新規保育園の開設により、売上拡大に努めました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 9,
+      "sentence": "これらの結果、当連結会計年度の売上高は15,825百万円（前期比3.2％減、528百万円減）と減収になりましたが、利益面では、営業利益1,148百万円（前期比3.8％増、42百万円増）、経常利益1,160百万円（前期比15.8％増、158百万円増）、親会社株主に帰属する当期純利益716百万円（前期比18.8％増、113百万円増）と、主力の染色加工事業の利益増大により各利益段階で増益を確保いたしました",
+      "opinions": [
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "negative",
+          "from": 15,
+          "to": 18
+        },
+        {
+          "target": "営業利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 63,
+          "to": 67
+        },
+        {
+          "target": "経常利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 93,
+          "to": 97
+        },
+        {
+          "target": "当期純利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 135,
+          "to": 140
+        },
+        {
+          "target": "染色加工事業",
+          "category": "business#profit",
+          "polarity": "positive",
+          "from": 170,
+          "to": 176
+        }
+      ]
+    },
+    {
+      "sentence_id": 10,
+      "sentence": "これにより、営業利益、経常利益は７期連続の増益、親会社株主に帰属する当期純利益は４期連続の増益となりました",
+      "opinions": [
+        {
+          "target": "営業利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 6,
+          "to": 10
+        },
+        {
+          "target": "経常利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 11,
+          "to": 15
+        },
+        {
+          "target": "当期純利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 34,
+          "to": 39
+        }
+      ]
+    },
+    {
+      "sentence_id": 11,
+      "sentence": "セグメントの業績は次のとおりであります",
+      "opinions": []
+    },
+    {
+      "sentence_id": 12,
+      "sentence": "①染色加工事業",
+      "opinions": []
+    },
+    {
+      "sentence_id": 13,
+      "sentence": "染色加工事業は、売上高は12,310百万円（前期比1.1％減、135百万円減）と減収になりましたが、営業利益は1,028百万円（前期比20.2％増、172百万円増）と海外での収益力向上により、増益となりました",
+      "opinions": [
+        {
+          "target": "染色加工事業",
+          "category": "NULL#sales",
+          "polarity": "negative",
+          "from": 0,
+          "to": 6
+        },
+        {
+          "target": "染色加工事業",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 0,
+          "to": 6
+        },
+        {
+          "target": "海外",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 83,
+          "to": 85
+        }
+      ]
+    },
+    {
+      "sentence_id": 14,
+      "sentence": "染色加工事業における部門別（加工料部門、テキスタイル販売部門）の業績は次のとおりであります",
+      "opinions": []
+    },
+    {
+      "sentence_id": 15,
+      "sentence": "（加工料部門）",
+      "opinions": []
+    },
+    {
+      "sentence_id": 16,
+      "sentence": "国内では、非衣料分野の受注増加に積極的に取り組んだ成果もあり、無地染加工は堅調に売上を伸ばしましたが、婦人衣料販売を中心としたカジュアル衣料の販売不振によりプリント加工の受注は減少しました",
+      "opinions": [
+        {
+          "target": "無地染加工",
+          "category": "product#sales",
+          "polarity": "positive",
+          "from": 31,
+          "to": 36
+        },
+        {
+          "target": "カジュアル衣料",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 63,
+          "to": 70
+        },
+        {
+          "target": "プリント加工",
+          "category": "product#amount",
+          "polarity": "negative",
+          "from": 78,
+          "to": 84
+        }
+      ]
+    },
+    {
+      "sentence_id": 17,
+      "sentence": "一方、海外では、タイ子会社が、前期に実施した合理化の成果により、黒字に転じており、インドネシア子会社は、インドネシア国内の需要を積極的に取り込み、売上数量を順調に伸ばしたことで増収増益となった結果、加工料部門の売上高は9,747百万円（前期比0.9％増、84百万円増）と増収になり、染色加工事業全体の増益に貢献しました",
+      "opinions": [
+        {
+          "target": "タイ子会社",
+          "category": "company#general",
+          "polarity": "positive",
+          "from": 8,
+          "to": 13
+        },
+        {
+          "target": "インドネシア子会社",
+          "category": "company#amount",
+          "polarity": "positive",
+          "from": 41,
+          "to": 50
+        },
+        {
+          "target": "インドネシア子会社",
+          "category": "company#profit",
+          "polarity": "positive",
+          "from": 41,
+          "to": 50
+        },
+        {
+          "target": "インドネシア子会社",
+          "category": "company#sales",
+          "polarity": "positive",
+          "from": 41,
+          "to": 50
+        },
+        {
+          "target": "加工料部門",
+          "category": "business#sales",
+          "polarity": "positive",
+          "from": 99,
+          "to": 104
+        }
+      ]
+    },
+    {
+      "sentence_id": 18,
+      "sentence": "（テキスタイル販売部門）",
+      "opinions": []
+    },
+    {
+      "sentence_id": 19,
+      "sentence": "国内で既存顧客との取り組み強化や新規顧客開拓などユニフォームや資材用途向けの販売拡大に取り組みましたが、カジュアル衣料用途向け販売の落ち込みに加え、インドネシア子会社にて、旺盛なローカル市場向け需要を取り込むため、ローカルで主流である委託加工での受注拡大を積極的に進めたことで、テキスタイル販売部門の売上高は2,562百万円（前期比7.9％減、220百万円減）となりました",
+      "opinions": [
+        {
+          "target": "販売",
+          "category": "NULL#amount",
+          "polarity": "negative",
+          "from": 63,
+          "to": 65
+        },
+        {
+          "target": "テキスタイル販売部門",
+          "category": "business#sales",
+          "polarity": "negative",
+          "from": 139,
+          "to": 149
+        }
+      ]
+    },
+    {
+      "sentence_id": 20,
+      "sentence": "②縫製品販売事業",
+      "opinions": []
+    },
+    {
+      "sentence_id": 21,
+      "sentence": "縫製品販売事業は、インドネシア一貫生産体制による製品販売に加え、新たにイベント関連製品の販売に取り組むなど販売強化に努めました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 22,
+      "sentence": "当事業は、相対的に為替相場が円安基調になったことで収益が悪化しましたが、下期以降、採算が確保できる販売へのシフトを全面的に図ったことで、売上高1,434百万円（前期比29.8％減、608百万円減）、営業損失28百万円（前期は営業利益38百万円）となりました",
+      "opinions": [
+        {
+          "target": "収益",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 25,
+          "to": 27
+        },
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "negative",
+          "from": 68,
+          "to": 71
+        },
+        {
+          "target": "営業損失",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 99,
+          "to": 103
+        }
+      ]
+    },
+    {
+      "sentence_id": 23,
+      "sentence": "③保育サービス事業",
+      "opinions": []
+    },
+    {
+      "sentence_id": 24,
+      "sentence": "保育サービス事業は、企業や病院等の企業内託児所や行政から受託運営する保育園数を順調に拡大し売上高2,150百万円（前期比11.8％増、227百万円増）と増収になりました",
+      "opinions": [
+        {
+          "target": "保育サービス事業",
+          "category": "product#amount",
+          "polarity": "positive",
+          "from": 0,
+          "to": 8
+        },
+        {
+          "target": "保育サービス事業",
+          "category": "product#sales",
+          "polarity": "positive",
+          "from": 0,
+          "to": 8
+        }
+      ]
+    },
+    {
+      "sentence_id": 25,
+      "sentence": "しかしながら、新規に２カ所の保育園を開設するなどの業容拡大を目的とした費用の先行や、保育人材の安定確保を図るために積極的に保育士の処遇改善と採用活動を進めていることでコスト増となり、効率的な業務運用に努めたものの、営業利益50百万円（前期比47.6％減、45百万円減）となりました",
+      "opinions": [
+        {
+          "target": "営業利益",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 107,
+          "to": 111
+        }
+      ]
+    },
+    {
+      "sentence_id": 26,
+      "sentence": "④倉庫事業",
+      "opinions": []
+    },
+    {
+      "sentence_id": 27,
+      "sentence": "倉庫事業は、国内染色加工事業における商量減少に伴い、荷役取扱量が落ち込んだことで売上高263百万円（前期比6.3％減、17百万円減）と減収になり、経費圧縮に努めましたが営業利益４百万円（前期比44.0％減、３百万円減）となりました",
+      "opinions": [
+        {
+          "target": "倉庫事業",
+          "category": "business#amount",
+          "polarity": "negative",
+          "from": 0,
+          "to": 4
+        },
+        {
+          "target": "倉庫事業",
+          "category": "business#sales",
+          "polarity": "negative",
+          "from": 0,
+          "to": 4
+        },
+        {
+          "target": "倉庫事業",
+          "category": "business#profit",
+          "polarity": "negative",
+          "from": 0,
+          "to": 4
+        },
+        {
+          "target": "国内染色加工事業",
+          "category": "business#amount",
+          "polarity": "negative",
+          "from": 6,
+          "to": 14
+        }
+      ]
+    },
+    {
+      "sentence_id": 28,
+      "sentence": "⑤その他事業",
+      "opinions": []
+    },
+    {
+      "sentence_id": 29,
+      "sentence": "当セグメントには、機械販売事業、システム事業及び、付随事業である不動産賃貸事業が含まれており、売上高は203百万円（前期比5.4％減、11百万円減）、営業利益は92百万円（前期比12.9％減、13百万円減）となりました",
+      "opinions": [
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "negative",
+          "from": 47,
+          "to": 50
+        },
+        {
+          "target": "営業利益",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 75,
+          "to": 79
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,2491 @@
+{
+  "header": {
+    "document_id": "E05714",
+    "document_name": "ソニーフィナンシャルホールディングス株式会社",
+    "doc_text": "有価証券報告書",
+    "edi_id": "E05714",
+    "security_code": "87290",
+    "category33": "保険業",
+    "category17": "金融（除く銀行）",
+    "scale": "4"
+  },
+  "sentences": [
+    {
+      "sentence_id": 0,
+      "sentence": "当連結会計年度（平成28年４月１日～平成29年３月31日）における日本経済は、企業収益の堅調な推移や雇用・所得環境の着実な改善などを背景に、緩やかな景気回復の動きが見られる一方で、英国や米国における経済政策の変化や中国をはじめとする新興国経済の下振れリスクを含む海外経済動向の影響などにより、先行きの不透明感は高まりました",
+      "opinions": [
+        {
+          "target": "日本経済",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 33,
+          "to": 37
+        },
+        {
+          "target": "企業収益",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 39,
+          "to": 43
+        },
+        {
+          "target": "雇用",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 50,
+          "to": 52
+        },
+        {
+          "target": "所得環境",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 53,
+          "to": 57
+        },
+        {
+          "target": "先行き",
+          "category": "NULL#general",
+          "polarity": "neutral",
+          "from": 146,
+          "to": 149
+        }
+      ]
+    },
+    {
+      "sentence_id": 1,
+      "sentence": "債券市場では、低下が続いていた国内長期金利が平成28年７月以降上昇に転じ、同年11月の米国の大統領選挙の結果を受けて世界的に長期国債利回りが上昇した流れもあり、小幅ながらさらに上昇したものの、日銀の緩和的な金融政策により依然として低水準にとどまっています",
+      "opinions": [
+        {
+          "target": "国内長期金利",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 15,
+          "to": 21
+        },
+        {
+          "target": "長期国債利回り",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 62,
+          "to": 69
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "sentence": "外国為替市場では、英国の欧州連合（EU）離脱決定や米国の追加利上げ観測の後退などを受けて円高が進んだ後、米国新政権の財政政策に対する期待や同年12月の米国の利上げ決定を受け、米ドルに対して円安が進行しました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 3,
+      "sentence": "年明け以降は米国の政策運営に対する不透明感が広がったこともあり、再びやや円高傾向となりました",
+      "opinions": [
+        {
+          "target": "政策運営",
+          "category": "NULL#general",
+          "polarity": "neutral",
+          "from": 9,
+          "to": 13
+        }
+      ]
+    },
+    {
+      "sentence_id": 4,
+      "sentence": "生命保険業界におきましては、各社において、国内の低金利環境を踏まえた商品戦略の展開や資産運用の高度化への取り組み、平成28年５月施行の改正保険業法への対応が進みました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 5,
+      "sentence": "また、進展する国内の高齢化に対応するため、高齢者向けのサービス向上に加え、国民の健康寿命の延伸に向けた健康増進の取り組みを進めるとともに、中長期的な顧客ニーズの変化・多様化を見据えた商品およびサービスの向上など、顧客保護と利便性の向上に取り組んでまいりました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 6,
+      "sentence": "損害保険業界におきましては、前年度にあった火災保険の駆け込み需要などの反動で、業界全体としては、売上高にあたる収入保険料が前年度を下回る状況となりました",
+      "opinions": [
+        {
+          "target": "損害保険業界",
+          "category": "market#general",
+          "polarity": "negative",
+          "from": 0,
+          "to": 6
+        }
+      ]
+    },
+    {
+      "sentence_id": 7,
+      "sentence": "銀行業界におきましては、ITを活用した金融サービス、いわゆるフィンテックの取り込みを通じた革新的な金融サービスの提供や業務効率の改善に向け、各行が積極的に取り組みを進める動きがみられました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 8,
+      "sentence": "こうした状況のもと、当社グループは、お客さまに最も信頼される金融サービスグループを目指して、健全な財務基盤を維持しつつ、お客さま一人ひとりに付加価値の高い商品と質の高いサービスを提供すべく、商品・サービスの強化・拡充、内部管理態勢の一層の充実など、さまざまな取組みを行ってまいりました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 9,
+      "sentence": "その結果、当社グループの当連結会計年度（平成28年４月１日～平成29年３月31日）の業績は次のとおりとなりました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 10,
+      "sentence": "経常収益は、生命保険事業、損害保険事業および銀行事業のすべての事業において増加した結果、１兆3,816億円（前年度比1.4％増）となりました",
+      "opinions": [
+        {
+          "target": "経常収益",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 0,
+          "to": 4
+        },
+        {
+          "target": "生命保険事業",
+          "category": "business#sales",
+          "polarity": "positive",
+          "from": 6,
+          "to": 12
+        },
+        {
+          "target": "損害保険事業",
+          "category": "business#sales",
+          "polarity": "positive",
+          "from": 13,
+          "to": 19
+        },
+        {
+          "target": "銀行事業",
+          "category": "business#sales",
+          "polarity": "positive",
+          "from": 22,
+          "to": 26
+        }
+      ]
+    },
+    {
+      "sentence_id": 11,
+      "sentence": "経常利益は、生命保険事業および銀行事業において減少、損害保険事業において増加した結果、663億円（同6.7％減）となりました",
+      "opinions": [
+        {
+          "target": "経常利益",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 0,
+          "to": 4
+        },
+        {
+          "target": "生命保険事業",
+          "category": "business#profit",
+          "polarity": "negative",
+          "from": 6,
+          "to": 12
+        },
+        {
+          "target": "銀行事業",
+          "category": "business#profit",
+          "polarity": "negative",
+          "from": 15,
+          "to": 19
+        },
+        {
+          "target": "損害保険事業",
+          "category": "business#profit",
+          "polarity": "positive",
+          "from": 26,
+          "to": 32
+        }
+      ]
+    },
+    {
+      "sentence_id": 12,
+      "sentence": "また、経常利益に特別損益、契約者配当準備金繰入額、法人税等合計などを加減した親会社株主に帰属する当期純利益は、経常利益が減少したことにより、416億円（同4.0％減）となりました",
+      "opinions": [
+        {
+          "target": "当期純利益",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 48,
+          "to": 53
+        },
+        {
+          "target": "経常利益",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 55,
+          "to": 59
+        }
+      ]
+    },
+    {
+      "sentence_id": 13,
+      "sentence": "セグメントの業績は、連結相殺消去前の数値で、次のとおりです",
+      "opinions": []
+    },
+    {
+      "sentence_id": 14,
+      "sentence": "①生命保険事業",
+      "opinions": []
+    },
+    {
+      "sentence_id": 15,
+      "sentence": "経常収益は、一時払保険料の減少にともない保険料等収入が減少したものの、特別勘定における資産運用収益が増加したことにより、１兆2,439億円（前年度比1.1％増）となりました",
+      "opinions": [
+        {
+          "target": "経常収益",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 0,
+          "to": 4
+        },
+        {
+          "target": "一時払保険料",
+          "category": "NULL#sales",
+          "polarity": "negative",
+          "from": 6,
+          "to": 12
+        },
+        {
+          "target": "収入",
+          "category": "NULL#sales",
+          "polarity": "negative",
+          "from": 24,
+          "to": 26
+        },
+        {
+          "target": "資産運用収益",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 43,
+          "to": 49
+        }
+      ]
+    },
+    {
+      "sentence_id": 16,
+      "sentence": "一方、経常利益は、ソニー生命で横ばいとなりましたが、関係会社損益が悪化したことにより、生命保険事業では、568億円（同5.7％減）となりました",
+      "opinions": [
+        {
+          "target": "ソニー生命",
+          "category": "company#profit",
+          "polarity": "neutral",
+          "from": 9,
+          "to": 14
+        },
+        {
+          "target": "関係会社損益",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 26,
+          "to": 32
+        },
+        {
+          "target": "生命保険事業",
+          "category": "business#profit",
+          "polarity": "negative",
+          "from": 43,
+          "to": 49
+        }
+      ]
+    },
+    {
+      "sentence_id": 17,
+      "sentence": "ソニー生命では、変額保険の新契約の獲得の減少および市場環境の改善による最低保証に係る責任準備金繰入額の減少や保有契約の積上げによる増益要因がありました",
+      "opinions": [
+        {
+          "target": "獲得",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 17,
+          "to": 19
+        },
+        {
+          "target": "市場環境",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 25,
+          "to": 29
+        },
+        {
+          "target": "責任準備金繰入額",
+          "category": "NULL#cost",
+          "polarity": "positive",
+          "from": 42,
+          "to": 50
+        }
+      ]
+    },
+    {
+      "sentence_id": 18,
+      "sentence": "一方、変額保険の最低保証に係る市場リスクヘッジを目的とするデリバティブ取引に係る損益の悪化や一般勘定における有価証券売却益の減少による減益要因があり、その結果、横ばいとなりました",
+      "opinions": [
+        {
+          "target": "損益",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 40,
+          "to": 42
+        },
+        {
+          "target": "有価証券売却益",
+          "category": "NULL#sales",
+          "polarity": "negative",
+          "from": 54,
+          "to": 61
+        }
+      ]
+    },
+    {
+      "sentence_id": 19,
+      "sentence": "②損害保険事業",
+      "opinions": []
+    },
+    {
+      "sentence_id": 20,
+      "sentence": "経常収益は、主力の自動車保険を中心に正味収入保険料が増加したことなどにより、1,023億円（前年度比5.6％増）となりました",
+      "opinions": [
+        {
+          "target": "経常収益",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 0,
+          "to": 4
+        },
+        {
+          "target": "自動車保険",
+          "category": "product#sales",
+          "polarity": "positive",
+          "from": 9,
+          "to": 14
+        }
+      ]
+    },
+    {
+      "sentence_id": 21,
+      "sentence": "経常利益は、事業費が増加したものの、支払備金繰入額の減少や保険引受収益および資産運用収益の増加などにより、50億円（同6.8％増）となりました",
+      "opinions": [
+        {
+          "target": "経常利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 0,
+          "to": 4
+        },
+        {
+          "target": "事業費",
+          "category": "NULL#cost",
+          "polarity": "negative",
+          "from": 6,
+          "to": 9
+        },
+        {
+          "target": "支払備金繰入額",
+          "category": "NULL#cost",
+          "polarity": "positive",
+          "from": 18,
+          "to": 25
+        },
+        {
+          "target": "保険引受収益",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 29,
+          "to": 35
+        },
+        {
+          "target": "資産運用収益",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 38,
+          "to": 44
+        }
+      ]
+    },
+    {
+      "sentence_id": 22,
+      "sentence": "③銀行事業",
+      "opinions": []
+    },
+    {
+      "sentence_id": 23,
+      "sentence": "経常収益は、有価証券利息配当金が減少したものの、好調な住宅ローン残高の積み上がりにともない貸出金利息が増加したことにより、385億円（前年度比1.5％増）となりました",
+      "opinions": [
+        {
+          "target": "経常収益",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 0,
+          "to": 4
+        },
+        {
+          "target": "有価証券利息配当金",
+          "category": "NULL#sales",
+          "polarity": "negative",
+          "from": 6,
+          "to": 15
+        },
+        {
+          "target": "住宅ローン残高",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 27,
+          "to": 34
+        },
+        {
+          "target": "貸出金利息",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 45,
+          "to": 50
+        }
+      ]
+    },
+    {
+      "sentence_id": 24,
+      "sentence": "経常利益は、金利が低水準で推移した影響に加え、住宅ローンの融資実行増加にともなう初期費用の増加や、顧客の外貨・投資信託取引の減少もあり、50億円（同15.6％減）となりました",
+      "opinions": [
+        {
+          "target": "経常利益",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 0,
+          "to": 4
+        },
+        {
+          "target": "金利",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 6,
+          "to": 8
+        },
+        {
+          "target": "初期費用",
+          "category": "NULL#cost",
+          "polarity": "negative",
+          "from": 40,
+          "to": 44
+        },
+        {
+          "target": "外貨・投資信託取引",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 52,
+          "to": 61
+        }
+      ]
+    },
+    {
+      "sentence_id": 25,
+      "sentence": "各事業における主要な子会社の業績は次のとおりです",
+      "opinions": []
+    },
+    {
+      "sentence_id": 26,
+      "sentence": "＜生命保険事業＞（ソニー生命（単体））",
+      "opinions": []
+    },
+    {
+      "sentence_id": 27,
+      "sentence": "ソニー生命の経常収益は、一時払保険料の減少にともない保険料等収入が減少したものの、特別勘定における資産運用収益が増加したことにより、１兆2,437億円（前年度比1.1％増）となりました",
+      "opinions": [
+        {
+          "target": "ソニー生命",
+          "category": "company#sales",
+          "polarity": "positive",
+          "from": 0,
+          "to": 5
+        },
+        {
+          "target": "一時払保険料",
+          "category": "NULL#sales",
+          "polarity": "negative",
+          "from": 12,
+          "to": 18
+        },
+        {
+          "target": "保険料等収入",
+          "category": "NULL#sales",
+          "polarity": "negative",
+          "from": 26,
+          "to": 32
+        },
+        {
+          "target": "資産運用収益",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 49,
+          "to": 55
+        }
+      ]
+    },
+    {
+      "sentence_id": 28,
+      "sentence": "経常利益は、601億円（同1.0％減）となりました",
+      "opinions": [
+        {
+          "target": "経常利益",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 0,
+          "to": 4
+        }
+      ]
+    },
+    {
+      "sentence_id": 29,
+      "sentence": "経常利益の主な増減要因には、変額保険の新契約の獲得の減少および市場環境の改善による最低保証に係る責任準備金繰入額の減少や保有契約の積上げによる増益要因や、変額保険の最低保証に係る市場リスクヘッジを目的とするデリバティブ取引に係る損益の悪化や一般勘定における有価証券売却益の減少による減益要因がありました",
+      "opinions": [
+        {
+          "target": "獲得",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 23,
+          "to": 25
+        },
+        {
+          "target": "市場環境",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 31,
+          "to": 35
+        },
+        {
+          "target": "責任準備金繰入額",
+          "category": "NULL#cost",
+          "polarity": "positive",
+          "from": 48,
+          "to": 56
+        },
+        {
+          "target": "損益",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 114,
+          "to": 116
+        },
+        {
+          "target": "有価証券売却益",
+          "category": "NULL#sales",
+          "polarity": "negative",
+          "from": 128,
+          "to": 135
+        }
+      ]
+    },
+    {
+      "sentence_id": 30,
+      "sentence": "経常利益に特別損益、契約者配当準備金繰入額、法人税等合計を加減した当期純利益は、351億円（同5.2％減）となりました",
+      "opinions": [
+        {
+          "target": "当期純利益",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 33,
+          "to": 38
+        }
+      ]
+    },
+    {
+      "sentence_id": 31,
+      "sentence": "基礎利益は、変額保険の新契約の獲得の減少および市場環境の改善により最低保証に係る責任準備金繰入額が減少したことや保有契約の積上げにより、838億円（同94.9％増）となりました",
+      "opinions": [
+        {
+          "target": "基礎利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 0,
+          "to": 4
+        },
+        {
+          "target": "変額保険",
+          "category": "product#amount",
+          "polarity": "negative",
+          "from": 6,
+          "to": 10
+        },
+        {
+          "target": "市場環境",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 23,
+          "to": 27
+        },
+        {
+          "target": "責任準備金繰入額",
+          "category": "NULL#cost",
+          "polarity": "positive",
+          "from": 40,
+          "to": 48
+        }
+      ]
+    },
+    {
+      "sentence_id": 32,
+      "sentence": "保険料等収入は、一時払保険料の減少により、9,567億円（同6.9％減）となりました",
+      "opinions": [
+        {
+          "target": "保険料等収入",
+          "category": "NULL#sales",
+          "polarity": "negative",
+          "from": 0,
+          "to": 6
+        },
+        {
+          "target": "一時払保険料",
+          "category": "NULL#sales",
+          "polarity": "negative",
+          "from": 8,
+          "to": 14
+        }
+      ]
+    },
+    {
+      "sentence_id": 33,
+      "sentence": "資産運用収益は、市場環境改善の影響を受けて特別勘定における資産運用損が運用益に転じたことにより、2,453億円（同43.9％増）となりました",
+      "opinions": [
+        {
+          "target": "資産運用収益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 0,
+          "to": 6
+        },
+        {
+          "target": "市場環境",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 8,
+          "to": 12
+        },
+        {
+          "target": "資産運用損",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 29,
+          "to": 34
+        }
+      ]
+    },
+    {
+      "sentence_id": 34,
+      "sentence": "資産運用費用は、市場リスクヘッジを目的としたデリバティブ取引に係る損益の悪化により、361億円（同54.7％増）となりました",
+      "opinions": [
+        {
+          "target": "資産運用費用",
+          "category": "NULL#cost",
+          "polarity": "negative",
+          "from": 0,
+          "to": 6
+        },
+        {
+          "target": "損益",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 33,
+          "to": 35
+        }
+      ]
+    },
+    {
+      "sentence_id": 35,
+      "sentence": "その結果、一般勘定と特別勘定を合計した資産運用損益は、2,091億円（同42.2％増）の利益となりました",
+      "opinions": [
+        {
+          "target": "資産運用損益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 19,
+          "to": 25
+        }
+      ]
+    },
+    {
+      "sentence_id": 36,
+      "sentence": "うち、一般勘定の資産運用損益は1,327億円（同18.0％減）の利益となりました",
+      "opinions": [
+        {
+          "target": "資産運用損益",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 8,
+          "to": 14
+        }
+      ]
+    },
+    {
+      "sentence_id": 37,
+      "sentence": "保険金等支払金は、3,724億円（同2.5％増）となりました",
+      "opinions": [
+        {
+          "target": "支払金",
+          "category": "NULL#cost",
+          "polarity": "negative",
+          "from": 4,
+          "to": 7
+        }
+      ]
+    },
+    {
+      "sentence_id": 38,
+      "sentence": "事業費は1,370億円（同2.8％増）となりました",
+      "opinions": [
+        {
+          "target": "事業費",
+          "category": "NULL#cost",
+          "polarity": "negative",
+          "from": 0,
+          "to": 3
+        }
+      ]
+    },
+    {
+      "sentence_id": 39,
+      "sentence": "個人保険、個人年金保険を合計した保有契約高は、45兆3,341億円（前年度末比5.1％増）となりました",
+      "opinions": [
+        {
+          "target": "保有契約高",
+          "category": "NULL#amount",
+          "polarity": "positive",
+          "from": 16,
+          "to": 21
+        }
+      ]
+    },
+    {
+      "sentence_id": 40,
+      "sentence": "解約・失効率(※1)は、4.27％（前年度比0.45ポイント低下）となりました",
+      "opinions": [
+        {
+          "target": "解約・失効率",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 0,
+          "to": 6
+        }
+      ]
+    },
+    {
+      "sentence_id": 41,
+      "sentence": "保有契約年換算保険料は8,208億円（前年度末比5.1％増）、うち、医療保障・生前給付保障等は1,874億円（同4.3％増）となりました",
+      "opinions": [
+        {
+          "target": "保有契約年換算保険料",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 0,
+          "to": 10
+        },
+        {
+          "target": "医療保障",
+          "category": "product#sales",
+          "polarity": "positive",
+          "from": 34,
+          "to": 38
+        },
+        {
+          "target": "生前給付保障",
+          "category": "product#sales",
+          "polarity": "positive",
+          "from": 39,
+          "to": 45
+        }
+      ]
+    },
+    {
+      "sentence_id": 42,
+      "sentence": "個人保険、個人年金保険を合計した新契約高は、米ドル建保険および定期保険の販売は好調であったものの、変額保険の販売減少により、４兆9,575億円（前年度比3.8％減）となりました",
+      "opinions": [
+        {
+          "target": "新契約高",
+          "category": "NULL#amount",
+          "polarity": "negative",
+          "from": 16,
+          "to": 20
+        },
+        {
+          "target": "米ドル建保険",
+          "category": "product#amount",
+          "polarity": "positive",
+          "from": 22,
+          "to": 28
+        },
+        {
+          "target": "定期保険",
+          "category": "product#amount",
+          "polarity": "positive",
+          "from": 31,
+          "to": 35
+        },
+        {
+          "target": "変額保険",
+          "category": "product#amount",
+          "polarity": "negative",
+          "from": 49,
+          "to": 53
+        }
+      ]
+    },
+    {
+      "sentence_id": 43,
+      "sentence": "新契約年換算保険料も、定期保険および米ドル建保険の販売が好調であったものの、変額保険および一時払終身保険の販売減少により、781億円（同8.1％減）となりました",
+      "opinions": [
+        {
+          "target": "新契約年換算保険料",
+          "category": "NULL#sales",
+          "polarity": "negative",
+          "from": 0,
+          "to": 9
+        },
+        {
+          "target": "定期保険",
+          "category": "product#amount",
+          "polarity": "positive",
+          "from": 11,
+          "to": 15
+        },
+        {
+          "target": "米ドル建保険",
+          "category": "product#amount",
+          "polarity": "positive",
+          "from": 18,
+          "to": 24
+        },
+        {
+          "target": "変額保険",
+          "category": "product#amount",
+          "polarity": "negative",
+          "from": 38,
+          "to": 42
+        },
+        {
+          "target": "一時払終身保険",
+          "category": "product#amount",
+          "polarity": "negative",
+          "from": 45,
+          "to": 52
+        }
+      ]
+    },
+    {
+      "sentence_id": 44,
+      "sentence": "うち、医療保障・生前給付保障等は、157億円（同0.0％増）となりました",
+      "opinions": [
+        {
+          "target": "医療保障",
+          "category": "product#amount",
+          "polarity": "neutral",
+          "from": 3,
+          "to": 7
+        },
+        {
+          "target": "生前給付保障",
+          "category": "product#amount",
+          "polarity": "neutral",
+          "from": 8,
+          "to": 14
+        }
+      ]
+    },
+    {
+      "sentence_id": 45,
+      "sentence": "有価証券含み益(※2)は、１兆6,449億円（前年度末比6,262億円減）となりました",
+      "opinions": [
+        {
+          "target": "有価証券含み益",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 0,
+          "to": 7
+        }
+      ]
+    },
+    {
+      "sentence_id": 46,
+      "sentence": "また、その他有価証券評価差額金は、1,277億円（同228億円減）となりました",
+      "opinions": [
+        {
+          "target": "その他有価証券評価差額金",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 3,
+          "to": 15
+        }
+      ]
+    },
+    {
+      "sentence_id": 47,
+      "sentence": "当事業年度末（平成29年３月31日）の単体ソルベンシー・マージン比率は、金利上昇にともなうその他有価証券評価差額金の減少などにより、2,568.8％（同154.0ポイント低下、前年度末2,722.8％）となりました",
+      "opinions": [
+        {
+          "target": "その他有価証券評価差額金",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 45,
+          "to": 57
+        }
+      ]
+    },
+    {
+      "sentence_id": 48,
+      "sentence": "（※１）契約高の減額または増額および復活を含めない解約・失効高を年度始の保有契約高で除した率です",
+      "opinions": []
+    },
+    {
+      "sentence_id": 49,
+      "sentence": "（※２）売買目的有価証券以外の有価証券のうち時価のあるものの帳簿価額と時価の差額",
+      "opinions": []
+    },
+    {
+      "sentence_id": 50,
+      "sentence": "（「金銭の信託」のうち売買目的有価証券以外のものを含みます",
+      "opinions": []
+    },
+    {
+      "sentence_id": 51,
+      "sentence": "）",
+      "opinions": []
+    },
+    {
+      "sentence_id": 52,
+      "sentence": "（保険引受及び資産運用の状況）",
+      "opinions": []
+    },
+    {
+      "sentence_id": 53,
+      "sentence": "保険引受業務",
+      "opinions": []
+    },
+    {
+      "sentence_id": 54,
+      "sentence": "① 保有契約高明細表",
+      "opinions": []
+    },
+    {
+      "sentence_id": 55,
+      "sentence": "（単位：千件、百万円、％）",
+      "opinions": []
+    },
+    {
+      "sentence_id": 56,
+      "sentence": "（注）１．個人年金保険については、年金支払開始前契約の年金支払開始時における年金原資と年金支払開始後契約の責任準備金を合計したものです",
+      "opinions": []
+    },
+    {
+      "sentence_id": 57,
+      "sentence": "２．団体年金保険については、責任準備金の金額です",
+      "opinions": []
+    },
+    {
+      "sentence_id": 58,
+      "sentence": "② 新契約高明細表",
+      "opinions": []
+    },
+    {
+      "sentence_id": 59,
+      "sentence": "（単位：千件、百万円、％）",
+      "opinions": []
+    },
+    {
+      "sentence_id": 60,
+      "sentence": "（注）１．新契約・転換による純増加の個人年金保険の金額は年金支払開始時における年金原資です",
+      "opinions": []
+    },
+    {
+      "sentence_id": 61,
+      "sentence": "２．新契約の団体年金保険の金額は第１回収入保険料です",
+      "opinions": []
+    },
+    {
+      "sentence_id": 62,
+      "sentence": "③ 保有契約年換算保険料",
+      "opinions": []
+    },
+    {
+      "sentence_id": 63,
+      "sentence": "（単位：百万円、％）",
+      "opinions": []
+    },
+    {
+      "sentence_id": 64,
+      "sentence": "（注）１．年換算保険料とは、１回あたりの保険料について保険料の支払方法に応じた係数を乗じ、１年あたりの保険料に換算した金額です（ただし、一時払契約等は、保険料を保険期間で除した金額）",
+      "opinions": []
+    },
+    {
+      "sentence_id": 65,
+      "sentence": "２．医療保障・生前給付保障等には、医療保障給付（入院給付、手術給付等）、生前給付保障給付（特定疾病給付、介護給付等）等に該当する部分の年換算保険料を計上しています",
+      "opinions": []
+    },
+    {
+      "sentence_id": 66,
+      "sentence": "④ 新契約年換算保険料",
+      "opinions": []
+    },
+    {
+      "sentence_id": 67,
+      "sentence": "（単位：百万円、％）",
+      "opinions": []
+    },
+    {
+      "sentence_id": 68,
+      "sentence": "（注）１．年換算保険料とは、１回あたりの保険料について保険料の支払方法に応じた係数を乗じ、１年あたりの保険料に換算した金額です（ただし、一時払契約等は、保険料を保険期間で除した金額）",
+      "opinions": []
+    },
+    {
+      "sentence_id": 69,
+      "sentence": "２．医療保障・生前給付保障等には、医療保障給付（入院給付、手術給付等）、生前給付保障給付（特定疾病給付、介護給付等）等に該当する部分の年換算保険料を計上しています",
+      "opinions": []
+    },
+    {
+      "sentence_id": 70,
+      "sentence": "資産運用の状況",
+      "opinions": []
+    },
+    {
+      "sentence_id": 71,
+      "sentence": "① 資産の構成（一般勘定）",
+      "opinions": []
+    },
+    {
+      "sentence_id": 72,
+      "sentence": "（単位：百万円、％）",
+      "opinions": []
+    },
+    {
+      "sentence_id": 73,
+      "sentence": "② 資産別運用利回り（一般勘定）",
+      "opinions": []
+    },
+    {
+      "sentence_id": 74,
+      "sentence": "（単位：％）",
+      "opinions": []
+    },
+    {
+      "sentence_id": 75,
+      "sentence": "③ 海外投融資の状況（一般勘定）",
+      "opinions": []
+    },
+    {
+      "sentence_id": 76,
+      "sentence": "（単位：百万円、％）",
+      "opinions": []
+    },
+    {
+      "sentence_id": 77,
+      "sentence": "経常利益等の明細（基礎利益）",
+      "opinions": []
+    },
+    {
+      "sentence_id": 78,
+      "sentence": "（単位：百万円）",
+      "opinions": []
+    },
+    {
+      "sentence_id": 79,
+      "sentence": "（注）１．当事業年度の基礎利益（Ａ）の中には、インカム・ゲインに係る金銭の信託運用益4,493百万円及び売買目的有価証券運用益のうち、利息及び配当金等収入17百万円が含まれております",
+      "opinions": []
+    },
+    {
+      "sentence_id": 80,
+      "sentence": "また、その他キャピタル費用には、外貨建商品の為替変動に係る責任準備金等繰入額1,560百万円及び投資事業組合の減損損失665百万円の合計額を、その他臨時費用には、追加責任準備金繰入額193百万円を記載しています",
+      "opinions": [
+        {
+          "target": "減損損失",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 55,
+          "to": 59
+        }
+      ]
+    },
+    {
+      "sentence_id": 81,
+      "sentence": "２．前事業年度の基礎利益（Ａ）の中には、インカム・ゲインに係る金銭の信託運用益4,853百万円及び売買目的有価証券運用益のうち、利息及び配当金等収入57百万円が含まれております",
+      "opinions": []
+    },
+    {
+      "sentence_id": 82,
+      "sentence": "また、その他キャピタル収益には、外貨建商品の為替変動に係る責任準備金等戻入額3,253百万円を、その他キャピタル費用には、投資事業組合の減損損失153百万円を、その他臨時費用には、追加責任準備金繰入額197百万円を記載しています",
+      "opinions": [
+        {
+          "target": "減損損失",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 68,
+          "to": 72
+        }
+      ]
+    },
+    {
+      "sentence_id": 83,
+      "sentence": "単体ソルベンシー・マージン比率",
+      "opinions": []
+    },
+    {
+      "sentence_id": 84,
+      "sentence": "（単位：百万円）",
+      "opinions": []
+    },
+    {
+      "sentence_id": 85,
+      "sentence": "（注）１．上記は、保険業法施行規則第86条、第87条、及び平成８年大蔵省告示第50号の規定に基づいて算出しています",
+      "opinions": []
+    },
+    {
+      "sentence_id": 86,
+      "sentence": "２．最低保証リスク相当額は標準的方式を用いて算出しています",
+      "opinions": []
+    },
+    {
+      "sentence_id": 87,
+      "sentence": "市場整合的エンベディッド・バリュー（MCEV）（ご参考）",
+      "opinions": []
+    },
+    {
+      "sentence_id": 88,
+      "sentence": "エンベディッド・バリュー（EV）は生命保険事業の企業価値を評価する指標の一つであり、ヨーロッパの保険会社の多くが財務報告の一環として公表し、内部管理ツールとしても使用されています",
+      "opinions": []
+    },
+    {
+      "sentence_id": 89,
+      "sentence": "生命保険会社の現行法定会計による貸借対照表は、保有契約に係る将来利益の現在価値を表示するものではありませんが、EVは、会社の純資産額とともに保有契約の将来利益の現在価値を示すものです",
+      "opinions": []
+    },
+    {
+      "sentence_id": 90,
+      "sentence": "ソニー生命は、EVは法定会計による財務情報を補足するものであり、企業価値を評価するうえで有用な指標となるものと考えています",
+      "opinions": []
+    },
+    {
+      "sentence_id": 91,
+      "sentence": "ヨーロッパの主要保険会社のCFO（Chief Financial Officer）が参加するCFOフォーラムにより、平成16年５月にヨーロピアン・エンベディッド・バリュー（European Embedded Value、以下「EEV」）原則が公開されてから、ヨーロッパの大手生命保険会社を中心としてEEVの開示が広く行われるようになりました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 92,
+      "sentence": "EEV原則では伝統的なエンベディッド・バリュー（Traditional Embedded Value）に対する批判への対応（オプションと各種保証に係るコストの適切な評価、他社との比較可能性の向上など）が図られ、これを機に市場整合的な評価手法の導入も進み、ヨーロッパの大手保険会社の多くが市場整合的な手法に基づくEEVを公表するようになりました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 93,
+      "sentence": "しかしながら、EEV原則では多様な計算手法が許容されていたため、CFOフォーラムは、MCEVディスクロージャーの基準を国際的に統一することでEV情報を投資家にとって有益かつ適切なものとすべく、平成20年６月にEuropean Insurance CFO Forum Market Consistent Embedded Value Principles©（※）（以下、「MCEV Principles」）を公表しました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 94,
+      "sentence": "MCEVは、対象事業のリスク全体について十分な考慮をした上で、対象事業に割り当てられた資産から発生する株主への分配可能利益の現在価値のことで「修正純資産」と「保有契約価値」の合計値として計算されます",
+      "opinions": []
+    },
+    {
+      "sentence_id": 95,
+      "sentence": "ソニー生命では、平成20年３月末時点から、このMCEV Principles に準拠したMCEVを開示しています",
+      "opinions": []
+    },
+    {
+      "sentence_id": 96,
+      "sentence": "（※）Copyright© Stichting CFO Forum Foundation 2008",
+      "opinions": []
+    },
+    {
+      "sentence_id": 97,
+      "sentence": "（ソニー生命のMCEV）",
+      "opinions": []
+    },
+    {
+      "sentence_id": 98,
+      "sentence": "当事業年度末の開示より、リスクフリーレートの超長期部分の補外方法を、市場データの最終年限以降のフォワードレートを一定とする方法から、終局金利（Ultimate Forward Rate）を用いた方法に変更しています",
+      "opinions": []
+    },
+    {
+      "sentence_id": 99,
+      "sentence": "この変更にあたり、前事業年度末MCEVおよび前事業年度新契約価値についても同様の方法により再評価しています",
+      "opinions": []
+    },
+    {
+      "sentence_id": 100,
+      "sentence": "（単位：億円）",
+      "opinions": []
+    },
+    {
+      "sentence_id": 101,
+      "sentence": "（単位：億円）",
+      "opinions": []
+    },
+    {
+      "sentence_id": 102,
+      "sentence": "（※）新契約価値の計算は、前事業年度は、四半期毎に各四半期末時点の前提条件により計算していましたが、当事業年度より、経済要因に係る前提条件等については各月末時点の前提条件を使用し計算しています",
+      "opinions": []
+    },
+    {
+      "sentence_id": 103,
+      "sentence": "ソニー生命のMCEVは、金利の上昇などにより、１兆4,411億円（前年度末比1,110億円増）となりました",
+      "opinions": [
+        {
+          "target": "ソニー生命",
+          "category": "company#general",
+          "polarity": "positive",
+          "from": 0,
+          "to": 5
+        },
+        {
+          "target": "金利",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 12,
+          "to": 14
+        }
+      ]
+    },
+    {
+      "sentence_id": 104,
+      "sentence": "修正純資産と保有契約価値が大きく変化していますが、ALMの効果により両者はお互いを相殺するように変化することにご留意ください",
+      "opinions": []
+    },
+    {
+      "sentence_id": 105,
+      "sentence": "また、新契約価値は、年間を通じての金利水準が前年度と比べ低かったことなどにより、291億円（前年度比213億円減）となりました",
+      "opinions": [
+        {
+          "target": "新契約価値",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 3,
+          "to": 8
+        },
+        {
+          "target": "金利水準",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 17,
+          "to": 21
+        }
+      ]
+    },
+    {
+      "sentence_id": 106,
+      "sentence": "（第三者機関によるレビューについての意見書）",
+      "opinions": []
+    },
+    {
+      "sentence_id": 107,
+      "sentence": "ソニー生命は、MCEV評価について専門的な知識を有する第三者機関（アクチュアリー・ファーム）に算出手法、前提条件および算出結果のレビューを依頼し、意見書を受領しています",
+      "opinions": []
+    },
+    {
+      "sentence_id": 108,
+      "sentence": "（ソニー生命の経済価値ベースのリスク量：税引後）",
+      "opinions": []
+    },
+    {
+      "sentence_id": 109,
+      "sentence": "（単位：億円）",
+      "opinions": []
+    },
+    {
+      "sentence_id": 110,
+      "sentence": "（※１）Life区分、Health区分間での分散効果考慮前の金額です",
+      "opinions": []
+    },
+    {
+      "sentence_id": 111,
+      "sentence": "（※２）市場関連リスク内での分散効果考慮前の金額です",
+      "opinions": []
+    },
+    {
+      "sentence_id": 112,
+      "sentence": "（注）１．経済価値ベースのリスク量とは、ソニー生命が保有する各種リスク（保険リスク、市場関連リスク等）を、市場整合的な方法で総合的に評価したリスク総量です",
+      "opinions": []
+    },
+    {
+      "sentence_id": 113,
+      "sentence": "２．経済価値ベースのリスク量の測定においては、１年VaR99.5％水準とし、EUソルベンシーⅡの標準的手法を参考にした内部モデルを採用しています",
+      "opinions": []
+    },
+    {
+      "sentence_id": 114,
+      "sentence": "経済価値ベースのリスク量は、金利の上昇などにより保険リスクが減少した一方で、市場関連リスク（主に金利リスク）が増加したため、9,806億円（前年度末比82億円増）となりました",
+      "opinions": [
+        {
+          "target": "保険リスク",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 24,
+          "to": 29
+        },
+        {
+          "target": "市場関連リスク",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 38,
+          "to": 45
+        }
+      ]
+    },
+    {
+      "sentence_id": 115,
+      "sentence": "＜損害保険事業＞（ソニー損保）",
+      "opinions": []
+    },
+    {
+      "sentence_id": 116,
+      "sentence": "ソニー損保の経常収益は、主力の自動車保険を中心に正味収入保険料が増加したことなどにより、1,023億円（前年度比5.6％増）となりました",
+      "opinions": [
+        {
+          "target": "ソニー損保",
+          "category": "company#sales",
+          "polarity": "positive",
+          "from": 0,
+          "to": 5
+        },
+        {
+          "target": "正味収入保険料",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 24,
+          "to": 31
+        }
+      ]
+    },
+    {
+      "sentence_id": 117,
+      "sentence": "経常利益は、事業費が増加したものの、支払備金繰入額の減少や保険引受収益および資産運用収益の増加などにより、49億円（同6.8％増）となりました",
+      "opinions": [
+        {
+          "target": "経常利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 0,
+          "to": 4
+        },
+        {
+          "target": "事業費",
+          "category": "NULL#cost",
+          "polarity": "negative",
+          "from": 6,
+          "to": 9
+        },
+        {
+          "target": "支払備金繰入額",
+          "category": "NULL#cost",
+          "polarity": "positive",
+          "from": 18,
+          "to": 25
+        },
+        {
+          "target": "保険引受収益",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 29,
+          "to": 35
+        },
+        {
+          "target": "資産運用収益",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 38,
+          "to": 44
+        }
+      ]
+    },
+    {
+      "sentence_id": 118,
+      "sentence": "経常利益に特別損益、法人税等合計を加減した当期純利益は、前年度に特別損失としてソフトウェア仮勘定の処分損８億円を計上したこともあり、前年度比35.9％増の35億円となりました",
+      "opinions": [
+        {
+          "target": "当期純利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 21,
+          "to": 26
+        }
+      ]
+    },
+    {
+      "sentence_id": 119,
+      "sentence": "保険引受の状況については、主力の自動車保険を中心に、元受正味保険料が990億円（同5.0％増）となり、また、正味収入保険料は1,002億円（同4.9％増）となりました",
+      "opinions": [
+        {
+          "target": "元受正味保険料",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 26,
+          "to": 33
+        },
+        {
+          "target": "正味収入保険料",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 54,
+          "to": 61
+        }
+      ]
+    },
+    {
+      "sentence_id": 120,
+      "sentence": "正味支払保険金は501億円（同4.3％増）、正味損害率は、57.5％（同0.3ポイント低下）となりました",
+      "opinions": [
+        {
+          "target": "正味支払保険金",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 0,
+          "to": 7
+        },
+        {
+          "target": "正味損害率",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 22,
+          "to": 27
+        }
+      ]
+    },
+    {
+      "sentence_id": 121,
+      "sentence": "保険引受に係る営業費及び一般管理費は267億円（同9.7％増）、正味事業費率は、新商品販売開始にともなう費用の増加に加え、システム関連費用の増加により、28.3％（同1.2ポイント上昇）となりました",
+      "opinions": [
+        {
+          "target": "営業費及び一般管理費",
+          "category": "NULL#cost",
+          "polarity": "negative",
+          "from": 7,
+          "to": 17
+        },
+        {
+          "target": "正味事業費率",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 32,
+          "to": 38
+        },
+        {
+          "target": "費用",
+          "category": "NULL#cost",
+          "polarity": "negative",
+          "from": 52,
+          "to": 54
+        },
+        {
+          "target": "システム関連費用",
+          "category": "NULL#cost",
+          "polarity": "negative",
+          "from": 61,
+          "to": 69
+        }
+      ]
+    },
+    {
+      "sentence_id": 122,
+      "sentence": "保険引受利益は、保険料の増加や支払備金繰入額の減少があったものの、事業費率の上昇により30億円（同11.5％減）となりました",
+      "opinions": [
+        {
+          "target": "保険引受利益",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 0,
+          "to": 6
+        },
+        {
+          "target": "保険料",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 8,
+          "to": 11
+        },
+        {
+          "target": "支払備金繰入額",
+          "category": "NULL#cost",
+          "polarity": "positive",
+          "from": 15,
+          "to": 22
+        },
+        {
+          "target": "事業費率",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 33,
+          "to": 37
+        }
+      ]
+    },
+    {
+      "sentence_id": 123,
+      "sentence": "当事業年度末（平成29年３月31日）の単体ソルベンシー・マージン比率は、利益の積み上がりによる資本金等の増加や異常危険準備金の増加などにより、730.8％（前年度末比37.3ポイント上昇、前年度末693.5％）となりました",
+      "opinions": [
+        {
+          "target": "ソルベンシー・マージン比率",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 21,
+          "to": 34
+        },
+        {
+          "target": "資本金",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 47,
+          "to": 50
+        },
+        {
+          "target": "異常危険準備金",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 55,
+          "to": 62
+        }
+      ]
+    },
+    {
+      "sentence_id": 124,
+      "sentence": "（保険引受及び資産運用の状況）",
+      "opinions": []
+    },
+    {
+      "sentence_id": 125,
+      "sentence": "保険引受業務",
+      "opinions": []
+    },
+    {
+      "sentence_id": 126,
+      "sentence": "（1）保険引受利益",
+      "opinions": []
+    },
+    {
+      "sentence_id": 127,
+      "sentence": "（注）１．営業費及び一般管理費は、損益計算書における営業費及び一般管理費のうち保険引受に係る金額です",
+      "opinions": []
+    },
+    {
+      "sentence_id": 128,
+      "sentence": "２．その他収支は、自動車損害賠償責任保険等に係る法人税相当額などです",
+      "opinions": []
+    },
+    {
+      "sentence_id": 129,
+      "sentence": "（2）種目別保険料・保険金",
+      "opinions": []
+    },
+    {
+      "sentence_id": 130,
+      "sentence": "①元受正味保険料（含む収入積立保険料）",
+      "opinions": []
+    },
+    {
+      "sentence_id": 131,
+      "sentence": "（注）元受正味保険料（含む収入積立保険料）とは、元受保険料から元受解約返戻金及び元受その他返戻金を控除したものです（積立型保険の積立保険料を含む）",
+      "opinions": []
+    },
+    {
+      "sentence_id": 132,
+      "sentence": "②正味収入保険料",
+      "opinions": []
+    },
+    {
+      "sentence_id": 133,
+      "sentence": "③正味支払保険金",
+      "opinions": []
+    },
+    {
+      "sentence_id": 134,
+      "sentence": "（注）正味損害率＝（正味支払保険金＋損害調査費）÷正味収入保険料",
+      "opinions": []
+    },
+    {
+      "sentence_id": 135,
+      "sentence": "資産運用業務",
+      "opinions": []
+    },
+    {
+      "sentence_id": 136,
+      "sentence": "（1）運用資産",
+      "opinions": []
+    },
+    {
+      "sentence_id": 137,
+      "sentence": "（2）有価証券",
+      "opinions": []
+    },
+    {
+      "sentence_id": 138,
+      "sentence": "（3）利回り",
+      "opinions": []
+    },
+    {
+      "sentence_id": 139,
+      "sentence": "ａ）運用資産利回り（インカム利回り）",
+      "opinions": []
+    },
+    {
+      "sentence_id": 140,
+      "sentence": "（注）１．収入金額は、損益計算書における「利息及び配当金収入」の金額です",
+      "opinions": []
+    },
+    {
+      "sentence_id": 141,
+      "sentence": "２．平均運用額は原則として各月末残高（取得原価又は償却原価）の平均に基づいて算出しております",
+      "opinions": []
+    },
+    {
+      "sentence_id": 142,
+      "sentence": "ｂ）資産運用利回り（実現利回り）",
+      "opinions": []
+    },
+    {
+      "sentence_id": 143,
+      "sentence": "（注）１．資産運用損益（実現ベース）は、損益計算書における「資産運用収益」及び「積立保険料等運用益」の合計額から「資産運用費用」を控除した金額です",
+      "opinions": []
+    },
+    {
+      "sentence_id": 144,
+      "sentence": "２．平均運用額（取得原価ベース）は原則として各月末残高（取得原価又は償却原価）の平均に基づいて算出しております",
+      "opinions": []
+    },
+    {
+      "sentence_id": 145,
+      "sentence": "３．資産運用利回り（実現利回り）にその他有価証券の評価差額等を加味した時価ベースの利回り（時価総合利回り）は以下のとおりです",
+      "opinions": []
+    },
+    {
+      "sentence_id": 146,
+      "sentence": "なお、資産運用損益等（時価ベース）は、資産運用損益（実現ベース）にその他有価証券に係る評価差額（税効果控除前の金額による）の当期増減額を加減算した金額です",
+      "opinions": []
+    },
+    {
+      "sentence_id": 147,
+      "sentence": "また、平均運用額（時価ベース）は、平均運用額（取得原価ベース）にその他有価証券に係る前期末評価差額（税効果控除前の金額による）を加減算した金額です",
+      "opinions": []
+    },
+    {
+      "sentence_id": 148,
+      "sentence": "（4）海外投融資",
+      "opinions": []
+    },
+    {
+      "sentence_id": 149,
+      "sentence": "（注）１．「海外投融資利回り」のうち「運用資産利回り（インカム利回り）」は、海外投融資に係る資産について、「（3）利回りａ）運用資産利回り（インカム利回り）」と同様の方法により算出しております",
+      "opinions": []
+    },
+    {
+      "sentence_id": 150,
+      "sentence": "２．「海外投融資利回り」のうち「資産運用利回り（実現利回り）」は、海外投融資に係る資産について、「（3）利回りｂ）資産運用利回り（実現利回り）」と同様の方法により算出しております",
+      "opinions": []
+    },
+    {
+      "sentence_id": 151,
+      "sentence": "なお、海外投融資に係る時価総合利回りは、前事業年度2.84％、当事業年度2.82％です",
+      "opinions": []
+    },
+    {
+      "sentence_id": 152,
+      "sentence": "単体ソルベンシー・マージン比率",
+      "opinions": []
+    },
+    {
+      "sentence_id": 153,
+      "sentence": "（注）上記の金額及び数値は、保険業法施行規則第86条（単体ソルベンシー・マージン）及び第87条（単体リスク）並びに平成８年大蔵省告示第50号の規定に基づいて算出しております",
+      "opinions": []
+    },
+    {
+      "sentence_id": 154,
+      "sentence": "＜単体ソルベンシー・マージン比率＞",
+      "opinions": []
+    },
+    {
+      "sentence_id": 155,
+      "sentence": "・損害保険会社は、保険事故発生の際の保険金支払や積立保険の満期返戻金支払等に備えて準備金を積み立てておりますが、巨大災害の発生や、損害保険会社が保有する資産の大幅な価格下落等、通常の予測を超える危険が発生した場合でも、十分な支払能力を保持しておく必要があります",
+      "opinions": []
+    },
+    {
+      "sentence_id": 156,
+      "sentence": "・こうした「通常の予測を超える危険」を示す「単体リスクの合計額」（上表の（B））に対する「損害保険会社が保有している資本金・準備金等の支払余力」（すなわち単体ソルベンシー・マージン総額：上表の（A））の割合を示す指標として、保険業法等に基づき計算されたものが、「単体ソルベンシー・マージン比率」（上表の（C））であります",
+      "opinions": []
+    },
+    {
+      "sentence_id": 157,
+      "sentence": "・「通常の予測を超える危険」とは、次に示す各種の危険の総額をいいます",
+      "opinions": []
+    },
+    {
+      "sentence_id": 158,
+      "sentence": "・「損害保険会社が保有している資本金・準備金等の支払余力」（単体ソルベンシー・マージン総額）とは、損害保険会社の純資産（社外流出予定額等を除く）、諸準備金（価格変動準備金・異常危険準備金等）、土地の含み益の一部等の総額であります",
+      "opinions": []
+    },
+    {
+      "sentence_id": 159,
+      "sentence": "・単体ソルベンシー・マージン比率は、行政当局が保険会社を監督する際に活用する客観的な判断指標のひとつでありますが、その数値が200％以上であれば「保険金等の支払能力の充実の状況が適当である」とされております",
+      "opinions": []
+    },
+    {
+      "sentence_id": 160,
+      "sentence": "＜銀行事業＞（ソニー銀行（連結・単体））",
+      "opinions": []
+    },
+    {
+      "sentence_id": 161,
+      "sentence": "ソニー銀行（連結）の経常収益は、有価証券利息配当金が減少したものの、好調な住宅ローン残高の積み上がりにともない貸出金利息が増加したことにより、385億円（前年度比1.5％増）となりました",
+      "opinions": [
+        {
+          "target": "ソニー銀行",
+          "category": "company#sales",
+          "polarity": "positive",
+          "from": 0,
+          "to": 5
+        },
+        {
+          "target": "有価証券利息配当金",
+          "category": "NULL#sales",
+          "polarity": "negative",
+          "from": 16,
+          "to": 25
+        },
+        {
+          "target": "住宅ローン残高",
+          "category": "NULL#amount",
+          "polarity": "positive",
+          "from": 37,
+          "to": 44
+        },
+        {
+          "target": "貸出金利息",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 55,
+          "to": 60
+        }
+      ]
+    },
+    {
+      "sentence_id": 162,
+      "sentence": "経常利益は、金利が低水準で推移した影響に加え、住宅ローンの融資実行増加にともなう初期費用の増加や、顧客の外貨・投資信託取引の減少もあり、50億円（同15.7％減）となりました",
+      "opinions": [
+        {
+          "target": "経常利益",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 0,
+          "to": 4
+        },
+        {
+          "target": "金利",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 6,
+          "to": 8
+        },
+        {
+          "target": "初期費用",
+          "category": "NULL#cost",
+          "polarity": "negative",
+          "from": 40,
+          "to": 44
+        },
+        {
+          "target": "外貨・投資信託取引",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 52,
+          "to": 61
+        }
+      ]
+    },
+    {
+      "sentence_id": 163,
+      "sentence": "その結果、親会社株主に帰属する当期純利益は33億円（同15.3％減）となりました",
+      "opinions": [
+        {
+          "target": "当期純利益",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 15,
+          "to": 20
+        }
+      ]
+    },
+    {
+      "sentence_id": 164,
+      "sentence": "なお、連結業務粗利益は240億円（同1.1％減）、連結業務純益は50億円（同15.1％減）となりました",
+      "opinions": [
+        {
+          "target": "連結業務粗利益",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 3,
+          "to": 10
+        },
+        {
+          "target": "連結業務純益",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 25,
+          "to": 31
+        }
+      ]
+    },
+    {
+      "sentence_id": 165,
+      "sentence": "ソニー銀行（単体）においても前述の要因により、経常収益は351億円（前年度比0.6％増）、経常利益は46億円（同20.9％減）となりました",
+      "opinions": [
+        {
+          "target": "ソニー銀行",
+          "category": "company#sales",
+          "polarity": "positive",
+          "from": 0,
+          "to": 5
+        },
+        {
+          "target": "ソニー銀行",
+          "category": "company#profit",
+          "polarity": "negative",
+          "from": 0,
+          "to": 5
+        }
+      ]
+    },
+    {
+      "sentence_id": 166,
+      "sentence": "当期純利益は31億円（同18.8％減）となりました",
+      "opinions": [
+        {
+          "target": "当期純利益",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 0,
+          "to": 5
+        }
+      ]
+    },
+    {
+      "sentence_id": 167,
+      "sentence": "業務粗利益は、211億円（同2.6％減）となりました",
+      "opinions": [
+        {
+          "target": "業務粗利益",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 0,
+          "to": 5
+        }
+      ]
+    },
+    {
+      "sentence_id": 168,
+      "sentence": "内訳については次のとおりです",
+      "opinions": []
+    },
+    {
+      "sentence_id": 169,
+      "sentence": "資金運用収支は、有価証券利息配当金が減少したものの、貸出金利息が増加したことより、179億円（同8.4％増）となりました",
+      "opinions": [
+        {
+          "target": "資金運用収支",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 0,
+          "to": 6
+        },
+        {
+          "target": "有価証券利息配当金",
+          "category": "NULL#sales",
+          "polarity": "negative",
+          "from": 8,
+          "to": 17
+        },
+        {
+          "target": "貸出金利息",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 26,
+          "to": 31
+        }
+      ]
+    },
+    {
+      "sentence_id": 170,
+      "sentence": "役務取引等収支は、住宅ローンの融資実行増加にともなう初期費用の増加や投資信託などの手数料収入の減少により、△15億円（前年度は１億円）となりました",
+      "opinions": [
+        {
+          "target": "役務取引等収支",
+          "category": "NULL#sales",
+          "polarity": "negative",
+          "from": 0,
+          "to": 7
+        },
+        {
+          "target": "初期費用",
+          "category": "NULL#cost",
+          "polarity": "negative",
+          "from": 26,
+          "to": 30
+        },
+        {
+          "target": "手数料収入",
+          "category": "NULL#sales",
+          "polarity": "negative",
+          "from": 41,
+          "to": 46
+        }
+      ]
+    },
+    {
+      "sentence_id": 171,
+      "sentence": "その他業務収支は、顧客の外貨取引にともなう手数料収入の減少などにより、47億円（前年度比4.5％減）となりました",
+      "opinions": [
+        {
+          "target": "その他業務収支",
+          "category": "NULL#sales",
+          "polarity": "negative",
+          "from": 0,
+          "to": 7
+        },
+        {
+          "target": "手数料収入",
+          "category": "NULL#sales",
+          "polarity": "negative",
+          "from": 21,
+          "to": 26
+        }
+      ]
+    },
+    {
+      "sentence_id": 172,
+      "sentence": "また、営業経費については、165億円（同3.3％増）となりました",
+      "opinions": [
+        {
+          "target": "営業経費",
+          "category": "NULL#cost",
+          "polarity": "negative",
+          "from": 3,
+          "to": 7
+        }
+      ]
+    },
+    {
+      "sentence_id": 173,
+      "sentence": "その結果、業務純益は46億円（同20.4％減）となりました",
+      "opinions": [
+        {
+          "target": "業務純益",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 5,
+          "to": 9
+        }
+      ]
+    },
+    {
+      "sentence_id": 174,
+      "sentence": "当事業年度末（平成29年３月31日）の預かり資産（預金と投資信託の合計）残高は、２兆2,271億円（前年度末比1,926億円増、9.5％増）となりました",
+      "opinions": [
+        {
+          "target": "残高",
+          "category": "NULL#amount",
+          "polarity": "positive",
+          "from": 36,
+          "to": 38
+        }
+      ]
+    },
+    {
+      "sentence_id": 175,
+      "sentence": "内訳については次のとおりです",
+      "opinions": []
+    },
+    {
+      "sentence_id": 176,
+      "sentence": "預金残高は、口座数増加にともなう新規資金の獲得と、円安進行にともなう顧客の外貨預金円転の影響などにより主に円預金残高が増加し、２兆1,129億円（同1,894億円増、9.9％増）となりました",
+      "opinions": [
+        {
+          "target": "預金残高",
+          "category": "NULL#amount",
+          "polarity": "positive",
+          "from": 0,
+          "to": 4
+        },
+        {
+          "target": "円預金残高",
+          "category": "NULL#amount",
+          "polarity": "positive",
+          "from": 53,
+          "to": 58
+        }
+      ]
+    },
+    {
+      "sentence_id": 177,
+      "sentence": "投資信託は1,141億円（同31億円増、2.9％増）となりました",
+      "opinions": [
+        {
+          "target": "投資信託",
+          "category": "product#amount",
+          "polarity": "positive",
+          "from": 0,
+          "to": 4
+        }
+      ]
+    },
+    {
+      "sentence_id": 178,
+      "sentence": "貸出金残高は、借り換え需要の高まりにより住宅ローン残高が積み上がり、１兆5,396億円（同1,954億円増、14.5％増）となりました",
+      "opinions": [
+        {
+          "target": "貸出金残高",
+          "category": "NULL#amount",
+          "polarity": "positive",
+          "from": 0,
+          "to": 5
+        },
+        {
+          "target": "需要",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 11,
+          "to": 13
+        },
+        {
+          "target": "住宅ローン残高",
+          "category": "product#amount",
+          "polarity": "positive",
+          "from": 20,
+          "to": 27
+        }
+      ]
+    },
+    {
+      "sentence_id": 179,
+      "sentence": "なお、純資産の部のうち、その他有価証券評価差額金は、47億円（前年度末比14億円増）となりました",
+      "opinions": [
+        {
+          "target": "その他有価証券評価差額金",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 12,
+          "to": 24
+        }
+      ]
+    },
+    {
+      "sentence_id": 180,
+      "sentence": "当事業年度末（平成29年３月31日）の自己資本比率（国内基準）(※)は、9.75％（前年度末9.89％）となりました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 181,
+      "sentence": "（※）「銀行法第14条の２の規定に基づき、銀行がその保有する資産等に照らし自己資本の充実の状況が適当であるかどうかを判断するための基準」（平成18年金融庁告示第19号）に基づき算出しております",
+      "opinions": []
+    },
+    {
+      "sentence_id": 182,
+      "sentence": "なお、当事業年度末（平成29年３月31日）より、単体自己資本比率の算定における信用リスク計測手法として「基礎的内部格付手法」を採用しております",
+      "opinions": []
+    },
+    {
+      "sentence_id": 183,
+      "sentence": "（前事業年度末は「標準的手法」を採用）",
+      "opinions": []
+    },
+    {
+      "sentence_id": 184,
+      "sentence": "以下では、銀行事業における主要な子会社であるソニー銀行（単体）の状況について記載します",
+      "opinions": []
+    },
+    {
+      "sentence_id": 185,
+      "sentence": "（銀行事業の状況）",
+      "opinions": []
+    },
+    {
+      "sentence_id": 186,
+      "sentence": "①国内・国際業務部門別収支",
+      "opinions": []
+    },
+    {
+      "sentence_id": 187,
+      "sentence": "当事業年度の資金運用収支は179億17百万円、役務取引等収支は△15億80百万円、その他業務収支は47億85百万円となりました",
+      "opinions": [
+        {
+          "target": "資金運用収支",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 6,
+          "to": 12
+        },
+        {
+          "target": "役務取引等収支",
+          "category": "NULL#sales",
+          "polarity": "negative",
+          "from": 23,
+          "to": 30
+        },
+        {
+          "target": "その他業務収支",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 41,
+          "to": 48
+        }
+      ]
+    },
+    {
+      "sentence_id": 188,
+      "sentence": "このうち、国内業務部門の資金運用収支は、138億13百万円、役務取引等収支は△16億65百万円、その他業務収支は４百万円となりました",
+      "opinions": [
+        {
+          "target": "資金運用収支",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 12,
+          "to": 18
+        },
+        {
+          "target": "役務取引等収支",
+          "category": "NULL#sales",
+          "polarity": "negative",
+          "from": 30,
+          "to": 37
+        },
+        {
+          "target": "その他業務収支",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 48,
+          "to": 55
+        }
+      ]
+    },
+    {
+      "sentence_id": 189,
+      "sentence": "また、国際業務部門の資金運用収支は、41億４百万円、役務取引等収支は84百万円、その他業務収支は47億80百万円となりました",
+      "opinions": [
+        {
+          "target": "資金運用収支",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 10,
+          "to": 16
+        },
+        {
+          "target": "役務取引等収支",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 26,
+          "to": 33
+        },
+        {
+          "target": "その他業務収支",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 40,
+          "to": 47
+        }
+      ]
+    },
+    {
+      "sentence_id": 190,
+      "sentence": "（注）１．国内業務部門は国内の円建取引、国際業務部門は外貨建取引です",
+      "opinions": []
+    },
+    {
+      "sentence_id": 191,
+      "sentence": "ただし、円建対非居住者取引は国際業務部門に含めております",
+      "opinions": []
+    },
+    {
+      "sentence_id": 192,
+      "sentence": "２．資金運用収益及び資金調達費用の合計欄の上段の数字は、国内業務部門と国際業務部門の間の資金貸借の利息です",
+      "opinions": []
+    },
+    {
+      "sentence_id": 193,
+      "sentence": "３．資金調達費用は金銭の信託運用見合費用を控除して表示しております",
+      "opinions": []
+    },
+    {
+      "sentence_id": 194,
+      "sentence": "②国内・国際業務部門別資金運用/調達の状況",
+      "opinions": []
+    },
+    {
+      "sentence_id": 195,
+      "sentence": "資金運用勘定平均残高は、貸出金及び有価証券を中心に２兆1,820億89百万円となりました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 196,
+      "sentence": "資金運用勘定利息は貸出金利息及び有価証券利息配当金を中心に265億34百万円となりました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 197,
+      "sentence": "この結果、資金運用勘定利回りは、1.21％となりました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 198,
+      "sentence": "なお、国内業務部門は1.02％、国際業務部門は2.00％となりました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 199,
+      "sentence": "資金調達勘定平均残高は預金を中心に２兆800億65百万円となりました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 200,
+      "sentence": "資金調達勘定利息は預金を中心に、86億16百万円となりました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 201,
+      "sentence": "この結果、資金調達勘定利回りは0.41％となりました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 202,
+      "sentence": "なお、国内業務部門は0.23％、国際業務部門は1.29％となりました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 203,
+      "sentence": "国内業務部門",
+      "opinions": []
+    },
+    {
+      "sentence_id": 204,
+      "sentence": "（注）１．平均残高は、原則として日々の残高の平均に基づいて算出しております",
+      "opinions": []
+    },
+    {
+      "sentence_id": 205,
+      "sentence": "２．国内業務部門は円建取引です",
+      "opinions": []
+    },
+    {
+      "sentence_id": 206,
+      "sentence": "３．(　)内は国内業務部門と国際業務部門の間の資金貸借の平均残高及び利息（内書き）です",
+      "opinions": []
+    },
+    {
+      "sentence_id": 207,
+      "sentence": "４．資金運用勘定は無利息預け金の平均残高を、資金調達勘定は金銭の信託運用見合額の平均残高及び利息をそれぞれ控除して表示しております",
+      "opinions": []
+    },
+    {
+      "sentence_id": 208,
+      "sentence": "国際業務部門",
+      "opinions": []
+    },
+    {
+      "sentence_id": 209,
+      "sentence": "（注）１．平均残高は、原則として日々の残高の平均に基づいて算出しております",
+      "opinions": []
+    },
+    {
+      "sentence_id": 210,
+      "sentence": "２．国際業務部門は外貨建取引です",
+      "opinions": []
+    },
+    {
+      "sentence_id": 211,
+      "sentence": "ただし、円建対非居住者取引は国際業務部門に含めております",
+      "opinions": []
+    },
+    {
+      "sentence_id": 212,
+      "sentence": "３．(　)内は国内業務部門と国際業務部門の間の資金貸借の平均残高及び利息（内書き）です",
+      "opinions": []
+    },
+    {
+      "sentence_id": 213,
+      "sentence": "４．資金調達勘定は金銭の信託運用見合額の平均残高及び利息をそれぞれ控除して表示しております",
+      "opinions": []
+    },
+    {
+      "sentence_id": 214,
+      "sentence": "合計",
+      "opinions": []
+    },
+    {
+      "sentence_id": 215,
+      "sentence": "（注）１．平均残高は、原則として日々の残高の平均に基づいて算出しております",
+      "opinions": []
+    },
+    {
+      "sentence_id": 216,
+      "sentence": "２．資金運用勘定は無利息預け金の平均残高を、資金調達勘定は金銭の信託運用見合額の平均残高及び利息をそれぞれ控除して表示しております",
+      "opinions": []
+    },
+    {
+      "sentence_id": 217,
+      "sentence": "③国内・海外別役務取引の状況",
+      "opinions": []
+    },
+    {
+      "sentence_id": 218,
+      "sentence": "役務取引等収益は、預金・貸出業務及び証券関連業務を中心に合計で、34億65百万円となりました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 219,
+      "sentence": "役務取引等費用は、支払為替手数料を含めて50億46百万円となりました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 220,
+      "sentence": "（注）国内業務部門とは円建取引、国際業務部門とは外貨建取引です",
+      "opinions": []
+    },
+    {
+      "sentence_id": 221,
+      "sentence": "④国内・海外別預金残高の状況（末残）",
+      "opinions": []
+    },
+    {
+      "sentence_id": 222,
+      "sentence": "預金の種類別残高（末残）",
+      "opinions": []
+    },
+    {
+      "sentence_id": 223,
+      "sentence": "（注）１．国内業務部門とは円建取引、国際業務部門とは外貨建取引です",
+      "opinions": []
+    },
+    {
+      "sentence_id": 224,
+      "sentence": "ただし、円建対非居住者取引は国際業務部門に含めております",
+      "opinions": []
+    },
+    {
+      "sentence_id": 225,
+      "sentence": "２．流動性預金は普通預金です",
+      "opinions": []
+    },
+    {
+      "sentence_id": 226,
+      "sentence": "定期性預金は定期預金です",
+      "opinions": []
+    },
+    {
+      "sentence_id": 227,
+      "sentence": "⑤国内・海外別貸出金残高の状況",
+      "opinions": []
+    },
+    {
+      "sentence_id": 228,
+      "sentence": "業種別貸出状況（末残・構成比）",
+      "opinions": []
+    },
+    {
+      "sentence_id": 229,
+      "sentence": "外国政府向け債権残高（国別）",
+      "opinions": []
+    },
+    {
+      "sentence_id": 230,
+      "sentence": "該当事項はありません",
+      "opinions": []
+    },
+    {
+      "sentence_id": 231,
+      "sentence": "⑥国内・海外別有価証券の状況（末残）",
+      "opinions": []
+    },
+    {
+      "sentence_id": 232,
+      "sentence": "有価証券残高（末残）",
+      "opinions": []
+    },
+    {
+      "sentence_id": 233,
+      "sentence": "（注）１．国内業務部門とは円建取引です",
+      "opinions": []
+    },
+    {
+      "sentence_id": 234,
+      "sentence": "国際業務部門とは主に外貨建取引です",
+      "opinions": []
+    },
+    {
+      "sentence_id": 235,
+      "sentence": "２．その他の証券には外国債券を含んでおります",
+      "opinions": []
+    },
+    {
+      "sentence_id": 236,
+      "sentence": "⑦単体自己資本比率の状況",
+      "opinions": []
+    },
+    {
+      "sentence_id": 237,
+      "sentence": "自己資本比率（国内基準）は、「銀行法第14条の２の規定に基づき、銀行がその保有する資産等に照らし自己資本の充実の状況が適当であるかどうかを判断するための基準」（平成18年金融庁告示第19号）に定められた算式に基づき、単体ベースについて算出しております",
+      "opinions": []
+    },
+    {
+      "sentence_id": 238,
+      "sentence": "なお、ソニー銀行は、国内基準を適用のうえ、信用リスク・アセットの算出において、平成29年３月末以降の信用リスク計測手法を、従来の「標準的手法」から「基礎的内部格付手法」に変更しております",
+      "opinions": []
+    },
+    {
+      "sentence_id": 239,
+      "sentence": "また、平成25年金融庁告示第６号及び平成26年金融庁告示第７号を適用しております",
+      "opinions": []
+    },
+    {
+      "sentence_id": 240,
+      "sentence": "自己資本比率の状況（国内基準）",
+      "opinions": []
+    },
+    {
+      "sentence_id": 241,
+      "sentence": "⑧資産の査定",
+      "opinions": []
+    },
+    {
+      "sentence_id": 242,
+      "sentence": "資産の査定は、「金融機能の再生のための緊急措置に関する法律」（平成10年法律第132号）第６条に基づき、ソニー銀行の貸借対照表の社債（当該社債を有する金融機関がその元本の償還及び利息の支払の全部又は一部について保証しているものであって、当該社債の発行が金融商品取引法（昭和23年法律第25号）第２条第３項に規定する有価証券の私募によるものに限る）、貸出金、外国為替、その他資産中の未収利息及び仮払金、支払承諾見返の各勘定に計上されるもの並びに貸借対照表に注記することとされている有価証券の貸付けを行っている場合のその有価証券（使用貸借又は賃貸借契約によるものに限る）について債務者の財政状態及び経営成績等を基礎として次のとおり区分するものであります",
+      "opinions": []
+    },
+    {
+      "sentence_id": 243,
+      "sentence": "１．破産更生債権及びこれらに準ずる債権",
+      "opinions": []
+    },
+    {
+      "sentence_id": 244,
+      "sentence": "破産更生債権及びこれらに準ずる債権とは、破産手続開始、更生手続開始、再生手続開始の申立て等の事由により経営破綻に陥っている債務者に対する債権及びこれらに準ずる債権をいう",
+      "opinions": []
+    },
+    {
+      "sentence_id": 245,
+      "sentence": "２．危険債権",
+      "opinions": []
+    },
+    {
+      "sentence_id": 246,
+      "sentence": "危険債権とは、債務者が経営破綻の状態には至っていないが、財政状態及び経営成績が悪化し、契約に従った債権の元本の回収及び利息の受取りができない可能性の高い債権をいう",
+      "opinions": []
+    },
+    {
+      "sentence_id": 247,
+      "sentence": "３．要管理債権",
+      "opinions": []
+    },
+    {
+      "sentence_id": 248,
+      "sentence": "要管理債権とは、３カ月以上延滞債権及び貸出条件緩和債権をいう",
+      "opinions": []
+    },
+    {
+      "sentence_id": 249,
+      "sentence": "４．正常債権",
+      "opinions": []
+    },
+    {
+      "sentence_id": 250,
+      "sentence": "正常債権とは、債務者の財政状態及び経営成績に特に問題がないものとして、上記１から３までに掲げる債権以外のものに区分される債権をいう",
+      "opinions": []
+    },
+    {
+      "sentence_id": 251,
+      "sentence": "資産の査定の額",
+      "opinions": []
+    }
+  ]
+}

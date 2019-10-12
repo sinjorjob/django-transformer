@@ -1,0 +1,1031 @@
+{
+  "header": {
+    "document_id": "E00686",
+    "document_name": "昭和パックス株式会社",
+    "doc_text": "有価証券報告書",
+    "edi_id": "E00686",
+    "security_code": "39540",
+    "category33": "パルプ・紙",
+    "category17": "素材・化学",
+    "scale": ""
+  },
+  "sentences": [
+    {
+      "sentence_id": 0,
+      "sentence": "当連結会計年度（平成28年４月１日～平成29年３月31日）における我が国経済は、序盤は円高と株安が進み景況感が悪化しましたが、その後は景況感も次第に上向き、企業業績の改善が続いて、結果として各四半期ともプラス成長となりました",
+      "opinions": [
+        {
+          "target": "我が国経済",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 33,
+          "to": 38
+        },
+        {
+          "target": "景況感",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 51,
+          "to": 54
+        },
+        {
+          "target": "景況感",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 67,
+          "to": 70
+        },
+        {
+          "target": "企業業績",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 78,
+          "to": 82
+        }
+      ]
+    },
+    {
+      "sentence_id": 1,
+      "sentence": "当連結会計年度中の世界経済を見ますと、米国は比較的堅調に推移しましたが、年度当初は中国経済の減速が明らかとなり、商品市況の低迷で資源国・新興国の成長も鈍化、それに中東情勢や英国のEU離脱決定が加わり、不透明感が強まりました",
+      "opinions": [
+        {
+          "target": "世界経済",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 9,
+          "to": 13
+        },
+        {
+          "target": "米国",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 19,
+          "to": 21
+        },
+        {
+          "target": "中国経済",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 41,
+          "to": 45
+        },
+        {
+          "target": "商品市況",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 56,
+          "to": 60
+        },
+        {
+          "target": "成長",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 72,
+          "to": 74
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "sentence": "しかし、懸念された中国経済が年度半ば以降公共投資効果で持ち直し、アジア経済全体に波及、商品市況も底を打って、資源国・新興国も復調に転じています",
+      "opinions": [
+        {
+          "target": "中国経済",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 9,
+          "to": 13
+        },
+        {
+          "target": "商品市況",
+          "category": "NULL#general",
+          "polarity": "neutral",
+          "from": 43,
+          "to": 47
+        },
+        {
+          "target": "資源国",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 54,
+          "to": 57
+        },
+        {
+          "target": "新興国",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 58,
+          "to": 61
+        }
+      ]
+    },
+    {
+      "sentence_id": 3,
+      "sentence": "日本経済の企業部門も、この世界経済と軌を一にするように、年度当初は、輸入原材料価格の下落と経費抑制で一定の利益は確保するものの売上高は伸びない状態でしたが、７-９月期以降は在庫調整が一巡、公共投資や堅調な住宅投資に加えて生産活動が持ち直し、世界IT需要の回復や中国・アジア新興国の復調を背景に輸出が増加、外需主導で売上高が上向きました",
+      "opinions": [
+        {
+          "target": "輸入原材料価格",
+          "category": "NULL#cost",
+          "polarity": "positive",
+          "from": 34,
+          "to": 41
+        },
+        {
+          "target": "売上高",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 63,
+          "to": 66
+        },
+        {
+          "target": "住宅投資",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 102,
+          "to": 106
+        },
+        {
+          "target": "生産活動",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 110,
+          "to": 114
+        },
+        {
+          "target": "世界IT需要",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 120,
+          "to": 126
+        },
+        {
+          "target": "中国",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 130,
+          "to": 132
+        },
+        {
+          "target": "アジア新興国",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 133,
+          "to": 139
+        },
+        {
+          "target": "輸出",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 146,
+          "to": 148
+        },
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 157,
+          "to": 160
+        }
+      ]
+    },
+    {
+      "sentence_id": 4,
+      "sentence": "10-12月期に為替が円安に振れたこともプラスとなって、輸出や海外生産を伸ばした企業の収益を押上げることとなり、全般に企業の利益水準は高まりました",
+      "opinions": [
+        {
+          "target": "収益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 43,
+          "to": 45
+        },
+        {
+          "target": "利益水準",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 62,
+          "to": 66
+        }
+      ]
+    },
+    {
+      "sentence_id": 5,
+      "sentence": "設備投資は、製造業では能力増強には慎重な姿勢が続きましたが、維持更新や人手不足対応のための合理化・省力化投資、それに非製造業の建設投資が下支えをしました",
+      "opinions": [
+        {
+          "target": "設備投資",
+          "category": "NULL#general",
+          "polarity": "neutral",
+          "from": 0,
+          "to": 4
+        }
+      ]
+    },
+    {
+      "sentence_id": 6,
+      "sentence": "企業収益が改善し生産活動が上向いたことで製造業でも投資意欲が増しつつあります",
+      "opinions": [
+        {
+          "target": "企業収益",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 0,
+          "to": 4
+        },
+        {
+          "target": "生産活動",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 8,
+          "to": 12
+        },
+        {
+          "target": "投資意欲",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 25,
+          "to": 29
+        }
+      ]
+    },
+    {
+      "sentence_id": 7,
+      "sentence": "企業収益が改善する一方で、個人消費は低迷が続きました",
+      "opinions": [
+        {
+          "target": "企業収益",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 0,
+          "to": 4
+        },
+        {
+          "target": "個人消費",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 13,
+          "to": 17
+        }
+      ]
+    },
+    {
+      "sentence_id": 8,
+      "sentence": "人手不足感は一貫して解消せず、ほぼ完全雇用状態となって、雇用所得環境は改善したはずですが、可処分所得は伸び悩み、生活防衛意識が消費を下押しして、消費は伸びず、物価上昇も鈍いままでした",
+      "opinions": [
+        {
+          "target": "人手不足感",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 0,
+          "to": 5
+        },
+        {
+          "target": "可処分所得",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 45,
+          "to": 50
+        },
+        {
+          "target": "消費",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 72,
+          "to": 74
+        },
+        {
+          "target": "物価上昇",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 79,
+          "to": 83
+        }
+      ]
+    },
+    {
+      "sentence_id": 9,
+      "sentence": "ただ１-３月期に入ると消費関連指標に若干の改善がみられるようになっています",
+      "opinions": [
+        {
+          "target": "消費関連指標",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 11,
+          "to": 17
+        }
+      ]
+    },
+    {
+      "sentence_id": 10,
+      "sentence": "先行きについては、日本企業にも大きく影響を及ぼす世界経済の動向に見通せないところがあり、予断は許されませんが、輸出の増加や製造業の生産拡大に加え、補正予算の執行に伴う公共投資の増加などが景気を下支えして、景気回復基調が続くことが期待されます",
+      "opinions": [
+        {
+          "target": "輸出",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 55,
+          "to": 57
+        },
+        {
+          "target": "製造業",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 61,
+          "to": 64
+        },
+        {
+          "target": "公共投資",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 83,
+          "to": 87
+        }
+      ]
+    },
+    {
+      "sentence_id": 11,
+      "sentence": "当社グループの主要事業は、国内の素材産業や農産物の生産動向に大きく影響される産業用包装資材の製造・販売です",
+      "opinions": []
+    },
+    {
+      "sentence_id": 12,
+      "sentence": "当連結会計年度の当社グループは、海外事業が引き続き好調を維持、国内では米麦袋の減少を補う新規受注の獲得や、原価低減に努めた結果、前年比で若干の減収でしたが増益の結果となりました",
+      "opinions": [
+        {
+          "target": "当社グループ",
+          "category": "company#sales",
+          "polarity": "negative",
+          "from": 8,
+          "to": 14
+        },
+        {
+          "target": "当社グループ",
+          "category": "company#profit",
+          "polarity": "positive",
+          "from": 8,
+          "to": 14
+        },
+        {
+          "target": "海外事業",
+          "category": "business#general",
+          "polarity": "positive",
+          "from": 16,
+          "to": 20
+        },
+        {
+          "target": "米麦袋",
+          "category": "product#amount",
+          "polarity": "negative",
+          "from": 35,
+          "to": 38
+        }
+      ]
+    },
+    {
+      "sentence_id": 13,
+      "sentence": "連結売上高は19,990百万円で前期比78百万円の減収でした",
+      "opinions": [
+        {
+          "target": "連結売上高",
+          "category": "NULL#sales",
+          "polarity": "negative",
+          "from": 0,
+          "to": 5
+        }
+      ]
+    },
+    {
+      "sentence_id": 14,
+      "sentence": "損益では、売上総利益率の向上で、営業利益1,195百万円（前期比96百万円の増益）、経常利益1,298百万円（同118百万円の増益）、親会社株主に帰属する当期純利益868百万円（同43百万円の増益）となりました",
+      "opinions": [
+        {
+          "target": "売上総利益率",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 5,
+          "to": 11
+        },
+        {
+          "target": "営業利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 16,
+          "to": 20
+        },
+        {
+          "target": "経常利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 42,
+          "to": 46
+        },
+        {
+          "target": "当期純利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 77,
+          "to": 82
+        }
+      ]
+    },
+    {
+      "sentence_id": 15,
+      "sentence": "当社単独では売上高15,241百万円（前期比544百万円の減収）、営業利益663百万円（同18百万円の増益）、経常利益829百万円（同43百万円の増益）、当期純利益557百万円（同５百万円の減益）でした",
+      "opinions": [
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "negative",
+          "from": 6,
+          "to": 9
+        },
+        {
+          "target": "営業利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 33,
+          "to": 37
+        },
+        {
+          "target": "経常利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 55,
+          "to": 59
+        },
+        {
+          "target": "当期純利益",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 77,
+          "to": 82
+        }
+      ]
+    },
+    {
+      "sentence_id": 16,
+      "sentence": "連結子会社の概況は次のとおりです",
+      "opinions": []
+    },
+    {
+      "sentence_id": 17,
+      "sentence": "タイ昭和パックス㈱は会計期間が１-12月ですが、人員増強で生産体制を強化して受注を増やし4期連続でクラフト紙袋の販売数量を伸ばしました",
+      "opinions": [
+        {
+          "target": "タイ昭和パックス㈱",
+          "category": "company#amount",
+          "polarity": "positive",
+          "from": 0,
+          "to": 9
+        },
+        {
+          "target": "クラフト紙袋",
+          "category": "product#amount",
+          "polarity": "positive",
+          "from": 49,
+          "to": 55
+        }
+      ]
+    },
+    {
+      "sentence_id": 18,
+      "sentence": "会計期間末に為替レートが円安に振れたことから円換算でも大幅な増収増益となりました",
+      "opinions": [
+        {
+          "target": "円換算",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 22,
+          "to": 25
+        }
+      ]
+    },
+    {
+      "sentence_id": 19,
+      "sentence": "九州紙工㈱は機動性を生かした小口の受注増で米麦袋の減少を補って増収増益でした",
+      "opinions": [
+        {
+          "target": "九州紙工㈱",
+          "category": "company#sales",
+          "polarity": "positive",
+          "from": 0,
+          "to": 5
+        },
+        {
+          "target": "九州紙工㈱",
+          "category": "company#profit",
+          "polarity": "positive",
+          "from": 0,
+          "to": 5
+        },
+        {
+          "target": "小口",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 14,
+          "to": 16
+        },
+        {
+          "target": "米麦袋",
+          "category": "product#amount",
+          "polarity": "negative",
+          "from": 21,
+          "to": 24
+        }
+      ]
+    },
+    {
+      "sentence_id": 20,
+      "sentence": "㈱ネスコは新しい商材の開拓を進めて増収増益につなげました",
+      "opinions": [
+        {
+          "target": "㈱ネスコ",
+          "category": "company#sales",
+          "polarity": "positive",
+          "from": 0,
+          "to": 4
+        },
+        {
+          "target": "㈱ネスコ",
+          "category": "company#profit",
+          "polarity": "positive",
+          "from": 0,
+          "to": 4
+        }
+      ]
+    },
+    {
+      "sentence_id": 21,
+      "sentence": "山陰製袋工業㈱、山陰パック㈲の二社は会計期間が１-12月で、米袋の数量が減少しましたが、グループ内連係等で新規受注を増やし、減価償却負担増をカバーして二社合計で増収増益となりました",
+      "opinions": [
+        {
+          "target": "山陰製袋工業㈱",
+          "category": "company#sales",
+          "polarity": "positive",
+          "from": 0,
+          "to": 7
+        },
+        {
+          "target": "山陰製袋工業㈱",
+          "category": "company#profit",
+          "polarity": "positive",
+          "from": 0,
+          "to": 7
+        },
+        {
+          "target": "山陰パック㈲",
+          "category": "company#sales",
+          "polarity": "positive",
+          "from": 8,
+          "to": 14
+        },
+        {
+          "target": "山陰パック㈲",
+          "category": "company#profit",
+          "polarity": "positive",
+          "from": 8,
+          "to": 14
+        },
+        {
+          "target": "米袋",
+          "category": "product#amount",
+          "polarity": "negative",
+          "from": 30,
+          "to": 32
+        }
+      ]
+    },
+    {
+      "sentence_id": 22,
+      "sentence": "セグメントの業績は次のとおりであります",
+      "opinions": []
+    },
+    {
+      "sentence_id": 23,
+      "sentence": "○重包装袋",
+      "opinions": []
+    },
+    {
+      "sentence_id": 24,
+      "sentence": "重包装袋セグメントの主力製品であるクラフト紙袋の当連結会計年度の業界全体の出荷数量（ゴミ袋を除く）は前期に対し1.2%の減少となりました",
+      "opinions": [
+        {
+          "target": "出荷数量",
+          "category": "NULL#amount",
+          "polarity": "negative",
+          "from": 37,
+          "to": 41
+        }
+      ]
+    },
+    {
+      "sentence_id": 25,
+      "sentence": "全国的に米の集荷包装形態が変容しつつあって米麦袋が前期比6.5%の大幅な減少になりました",
+      "opinions": [
+        {
+          "target": "米麦袋",
+          "category": "product#amount",
+          "polarity": "negative",
+          "from": 21,
+          "to": 24
+        }
+      ]
+    },
+    {
+      "sentence_id": 26,
+      "sentence": "このほか、セメント、製粉、砂糖・甘味、塩等の用途が減少しました",
+      "opinions": [
+        {
+          "target": "用途",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 22,
+          "to": 24
+        }
+      ]
+    },
+    {
+      "sentence_id": 27,
+      "sentence": "一方で、化学薬品、澱粉、飼料等の用途が増加しました",
+      "opinions": [
+        {
+          "target": "用途",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 16,
+          "to": 18
+        }
+      ]
+    },
+    {
+      "sentence_id": 28,
+      "sentence": "その中で、当社のクラフト紙袋の売上数量（ゴミ袋を除く）は前期比で0.2%増加しました",
+      "opinions": [
+        {
+          "target": "クラフト紙袋",
+          "category": "product#amount",
+          "polarity": "positive",
+          "from": 8,
+          "to": 14
+        }
+      ]
+    },
+    {
+      "sentence_id": 29,
+      "sentence": "米麦の減少は2.8%の減少にとどめましたが、主力の合成樹脂用途が1.9%減少しました",
+      "opinions": [
+        {
+          "target": "米麦",
+          "category": "product#amount",
+          "polarity": "negative",
+          "from": 0,
+          "to": 2
+        },
+        {
+          "target": "合成樹脂用途",
+          "category": "product#amount",
+          "polarity": "negative",
+          "from": 25,
+          "to": 31
+        }
+      ]
+    },
+    {
+      "sentence_id": 30,
+      "sentence": "製粉、化学薬品等の用途は数量を伸ばしました",
+      "opinions": [
+        {
+          "target": "数量",
+          "category": "NULL#amount",
+          "polarity": "positive",
+          "from": 12,
+          "to": 14
+        }
+      ]
+    },
+    {
+      "sentence_id": 31,
+      "sentence": "ポリエチレン重袋、中型袋の売上数量は、それぞれ前期比+6.6%、+3.1%と増加しました",
+      "opinions": [
+        {
+          "target": "ポリエチレン重袋",
+          "category": "product#amount",
+          "polarity": "positive",
+          "from": 0,
+          "to": 8
+        },
+        {
+          "target": "中型袋",
+          "category": "product#amount",
+          "polarity": "positive",
+          "from": 9,
+          "to": 12
+        }
+      ]
+    },
+    {
+      "sentence_id": 32,
+      "sentence": "タイ昭和パックス㈱のクラフト紙袋は、増産のための陣容を整え、内外で顧客の需要を取込んで、売上数量を前期比で8.4%伸ばしました",
+      "opinions": [
+        {
+          "target": "クラフト紙袋",
+          "category": "product#amount",
+          "polarity": "positive",
+          "from": 10,
+          "to": 16
+        }
+      ]
+    },
+    {
+      "sentence_id": 33,
+      "sentence": "九州紙工㈱は主力の米麦袋が減少しましたが、一般袋、特殊手加工品の受注に注力して、売上数量を前期比+1.2%としました",
+      "opinions": [
+        {
+          "target": "九州紙工㈱",
+          "category": "company#amount",
+          "polarity": "positive",
+          "from": 0,
+          "to": 5
+        },
+        {
+          "target": "米麦袋",
+          "category": "product#amount",
+          "polarity": "negative",
+          "from": 9,
+          "to": 12
+        }
+      ]
+    },
+    {
+      "sentence_id": 34,
+      "sentence": "山陰製袋工業も米麦袋が減少しましたが、親会社との連携や小口受注への対応で、売上数量は前期比7.6%の増加となりました",
+      "opinions": [
+        {
+          "target": "山陰製袋工業",
+          "category": "company#amount",
+          "polarity": "negative",
+          "from": 0,
+          "to": 6
+        },
+        {
+          "target": "米麦袋",
+          "category": "product#amount",
+          "polarity": "negative",
+          "from": 7,
+          "to": 10
+        }
+      ]
+    },
+    {
+      "sentence_id": 35,
+      "sentence": "当セグメントの連結売上高は13,035百万円で、前期に対して159百万円の増収になりました",
+      "opinions": [
+        {
+          "target": "連結売上高",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 7,
+          "to": 12
+        }
+      ]
+    },
+    {
+      "sentence_id": 36,
+      "sentence": "○フィルム製品",
+      "opinions": []
+    },
+    {
+      "sentence_id": 37,
+      "sentence": "当連結会計年度における低密度ポリエチレンフィルム製品の業界の出荷数量は、産業用、農業用、いずれも前期比で若干の減少となりました",
+      "opinions": [
+        {
+          "target": "出荷数量",
+          "category": "NULL#amount",
+          "polarity": "negative",
+          "from": 30,
+          "to": 34
+        }
+      ]
+    },
+    {
+      "sentence_id": 38,
+      "sentence": "その中で当社のフィルム製品の売上数量は、前期比で産業用は6.1%増加しましたが、農業用が△8.4%と減少となりました",
+      "opinions": [
+        {
+          "target": "産業用",
+          "category": "product#amount",
+          "polarity": "positive",
+          "from": 24,
+          "to": 27
+        },
+        {
+          "target": "農業用",
+          "category": "product#amount",
+          "polarity": "negative",
+          "from": 40,
+          "to": 43
+        }
+      ]
+    },
+    {
+      "sentence_id": 39,
+      "sentence": "産業用では、生産設備を更新したHQF、建築需要に伴うアスベスト隔離シートが伸びました",
+      "opinions": [
+        {
+          "target": "HQF",
+          "category": "product#general",
+          "polarity": "positive",
+          "from": 15,
+          "to": 18
+        },
+        {
+          "target": "アスベスト隔離シート",
+          "category": "product#general",
+          "polarity": "positive",
+          "from": 26,
+          "to": 36
+        }
+      ]
+    },
+    {
+      "sentence_id": 40,
+      "sentence": "農業用ではハウス用のバーナルハウス、フルーツ物語や農酢ビ等が不振を脱し切れていません",
+      "opinions": [
+        {
+          "target": "バーナルハウス",
+          "category": "product#general",
+          "polarity": "negative",
+          "from": 10,
+          "to": 17
+        },
+        {
+          "target": "フルーツ物語",
+          "category": "product#general",
+          "polarity": "negative",
+          "from": 18,
+          "to": 24
+        },
+        {
+          "target": "農酢ビ",
+          "category": "product#general",
+          "polarity": "negative",
+          "from": 25,
+          "to": 28
+        }
+      ]
+    },
+    {
+      "sentence_id": 41,
+      "sentence": "原材料であるポリエチレン樹脂とポリスチレン樹脂は、原油価格の反転を反映し、年明けから値上がりに転じました",
+      "opinions": [
+        {
+          "target": "ポリエチレン樹脂",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 6,
+          "to": 14
+        },
+        {
+          "target": "ポリスチレン樹脂",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 15,
+          "to": 23
+        }
+      ]
+    },
+    {
+      "sentence_id": 42,
+      "sentence": "当セグメントの連結売上高は3,451百万円で、前期に対して168百万円の減収でした",
+      "opinions": [
+        {
+          "target": "連結売上高",
+          "category": "NULL#sales",
+          "polarity": "negative",
+          "from": 7,
+          "to": 12
+        }
+      ]
+    },
+    {
+      "sentence_id": 43,
+      "sentence": "○コンテナー",
+      "opinions": []
+    },
+    {
+      "sentence_id": 44,
+      "sentence": "粒状内容物のバルク輸送用ワンウェイ・フレコンの業界の出荷量は、国内生産品はほとんどの用途で前期比大きく減少、海外生産品も除染用が大幅に減ったため全体では減少でした",
+      "opinions": [
+        {
+          "target": "国内生産品",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 31,
+          "to": 36
+        },
+        {
+          "target": "海外生産品",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 54,
+          "to": 59
+        }
+      ]
+    },
+    {
+      "sentence_id": 45,
+      "sentence": "しかし海外からの輸入量は全体ではほぼ横ばいでした",
+      "opinions": [
+        {
+          "target": "輸入量",
+          "category": "NULL#amount",
+          "polarity": "neutral",
+          "from": 8,
+          "to": 11
+        }
+      ]
+    },
+    {
+      "sentence_id": 46,
+      "sentence": "当社のワンウェイ・フレコンの売上数量は、自社品、輸入販売品とも減少でした",
+      "opinions": [
+        {
+          "target": "ワンウェイ・フレコン",
+          "category": "product#amount",
+          "polarity": "negative",
+          "from": 3,
+          "to": 13
+        }
+      ]
+    },
+    {
+      "sentence_id": 47,
+      "sentence": "大型ドライコンテナー用インナーバッグ「バルコン」は絶対数は少ないながら前期比+28.4%増加しました",
+      "opinions": [
+        {
+          "target": "バルコン",
+          "category": "product#amount",
+          "polarity": "positive",
+          "from": 19,
+          "to": 23
+        }
+      ]
+    },
+    {
+      "sentence_id": 48,
+      "sentence": "液体輸送用では、1,000ℓポリエチレンバッグ「エスキューブ」は微減、液体輸送用コンテナーライナー「エスタンク」は顧客の需要減にともない減少しました",
+      "opinions": [
+        {
+          "target": "エスキューブ",
+          "category": "product#amount",
+          "polarity": "negative",
+          "from": 24,
+          "to": 30
+        },
+        {
+          "target": "エスタンク",
+          "category": "product#amount",
+          "polarity": "negative",
+          "from": 50,
+          "to": 55
+        }
+      ]
+    },
+    {
+      "sentence_id": 49,
+      "sentence": "当セグメントの連結売上高は1,738百万円で、前期に対して183百万円の減収でした",
+      "opinions": [
+        {
+          "target": "連結売上高",
+          "category": "NULL#sales",
+          "polarity": "negative",
+          "from": 7,
+          "to": 12
+        }
+      ]
+    },
+    {
+      "sentence_id": 50,
+      "sentence": "○不動産賃貸",
+      "opinions": []
+    },
+    {
+      "sentence_id": 51,
+      "sentence": "賃貸用不動産の内容に大きな変動はありません",
+      "opinions": []
+    },
+    {
+      "sentence_id": 52,
+      "sentence": "当セグメントの連結売上高は263百万円で、前期に対し8百万円増加しました",
+      "opinions": [
+        {
+          "target": "連結売上高",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 7,
+          "to": 12
+        }
+      ]
+    }
+  ]
+}

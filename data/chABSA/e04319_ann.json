@@ -1,0 +1,508 @@
+{
+  "header": {
+    "document_id": "E04319",
+    "document_name": "日本通運株式会社",
+    "doc_text": "有価証券報告書",
+    "edi_id": "E04319",
+    "security_code": "90620",
+    "category33": "陸運業",
+    "category17": "運輸・物流",
+    "scale": "4"
+  },
+  "sentences": [
+    {
+      "sentence_id": 0,
+      "sentence": "当連結会計年度のわが国経済は、底堅い企業収益や雇用・所得環境の改善等に支えられ、緩やかな回復基調が続いているものの、可処分所得の伸び悩み等により、個人消費は依然として力強さを欠く状況で推移いたしました",
+      "opinions": [
+        {
+          "target": "企業収益",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 18,
+          "to": 22
+        },
+        {
+          "target": "雇用",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 23,
+          "to": 25
+        },
+        {
+          "target": "所得環境",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 26,
+          "to": 30
+        },
+        {
+          "target": "可処分所得",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 58,
+          "to": 63
+        },
+        {
+          "target": "個人消費",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 73,
+          "to": 77
+        }
+      ]
+    },
+    {
+      "sentence_id": 1,
+      "sentence": "また、海外では中国をはじめとした新興国の景気減速や欧州の政情不安、米国における保護主義政策の動向等、各国における不確実性の高まりによって、不透明感の強い状況で推移いたしました",
+      "opinions": [
+        {
+          "target": "海外",
+          "category": "NULL#general",
+          "polarity": "neutral",
+          "from": 3,
+          "to": 5
+        },
+        {
+          "target": "新興国",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 16,
+          "to": 19
+        },
+        {
+          "target": "欧州",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 25,
+          "to": 27
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "sentence": "このような経済情勢のなか、物流業界におきまして、国際貨物は、アジア向け航空貨物が伸長する等、回復の兆しがみられる一方、国内貨物は、生産関連貨物が減少する等、引き続き低調に推移いたしました",
+      "opinions": [
+        {
+          "target": "国際貨物",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 24,
+          "to": 28
+        },
+        {
+          "target": "航空貨物",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 35,
+          "to": 39
+        },
+        {
+          "target": "国内貨物",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 59,
+          "to": 63
+        },
+        {
+          "target": "生産関連貨物",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 65,
+          "to": 71
+        }
+      ]
+    },
+    {
+      "sentence_id": 3,
+      "sentence": "当社グループは、このような経営環境のもと、当連結会計年度から３カ年の新経営計画「日通グループ経営計画２０１８－新・世界日通",
+      "opinions": []
+    },
+    {
+      "sentence_id": 4,
+      "sentence": "－」をスタートさせ、前経営計画における事業構造改革を踏まえ、「エリア戦略」と「機能戦略」を軸として、真のグローバルロジスティクス企業を目指し、グループ一丸となって取り組んでまいりました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 5,
+      "sentence": "「エリア戦略」",
+      "opinions": []
+    },
+    {
+      "sentence_id": 6,
+      "sentence": "・日本では、大都市圏を中心に組織の一体化をさらに進めることで経営資源の集中と効率化に取り組み、ワンストップ・アカウント営業体制を強化することで、グローバル企業との取引拡大を図ってまいりました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 7,
+      "sentence": "また、地域密着型営業を拡大するべく、地域の特性を活かした新サービスの企画や新たに海外に販路を求める顧客の支援等、様々なニーズに応じたロジスティクスサービスの提供に努めてまいりました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 8,
+      "sentence": "・海外では、南アジアを中心に経営資源の集中投下を行い、事業基盤確立のための積極的な拠点展開を加速させるとともに、重量品建設事業のグローバル展開を強化する等、当社が強みを持つ事業の海外展開をさらに進めてまいりました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 9,
+      "sentence": "また、非日系グローバル企業に対するアプローチの強化に向けた組織の設立を行う等、日通グループの成長をけん引するための取組みを行ってまいりました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 10,
+      "sentence": "「機能戦略」",
+      "opinions": []
+    },
+    {
+      "sentence_id": 11,
+      "sentence": "・営業力の徹底強化では、ワンストップ・アカウント営業体制の一層の強化に加え、陸・海・空が一体となり、新サービスの開発や顧客情報の共有化を推進し、収益の拡大に努めてまいりました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 12,
+      "sentence": "・コア事業の強化と高度化では、三国間フォワーディング事業の拡大や各国の国内物流強化のため、海外での自社倉庫の建設を積極的に進め、競争力の向上に取り組んでまいりました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 13,
+      "sentence": "・グループ経営の強化では、グループ各社と連携し、顧客基盤の共有化を図り、電機産業・ＩＣＴ・情報資産管理等の各分野におけるプラットフォームの構築によるネットワークの拡充や物流品質の高度化等に取り組んでまいりました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 14,
+      "sentence": "・経営基盤の強靭化では、管理・企画機能の強化および生産性の向上に向けた間接業務の標準化等を推し進め、経営の柔軟性、迅速性をさらに高めてまいりました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 15,
+      "sentence": "・グループＣＳＲ経営の更なる強化では、ダイバーシティの推進や長時間労働の撲滅等、働きやすい環境づくりへの取組みを積極的に進めてまいりました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 16,
+      "sentence": "この結果、売上高は１兆8,643億円と前連結会計年度に比べ448億円、2.3％の減収となりましたが、営業利益につきましては、574億円と前連結会計年度に比べ26億円、4.8％の増益、経常利益は、638億円と前連結会計年度に比べ14億円、2.3％の増益、親会社株主に帰属する当期純利益は、364億円と前連結会計年度に比べ７億円、2.2％の増益となりました",
+      "opinions": [
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "negative",
+          "from": 5,
+          "to": 8
+        },
+        {
+          "target": "営業利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 50,
+          "to": 54
+        },
+        {
+          "target": "経常利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 91,
+          "to": 95
+        },
+        {
+          "target": "当期純利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 136,
+          "to": 141
+        }
+      ]
+    },
+    {
+      "sentence_id": 17,
+      "sentence": "セグメントの業績概況は以下のとおりであります",
+      "opinions": []
+    },
+    {
+      "sentence_id": 18,
+      "sentence": "また、当連結会計年度より、報告セグメントの区分を変更しており、以下の前連結会計年度比較については、前連結会計年度の数値を変更後のセグメント区分に組み替えた数値で比較しております",
+      "opinions": []
+    },
+    {
+      "sentence_id": 19,
+      "sentence": "（売上高の明細）",
+      "opinions": []
+    },
+    {
+      "sentence_id": 20,
+      "sentence": "（セグメント利益（営業利益）の明細）",
+      "opinions": []
+    },
+    {
+      "sentence_id": 21,
+      "sentence": "①日本（ロジスティクス）",
+      "opinions": []
+    },
+    {
+      "sentence_id": 22,
+      "sentence": "自動車、海運等の貨物の取扱いが低調に推移したこと等により、売上高は１兆1,557億円と前連結会計年度に比べ26億円、0.2％の減収となりましたが、利用運送費や外注費、燃料費等の減少及び新規連結会社が加わったこと等により、営業利益は386億円と前連結会計年度に比べ20億円、5.6％の増益となりました",
+      "opinions": [
+        {
+          "target": "取扱い",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 11,
+          "to": 14
+        },
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "negative",
+          "from": 29,
+          "to": 32
+        },
+        {
+          "target": "利用運送費",
+          "category": "NULL#cost",
+          "polarity": "positive",
+          "from": 73,
+          "to": 78
+        },
+        {
+          "target": "外注費",
+          "category": "NULL#cost",
+          "polarity": "positive",
+          "from": 79,
+          "to": 82
+        },
+        {
+          "target": "燃料費等",
+          "category": "NULL#cost",
+          "polarity": "positive",
+          "from": 83,
+          "to": 87
+        },
+        {
+          "target": "営業利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 110,
+          "to": 114
+        }
+      ]
+    },
+    {
+      "sentence_id": 23,
+      "sentence": "②米州（ロジスティクス）",
+      "opinions": []
+    },
+    {
+      "sentence_id": 24,
+      "sentence": "前年度における米国西海岸港湾混雑の影響による航空輸出入貨物増加の反動減及び為替の影響等により、売上高は838億円と前連結会計年度に比べ108億円、11.5％の減収となり、営業利益は47億円と前連結会計年度に比べ３億円、6.2％の減益となりました",
+      "opinions": [
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "negative",
+          "from": 47,
+          "to": 50
+        },
+        {
+          "target": "営業利益",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 85,
+          "to": 89
+        }
+      ]
+    },
+    {
+      "sentence_id": 25,
+      "sentence": "③欧州（ロジスティクス）",
+      "opinions": []
+    },
+    {
+      "sentence_id": 26,
+      "sentence": "倉庫の取扱いは堅調に推移したものの、為替の影響等により、売上高は792億円と前連結会計年度に比べ52億円、6.3％の減収となりましたが、営業利益は20億円と前連結会計年度に比べ４億円、30.2％の増益となりました",
+      "opinions": [
+        {
+          "target": "取扱い",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 3,
+          "to": 6
+        },
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "negative",
+          "from": 28,
+          "to": 31
+        },
+        {
+          "target": "営業利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 68,
+          "to": 72
+        }
+      ]
+    },
+    {
+      "sentence_id": 27,
+      "sentence": "④東アジア（ロジスティクス）",
+      "opinions": []
+    },
+    {
+      "sentence_id": 28,
+      "sentence": "航空輸入貨物の取扱いは堅調に推移したものの、為替の影響等により、売上高は1,017億円と前連結会計年度に比べ133億円、11.6％の減収となり、営業利益は11億円と前連結会計年度に比べ５億円、33.5％の減益となりました",
+      "opinions": [
+        {
+          "target": "取扱い",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 7,
+          "to": 10
+        },
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "negative",
+          "from": 32,
+          "to": 35
+        },
+        {
+          "target": "営業利益",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 72,
+          "to": 76
+        }
+      ]
+    },
+    {
+      "sentence_id": 29,
+      "sentence": "⑤南アジア・オセアニア（ロジスティクス）",
+      "opinions": []
+    },
+    {
+      "sentence_id": 30,
+      "sentence": "新規連結会社が加わったこと等により、売上高は703億円と前連結会計年度に比べ１億円、0.2％の増収となり、営業利益は24億円と前連結会計年度に比べ９億円、58.5％の増益となりました",
+      "opinions": [
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 18,
+          "to": 21
+        },
+        {
+          "target": "営業利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 53,
+          "to": 57
+        }
+      ]
+    },
+    {
+      "sentence_id": 31,
+      "sentence": "⑥警備輸送",
+      "opinions": []
+    },
+    {
+      "sentence_id": 32,
+      "sentence": "輸送業務の取扱いが堅調に推移したこと等により、売上高は547億円と前連結会計年度に比べ９億円、1.8％の増収となりましたが、営業利益は９億円と前連結会計年度に比べ６億円、38.6％の減益となりました",
+      "opinions": [
+        {
+          "target": "取扱い",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 5,
+          "to": 8
+        },
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 23,
+          "to": 26
+        },
+        {
+          "target": "営業利益",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 62,
+          "to": 66
+        }
+      ]
+    },
+    {
+      "sentence_id": 33,
+      "sentence": "⑦重量品建設",
+      "opinions": []
+    },
+    {
+      "sentence_id": 34,
+      "sentence": "海外における各種プロジェクト案件が減少したこと等により、売上高は469億円と前連結会計年度に比べ44億円、8.6％の減収となりましたが、営業利益は38億円と前連結会計年度に比べ１億円、5.3％の増益となりました",
+      "opinions": [
+        {
+          "target": "各種プロジェクト案件",
+          "category": "NULL#amount",
+          "polarity": "negative",
+          "from": 6,
+          "to": 16
+        },
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "negative",
+          "from": 28,
+          "to": 31
+        },
+        {
+          "target": "営業利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 68,
+          "to": 72
+        }
+      ]
+    },
+    {
+      "sentence_id": 35,
+      "sentence": "⑧物流サポート",
+      "opinions": []
+    },
+    {
+      "sentence_id": 36,
+      "sentence": "石油販売単価が下落したこと等により、売上高は4,039億円と前連結会計年度に比べ69億円、1.7％の減収となりましたが、営業利益は100億円と前連結会計年度に比べ18億円、22.7％の増益となりました",
+      "opinions": [
+        {
+          "target": "石油販売単価",
+          "category": "NULL#price",
+          "polarity": "negative",
+          "from": 0,
+          "to": 6
+        },
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "negative",
+          "from": 18,
+          "to": 21
+        },
+        {
+          "target": "営業利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 60,
+          "to": 64
+        }
+      ]
+    },
+    {
+      "sentence_id": 37,
+      "sentence": "※当連結会計年度より報告セグメントの区分を変更しております",
+      "opinions": []
+    },
+    {
+      "sentence_id": 38,
+      "sentence": "詳細は、「第５　経理の状況」「１．連結財務諸表等　注記事項（セグメント情報等）」に記載しております",
+      "opinions": []
+    }
+  ]
+}

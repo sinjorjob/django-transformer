@@ -1,0 +1,304 @@
+{
+  "header": {
+    "document_id": "E00721",
+    "document_name": "株式会社昭文社",
+    "doc_text": "訂正有価証券報告書",
+    "edi_id": "E00721",
+    "security_code": "94750",
+    "category33": "情報・通信業",
+    "category17": "情報通信・サービスその他",
+    "scale": "7"
+  },
+  "sentences": [
+    {
+      "sentence_id": 0,
+      "sentence": "当連結会計年度（平成28年４月1日～平成29年３月31日）におけるわが国の経済は、緩やかな回復基調にあるものの、個人消費は弱含みで推移、アジア新興国の成長鈍化の懸念や米国大統領選結果による政策動向の影響等により、先行き不透明な状況が続いております",
+      "opinions": [
+        {
+          "target": "わが国の経済",
+          "category": "NULL#general",
+          "polarity": "neutral",
+          "from": 33,
+          "to": 39
+        },
+        {
+          "target": "個人消費",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 56,
+          "to": 60
+        }
+      ]
+    },
+    {
+      "sentence_id": 1,
+      "sentence": "このような状況の中、当連結会計年度において当社グループは、当社の新規事業である訪日外国人観光客向けのインバウンド事業を拡大すべく、訪日外国人観光客向けアプリ『DiGJAPAN！』の改善・改良や収録エリア拡大、プレミアムクーポン提供や地方自治体との提携等積極的に取り組むとともに、『DiGJAPAN！』ウェブサイトの強化や微博（ウェイボー）や微信（ウィチャット）への情報発信もスタートいたしました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 2,
+      "sentence": "５月には台湾企業と提携し『DiGJAPAN！』システムを転用した『DiGTAIWAN！』もスタートいたしました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 3,
+      "sentence": "また、訪日ビジネスに役立つ法人用地図配信サービス『Mapple API多言語マップ（ベクトル配信型）』の販売も開始いたしました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 4,
+      "sentence": "11月には、中国においてWeChatPay等を利用したモバイル決済ソリューションシステム及び店舗向けマーケティングソリューションシステムを提供しているQFPay社と㈱ウィズ・パートナーズと共に同システムを日本で展開するための合弁会社、QFPay Japan㈱を設立し、準備作業を開始しました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 5,
+      "sentence": "３月には、海外旅行者向けレストラン予約サービス「グルヤク」事業を事業譲受により取得いたしました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 6,
+      "sentence": "同事業は当社の既存事業との相乗効果も充分期待できるとともに、多言語展開することでインバウンド事業等への展開も可能であると考えております",
+      "opinions": []
+    },
+    {
+      "sentence_id": 7,
+      "sentence": "また、出版事業における事業拡大を目指し注力している、本とアプリの＜ダブル使い＞といった新たな旅のスタイルを提供する当社『まっぷるマガジン』の電子付録である「まっぷるリンク」の機能改善や対応商品の拡大に努めることで累計840万ダウンロードを超える実績を獲得いたしました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 8,
+      "sentence": "子会社㈱トリプコンにおいては、７月には６言語対応の旅とおでかけの総合比較サイト『TRIPCON（トリプコン）』をオープン、11月には国内外からの集客を一元管理できる宿泊施設向けプラットフォーム「トリプコンビズ」を発売開始いたしました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 9,
+      "sentence": "「ことりっぷ」ブランドにおいては、多くの自治体からの小冊子受託が増加、また多くの企業と協業した旅行グッズや食品、文房具等のコラボレーション商品も多数販売されました",
+      "opinions": [
+        {
+          "target": "ことりっぷ",
+          "category": "product#amount",
+          "polarity": "positive",
+          "from": 1,
+          "to": 6
+        }
+      ]
+    },
+    {
+      "sentence_id": 10,
+      "sentence": "当連結会計年度における業績は、電子売上では、簡易型カーナビゲーション用アプリケーションソフト『マップルナビ』において、スマートフォン等での無料ナビアプリの影響や軽自動車の販売不振の影響が大きく、売上高が大幅に減少、また以前より継続的にあった大型案件の失注を補うための新規案件獲得が想定通り進まなかったこともあり、売上高は28億42百万円となり、前連結会計年度に比べ６億60百万円減少しました（前年同期比△18.9％）",
+      "opinions": [
+        {
+          "target": "電子売上",
+          "category": "business#sales",
+          "polarity": "negative",
+          "from": 15,
+          "to": 19
+        },
+        {
+          "target": "マップルナビ",
+          "category": "product#sales",
+          "polarity": "negative",
+          "from": 47,
+          "to": 53
+        },
+        {
+          "target": "軽自動車",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 80,
+          "to": 84
+        }
+      ]
+    },
+    {
+      "sentence_id": 11,
+      "sentence": "また市販出版物においては、『首都圏発　日帰り大人の小さな旅』等一部のヒット商品や『まっぷるマガジンmini版』出版による効果はあったものの、前連結会計年度にあったような新規シリーズやガイドシリーズの全面改訂等もなく、書店店頭での実売状況も好転しない中、売上高は大きく減少することとなりました",
+      "opinions": [
+        {
+          "target": "市販出版物",
+          "category": "product#sales",
+          "polarity": "negative",
+          "from": 2,
+          "to": 7
+        },
+        {
+          "target": "実売状況",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 114,
+          "to": 118
+        }
+      ]
+    },
+    {
+      "sentence_id": 12,
+      "sentence": "加えて第1四半期にはゴールデン・ウィークに向けた『まっぷるマガジン』の改訂版出版に伴う旧版の入替返品が、第4四半期おいては、地図商品の改訂版出版に伴う旧版の入替返品が、どちらも想定を大きく超過する結果となり、市販出版物の売上高は58億76百万円となり、前連結会計年度に比べ20億73百万円減少しました（前年同期比△26.1％）",
+      "opinions": [
+        {
+          "target": "まっぷるマガジン",
+          "category": "product#amount",
+          "polarity": "negative",
+          "from": 25,
+          "to": 33
+        },
+        {
+          "target": "市販出版物",
+          "category": "business#sales",
+          "polarity": "negative",
+          "from": 104,
+          "to": 109
+        }
+      ]
+    },
+    {
+      "sentence_id": 13,
+      "sentence": "損益面におきましては、返品調整引当金繰入差額は多額の戻入となったものの、売上高の大幅な減少や返品の増加に加え、退職給付費用の増加や人事制度変更に伴う賞与引当金計上額の増加、取引先である地図専門取次の破産に伴う貸倒引当金の増加等もあり製造原価、販売費及び一般管理費共に高騰いたしました",
+      "opinions": [
+        {
+          "target": "返品調整引当金繰入差額",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 11,
+          "to": 22
+        },
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "negative",
+          "from": 36,
+          "to": 39
+        },
+        {
+          "target": "返品",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 46,
+          "to": 48
+        },
+        {
+          "target": "退職給付費用",
+          "category": "NULL#cost",
+          "polarity": "negative",
+          "from": 55,
+          "to": 61
+        },
+        {
+          "target": "賞与引当金計上額",
+          "category": "NULL#cost",
+          "polarity": "negative",
+          "from": 74,
+          "to": 82
+        },
+        {
+          "target": "貸倒引当金",
+          "category": "NULL#cost",
+          "polarity": "negative",
+          "from": 104,
+          "to": 109
+        },
+        {
+          "target": "製造原価",
+          "category": "NULL#cost",
+          "polarity": "negative",
+          "from": 116,
+          "to": 120
+        },
+        {
+          "target": "販売費及び一般管理費",
+          "category": "NULL#cost",
+          "polarity": "negative",
+          "from": 121,
+          "to": 131
+        }
+      ]
+    },
+    {
+      "sentence_id": 14,
+      "sentence": "また今後の事業展開を考慮し、当社地図データベースの根本的改善施策を前倒し実施したことによるメンテナンス費用の増加も製造原価高騰の要因となっております",
+      "opinions": [
+        {
+          "target": "メンテナンス費用",
+          "category": "NULL#cost",
+          "polarity": "negative",
+          "from": 45,
+          "to": 53
+        }
+      ]
+    },
+    {
+      "sentence_id": 15,
+      "sentence": "また利益率の高い電子売上の売上減少も利益に大きな影響を与えました",
+      "opinions": [
+        {
+          "target": "電子売上",
+          "category": "business#sales",
+          "polarity": "negative",
+          "from": 8,
+          "to": 12
+        }
+      ]
+    },
+    {
+      "sentence_id": 16,
+      "sentence": "これにより、当連結会計年度では当初予想の損失額を大きく上回り、営業損失22億76百万円を計上いたしました（前年同期は、営業利益３億６百万円）",
+      "opinions": [
+        {
+          "target": "営業損失",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 31,
+          "to": 35
+        }
+      ]
+    },
+    {
+      "sentence_id": 17,
+      "sentence": "経常損失は22億６百万円となりました（前年同期は、経常利益３億63百万円）",
+      "opinions": [
+        {
+          "target": "経常損失",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 0,
+          "to": 4
+        }
+      ]
+    },
+    {
+      "sentence_id": 18,
+      "sentence": "上記結果から当連結会計年度においては多額の損失計上となるとともに、翌期（平成30年３月期）においても、厳しい事業環境は続くものと想定されます",
+      "opinions": []
+    },
+    {
+      "sentence_id": 19,
+      "sentence": "これに伴い、当社及び連結子会社が保有する固定資産につきまして、「固定資産の減損に係る会計基準」に基づき将来の回収可能性を検討した結果、特別損失として12億３百万円の減損損失を計上いたしました",
+      "opinions": [
+        {
+          "target": "特別損失",
+          "category": "NULL#sales",
+          "polarity": "negative",
+          "from": 67,
+          "to": 71
+        }
+      ]
+    },
+    {
+      "sentence_id": 20,
+      "sentence": "減損損失の主な内訳は、データベース1億82百万円、ソフトウェア９億22百万円、工具器具備品83百万円、機械装置及び運搬具16百万円となっております",
+      "opinions": []
+    },
+    {
+      "sentence_id": 21,
+      "sentence": "この結果、親会社株主に帰属する当期純損失は34億23百万円となりました（前年同期は、親会社株主に帰属する当期純利益５億13百万円）",
+      "opinions": [
+        {
+          "target": "当期純損失",
+          "category": "NULL#sales",
+          "polarity": "neutral",
+          "from": 15,
+          "to": 20
+        }
+      ]
+    }
+  ]
+}

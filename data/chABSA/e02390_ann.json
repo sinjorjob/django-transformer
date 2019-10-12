@@ -1,0 +1,366 @@
+{
+  "header": {
+    "document_id": "E02390",
+    "document_name": "株式会社エンプラス",
+    "doc_text": "有価証券報告書",
+    "edi_id": "E02390",
+    "security_code": "69610",
+    "category33": "電気機器",
+    "category17": "電機・精密",
+    "scale": "6"
+  },
+  "sentences": [
+    {
+      "sentence_id": 0,
+      "sentence": "当連結会計年度における世界経済は、米国市場では、新政権の誕生により一時混乱が見られたものの、景気は緩やかに拡大しました",
+      "opinions": [
+        {
+          "target": "景気",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 46,
+          "to": 48
+        }
+      ]
+    },
+    {
+      "sentence_id": 1,
+      "sentence": "中国市場においては、公共投資により景気が下支えされましたが、不動産市場には過熱感が見られます",
+      "opinions": [
+        {
+          "target": "景気",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 17,
+          "to": 19
+        },
+        {
+          "target": "不動産市場",
+          "category": "market#general",
+          "polarity": "negative",
+          "from": 30,
+          "to": 35
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "sentence": "新興国・地域においては、ドル高を受けた資本流出が一服し、総じて景気の改善が見られました",
+      "opinions": [
+        {
+          "target": "景気",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 31,
+          "to": 33
+        }
+      ]
+    },
+    {
+      "sentence_id": 3,
+      "sentence": "また、わが国経済は、海外経済の回復や五輪関連の設備投資の増加を受け、緩やかな回復基調となりました",
+      "opinions": [
+        {
+          "target": "わが国経済",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 3,
+          "to": 8
+        },
+        {
+          "target": "設備投資",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 23,
+          "to": 27
+        }
+      ]
+    },
+    {
+      "sentence_id": 4,
+      "sentence": "しかし、欧州でのBREXITをめぐる先行き不透明感の高まり、各国における保護主義の台頭や急激な為替変動のリスク、また、国内における人手不足の顕在化など、依然として予断を許さない状況が続いています",
+      "opinions": [
+        {
+          "target": "欧州",
+          "category": "NULL#general",
+          "polarity": "neutral",
+          "from": 4,
+          "to": 6
+        },
+        {
+          "target": "人手不足",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 65,
+          "to": 69
+        }
+      ]
+    },
+    {
+      "sentence_id": 5,
+      "sentence": "このような状況の中、当社グループでは、さらなる成長を目指すため、以下を当期の経営基本方針として取り組んでまいりました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 6,
+      "sentence": "1. Operational Excellence/業務改善プロセスの定着",
+      "opinions": []
+    },
+    {
+      "sentence_id": 7,
+      "sentence": "2. Specification Technology/スペックビジネスの推進",
+      "opinions": []
+    },
+    {
+      "sentence_id": 8,
+      "sentence": "3. Multiple Growth/多様な成長戦略の実行",
+      "opinions": []
+    },
+    {
+      "sentence_id": 9,
+      "sentence": "また、上記経営基本方針の下、グローバル競争の激化等、当社を取り巻く環境の変化に迅速に対応し、企業価値の向上及び株主価値の拡大を図るべく次の重点推進事項を進めてまいりました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 10,
+      "sentence": "1. イノベーションへの積極投資",
+      "opinions": []
+    },
+    {
+      "sentence_id": 11,
+      "sentence": "2. マーケティング機能の強化",
+      "opinions": []
+    },
+    {
+      "sentence_id": 12,
+      "sentence": "3. 戦略製品の開発促進",
+      "opinions": []
+    },
+    {
+      "sentence_id": 13,
+      "sentence": "4. 最先端評価技術の強化",
+      "opinions": []
+    },
+    {
+      "sentence_id": 14,
+      "sentence": "5. 多様な事業機会の創出",
+      "opinions": []
+    },
+    {
+      "sentence_id": 15,
+      "sentence": "当連結会計年度の主な実施施策としましては、グローバル経営を進化させることを目的として、米国統括会社の機能を大幅に強化し、また、欧州統括機能を担うイギリスの子会社を設立し、事業開発を推進しております",
+      "opinions": []
+    },
+    {
+      "sentence_id": 16,
+      "sentence": "加えて、ソリューションビジネス強化のための最先端評価技術の開発や多様な事業機会を創出するための積極的な投資を拡大しました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 17,
+      "sentence": "その他、社員の経営参画への意識を高め、全社一丸となって将来の業績向上へのインセンティブとするためストックオプションを発行いたしました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 18,
+      "sentence": "この結果、当連結会計年度の売上高は32,991百万円（前期比14.8％減）となり、営業利益は4,151百万円（前期比58.2％減）、経常利益は4,077百万円（前期比58.5％減）となりました",
+      "opinions": [
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "negative",
+          "from": 13,
+          "to": 16
+        },
+        {
+          "target": "営業利益",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 41,
+          "to": 45
+        },
+        {
+          "target": "経常利益",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 66,
+          "to": 70
+        }
+      ]
+    },
+    {
+      "sentence_id": 19,
+      "sentence": "また、親会社株主に帰属する当期純利益は、遊休土地の売却や引当金の戻入れにより5,152百万円（前期比7.9％減）となりました",
+      "opinions": [
+        {
+          "target": "当期純利益",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 13,
+          "to": 18
+        }
+      ]
+    },
+    {
+      "sentence_id": 20,
+      "sentence": "各セグメントの業績概況は次のとおりであります",
+      "opinions": []
+    },
+    {
+      "sentence_id": 21,
+      "sentence": "「エンプラ事業」",
+      "opinions": []
+    },
+    {
+      "sentence_id": 22,
+      "sentence": "自動車用部品は米国を中心とした良好な市況に支えられ、安定的に推移しているものの、プリンター用部品はプリンター市場の成熟に加え価格競争の激化も重なり、低調に推移しました",
+      "opinions": [
+        {
+          "target": "部品",
+          "category": "product#general",
+          "polarity": "positive",
+          "from": 4,
+          "to": 6
+        },
+        {
+          "target": "市況",
+          "category": "market#general",
+          "polarity": "positive",
+          "from": 18,
+          "to": 20
+        },
+        {
+          "target": "部品",
+          "category": "product#general",
+          "polarity": "negative",
+          "from": 46,
+          "to": 48
+        },
+        {
+          "target": "プリンター市場",
+          "category": "market#general",
+          "polarity": "negative",
+          "from": 49,
+          "to": 56
+        }
+      ]
+    },
+    {
+      "sentence_id": 23,
+      "sentence": "この結果、当連結会計年度の売上高は12,863百万円（前期比1.0％減）、セグメント営業損失は174百万円（前期は671百万円の営業利益）となりました",
+      "opinions": [
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "negative",
+          "from": 13,
+          "to": 16
+        },
+        {
+          "target": "セグメント営業損失",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 37,
+          "to": 46
+        }
+      ]
+    },
+    {
+      "sentence_id": 24,
+      "sentence": "「半導体機器事業」",
+      "opinions": []
+    },
+    {
+      "sentence_id": 25,
+      "sentence": "海外主要顧客の生産調整による影響を一部受けたものの、当期注力したテストソケットの受注が拡大し、車載用途についても好調な販売となりました",
+      "opinions": [
+        {
+          "target": "テストソケット",
+          "category": "product#amount",
+          "polarity": "positive",
+          "from": 32,
+          "to": 39
+        },
+        {
+          "target": "車載用途",
+          "category": "product#amount",
+          "polarity": "positive",
+          "from": 47,
+          "to": 51
+        }
+      ]
+    },
+    {
+      "sentence_id": 26,
+      "sentence": "円高の影響も大きく受けた結果、当連結会計年度の売上高は10,298百万円（前期比15.6％増）、セグメント営業利益は1,299百万円（前期比26.5％減）となりました",
+      "opinions": [
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 23,
+          "to": 26
+        },
+        {
+          "target": "セグメント営業利益",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 48,
+          "to": 57
+        }
+      ]
+    },
+    {
+      "sentence_id": 27,
+      "sentence": "「オプト事業」",
+      "opinions": []
+    },
+    {
+      "sentence_id": 28,
+      "sentence": "光通信関連の光学デバイスはサーバー需要が底堅く、ハイエンド製品を中心に販売が好調でしたが、主力のLED用拡散レンズは、積極的な提案活動により顧客基盤の強化・拡大を進めたものの、主要顧客の生産調整の影響を強く受け、売上は低調に推移しました",
+      "opinions": [
+        {
+          "target": "光学デバイス",
+          "category": "product#amount",
+          "polarity": "positive",
+          "from": 6,
+          "to": 12
+        },
+        {
+          "target": "サーバー需要",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 13,
+          "to": 19
+        },
+        {
+          "target": "LED用拡散レンズ",
+          "category": "product#sales",
+          "polarity": "negative",
+          "from": 48,
+          "to": 57
+        }
+      ]
+    },
+    {
+      "sentence_id": 29,
+      "sentence": "この結果、当連結会計年度の売上高は9,829百万円（前期比41.6％減）、セグメント営業利益は3,026百万円（前期比59.6％減）となりました",
+      "opinions": [
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "negative",
+          "from": 13,
+          "to": 16
+        },
+        {
+          "target": "セグメント営業利益",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 37,
+          "to": 46
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,520 @@
+{
+  "header": {
+    "document_id": "E27633",
+    "document_name": "東急不動産ホールディングス株式会社",
+    "doc_text": "有価証券報告書",
+    "edi_id": "E27633",
+    "security_code": "32890",
+    "category33": "不動産業",
+    "category17": "不動産",
+    "scale": "4"
+  },
+  "sentences": [
+    {
+      "sentence_id": 0,
+      "sentence": "当期の業績は、売上高8,085億円（対前期△0.9％）、営業利益732億円（同＋6.5％）、経常利益636億円（同＋12.9％）、親会社株主に帰属する当期純利益315億円（同＋9.7％）となりました",
+      "opinions": [
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "negative",
+          "from": 7,
+          "to": 10
+        },
+        {
+          "target": "営業利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 28,
+          "to": 32
+        },
+        {
+          "target": "経常利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 46,
+          "to": 50
+        },
+        {
+          "target": "当期純利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 75,
+          "to": 80
+        }
+      ]
+    },
+    {
+      "sentence_id": 1,
+      "sentence": "都市事業セグメントにおいて投資家向けのビル等売却収益が減少したこと等により減収となったものの、住宅事業セグメントにおいて分譲マンションが増益となったこと、仲介事業セグメントやウェルネス事業セグメントにおける都市型ホテルの東急ステイが好調に推移したこと等により増益となりました",
+      "opinions": [
+        {
+          "target": "ビル等売却収益",
+          "category": "NULL#sales",
+          "polarity": "negative",
+          "from": 19,
+          "to": 26
+        },
+        {
+          "target": "分譲マンション",
+          "category": "product#profit",
+          "polarity": "positive",
+          "from": 60,
+          "to": 67
+        },
+        {
+          "target": "東急ステイ",
+          "category": "product#general",
+          "polarity": "positive",
+          "from": 110,
+          "to": 115
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "sentence": "＜セグメント別業績＞",
+      "opinions": []
+    },
+    {
+      "sentence_id": 3,
+      "sentence": "①　都市事業",
+      "opinions": []
+    },
+    {
+      "sentence_id": 4,
+      "sentence": "売上高は2,490億円（対前期△3.8％）、営業利益は449億円（同＋0.1％）となりました",
+      "opinions": [
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "negative",
+          "from": 0,
+          "to": 3
+        },
+        {
+          "target": "営業利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 22,
+          "to": 26
+        }
+      ]
+    },
+    {
+      "sentence_id": 5,
+      "sentence": "投資家向けのビル等売却収益が減少したこと等により減収となりましたが、前期に開業した商業施設「東急プラザ銀座」等の稼動による寄与や既存物件の賃貸収益の改善等により増益となりました",
+      "opinions": [
+        {
+          "target": "ビル等売却収益",
+          "category": "NULL#sales",
+          "polarity": "negative",
+          "from": 6,
+          "to": 13
+        },
+        {
+          "target": "東急プラザ銀座",
+          "category": "product#general",
+          "polarity": "positive",
+          "from": 46,
+          "to": 53
+        },
+        {
+          "target": "賃貸収益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 69,
+          "to": 73
+        }
+      ]
+    },
+    {
+      "sentence_id": 6,
+      "sentence": "なお、空室率（オフィスビル・商業施設）は既存物件でのテナント入替の影響等により2.0％と前期末から上昇しましたが、引き続き低水準を維持しております",
+      "opinions": [
+        {
+          "target": "空室率",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 3,
+          "to": 6
+        }
+      ]
+    },
+    {
+      "sentence_id": 7,
+      "sentence": "賃貸床面積・空室率（オフィスビル・商業施設）",
+      "opinions": []
+    },
+    {
+      "sentence_id": 8,
+      "sentence": "②　住宅事業",
+      "opinions": []
+    },
+    {
+      "sentence_id": 9,
+      "sentence": "売上高は1,085億円（対前期△7.8％）、営業利益は97億円（同＋38.8％）となりました",
+      "opinions": [
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "negative",
+          "from": 0,
+          "to": 3
+        },
+        {
+          "target": "営業利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 22,
+          "to": 26
+        }
+      ]
+    },
+    {
+      "sentence_id": 10,
+      "sentence": "土地の一括売却が減少したこと等により減収となりましたが、分譲マンションにおいて高価格帯物件が増加したこと等により売上が増加、粗利益率も改善したことにより増益となりました",
+      "opinions": [
+        {
+          "target": "分譲マンション",
+          "category": "product#sales",
+          "polarity": "positive",
+          "from": 28,
+          "to": 35
+        },
+        {
+          "target": "高価格帯物件",
+          "category": "product#amount",
+          "polarity": "positive",
+          "from": 39,
+          "to": 45
+        },
+        {
+          "target": "粗利益率",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 62,
+          "to": 66
+        }
+      ]
+    },
+    {
+      "sentence_id": 11,
+      "sentence": "販売については引き続き順調に推移しており、マンションの次期売上予想に対する契約済み割合は54％（同△３Ｐ）となっております",
+      "opinions": [
+        {
+          "target": "販売",
+          "category": "NULL#amount",
+          "polarity": "positive",
+          "from": 0,
+          "to": 2
+        }
+      ]
+    },
+    {
+      "sentence_id": 12,
+      "sentence": "なお、当期において分譲マンションは「ブランズタワーみなとみらい」（神奈川県横浜市）、「ブランズ　ザ・ハウス一番町」（東京都千代田区）、「ブランズ代々木」（東京都渋谷区）、「ブランズ三国ステーションレジデンス」（大阪府大阪市）等を計上いたしました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 13,
+      "sentence": "③　管理事業",
+      "opinions": []
+    },
+    {
+      "sentence_id": 14,
+      "sentence": "売上高は1,486億円（対前期＋2.3％）、営業利益は81億円（同＋0.6％）となりました",
+      "opinions": [
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 0,
+          "to": 3
+        },
+        {
+          "target": "営業利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 22,
+          "to": 26
+        }
+      ]
+    },
+    {
+      "sentence_id": 15,
+      "sentence": "㈱東急コミュニティーにおいて管理ストックがマンション、ビルともに拡大し増収増益となりました",
+      "opinions": [
+        {
+          "target": "㈱東急コミュニティー",
+          "category": "company#sales",
+          "polarity": "positive",
+          "from": 0,
+          "to": 10
+        },
+        {
+          "target": "㈱東急コミュニティー",
+          "category": "company#profit",
+          "polarity": "positive",
+          "from": 0,
+          "to": 10
+        },
+        {
+          "target": "マンション",
+          "category": "product#general",
+          "polarity": "positive",
+          "from": 21,
+          "to": 26
+        },
+        {
+          "target": "ビル",
+          "category": "product#general",
+          "polarity": "positive",
+          "from": 27,
+          "to": 29
+        }
+      ]
+    },
+    {
+      "sentence_id": 16,
+      "sentence": "マンションの居住者向けにカスタマーセンターを設置するなどサービス品質の向上に努めるとともに、指定管理者として公営住宅等の管理の受注を強化、平成29年３月末のマンション管理ストックは741千戸（うち総合管理戸数515千戸）となっております",
+      "opinions": []
+    },
+    {
+      "sentence_id": 17,
+      "sentence": "④　仲介事業",
+      "opinions": []
+    },
+    {
+      "sentence_id": 18,
+      "sentence": "売上高は821億円（対前期＋2.2％）、営業利益は113億円（同＋10.4％）となりました",
+      "opinions": [
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 0,
+          "to": 3
+        },
+        {
+          "target": "営業利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 20,
+          "to": 24
+        }
+      ]
+    },
+    {
+      "sentence_id": 19,
+      "sentence": "東急リバブル㈱において、不動産流通市場の好調を背景に、リテール部門で14店舗の新規出店を進めるとともに、好評をいただいている「リバブルあんしん仲介保証」のサービス内容の拡充に努めるなど個人のお客様を対象とするサービスの充実にも努めております",
+      "opinions": [
+        {
+          "target": "不動産流通市場",
+          "category": "market#general",
+          "polarity": "positive",
+          "from": 12,
+          "to": 19
+        }
+      ]
+    },
+    {
+      "sentence_id": 20,
+      "sentence": "売買仲介のうちリテール部門において、取引件数・成約価格が上昇、増収増益となりました",
+      "opinions": [
+        {
+          "target": "リテール部門",
+          "category": "business#amount",
+          "polarity": "positive",
+          "from": 7,
+          "to": 13
+        },
+        {
+          "target": "リテール部門",
+          "category": "business#sales",
+          "polarity": "positive",
+          "from": 7,
+          "to": 13
+        },
+        {
+          "target": "リテール部門",
+          "category": "business#profit",
+          "polarity": "positive",
+          "from": 7,
+          "to": 13
+        }
+      ]
+    },
+    {
+      "sentence_id": 21,
+      "sentence": "⑤　ウェルネス事業",
+      "opinions": []
+    },
+    {
+      "sentence_id": 22,
+      "sentence": "売上高は944億円（対前期＋4.7％）、営業利益は76億円（同＋18.2％）となりました",
+      "opinions": [
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 0,
+          "to": 3
+        },
+        {
+          "target": "営業利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 20,
+          "to": 24
+        }
+      ]
+    },
+    {
+      "sentence_id": 23,
+      "sentence": "都市型ホテルの東急ステイにおける客室単価の上昇により増収となったことに加え、別荘・会員権販売において当期から供給を開始した「東急ハーヴェストクラブ軽井沢＆VIALA」の会員権登録金収入や別荘地の売上があったこと等から増収増益となりました",
+      "opinions": [
+        {
+          "target": "東急ステイ",
+          "category": "product#price",
+          "polarity": "positive",
+          "from": 7,
+          "to": 12
+        },
+        {
+          "target": "東急ステイ",
+          "category": "product#sales",
+          "polarity": "positive",
+          "from": 7,
+          "to": 12
+        },
+        {
+          "target": "東急ハーヴェストクラブ軽井沢＆VIALA",
+          "category": "product#sales",
+          "polarity": "positive",
+          "from": 62,
+          "to": 82
+        },
+        {
+          "target": "別荘地",
+          "category": "product#sales",
+          "polarity": "positive",
+          "from": 93,
+          "to": 96
+        }
+      ]
+    },
+    {
+      "sentence_id": 24,
+      "sentence": "⑥　ハンズ事業",
+      "opinions": []
+    },
+    {
+      "sentence_id": 25,
+      "sentence": "売上高は972億円（対前期＋1.5％）、営業利益は３億円（同△76.3％）となりました",
+      "opinions": [
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 0,
+          "to": 3
+        },
+        {
+          "target": "営業利益",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 20,
+          "to": 24
+        }
+      ]
+    },
+    {
+      "sentence_id": 26,
+      "sentence": "㈱東急ハンズにおいて、創業40周年を契機とした様々なキャンペーンを行うとともに、ヒントショーなど独自接客コンテンツの強化を通じて「ハンズ」ブランドの価値向上に努めました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 27,
+      "sentence": "新規店舗の寄与等により増収となりましたが、既存店の減収（同△4.5％）や記念キャンペーンに伴う販促費の増加等により減益となりました",
+      "opinions": [
+        {
+          "target": "新規店舗",
+          "category": "product#sales",
+          "polarity": "positive",
+          "from": 0,
+          "to": 4
+        },
+        {
+          "target": "既存店",
+          "category": "product#sales",
+          "polarity": "negative",
+          "from": 21,
+          "to": 24
+        },
+        {
+          "target": "販促費",
+          "category": "NULL#cost",
+          "polarity": "negative",
+          "from": 47,
+          "to": 50
+        }
+      ]
+    },
+    {
+      "sentence_id": 28,
+      "sentence": "なお、新規店舗として平成28年４月に「東急ハンズ長崎店」、10月に「東急ハンズららぽーと湘南平塚店」、「東急ハンズ金沢店」、11月に海外３店舗目となる「東急ハンズサンテックシティ店」（シンガポール）が開業いたしました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 29,
+      "sentence": "また、平成29年4月に「東急ハンズあまがさきキューズモール店」を開業するなど着実な事業拡大に努めております",
+      "opinions": []
+    },
+    {
+      "sentence_id": 30,
+      "sentence": "⑦　次世代・関連事業",
+      "opinions": []
+    },
+    {
+      "sentence_id": 31,
+      "sentence": "売上高は496億円（対前期△3.2％）、19億円の営業損失となりました",
+      "opinions": [
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "negative",
+          "from": 0,
+          "to": 3
+        },
+        {
+          "target": "営業損失",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 25,
+          "to": 29
+        }
+      ]
+    },
+    {
+      "sentence_id": 32,
+      "sentence": "前期に海外事業において物件売却があったこと等により減収となりましたが、リフォーム・注文住宅事業における完工高増加や費用の減少等により増益となりました",
+      "opinions": [
+        {
+          "target": "リフォーム・注文住宅事業",
+          "category": "business#sales",
+          "polarity": "positive",
+          "from": 35,
+          "to": 47
+        },
+        {
+          "target": "リフォーム・注文住宅事業",
+          "category": "business#cost",
+          "polarity": "positive",
+          "from": 35,
+          "to": 47
+        }
+      ]
+    }
+  ]
+}

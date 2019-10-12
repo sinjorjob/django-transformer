@@ -1,0 +1,523 @@
+{
+  "header": {
+    "document_id": "E05155",
+    "document_name": "株式会社イーエムシステムズ（商号　株式会社ＥＭシステムズ）",
+    "doc_text": "有価証券報告書",
+    "edi_id": "E05155",
+    "security_code": "48200",
+    "category33": "情報・通信業",
+    "category17": "情報通信・サービスその他",
+    "scale": "7"
+  },
+  "sentences": [
+    {
+      "sentence_id": 0,
+      "sentence": "当連結会計年度におけるわが国経済は、政府による経済対策や日本銀行による金融政策を背景とした企業収益の改善と雇用環境の改善により、引き続き緩やかな景気回復傾向や企業業績の改善傾向に変化はないものの、将来不安による消費マインドの低迷などの影響を受け、依然として先行き不透明な状況が続いております",
+      "opinions": [
+        {
+          "target": "わが国経済",
+          "category": "NULL#general",
+          "polarity": "neutral",
+          "from": 11,
+          "to": 16
+        },
+        {
+          "target": "企業収益",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 45,
+          "to": 49
+        },
+        {
+          "target": "雇用環境",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 53,
+          "to": 57
+        },
+        {
+          "target": "企業業績",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 79,
+          "to": 83
+        },
+        {
+          "target": "消費マインド",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 105,
+          "to": 111
+        }
+      ]
+    },
+    {
+      "sentence_id": 1,
+      "sentence": "当社の主要販売先であります薬局におきましては、市場が飽和しつつある中、昨年４月に実施された調剤報酬及び薬価の改定の影響を受け、大手チェーンのＭ＆Ａ等による規模拡大により業界再編が進む一方、中小薬局を取り巻く環境は厳しさを増しております",
+      "opinions": [
+        {
+          "target": "市場",
+          "category": "market#general",
+          "polarity": "negative",
+          "from": 23,
+          "to": 25
+        },
+        {
+          "target": "環境",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 103,
+          "to": 105
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "sentence": "また平成30年に予定されている調剤報酬改定も更に厳しい内容になる見通しです",
+      "opinions": [
+        {
+          "target": "調剤報酬改定",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 15,
+          "to": 21
+        }
+      ]
+    },
+    {
+      "sentence_id": 3,
+      "sentence": "このような厳しい薬局経営を支援する為、平成29年１月利用分より、月額基本料を現行から10％値下げしたほか、５年を超えてご利用いただくお客様に対しては、更に月額基本料を段階的に割り引く価格改定を実施しました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 4,
+      "sentence": "この価格改定により、末永く当社製品をご利用いただく事を目的とし、お客様の満足度と当社の価格競争力の向上を目指します",
+      "opinions": []
+    },
+    {
+      "sentence_id": 5,
+      "sentence": "そして、「2025年問題」に象徴される高齢化社会を見据え、当社では医療（クリニック・薬局）と介護の連携を実現すべく、昨年から介護事業者向けシステム事業へ本格的に参入しておりましたが、３月に医療介護連携ソリューション「ひろがるケアネット」をリリースいたしました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 6,
+      "sentence": "当社のクリニック向け、薬局向け、介護サービス事業者向けのシステム間でのシームレスな連携機能を構築することで、医療と介護の円滑な情報の連携を実現いたします",
+      "opinions": []
+    },
+    {
+      "sentence_id": 7,
+      "sentence": "この結果、当連結会計年度の業績は、売上高13,676百万円（前年同期比3.6％増）、営業利益2,597百万円（前年同期比39.5％増）、経常利益3,163百万円（前年同期比29.3％増）、親会社株主に帰属する当期純利益2,116百万円（前年同期比30.5％増）となりました",
+      "opinions": [
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 17,
+          "to": 20
+        },
+        {
+          "target": "営業利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 42,
+          "to": 46
+        },
+        {
+          "target": "経常利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 68,
+          "to": 72
+        },
+        {
+          "target": "当期純利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 104,
+          "to": 109
+        }
+      ]
+    },
+    {
+      "sentence_id": 8,
+      "sentence": "セグメント別の業績は次のとおりであります",
+      "opinions": []
+    },
+    {
+      "sentence_id": 9,
+      "sentence": "なお、セグメント別の売上高及び営業利益又は営業損失は、セグメント間の内部取引消去前の金額であります",
+      "opinions": []
+    },
+    {
+      "sentence_id": 10,
+      "sentence": "また、当連結会計年度より、報告セグメントを「システム事業及びその関連事業」及び「その他の事業」の２区分から、「調剤システム事業及びその関連事業」、「医科システム事業及びその関連事業」及び「その他の事業」の３区分に変更しております",
+      "opinions": []
+    },
+    {
+      "sentence_id": 11,
+      "sentence": "なお、前連結会計年度のセグメント情報は、会社組織変更後の報告区分に基づき作成したものとしております",
+      "opinions": []
+    },
+    {
+      "sentence_id": 12,
+      "sentence": "（調剤システム事業及びその関連事業）",
+      "opinions": []
+    },
+    {
+      "sentence_id": 13,
+      "sentence": "調剤システム事業及びその関連事業につきましては、薬局チェーン店へのアプローチ強化、販売代理店やＯＥＭ供給による販売チャネルの増強を引き続き行い、薬局向けシステム「Ｒｅｃｅｐｔｙ　ＮＥＸＴ」及び「ぶんぎょうめいと」の拡販に注力いたしました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 14,
+      "sentence": "このような状況下で、システム販売件数は計画に届かなかったものの、課金売上がユーザー数の増加に応じて増加し、ハードウェアの入替えも順調に推移、サプライ販売も引き続き堅調でした",
+      "opinions": [
+        {
+          "target": "システム販売件数",
+          "category": "product#amount",
+          "polarity": "negative",
+          "from": 10,
+          "to": 18
+        },
+        {
+          "target": "課金売上",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 32,
+          "to": 36
+        },
+        {
+          "target": "ユーザー数",
+          "category": "NULL#amount",
+          "polarity": "positive",
+          "from": 37,
+          "to": 42
+        },
+        {
+          "target": "入替え",
+          "category": "product#general",
+          "polarity": "positive",
+          "from": 60,
+          "to": 63
+        },
+        {
+          "target": "サプライ販売",
+          "category": "business#general",
+          "polarity": "positive",
+          "from": 70,
+          "to": 76
+        }
+      ]
+    },
+    {
+      "sentence_id": 15,
+      "sentence": "この結果売上高は計画を達成し、継続的な原価及び経費の圧縮が利益面に寄与しました",
+      "opinions": [
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 4,
+          "to": 7
+        }
+      ]
+    },
+    {
+      "sentence_id": 16,
+      "sentence": "なお、連結子会社のコスモシステムズ株式会社は、売上高・利益両面で引き続き貢献しました",
+      "opinions": [
+        {
+          "target": "コスモシステムズ株式会社",
+          "category": "company#sales",
+          "polarity": "positive",
+          "from": 9,
+          "to": 21
+        },
+        {
+          "target": "コスモシステムズ株式会社",
+          "category": "company#profit",
+          "polarity": "positive",
+          "from": 9,
+          "to": 21
+        }
+      ]
+    },
+    {
+      "sentence_id": 17,
+      "sentence": "この結果、当連結会計年度の調剤システム事業及びその関連事業は、売上高11,122百万円（前年同期比5.2％増）、営業利益2,644百万円（前年同期比30.6％増）となりました",
+      "opinions": [
+        {
+          "target": "調剤システム事業",
+          "category": "business#sales",
+          "polarity": "positive",
+          "from": 13,
+          "to": 21
+        },
+        {
+          "target": "調剤システム事業",
+          "category": "business#profit",
+          "polarity": "positive",
+          "from": 13,
+          "to": 21
+        }
+      ]
+    },
+    {
+      "sentence_id": 18,
+      "sentence": "（医科システム事業及びその関連事業）",
+      "opinions": []
+    },
+    {
+      "sentence_id": 19,
+      "sentence": "医科システム事業及びその関連事業につきましては、ソフトウェア単体販売となる電子カルテシステム「オルテア」を７月に発売し、全国的な販売チャネルの拡充に取り組んで参りました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 20,
+      "sentence": "また、積極的な展示会への出展など露出を増加させ、既存取引先や医療サービス提供ＷＥＢサイトからの紹介促進を行い、医事会計システム「ＭＲＮ（※１）　クラークスタイル」、「ユニメディカル」及び電子カルテシステム「ＭＲＮ　カルテスタイル」の拡販に引き続き注力いたしました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 21,
+      "sentence": "また、ホームページへの資料請求や、オンラインデモの予約件数も確実に増加しています",
+      "opinions": [
+        {
+          "target": "資料請求",
+          "category": "product#amount",
+          "polarity": "positive",
+          "from": 11,
+          "to": 15
+        },
+        {
+          "target": "オンラインデモ",
+          "category": "product#amount",
+          "polarity": "positive",
+          "from": 17,
+          "to": 24
+        }
+      ]
+    },
+    {
+      "sentence_id": 22,
+      "sentence": "この結果、販売チャネルの拡大には成果が出ており、ＭＲＮに関しては昨年実績を上回りましたが、ユニメディカルのリプレース対象案件の減少に伴い実績は不十分となりました",
+      "opinions": [
+        {
+          "target": "ＭＲＮ",
+          "category": "product#amount",
+          "polarity": "positive",
+          "from": 24,
+          "to": 27
+        },
+        {
+          "target": "リプレース",
+          "category": "product#amount",
+          "polarity": "negative",
+          "from": 53,
+          "to": 58
+        }
+      ]
+    },
+    {
+      "sentence_id": 23,
+      "sentence": "課金売上に関しては、ユーザー数の増加により順調に推移した為、医科セグメントとしては、初の黒字化を達成する事が出来ました",
+      "opinions": [
+        {
+          "target": "課金売上",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 0,
+          "to": 4
+        },
+        {
+          "target": "ユーザー数",
+          "category": "NULL#amount",
+          "polarity": "positive",
+          "from": 10,
+          "to": 15
+        },
+        {
+          "target": "医科セグメント",
+          "category": "business#general",
+          "polarity": "positive",
+          "from": 30,
+          "to": 37
+        }
+      ]
+    },
+    {
+      "sentence_id": 24,
+      "sentence": "なお、原価及び経費削減は引き続き行っております",
+      "opinions": []
+    },
+    {
+      "sentence_id": 25,
+      "sentence": "この結果、当連結会計年度の医科システム事業及びその関連事業は、売上高1,670百万円（前年同期比0.8％減）、営業利益17百万円（前年同期　営業損失222百万円から240百万円増益）となりました",
+      "opinions": [
+        {
+          "target": "医科システム事業",
+          "category": "business#sales",
+          "polarity": "negative",
+          "from": 13,
+          "to": 21
+        },
+        {
+          "target": "医科システム事業",
+          "category": "business#profit",
+          "polarity": "positive",
+          "from": 13,
+          "to": 21
+        }
+      ]
+    },
+    {
+      "sentence_id": 26,
+      "sentence": "（その他の事業）",
+      "opinions": []
+    },
+    {
+      "sentence_id": 27,
+      "sentence": "その他の事業につきましては、医療介護連携事業において、政府が進める「地域包括ケアシステム」構築を支援するツールとしてクリニック向け・薬局向け・介護サービス事業者向けに提供する「ひろがるケアネット」を３月にリリースいたしました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 28,
+      "sentence": "これにより、昨年10月に出荷しましたＡＳＰ型介護サービス事業者支援システム「つながるケアＮＥＸＴ」の更なる拡販を図っていきます",
+      "opinions": []
+    },
+    {
+      "sentence_id": 29,
+      "sentence": "また、平成28年12月13日に全国健康保険協会(協会けんぽ)広島支部より受託しました「薬局向けレセプト作成支援システムへのオンライン資格確認システム導入委託事業」により、同支部管轄での当社のシステムをご利用のお客様は、協会の保険加入者様の資格の有無等を通常の業務の中でリアルタイムに画面上で確認できる様になる為、資格喪失による返戻・再請求等の事務処理が省け、薬局の事務効率を高めることができるようになりました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 30,
+      "sentence": "なお、同システムは引き続き、クリニックにも拡大して導入委託事業を継続する事になりました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 31,
+      "sentence": "当社では、今後の医療業界の発展に貢献すべく電子処方箋の実現、ＥＨＲ（※２）及びＰＨＲ（※３）に関する研究開発や実証事業に積極的に取り組んで参ります",
+      "opinions": []
+    },
+    {
+      "sentence_id": 32,
+      "sentence": "日本医師会・日本薬剤師会・日本大学との共同研究である「感染症流行探知サービス」におきましては、利用薬局は全国で１万件超となっております",
+      "opinions": [
+        {
+          "target": "感染症流行探知サービス",
+          "category": "product#amount",
+          "polarity": "positive",
+          "from": 27,
+          "to": 38
+        }
+      ]
+    },
+    {
+      "sentence_id": 33,
+      "sentence": "このほか、連結子会社である株式会社ブリック薬局は薬局事業を経営し、連結子会社株式会社ラソンテは、スポーツジム、貸会議室及び保育園経営の各事業を行っております",
+      "opinions": []
+    },
+    {
+      "sentence_id": 34,
+      "sentence": "このような状況下で、介護システム事業は、本格的な事業展開が遅れ、売上高及び利益が計画より大幅に下回りました",
+      "opinions": [
+        {
+          "target": "介護システム事業",
+          "category": "business#sales",
+          "polarity": "negative",
+          "from": 10,
+          "to": 18
+        },
+        {
+          "target": "介護システム事業",
+          "category": "business#profit",
+          "polarity": "negative",
+          "from": 10,
+          "to": 18
+        },
+        {
+          "target": "事業展開",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 24,
+          "to": 28
+        }
+      ]
+    },
+    {
+      "sentence_id": 35,
+      "sentence": "薬局事業は、調剤報酬及び薬価の改定の影響などもあり売上は前年同期を下回りましたが、原価と経費を圧縮した結果、利益は前年同期を上回りました",
+      "opinions": [
+        {
+          "target": "薬局事業",
+          "category": "business#sales",
+          "polarity": "negative",
+          "from": 0,
+          "to": 4
+        },
+        {
+          "target": "薬局事業",
+          "category": "business#profit",
+          "polarity": "positive",
+          "from": 0,
+          "to": 4
+        }
+      ]
+    },
+    {
+      "sentence_id": 36,
+      "sentence": "また株式会社ラソンテは、事業の再編を行っており売上高・利益ともに前年同期を下回りましたが、計画を上回っております",
+      "opinions": [
+        {
+          "target": "株式会社ラソンテ",
+          "category": "company#sales",
+          "polarity": "neutral",
+          "from": 2,
+          "to": 10
+        },
+        {
+          "target": "株式会社ラソンテ",
+          "category": "company#profit",
+          "polarity": "neutral",
+          "from": 2,
+          "to": 10
+        }
+      ]
+    },
+    {
+      "sentence_id": 37,
+      "sentence": "この結果、当連結会計年度のその他の事業は、売上高982百万円（前年同期比8.4％減）、営業損失32百万円（前年同期　営業利益117百万円）となりました",
+      "opinions": [
+        {
+          "target": "その他の事業",
+          "category": "business#sales",
+          "polarity": "negative",
+          "from": 13,
+          "to": 19
+        },
+        {
+          "target": "その他の事業",
+          "category": "business#profit",
+          "polarity": "negative",
+          "from": 13,
+          "to": 19
+        }
+      ]
+    },
+    {
+      "sentence_id": 38,
+      "sentence": "（※１）　ＭＲＮ：Ｍｅｄｉｃａｌ　Ｒｅｃｅｐｔｙ　ＮＥＸＴ",
+      "opinions": []
+    },
+    {
+      "sentence_id": 39,
+      "sentence": "（※２）　ＥＨＲ：Ｅｌｅｃｔｒｏｎｉｃ　Ｈｅａｌｔｈ　Ｒｅｃｏｒｄ",
+      "opinions": []
+    },
+    {
+      "sentence_id": 40,
+      "sentence": "（※３）　ＰＨＲ：Ｐｅｒｓｏｎａｌ　Ｈｅａｌｔｈ　Ｒｅｃｏｒｄ",
+      "opinions": []
+    }
+  ]
+}

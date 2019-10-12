@@ -1,0 +1,510 @@
+{
+  "header": {
+    "document_id": "E02567",
+    "document_name": "岩谷産業株式会社",
+    "doc_text": "有価証券報告書",
+    "edi_id": "E02567",
+    "security_code": "80880",
+    "category33": "卸売業",
+    "category17": "商社・卸売",
+    "scale": "4"
+  },
+  "sentences": [
+    {
+      "sentence_id": 0,
+      "sentence": "当連結会計年度における日本経済は、堅調な雇用や所得環境から個人消費に持ち直しの兆しが見られるとともに、原油価格の回復などを背景として企業業績や設備投資が改善し、緩やかな回復基調で推移しました",
+      "opinions": [
+        {
+          "target": "日本経済",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 11,
+          "to": 15
+        },
+        {
+          "target": "雇用",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 20,
+          "to": 22
+        },
+        {
+          "target": "所得環境",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 23,
+          "to": 27
+        },
+        {
+          "target": "個人消費",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 29,
+          "to": 33
+        },
+        {
+          "target": "原油価格",
+          "category": "NULL#price",
+          "polarity": "positive",
+          "from": 51,
+          "to": 55
+        },
+        {
+          "target": "企業業績",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 66,
+          "to": 70
+        },
+        {
+          "target": "設備投資",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 71,
+          "to": 75
+        }
+      ]
+    },
+    {
+      "sentence_id": 1,
+      "sentence": "このような状況のもと、当社グループは中期経営計画「ＰＬＡＮ１８」の基本方針である「成長戦略の推進」と「経営基盤の拡充」に基づき、都市ガス小売自由化に向けては、電力会社との提携を進め、保安業務・ガス関連機器の販売を行う体制整備に取り組みました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 2,
+      "sentence": "水素事業については、ＦＣバスやＦＣフォークリフト向けの水素ステーション建設に加え、将来の需要増に備えて山口県で液化水素製造設備の増設に着手しました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 3,
+      "sentence": "この結果、当連結会計年度の業績は、売上高5,880億45百万円（前年度比281億56百万円の減収）、営業利益250億38百万円（前年度比45億42百万円の増益）、経常利益268億34百万円（前年度比52億50百万円の増益）、親会社株主に帰属する当期純利益165億46百万円（前年度比41億81百万円の増益）となりました",
+      "opinions": [
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "negative",
+          "from": 17,
+          "to": 20
+        },
+        {
+          "target": "営業利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 50,
+          "to": 54
+        },
+        {
+          "target": "経常利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 81,
+          "to": 85
+        },
+        {
+          "target": "当期純利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 122,
+          "to": 127
+        }
+      ]
+    },
+    {
+      "sentence_id": 4,
+      "sentence": "セグメントの業績は次のとおりです",
+      "opinions": []
+    },
+    {
+      "sentence_id": 5,
+      "sentence": "①総合エネルギー事業",
+      "opinions": []
+    },
+    {
+      "sentence_id": 6,
+      "sentence": "総合エネルギー事業は、ＬＰガスについては小売部門の販売数量が増加しましたが、卸売部門の見直し等により民生用ＬＰガスの販売数量は減少しました",
+      "opinions": [
+        {
+          "target": "ＬＰガス",
+          "category": "product#amount",
+          "polarity": "positive",
+          "from": 11,
+          "to": 15
+        },
+        {
+          "target": "民生用ＬＰガス",
+          "category": "product#amount",
+          "polarity": "negative",
+          "from": 50,
+          "to": 57
+        }
+      ]
+    },
+    {
+      "sentence_id": 7,
+      "sentence": "また、円高の影響もありＬＰガス輸入価格が低位に推移したため販売価格が下落し、減収要因となりました",
+      "opinions": [
+        {
+          "target": "ＬＰガス輸入価格",
+          "category": "NULL#price",
+          "polarity": "negative",
+          "from": 11,
+          "to": 19
+        },
+        {
+          "target": "販売価格",
+          "category": "NULL#price",
+          "polarity": "negative",
+          "from": 29,
+          "to": 33
+        }
+      ]
+    },
+    {
+      "sentence_id": 8,
+      "sentence": "一方、利益面については、ＬＰガス輸入価格の変動による影響は、輸入価格が８月から上昇に転じたことにより、増益の要因となりました",
+      "opinions": [
+        {
+          "target": "輸入価格",
+          "category": "NULL#price",
+          "polarity": "positive",
+          "from": 30,
+          "to": 34
+        }
+      ]
+    },
+    {
+      "sentence_id": 9,
+      "sentence": "また、エネルギー関連機器やガス保安機器、「カセットこんろ・ボンベ」の販売が伸長したことで増益となりました",
+      "opinions": [
+        {
+          "target": "エネルギー関連機器",
+          "category": "product#amount",
+          "polarity": "positive",
+          "from": 3,
+          "to": 12
+        },
+        {
+          "target": "ガス保安機器",
+          "category": "product#amount",
+          "polarity": "positive",
+          "from": 13,
+          "to": 19
+        },
+        {
+          "target": "カセットこんろ・ボンベ",
+          "category": "product#amount",
+          "polarity": "positive",
+          "from": 21,
+          "to": 32
+        }
+      ]
+    },
+    {
+      "sentence_id": 10,
+      "sentence": "この結果、当事業分野の売上高は2,721億54百万円（前年度比172億68百万円の減収）、営業利益は159億39百万円（前年度比68億90百万円の増益）となりました",
+      "opinions": [
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "negative",
+          "from": 11,
+          "to": 14
+        },
+        {
+          "target": "営業利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 45,
+          "to": 49
+        }
+      ]
+    },
+    {
+      "sentence_id": 11,
+      "sentence": "②産業ガス・機械事業",
+      "opinions": []
+    },
+    {
+      "sentence_id": 12,
+      "sentence": "産業ガス・機械事業は、エアセパレートガスについては、電子部品や化学品業界向けを中心に堅調であったことに加え、生産コストの低減により収益性が向上しました",
+      "opinions": [
+        {
+          "target": "産業ガス・機械事業",
+          "category": "NULL#cost",
+          "polarity": "positive",
+          "from": 0,
+          "to": 9
+        },
+        {
+          "target": "産業ガス・機械事業",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 0,
+          "to": 9
+        },
+        {
+          "target": "電子部品",
+          "category": "product#general",
+          "polarity": "positive",
+          "from": 26,
+          "to": 30
+        },
+        {
+          "target": "化学品業界向け",
+          "category": "product#general",
+          "polarity": "positive",
+          "from": 31,
+          "to": 38
+        }
+      ]
+    },
+    {
+      "sentence_id": 13,
+      "sentence": "水素事業については、液化水素の販売数量が既存顧客向け需要増や新規顧客の獲得により増加しました",
+      "opinions": [
+        {
+          "target": "液化水素",
+          "category": "product#amount",
+          "polarity": "positive",
+          "from": 10,
+          "to": 14
+        }
+      ]
+    },
+    {
+      "sentence_id": 14,
+      "sentence": "ヘリウムについては、販売数量は増加しましたが、国内外ともに需給緩和により販売単価が下落したことに加え、ヘリウムコンテナや物流システム等の投資によりコスト増となりました",
+      "opinions": [
+        {
+          "target": "ヘリウム",
+          "category": "product#amount",
+          "polarity": "positive",
+          "from": 0,
+          "to": 4
+        },
+        {
+          "target": "ヘリウム",
+          "category": "product#price",
+          "polarity": "negative",
+          "from": 0,
+          "to": 4
+        }
+      ]
+    },
+    {
+      "sentence_id": 15,
+      "sentence": "機械設備については、国内では溶接機械や電子部品製造装置の販売が堅調に推移しましたが、海外では半導体設備等の販売が減少しました",
+      "opinions": [
+        {
+          "target": "溶接機械",
+          "category": "product#amount",
+          "polarity": "positive",
+          "from": 14,
+          "to": 18
+        },
+        {
+          "target": "電子部品製造装置",
+          "category": "product#amount",
+          "polarity": "positive",
+          "from": 19,
+          "to": 27
+        },
+        {
+          "target": "半導体設備",
+          "category": "product#amount",
+          "polarity": "negative",
+          "from": 46,
+          "to": 51
+        }
+      ]
+    },
+    {
+      "sentence_id": 16,
+      "sentence": "この結果、当事業分野の売上高は1,663億81百万円（前年度比19億21百万円の増収）、営業利益は67億71百万円（前年度比８億52百万円の減益）となりました",
+      "opinions": [
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 11,
+          "to": 14
+        },
+        {
+          "target": "営業利益",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 44,
+          "to": 48
+        }
+      ]
+    },
+    {
+      "sentence_id": 17,
+      "sentence": "③マテリアル事業",
+      "opinions": []
+    },
+    {
+      "sentence_id": 18,
+      "sentence": "マテリアル事業は、大手顧客向けを中心にＰＥＴ樹脂原料の販売が増加したことに加え、ステンレスやアルミの収益性が向上しました",
+      "opinions": [
+        {
+          "target": "ＰＥＴ樹脂原料",
+          "category": "product#amount",
+          "polarity": "positive",
+          "from": 19,
+          "to": 26
+        },
+        {
+          "target": "ステンレス",
+          "category": "product#profit",
+          "polarity": "positive",
+          "from": 40,
+          "to": 45
+        },
+        {
+          "target": "アルミ",
+          "category": "product#profit",
+          "polarity": "positive",
+          "from": 46,
+          "to": 49
+        }
+      ]
+    },
+    {
+      "sentence_id": 19,
+      "sentence": "一方、チタン・ジルコン等の資源全般の市況が低調に推移しました",
+      "opinions": [
+        {
+          "target": "市況",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 18,
+          "to": 20
+        }
+      ]
+    },
+    {
+      "sentence_id": 20,
+      "sentence": "また、中国でのスマートフォン向け機能性フィルムの販売が減少しました",
+      "opinions": [
+        {
+          "target": "機能性フィルム",
+          "category": "product#amount",
+          "polarity": "negative",
+          "from": 16,
+          "to": 23
+        }
+      ]
+    },
+    {
+      "sentence_id": 21,
+      "sentence": "この結果、当事業分野の売上高は1,152億６百万円（前年度比107億12百万円の減収）、営業利益は31億79百万円（前年度比６億66百万円の減益）となりました",
+      "opinions": [
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "negative",
+          "from": 11,
+          "to": 14
+        },
+        {
+          "target": "営業利益",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 44,
+          "to": 48
+        }
+      ]
+    },
+    {
+      "sentence_id": 22,
+      "sentence": "④自然産業事業",
+      "opinions": []
+    },
+    {
+      "sentence_id": 23,
+      "sentence": "自然産業事業は、業務用においては省力化ニーズに対応した冷凍野菜の販売が堅調に推移するとともに、コンビニ向け畜肉調理品の販売が増加しました",
+      "opinions": [
+        {
+          "target": "冷凍野菜",
+          "category": "product#amount",
+          "polarity": "positive",
+          "from": 27,
+          "to": 31
+        },
+        {
+          "target": "畜肉調理品",
+          "category": "product#amount",
+          "polarity": "positive",
+          "from": 53,
+          "to": 58
+        }
+      ]
+    },
+    {
+      "sentence_id": 24,
+      "sentence": "また、種豚の出荷頭数は増加したものの、農業・畜産設備の大型案件が減少しました",
+      "opinions": [
+        {
+          "target": "種豚",
+          "category": "product#amount",
+          "polarity": "positive",
+          "from": 3,
+          "to": 5
+        },
+        {
+          "target": "農業・畜産設備",
+          "category": "product#amount",
+          "polarity": "negative",
+          "from": 19,
+          "to": 26
+        }
+      ]
+    },
+    {
+      "sentence_id": 25,
+      "sentence": "この結果、当事業分野の売上高は268億59百万円（前年度比17億８百万円の減収）、営業利益は12億９百万円（前年度比37百万円の減益）となりました",
+      "opinions": [
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "negative",
+          "from": 11,
+          "to": 14
+        },
+        {
+          "target": "営業利益",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 41,
+          "to": 45
+        }
+      ]
+    },
+    {
+      "sentence_id": 26,
+      "sentence": "⑤その他",
+      "opinions": []
+    },
+    {
+      "sentence_id": 27,
+      "sentence": "売上高は74億43百万円（前年度比３億89百万円の減収）、営業利益は８億38百万円（前年度比93百万円の減益）となりました",
+      "opinions": [
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "negative",
+          "from": 0,
+          "to": 3
+        },
+        {
+          "target": "営業利益",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 29,
+          "to": 33
+        }
+      ]
+    }
+  ]
+}

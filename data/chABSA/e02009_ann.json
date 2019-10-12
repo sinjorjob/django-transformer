@@ -1,0 +1,327 @@
+{
+  "header": {
+    "document_id": "E02009",
+    "document_name": "イリソ電子工業株式会社",
+    "doc_text": "有価証券報告書",
+    "edi_id": "E02009",
+    "security_code": "69080",
+    "category33": "電気機器",
+    "category17": "電機・精密",
+    "scale": "6"
+  },
+  "sentences": [
+    {
+      "sentence_id": 0,
+      "sentence": "当連結会計年度における世界経済は、英国のEU離脱問題による混乱や米国の政権交代等による先行き不透明感がみられました",
+      "opinions": [
+        {
+          "target": "世界経済",
+          "category": "NULL#general",
+          "polarity": "neutral",
+          "from": 11,
+          "to": 15
+        }
+      ]
+    },
+    {
+      "sentence_id": 1,
+      "sentence": "先進国においては、米国及び欧州での個人消費の拡大等により緩やかな回復傾向で推移し、一方、新興国においては、ベトナム、フィリピンでは成長を維持したものの、中国では成長の鈍化がみられました",
+      "opinions": [
+        {
+          "target": "先進国",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 0,
+          "to": 3
+        },
+        {
+          "target": "個人消費",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 17,
+          "to": 21
+        },
+        {
+          "target": "ベトナム",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 53,
+          "to": 57
+        },
+        {
+          "target": "フィリピン",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 58,
+          "to": 63
+        },
+        {
+          "target": "成長",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 80,
+          "to": 82
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "sentence": "わが国の経済におきましては、個人消費の減速がみられ、また、急激な為替相場の変動による影響があったものの、雇用の改善やアジア向け輸出を中心に、堅調に推移しました",
+      "opinions": [
+        {
+          "target": "経済",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 4,
+          "to": 6
+        },
+        {
+          "target": "個人消費",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 14,
+          "to": 18
+        },
+        {
+          "target": "為替相場",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 32,
+          "to": 36
+        },
+        {
+          "target": "雇用",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 52,
+          "to": 54
+        }
+      ]
+    },
+    {
+      "sentence_id": 3,
+      "sentence": "このような事業環境の下、当社グループは、主力市場である車載分野においてはグローバルでの販売活動が功を奏し、電装化や安全運転支援技術の進歩によるADAS（先進運転支援システム）の普及増により、車載カメラ、ミリ波レーダー向けが堅調に推移し、パワートレイン系では三次元可動BtoBコネクタ“Z-Move™”の販売が増加しました",
+      "opinions": [
+        {
+          "target": "ADAS",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 71,
+          "to": 75
+        },
+        {
+          "target": "車載カメラ",
+          "category": "product#general",
+          "polarity": "positive",
+          "from": 95,
+          "to": 100
+        },
+        {
+          "target": "ミリ波レーダー向け",
+          "category": "product#general",
+          "polarity": "positive",
+          "from": 101,
+          "to": 110
+        },
+        {
+          "target": "Z-Move™",
+          "category": "product#amount",
+          "polarity": "positive",
+          "from": 142,
+          "to": 149
+        }
+      ]
+    },
+    {
+      "sentence_id": 4,
+      "sentence": "一方、為替相場の円高傾向の影響、上半期での中華・韓国圏での当社コネクタの搭載車の需要減及び熊本地震による当社顧客の生産減等により、売上高は前期比1.7％減の375億４千７百万円となりました",
+      "opinions": [
+        {
+          "target": "搭載車",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 36,
+          "to": 39
+        },
+        {
+          "target": "当社顧客",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 52,
+          "to": 56
+        },
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "negative",
+          "from": 65,
+          "to": 68
+        }
+      ]
+    },
+    {
+      "sentence_id": 5,
+      "sentence": "一方、製造工程におけるさらなる自動化及び部品の内製化等の合理化による原価低減が寄与し、営業利益は前期比1.4％増の66億６千１百万円、経常利益は同2.3％増の67億５千万円、親会社株主に帰属する当期純利益は同20.5％増の48億７千５百万円となりました",
+      "opinions": [
+        {
+          "target": "営業利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 43,
+          "to": 47
+        },
+        {
+          "target": "経常利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 67,
+          "to": 71
+        },
+        {
+          "target": "当期純利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 97,
+          "to": 102
+        }
+      ]
+    },
+    {
+      "sentence_id": 6,
+      "sentence": "セグメントの業績を示すと次のとおりであります",
+      "opinions": []
+    },
+    {
+      "sentence_id": 7,
+      "sentence": "国内においては、車載関連市場やインダストリアル市場において売上を伸ばし、売上高は前期比14.9％増の80億２千２百万円となりました",
+      "opinions": [
+        {
+          "target": "国内",
+          "category": "business#sales",
+          "polarity": "positive",
+          "from": 0,
+          "to": 2
+        },
+        {
+          "target": "車載関連市場",
+          "category": "business#sales",
+          "polarity": "positive",
+          "from": 8,
+          "to": 14
+        },
+        {
+          "target": "インダストリアル市場",
+          "category": "business#sales",
+          "polarity": "positive",
+          "from": 15,
+          "to": 25
+        }
+      ]
+    },
+    {
+      "sentence_id": 8,
+      "sentence": "営業利益は59.4％増の48億７千９百万円となりました",
+      "opinions": [
+        {
+          "target": "営業利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 0,
+          "to": 4
+        }
+      ]
+    },
+    {
+      "sentence_id": 9,
+      "sentence": "アジア地域においては、円高の影響や、コンシューマー分野が低調に推移したことから、売上高は前期比7.4％減の163億１千３百万円となりました",
+      "opinions": [
+        {
+          "target": "アジア地域",
+          "category": "business#sales",
+          "polarity": "negative",
+          "from": 0,
+          "to": 5
+        },
+        {
+          "target": "コンシューマー分野",
+          "category": "business#general",
+          "polarity": "negative",
+          "from": 18,
+          "to": 27
+        }
+      ]
+    },
+    {
+      "sentence_id": 10,
+      "sentence": "営業利益は37.3％減の27億１千３百万円となりました",
+      "opinions": [
+        {
+          "target": "営業利益",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 0,
+          "to": 4
+        }
+      ]
+    },
+    {
+      "sentence_id": 11,
+      "sentence": "ヨーロッパ地域においては、円高の影響があったものの、車載関連市場において売上を伸ばし、売上高は前期比0.3％増の63億５千６百万円となりました",
+      "opinions": [
+        {
+          "target": "ヨーロッパ地域",
+          "category": "business#sales",
+          "polarity": "positive",
+          "from": 0,
+          "to": 7
+        },
+        {
+          "target": "車載関連市場",
+          "category": "business#sales",
+          "polarity": "negative",
+          "from": 26,
+          "to": 32
+        }
+      ]
+    },
+    {
+      "sentence_id": 12,
+      "sentence": "また、営業利益は前期比936.0％増の４億８千７百万円となりました",
+      "opinions": [
+        {
+          "target": "営業利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 3,
+          "to": 7
+        }
+      ]
+    },
+    {
+      "sentence_id": 13,
+      "sentence": "北米地域においては、円高の影響により、売上高は前期比5.7％減の68億５千５百万円となりました",
+      "opinions": [
+        {
+          "target": "北米地域",
+          "category": "business#sales",
+          "polarity": "negative",
+          "from": 0,
+          "to": 4
+        }
+      ]
+    },
+    {
+      "sentence_id": 14,
+      "sentence": "営業利益は48.9％減の１億６千１百万円となりました",
+      "opinions": [
+        {
+          "target": "営業利益",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 0,
+          "to": 4
+        }
+      ]
+    }
+  ]
+}

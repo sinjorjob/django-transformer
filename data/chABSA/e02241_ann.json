@@ -1,0 +1,283 @@
+{
+  "header": {
+    "document_id": "E02241",
+    "document_name": "田中精密工業株式会社",
+    "doc_text": "有価証券報告書",
+    "edi_id": "E02241",
+    "security_code": "72180",
+    "category33": "輸送用機器",
+    "category17": "自動車・輸送機",
+    "scale": ""
+  },
+  "sentences": [
+    {
+      "sentence_id": 0,
+      "sentence": "当連結会計年度における当社を取り巻く環境は、取引先である自動車業界において、日本では軽自動車の販売不振はありましたものの、新型車効果等により自動車販売は堅調に推移いたしました",
+      "opinions": [
+        {
+          "target": "軽自動車",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 42,
+          "to": 46
+        },
+        {
+          "target": "自動車販売",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 70,
+          "to": 75
+        }
+      ]
+    },
+    {
+      "sentence_id": 1,
+      "sentence": "また、アセアンにおいては年初よりタイにおける物品税の引き上げ影響等による販売減少はありましたものの、タイ及びインドネシアにおけるインフラ投資等の景気改善策から、2016年４月より自動車販売が復調し、横ばいとなりました",
+      "opinions": [
+        {
+          "target": "物品税",
+          "category": "NULL#cost",
+          "polarity": "negative",
+          "from": 22,
+          "to": 25
+        },
+        {
+          "target": "自動車販売",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 89,
+          "to": 94
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "sentence": "一方、米国においては引き続き好調なＳＵＶ販売が市場を牽引し、また、中国においても減税効果等により自動車販売を押し上げ、全体として好調に推移いたしました",
+      "opinions": [
+        {
+          "target": "ＳＵＶ販売",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 17,
+          "to": 22
+        }
+      ]
+    },
+    {
+      "sentence_id": 3,
+      "sentence": "このような環境の中、売上高につきましては、米国でのモデルチェンジに伴う売上構成変化及び為替換算影響等により、39,752百万円（前期比2.2％減）となりました",
+      "opinions": [
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "negative",
+          "from": 10,
+          "to": 13
+        }
+      ]
+    },
+    {
+      "sentence_id": 4,
+      "sentence": "損益につきましては減収影響はありましたものの、減価償却費の減少等、経費削減により、営業利益2,217百万円（前期比32.6％増）、経常利益2,111百万円（前期比41.8％増）、親会社株主に帰属する当期純利益1,003百万円（前期47.2％増）となりました",
+      "opinions": [
+        {
+          "target": "減価償却費",
+          "category": "NULL#cost",
+          "polarity": "positive",
+          "from": 23,
+          "to": 28
+        },
+        {
+          "target": "営業利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 41,
+          "to": 45
+        },
+        {
+          "target": "経常利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 65,
+          "to": 69
+        },
+        {
+          "target": "当期純利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 99,
+          "to": 104
+        }
+      ]
+    },
+    {
+      "sentence_id": 5,
+      "sentence": "セグメントの業績は、次のとおりであります",
+      "opinions": []
+    },
+    {
+      "sentence_id": 6,
+      "sentence": "① 日本\n　売上高につきましては、新型車発売に伴う当社主力製品であるロッカーアームの一時的な販売増加により、16,000百万円（前期比5.9％増）となりました",
+      "opinions": [
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 6,
+          "to": 9
+        },
+        {
+          "target": "ロッカーアーム",
+          "category": "product#amount",
+          "polarity": "positive",
+          "from": 34,
+          "to": 41
+        }
+      ]
+    },
+    {
+      "sentence_id": 7,
+      "sentence": "損益につきましては、増収効果及び経費圧縮効果等はありましたものの、退職給付費用の増加により、23百万円のセグメント損失（前期130百万円のセグメント利益）となりました",
+      "opinions": [
+        {
+          "target": "退職給付費用",
+          "category": "NULL#cost",
+          "polarity": "negative",
+          "from": 33,
+          "to": 39
+        },
+        {
+          "target": "セグメント損失",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 52,
+          "to": 59
+        }
+      ]
+    },
+    {
+      "sentence_id": 8,
+      "sentence": "② 米国\n　売上高につきましては、米国でのモデルチェンジに伴う売上構成変化等により、16,630百万円（前期比5.6％減）となりました",
+      "opinions": [
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "negative",
+          "from": 6,
+          "to": 9
+        }
+      ]
+    },
+    {
+      "sentence_id": 9,
+      "sentence": "損益につきましては、固定費の減少及び新規立上製品の生産が本格化したことにより1,907百万円のセグメント利益（前期比30.5％増）となりました",
+      "opinions": [
+        {
+          "target": "固定費",
+          "category": "NULL#cost",
+          "polarity": "positive",
+          "from": 10,
+          "to": 13
+        },
+        {
+          "target": "セグメント利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 47,
+          "to": 54
+        }
+      ]
+    },
+    {
+      "sentence_id": 10,
+      "sentence": "③ タイ\n　売上高につきましては、為替換算による減収及びインドにおける当社製品搭載車種の販売減少に伴う４輪製品の減少により、6,431百万円（前期比9.4％減）となりました",
+      "opinions": [
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "negative",
+          "from": 6,
+          "to": 9
+        },
+        {
+          "target": "当社製品搭載車種",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 35,
+          "to": 43
+        },
+        {
+          "target": "４輪製品",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 51,
+          "to": 55
+        }
+      ]
+    },
+    {
+      "sentence_id": 11,
+      "sentence": "損益につきましては、固定費の減少等はありましたものの、減収影響により271百万円のセグメント利益（前期比48.7％減）となりました",
+      "opinions": [
+        {
+          "target": "固定費",
+          "category": "NULL#cost",
+          "polarity": "positive",
+          "from": 10,
+          "to": 13
+        },
+        {
+          "target": "セグメント利益",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 41,
+          "to": 48
+        }
+      ]
+    },
+    {
+      "sentence_id": 12,
+      "sentence": "④ インド\n　現在、事業活動を休止しており、売上高はありません（前期のセグメント売上高は163百万円）",
+      "opinions": []
+    },
+    {
+      "sentence_id": 13,
+      "sentence": "損益につきましては、法人維持費用により43百万円のセグメント損失（前期は173百万円のセグメント損失）となりました",
+      "opinions": [
+        {
+          "target": "セグメント損失",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 25,
+          "to": 32
+        }
+      ]
+    },
+    {
+      "sentence_id": 14,
+      "sentence": "⑤ ベトナム\n　売上高につきましては、海外向け製品を立上げたことにより、689百万円（前期比5.8％増）となりました",
+      "opinions": [
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 8,
+          "to": 11
+        }
+      ]
+    },
+    {
+      "sentence_id": 15,
+      "sentence": "損益につきましては、経費圧縮施策等により45百万円のセグメント利益（前期は229百万円のセグメント損失）となりました",
+      "opinions": [
+        {
+          "target": "セグメント利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 26,
+          "to": 33
+        }
+      ]
+    }
+  ]
+}

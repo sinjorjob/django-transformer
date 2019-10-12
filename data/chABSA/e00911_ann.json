@@ -1,0 +1,255 @@
+{
+  "header": {
+    "document_id": "E00911",
+    "document_name": "アトミクス株式会社",
+    "doc_text": "有価証券報告書",
+    "edi_id": "E00911",
+    "security_code": "46250",
+    "category33": "化学",
+    "category17": "素材・化学",
+    "scale": ""
+  },
+  "sentences": [
+    {
+      "sentence_id": 0,
+      "sentence": "当連結会計年度におけるわが国経済は、政府の景気対策の継続などにより緩やかな回復基調が続いているものの、個人消費や民間設備投資は力強さを欠き、また新興国経済の減速や米国新政権の政策動向などの影響により景気の先行きは依然として不透明な状況が続いています",
+      "opinions": [
+        {
+          "target": "個人消費",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 51,
+          "to": 55
+        },
+        {
+          "target": "民間設備投資",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 56,
+          "to": 62
+        },
+        {
+          "target": "新興国経済",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 72,
+          "to": 77
+        },
+        {
+          "target": "先行き",
+          "category": "NULL#general",
+          "polarity": "neutral",
+          "from": 102,
+          "to": 105
+        }
+      ]
+    },
+    {
+      "sentence_id": 1,
+      "sentence": "このような状況の下、当社グループは顧客志向を徹底し、環境負荷の少ない水性床用塗料や水性防水材の開発を進めることで市場の拡大を目指してきました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 2,
+      "sentence": "また、関連する展示会等に積極的に出展するとともに、媒体を利用したＰＲにも努めてきました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 3,
+      "sentence": "この結果、当連結会計年度の業績は売上高106億28百万円（前連結会計年度比6.5％減）、営業利益５億33百万円（同40.2％増）、経常利益５億27百万円（同45.9％増）、親会社株主に帰属する当期純利益７億63百万円（前連結会計年度は親会社株主に帰属する当期純損失42百万円）となりました",
+      "opinions": [
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "negative",
+          "from": 16,
+          "to": 19
+        },
+        {
+          "target": "営業利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 44,
+          "to": 48
+        },
+        {
+          "target": "経常利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 65,
+          "to": 69
+        },
+        {
+          "target": "当期純利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 96,
+          "to": 101
+        }
+      ]
+    },
+    {
+      "sentence_id": 4,
+      "sentence": "セグメント別の業績は次のとおりです",
+      "opinions": []
+    },
+    {
+      "sentence_id": 5,
+      "sentence": "①　塗料販売事業",
+      "opinions": []
+    },
+    {
+      "sentence_id": 6,
+      "sentence": "道路用塗料においては、補修関連製品と視覚障がい者誘導用関連製品が順調に伸長したため前年を上回りました",
+      "opinions": [
+        {
+          "target": "塗料",
+          "category": "product#general",
+          "polarity": "positive",
+          "from": 3,
+          "to": 5
+        },
+        {
+          "target": "補修関連製品",
+          "category": "product#general",
+          "polarity": "positive",
+          "from": 11,
+          "to": 17
+        },
+        {
+          "target": "関連製品",
+          "category": "product#general",
+          "polarity": "positive",
+          "from": 27,
+          "to": 31
+        }
+      ]
+    },
+    {
+      "sentence_id": 7,
+      "sentence": "床用塗料においては、連結子会社の阿童木（無錫）塗料有限公司の清算による売上減少と当社の主力となる改修市場での設備投資物件の減少により前年を下回りました",
+      "opinions": [
+        {
+          "target": "塗料",
+          "category": "product#general",
+          "polarity": "negative",
+          "from": 2,
+          "to": 4
+        },
+        {
+          "target": "設備投資物件",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 54,
+          "to": 60
+        }
+      ]
+    },
+    {
+      "sentence_id": 8,
+      "sentence": "建築用塗料においては、天候不順による影響と戸建需要の減少により前年を下回りました",
+      "opinions": [
+        {
+          "target": "塗料",
+          "category": "product#general",
+          "polarity": "negative",
+          "from": 3,
+          "to": 5
+        },
+        {
+          "target": "戸建需要",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 21,
+          "to": 25
+        }
+      ]
+    },
+    {
+      "sentence_id": 9,
+      "sentence": "家庭用塗料においては、インターネット通販による販売チャネルの拡充に取り組んでいますが、個人消費がいまだ低迷しているため前年を下回りました",
+      "opinions": [
+        {
+          "target": "塗料",
+          "category": "product#general",
+          "polarity": "negative",
+          "from": 3,
+          "to": 5
+        },
+        {
+          "target": "個人消費",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 43,
+          "to": 47
+        }
+      ]
+    },
+    {
+      "sentence_id": 10,
+      "sentence": "この結果、当連結会計年度の塗料販売事業の売上高は前年同期に比べて４億22百万円減少し、100億44百万円（前連結会計年度比4.0％減）となりました",
+      "opinions": [
+        {
+          "target": "塗料販売事業",
+          "category": "business#sales",
+          "polarity": "negative",
+          "from": 13,
+          "to": 19
+        }
+      ]
+    },
+    {
+      "sentence_id": 11,
+      "sentence": "②　施工事業",
+      "opinions": []
+    },
+    {
+      "sentence_id": 12,
+      "sentence": "官公庁の工事発注量の減少及び入札競争の激化による受注数の減少、民間設備投資の停滞、工事案件の大型化による仕掛工事の増加により当連結会計年度の施工事業の売上高は前年同期に比べて３億11百万円減少し、５億84百万円（前連結会計年度比34.8％減）となりました",
+      "opinions": [
+        {
+          "target": "工事発注量",
+          "category": "NULL#amount",
+          "polarity": "negative",
+          "from": 4,
+          "to": 9
+        },
+        {
+          "target": "入札競争",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 14,
+          "to": 18
+        },
+        {
+          "target": "受注数",
+          "category": "NULL#amount",
+          "polarity": "negative",
+          "from": 24,
+          "to": 27
+        },
+        {
+          "target": "民間設備投資",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 31,
+          "to": 37
+        },
+        {
+          "target": "仕掛工事",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 52,
+          "to": 56
+        },
+        {
+          "target": "施工事業",
+          "category": "business#sales",
+          "polarity": "negative",
+          "from": 70,
+          "to": 74
+        }
+      ]
+    }
+  ]
+}

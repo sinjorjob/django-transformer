@@ -1,0 +1,587 @@
+{
+  "header": {
+    "document_id": "E00273",
+    "document_name": "富士古河Ｅ＆Ｃ株式会社",
+    "doc_text": "有価証券報告書",
+    "edi_id": "E00273",
+    "security_code": "17750",
+    "category33": "建設業",
+    "category17": "建設・資材",
+    "scale": ""
+  },
+  "sentences": [
+    {
+      "sentence_id": 0,
+      "sentence": "当連結会計年度における我が国経済は、企業収益や雇用・所得環境が改善傾向にあるなど、緩やかな回復基調が続きました",
+      "opinions": [
+        {
+          "target": "我が国経済",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 11,
+          "to": 16
+        },
+        {
+          "target": "企業収益",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 18,
+          "to": 22
+        },
+        {
+          "target": "雇用",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 23,
+          "to": 25
+        },
+        {
+          "target": "所得環境",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 26,
+          "to": 30
+        }
+      ]
+    },
+    {
+      "sentence_id": 1,
+      "sentence": "一方で、米国の政権移行の影響や、地政学的リスクの高まりなど、先行きは依然として不透明な状況で推移しました",
+      "opinions": [
+        {
+          "target": "先行き",
+          "category": "NULL#general",
+          "polarity": "neutral",
+          "from": 30,
+          "to": 33
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "sentence": "当社グループの属する設備工事業界におきましては、堅調であった設備投資に低調な動きも見られ、熾烈な受注価格競争が続くなど、厳しい環境で推移しました",
+      "opinions": [
+        {
+          "target": "設備投資",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 30,
+          "to": 34
+        },
+        {
+          "target": "受注価格競争",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 48,
+          "to": 54
+        }
+      ]
+    },
+    {
+      "sentence_id": 3,
+      "sentence": "当連結会計年度の業績につきましては、受注高802億円（前期比0.1％増）、売上高784億円（前期比1.4％増）となりました",
+      "opinions": [
+        {
+          "target": "受注高",
+          "category": "NULL#amount",
+          "polarity": "positive",
+          "from": 18,
+          "to": 21
+        },
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 37,
+          "to": 40
+        }
+      ]
+    },
+    {
+      "sentence_id": 4,
+      "sentence": "利益面では、コストダウンの推進など収益体質の改善に向けた取り組みの成果により、営業利益46億70百万円（前期比26.5％増）、経常利益46億91百万円（前期比26.2％増）、親会社株主に帰属する当期純利益29億70百万円（前期比41.9％増）となりました",
+      "opinions": [
+        {
+          "target": "営業利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 39,
+          "to": 43
+        },
+        {
+          "target": "経常利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 63,
+          "to": 67
+        },
+        {
+          "target": "当期純利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 97,
+          "to": 102
+        }
+      ]
+    },
+    {
+      "sentence_id": 5,
+      "sentence": "セグメント別の状況につきましては、次のとおりであります",
+      "opinions": []
+    },
+    {
+      "sentence_id": 6,
+      "sentence": "[プラント事業]",
+      "opinions": []
+    },
+    {
+      "sentence_id": 7,
+      "sentence": "当セグメントにおいては、社会インフラ工事、産業システム工事、並びに太陽光以外の発電設備工事を行っており、受注高は233億円 (前期比5.9％増)、売上高は221億円 (前期比9.1％増)、営業利益は23億84百万円（前期比38.1％増）となりました",
+      "opinions": [
+        {
+          "target": "受注高",
+          "category": "NULL#amount",
+          "polarity": "positive",
+          "from": 52,
+          "to": 55
+        },
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 73,
+          "to": 76
+        },
+        {
+          "target": "営業利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 94,
+          "to": 98
+        }
+      ]
+    },
+    {
+      "sentence_id": 8,
+      "sentence": "受注高、売上高は発電設備工事が好調に推移したことから前期を上回りました",
+      "opinions": [
+        {
+          "target": "受注高",
+          "category": "NULL#amount",
+          "polarity": "positive",
+          "from": 0,
+          "to": 3
+        },
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 4,
+          "to": 7
+        },
+        {
+          "target": "発電設備工事",
+          "category": "product#general",
+          "polarity": "positive",
+          "from": 8,
+          "to": 14
+        }
+      ]
+    },
+    {
+      "sentence_id": 9,
+      "sentence": "営業損益は工事採算の改善により前期を上回りました",
+      "opinions": [
+        {
+          "target": "営業損益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 0,
+          "to": 4
+        },
+        {
+          "target": "工事採算",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 5,
+          "to": 9
+        }
+      ]
+    },
+    {
+      "sentence_id": 10,
+      "sentence": "[空調設備事業]",
+      "opinions": []
+    },
+    {
+      "sentence_id": 11,
+      "sentence": "当セグメントにおいては、産業プロセス空調設備工事、一般空調・衛生設備工事を行っており、受注高は223億円（前期比22.5％増）、売上高は206億円（前期比0.4％減）、営業利益は16億85百万円（前期比12.9％増）となりました",
+      "opinions": [
+        {
+          "target": "受注高",
+          "category": "NULL#amount",
+          "polarity": "positive",
+          "from": 43,
+          "to": 46
+        },
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "negative",
+          "from": 64,
+          "to": 67
+        },
+        {
+          "target": "営業利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 84,
+          "to": 88
+        }
+      ]
+    },
+    {
+      "sentence_id": 12,
+      "sentence": "受注高は産業プロセス空調設備工事、一般空調・衛生設備工事ともに好調に推移したことから前期を上回りました",
+      "opinions": [
+        {
+          "target": "受注高",
+          "category": "NULL#amount",
+          "polarity": "positive",
+          "from": 0,
+          "to": 3
+        },
+        {
+          "target": "産業プロセス空調設備工事",
+          "category": "product#general",
+          "polarity": "positive",
+          "from": 4,
+          "to": 16
+        },
+        {
+          "target": "一般空調",
+          "category": "product#general",
+          "polarity": "positive",
+          "from": 17,
+          "to": 21
+        },
+        {
+          "target": "衛生設備工事",
+          "category": "product#general",
+          "polarity": "positive",
+          "from": 22,
+          "to": 28
+        }
+      ]
+    },
+    {
+      "sentence_id": 13,
+      "sentence": "売上高は前期並みに推移しましたが、営業損益は工事採算の改善により前期を上回りました",
+      "opinions": [
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "neutral",
+          "from": 0,
+          "to": 3
+        },
+        {
+          "target": "営業損益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 17,
+          "to": 21
+        },
+        {
+          "target": "工事採算",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 22,
+          "to": 26
+        }
+      ]
+    },
+    {
+      "sentence_id": 14,
+      "sentence": "[電設・建築事業]",
+      "opinions": []
+    },
+    {
+      "sentence_id": 15,
+      "sentence": "当セグメントにおいては、電気設備工事、建築・土木工事、並びに太陽光発電設備工事を行っており、受注高は184億円（前期比28.8％減）、売上高は222億円（前期比10.2％減）、営業利益は24億65百万円（前期比32.6％増）となりました",
+      "opinions": [
+        {
+          "target": "受注高",
+          "category": "NULL#amount",
+          "polarity": "negative",
+          "from": 46,
+          "to": 49
+        },
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "negative",
+          "from": 67,
+          "to": 70
+        },
+        {
+          "target": "営業利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 88,
+          "to": 92
+        }
+      ]
+    },
+    {
+      "sentence_id": 16,
+      "sentence": "受注高、売上高は前期に電気設備工事の大型案件があったことから前期を下回りました",
+      "opinions": [
+        {
+          "target": "受注高",
+          "category": "NULL#amount",
+          "polarity": "negative",
+          "from": 0,
+          "to": 3
+        },
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "negative",
+          "from": 4,
+          "to": 7
+        }
+      ]
+    },
+    {
+      "sentence_id": 17,
+      "sentence": "営業損益は工事採算の改善により前期を上回りました",
+      "opinions": [
+        {
+          "target": "営業損益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 0,
+          "to": 4
+        },
+        {
+          "target": "工事採算",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 5,
+          "to": 9
+        }
+      ]
+    },
+    {
+      "sentence_id": 18,
+      "sentence": "[電力・情報流通事業]",
+      "opinions": []
+    },
+    {
+      "sentence_id": 19,
+      "sentence": "当セグメントにおいては、電力送電工事、情報通信工事を行っており、受注高は62億円（前期比1.3％減）、売上高は51億円（前期比13.1％増）、営業利益は1億95百万円（前期比66.7％増）となりました",
+      "opinions": [
+        {
+          "target": "受注高",
+          "category": "NULL#amount",
+          "polarity": "negative",
+          "from": 32,
+          "to": 35
+        },
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 51,
+          "to": 54
+        },
+        {
+          "target": "営業利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 71,
+          "to": 75
+        }
+      ]
+    },
+    {
+      "sentence_id": 20,
+      "sentence": "受注高はほぼ前期並みに推移しました",
+      "opinions": [
+        {
+          "target": "受注高",
+          "category": "NULL#amount",
+          "polarity": "neutral",
+          "from": 0,
+          "to": 3
+        }
+      ]
+    },
+    {
+      "sentence_id": 21,
+      "sentence": "売上高は工事量の増加により前期を上回りました",
+      "opinions": [
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 0,
+          "to": 3
+        },
+        {
+          "target": "工事量",
+          "category": "NULL#amount",
+          "polarity": "positive",
+          "from": 4,
+          "to": 7
+        }
+      ]
+    },
+    {
+      "sentence_id": 22,
+      "sentence": "営業損益は情報通信工事の工事採算の改善により前期を上回りました",
+      "opinions": [
+        {
+          "target": "営業損益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 0,
+          "to": 4
+        },
+        {
+          "target": "工事採算",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 12,
+          "to": 16
+        }
+      ]
+    },
+    {
+      "sentence_id": 23,
+      "sentence": "[海外事業]",
+      "opinions": []
+    },
+    {
+      "sentence_id": 24,
+      "sentence": "当セグメントにおいては、海外における設備工事を行っており、受注高は80億円（前期比41.9％増）、売上高は61億円（前期比18.7％増）、営業利益は44百万円（前期比69.3％減）となりました",
+      "opinions": [
+        {
+          "target": "受注高",
+          "category": "NULL#amount",
+          "polarity": "positive",
+          "from": 29,
+          "to": 32
+        },
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 49,
+          "to": 52
+        },
+        {
+          "target": "営業利益",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 69,
+          "to": 73
+        }
+      ]
+    },
+    {
+      "sentence_id": 25,
+      "sentence": "受注高、売上高はカンボジア、ミャンマーが好調に推移したことから前期を上回りました",
+      "opinions": [
+        {
+          "target": "受注高",
+          "category": "NULL#amount",
+          "polarity": "positive",
+          "from": 0,
+          "to": 3
+        },
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 4,
+          "to": 7
+        },
+        {
+          "target": "カンボジア",
+          "category": "business#general",
+          "polarity": "positive",
+          "from": 8,
+          "to": 13
+        },
+        {
+          "target": "ミャンマー",
+          "category": "business#general",
+          "polarity": "positive",
+          "from": 14,
+          "to": 19
+        }
+      ]
+    },
+    {
+      "sentence_id": 26,
+      "sentence": "営業利益はタイ、ベトナムが低調に推移したことから前期を下回りました",
+      "opinions": [
+        {
+          "target": "営業利益",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 0,
+          "to": 4
+        },
+        {
+          "target": "タイ",
+          "category": "business#general",
+          "polarity": "negative",
+          "from": 5,
+          "to": 7
+        },
+        {
+          "target": "ベトナム",
+          "category": "business#general",
+          "polarity": "negative",
+          "from": 8,
+          "to": 12
+        }
+      ]
+    },
+    {
+      "sentence_id": 27,
+      "sentence": "[その他]",
+      "opinions": []
+    },
+    {
+      "sentence_id": 28,
+      "sentence": "当セグメントにおいては、物品販売及び補修・修理等のサービス事業を行っており、受注高は18億円（前期比8.8％減）、売上高は20億円（前期比12.7％増）、営業利益は4億93百万円（前期比34.1％増）となりました",
+      "opinions": [
+        {
+          "target": "受注高",
+          "category": "NULL#amount",
+          "polarity": "negative",
+          "from": 38,
+          "to": 41
+        },
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 57,
+          "to": 60
+        },
+        {
+          "target": "営業利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 77,
+          "to": 81
+        }
+      ]
+    }
+  ]
+}

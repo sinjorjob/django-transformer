@@ -1,0 +1,313 @@
+{
+  "header": {
+    "document_id": "E03267",
+    "document_name": "株式会社Ｇ‐７ホールディングス",
+    "doc_text": "有価証券報告書",
+    "edi_id": "E03267",
+    "security_code": "75080",
+    "category33": "小売業",
+    "category17": "小売",
+    "scale": "7"
+  },
+  "sentences": [
+    {
+      "sentence_id": 0,
+      "sentence": "（当期の経営成績）",
+      "opinions": []
+    },
+    {
+      "sentence_id": 1,
+      "sentence": "当連結会計年度におけるわが国経済は、政府による経済対策や日銀の金融政策の効果により、雇用や所得環境に改善が見られ、景気は緩やかな回復基調にはあるものの、米国の新政権や欧州の政治情勢等の影響による金融市場の混乱に加え、中国経済の失速をはじめとした海外経済の減速により、先行きは不透明な状況で推移しております",
+      "opinions": [
+        {
+          "target": "雇用",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 42,
+          "to": 44
+        },
+        {
+          "target": "所得環境",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 45,
+          "to": 49
+        },
+        {
+          "target": "景気",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 57,
+          "to": 59
+        },
+        {
+          "target": "金融市場",
+          "category": "market#general",
+          "polarity": "negative",
+          "from": 97,
+          "to": 101
+        },
+        {
+          "target": "中国経済",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 108,
+          "to": 112
+        },
+        {
+          "target": "海外経済",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 122,
+          "to": 126
+        },
+        {
+          "target": "先行き",
+          "category": "NULL#general",
+          "polarity": "neutral",
+          "from": 133,
+          "to": 136
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "sentence": "小売業界におきましては、個人消費伸び率は依然として横ばいで推移し、また、業種・業態の垣根を越えた企業間競争も激化し、厳しい経営環境が続いております",
+      "opinions": [
+        {
+          "target": "小売業界",
+          "category": "market#general",
+          "polarity": "negative",
+          "from": 0,
+          "to": 4
+        },
+        {
+          "target": "個人消費伸び率",
+          "category": "NULL#general",
+          "polarity": "neutral",
+          "from": 12,
+          "to": 19
+        },
+        {
+          "target": "企業間競争",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 48,
+          "to": 53
+        }
+      ]
+    },
+    {
+      "sentence_id": 3,
+      "sentence": "このような経営環境のなかで、当社グループは「売上確保、粗利率アップ、在庫コントロール、経費コントロール」のグループ方針の実践を継続し、既存店舗の収益力強化に取り組みました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 4,
+      "sentence": "また、Ｇ‐７モールフェスティバル",
+      "opinions": []
+    },
+    {
+      "sentence_id": 5,
+      "sentence": "や大感謝祭等のイベントを積極的に行うなど販売強化対策を実施しました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 6,
+      "sentence": "以上の結果、当連結会計年度の売上高は110,377百万円（前連結会計年度比 6.2％増）、営業利益は3,897百万円（同28.7％増）、経常利益は4,062百万円（同26.1％増）、親会社株主に帰属する当期純利益は2,080百万円（同11.4％増）の増収増益となりました",
+      "opinions": [
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 14,
+          "to": 17
+        },
+        {
+          "target": "営業利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 45,
+          "to": 49
+        },
+        {
+          "target": "経常利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 68,
+          "to": 72
+        },
+        {
+          "target": "当期純利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 101,
+          "to": 106
+        }
+      ]
+    },
+    {
+      "sentence_id": 7,
+      "sentence": "セグメント別の状況は次のとおりであります",
+      "opinions": []
+    },
+    {
+      "sentence_id": 8,
+      "sentence": "オートバックス・車関連事業につきましては、オートバックスにおいて、トータルカーライフサポートを充実させるべく、タイヤやメンテナンス商品の拡販および車検・車販売をきっかけとした再来店の促進に取り組みました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 9,
+      "sentence": "主力商品であるタイヤ・ホイールの販売は、降雪地域による履き替え需要の増加もあり、売上は前年を僅かに上回りました",
+      "opinions": [
+        {
+          "target": "需要",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 31,
+          "to": 33
+        },
+        {
+          "target": "売上",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 40,
+          "to": 42
+        }
+      ]
+    },
+    {
+      "sentence_id": 10,
+      "sentence": "出店につきましては、「バイクワールド」を兵庫県に１店舗（伊川谷店）オープンしました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 11,
+      "sentence": "これにより、売上高は34,010百万円（前連結会計年度比0.4％増）、営業利益は1,206百万円（同17.9％増）となりました",
+      "opinions": [
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 6,
+          "to": 9
+        },
+        {
+          "target": "営業利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 35,
+          "to": 39
+        }
+      ]
+    },
+    {
+      "sentence_id": 12,
+      "sentence": "業務スーパー・こだわり食品事業につきましては、食材を低価格で提供する業務スーパー及び精肉販売のテラバヤシが堅調に推移しました",
+      "opinions": [
+        {
+          "target": "業務スーパー",
+          "category": "product#general",
+          "polarity": "positive",
+          "from": 34,
+          "to": 40
+        },
+        {
+          "target": "テラバヤシ",
+          "category": "product#general",
+          "polarity": "positive",
+          "from": 47,
+          "to": 52
+        }
+      ]
+    },
+    {
+      "sentence_id": 13,
+      "sentence": "また、こだわり食品事業が新規顧客の増加や厳選した付加価値の高い商材の販売等により、好調に推移しました",
+      "opinions": [
+        {
+          "target": "こだわり食品事業",
+          "category": "business#general",
+          "polarity": "positive",
+          "from": 3,
+          "to": 11
+        }
+      ]
+    },
+    {
+      "sentence_id": 14,
+      "sentence": "出店につきましては、「業務スーパー」を兵庫県に１店舗（新高砂店）、埼玉県に３店舗（日高原宿店、川越広栄店、行田店）、千葉県に１店舗（天王台店）、東京都に１店舗（上池袋店）、愛知県に１店舗（豊田南店)、神奈川県に１店舗（平塚横内店）オープンしました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 15,
+      "sentence": "「テラバヤシ」を兵庫県に１店舗（新高砂店）、埼玉県に３店舗（日高原宿店、川越広栄店、行田店）、千葉県に１店舗（天王台店）、神奈川県に２店舗（川崎大師店、平塚横内店）、大阪府に１店舗（堺東店）オープンしました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 16,
+      "sentence": "これにより、売上高は70,232百万円（前連結会計年度比9.3％増）、営業利益は2,413百万円（同14.5％増）となりました",
+      "opinions": [
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 6,
+          "to": 9
+        },
+        {
+          "target": "営業利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 35,
+          "to": 39
+        }
+      ]
+    },
+    {
+      "sentence_id": 17,
+      "sentence": "その他事業につきましては、アグリ事業の農産物販売方法を前連結会計年度の６月より買取販売方式へ変更したこと、スイーツ事業のチーズタルト専門店「BAKE cheese tart」の販売が好調に推移したこと等により売上は伸長しました",
+      "opinions": [
+        {
+          "target": "その他事業",
+          "category": "business#sales",
+          "polarity": "positive",
+          "from": 0,
+          "to": 5
+        },
+        {
+          "target": "BAKE cheese tart",
+          "category": "business#amount",
+          "polarity": "positive",
+          "from": 70,
+          "to": 86
+        }
+      ]
+    },
+    {
+      "sentence_id": 18,
+      "sentence": "出店につきましては、「めぐみの郷」を兵庫県に２店舗（新高砂店、花田店)、千葉県に１店舗（天王台店）、チーズタルト専門店「BAKE cheese tart」を京都府に１店舗（京都寺町店）、大阪府に１店舗（あべのハルカス店）、大型コインランドリー「マンマチャオ」を京都府に１店舗（亀岡店)、兵庫県に１店舗（Ｇ‐７モールひよどり台店）、たい焼き専門店「やまや本舗」を兵庫県に１店舗(布施畑インター店)オープンしました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 19,
+      "sentence": "これにより、売上高は6,135百万円（前連結会計年度比6.9%増）となり、営業利益は124百万円（前連結会計年度は営業損失39百万円）となりました",
+      "opinions": [
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 6,
+          "to": 9
+        },
+        {
+          "target": "営業利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 37,
+          "to": 41
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,784 @@
+{
+  "header": {
+    "document_id": "E01740",
+    "document_name": "富士電機株式会社",
+    "doc_text": "有価証券報告書",
+    "edi_id": "E01740",
+    "security_code": "65040",
+    "category33": "電気機器",
+    "category17": "電機・精密",
+    "scale": "4"
+  },
+  "sentences": [
+    {
+      "sentence_id": 0,
+      "sentence": "当連結会計年度における富士電機（注）を取り巻く市場環境は、海外においては、中国を中心としたアジア地域の景気の下振れリスク、欧米の政策に関する不確実性等を背景に、経済情勢が不安定な状況となりましたが、欧米の主要先進国が牽引し、景気は総じて緩やかな回復基調となりました",
+      "opinions": [
+        {
+          "target": "経済情勢",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 80,
+          "to": 84
+        },
+        {
+          "target": "主要先進国",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 102,
+          "to": 107
+        },
+        {
+          "target": "景気",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 112,
+          "to": 114
+        }
+      ]
+    },
+    {
+      "sentence_id": 1,
+      "sentence": "国内においては、海外経済の先行き不透明感の強まりを受け、為替が短期間で急激に変動したものの、全体としては緩やかな回復基調となりました",
+      "opinions": [
+        {
+          "target": "国内",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 0,
+          "to": 2
+        },
+        {
+          "target": "海外経済",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 8,
+          "to": 12
+        },
+        {
+          "target": "為替",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 28,
+          "to": 30
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "sentence": "このような環境のもと、当社は２０１８年度中期経営計画「Ｒｅｎｏｖａｔｉｏｎ２０１８」において、「富士電機の更なる変革」を基本方針に掲げ、成長戦略として「社会システム」「産業インフラ」「パワエレ機器」事業のオペレーション変革、海外事業の拡大、高付加価値商材の創出を推進するとともに、収益力の更なる強化を推し進めています",
+      "opinions": []
+    },
+    {
+      "sentence_id": 3,
+      "sentence": "当連結会計年度の連結業績は、売上高は為替変動が影響したものの、成長戦略の諸施策並びに需要増により伸長し、前連結会計年度に比べ242億15百万円増加の8,377億65百万円となりました",
+      "opinions": [
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 14,
+          "to": 17
+        }
+      ]
+    },
+    {
+      "sentence_id": 4,
+      "sentence": "部門別には「発電・社会インフラ」、「産業インフラ」は前連結会計年度を上回りましたが、「パワエレ機器」、「電子デバイス」、「食品流通」、「その他」は前連結会計年度を下回りました",
+      "opinions": [
+        {
+          "target": "発電・社会インフラ",
+          "category": "business#sales",
+          "polarity": "positive",
+          "from": 6,
+          "to": 15
+        },
+        {
+          "target": "産業インフラ",
+          "category": "business#sales",
+          "polarity": "positive",
+          "from": 18,
+          "to": 24
+        },
+        {
+          "target": "パワエレ機器",
+          "category": "business#sales",
+          "polarity": "negative",
+          "from": 43,
+          "to": 49
+        },
+        {
+          "target": "電子デバイス",
+          "category": "business#sales",
+          "polarity": "negative",
+          "from": 52,
+          "to": 58
+        },
+        {
+          "target": "食品流通",
+          "category": "business#sales",
+          "polarity": "negative",
+          "from": 61,
+          "to": 65
+        },
+        {
+          "target": "その他",
+          "category": "business#sales",
+          "polarity": "negative",
+          "from": 68,
+          "to": 71
+        }
+      ]
+    },
+    {
+      "sentence_id": 5,
+      "sentence": "損益面においては、原価低減等を推進したものの、パワエレ機器の先行投資、為替変動等の影響により、営業損益は、前連結会計年度に比べ２億97百万円減少の447億９百万円、経常損益は、前連結会計年度に比べ６億82百万円増加の462億96百万円となりました",
+      "opinions": [
+        {
+          "target": "営業損益",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 47,
+          "to": 51
+        },
+        {
+          "target": "経常損益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 82,
+          "to": 86
+        }
+      ]
+    },
+    {
+      "sentence_id": 6,
+      "sentence": "また、親会社株主に帰属する当期純損益は、投資有価証券の売却等により、前連結会計年度に比べ103億34百万円増加の409億78百万円となり、過去最高益となりました",
+      "opinions": [
+        {
+          "target": "当期純損益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 13,
+          "to": 18
+        }
+      ]
+    },
+    {
+      "sentence_id": 7,
+      "sentence": "（注）本有価証券報告書における「富士電機」の表現は、当社並びに子会社及び関連会社から成る企業集団を指します",
+      "opinions": []
+    },
+    {
+      "sentence_id": 8,
+      "sentence": "＜セグメント別状況＞",
+      "opinions": []
+    },
+    {
+      "sentence_id": 9,
+      "sentence": "■発電・社会インフラ部門",
+      "opinions": []
+    },
+    {
+      "sentence_id": 10,
+      "sentence": "売上高は前連結会計年度比11％増加の1,947億95百万円となり、営業損益は前期比21億87百万円増加の119億23百万円となりました",
+      "opinions": [
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 0,
+          "to": 3
+        },
+        {
+          "target": "営業損益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 33,
+          "to": 37
+        }
+      ]
+    },
+    {
+      "sentence_id": 11,
+      "sentence": "なお、当連結会計年度の受注高は1,011億円（富士電機㈱の発電・社会インフラ部門単独ベース）となっております",
+      "opinions": []
+    },
+    {
+      "sentence_id": 12,
+      "sentence": "発電プラント分野は、水力発電設備の大口案件増加により、売上高、営業損益ともに前連結会計年度を上回りました",
+      "opinions": [
+        {
+          "target": "発電プラント分野",
+          "category": "business#sales",
+          "polarity": "positive",
+          "from": 0,
+          "to": 8
+        },
+        {
+          "target": "発電プラント分野",
+          "category": "business#profit",
+          "polarity": "positive",
+          "from": 0,
+          "to": 8
+        },
+        {
+          "target": "水力発電設備",
+          "category": "product#amount",
+          "polarity": "positive",
+          "from": 10,
+          "to": 16
+        }
+      ]
+    },
+    {
+      "sentence_id": 13,
+      "sentence": "社会システム分野は、スマートメータの増加により、売上高、営業損益ともに前連結会計年度を上回りました",
+      "opinions": [
+        {
+          "target": "社会システム分野",
+          "category": "business#sales",
+          "polarity": "positive",
+          "from": 0,
+          "to": 8
+        },
+        {
+          "target": "社会システム分野",
+          "category": "business#profit",
+          "polarity": "positive",
+          "from": 0,
+          "to": 8
+        },
+        {
+          "target": "スマートメータ",
+          "category": "product#amount",
+          "polarity": "positive",
+          "from": 10,
+          "to": 17
+        }
+      ]
+    },
+    {
+      "sentence_id": 14,
+      "sentence": "社会情報分野は、公共向けの大口案件増加、及び文教向けの案件増加により、売上高、営業損益ともに前連結会計年度を上回りました",
+      "opinions": [
+        {
+          "target": "社会情報分野",
+          "category": "business#sales",
+          "polarity": "positive",
+          "from": 0,
+          "to": 6
+        },
+        {
+          "target": "社会情報分野",
+          "category": "business#profit",
+          "polarity": "positive",
+          "from": 0,
+          "to": 6
+        },
+        {
+          "target": "公共向け",
+          "category": "product#amount",
+          "polarity": "positive",
+          "from": 8,
+          "to": 12
+        },
+        {
+          "target": "文教向け",
+          "category": "product#amount",
+          "polarity": "positive",
+          "from": 22,
+          "to": 26
+        }
+      ]
+    },
+    {
+      "sentence_id": 15,
+      "sentence": "■産業インフラ部門",
+      "opinions": []
+    },
+    {
+      "sentence_id": 16,
+      "sentence": "売上高は前連結会計年度比5%増加の2,091億17百万円となり、営業損益は前連結会計年度比34億円増加の145億72百万円となりました",
+      "opinions": [
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 0,
+          "to": 3
+        },
+        {
+          "target": "営業損益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 32,
+          "to": 36
+        }
+      ]
+    },
+    {
+      "sentence_id": 17,
+      "sentence": "なお、当連結会計年度の受注高は1,587億円（富士電機㈱の産業インフラ部門単独ベース）となっております",
+      "opinions": []
+    },
+    {
+      "sentence_id": 18,
+      "sentence": "変電分野は、国内の産業向け大口案件が寄与したことにより、売上高、営業損益ともに前連結会計年度を上回りました",
+      "opinions": [
+        {
+          "target": "変電分野",
+          "category": "business#sales",
+          "polarity": "positive",
+          "from": 0,
+          "to": 4
+        },
+        {
+          "target": "変電分野",
+          "category": "business#profit",
+          "polarity": "positive",
+          "from": 0,
+          "to": 4
+        }
+      ]
+    },
+    {
+      "sentence_id": 19,
+      "sentence": "産業プラント分野は、国内の省エネ、更新需要が堅調に推移したこと、データセンター向け等の新規ソリューション事業の増加により、売上高、営業損益ともに前連結会計年度を上回りました",
+      "opinions": [
+        {
+          "target": "産業プラント分野",
+          "category": "business#sales",
+          "polarity": "positive",
+          "from": 0,
+          "to": 8
+        },
+        {
+          "target": "産業プラント分野",
+          "category": "business#profit",
+          "polarity": "positive",
+          "from": 0,
+          "to": 8
+        },
+        {
+          "target": "省エネ",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 13,
+          "to": 16
+        },
+        {
+          "target": "更新需要",
+          "category": "product#general",
+          "polarity": "positive",
+          "from": 17,
+          "to": 21
+        },
+        {
+          "target": "新規ソリューション事業",
+          "category": "business#amount",
+          "polarity": "positive",
+          "from": 43,
+          "to": 54
+        }
+      ]
+    },
+    {
+      "sentence_id": 20,
+      "sentence": "産業計測機器分野は、国内の更新需要が堅調に推移したことにより、売上高、営業損益ともに前連結会計年度を上回りました",
+      "opinions": [
+        {
+          "target": "産業計測機器分野",
+          "category": "business#sales",
+          "polarity": "positive",
+          "from": 0,
+          "to": 8
+        },
+        {
+          "target": "産業計測機器分野",
+          "category": "business#profit",
+          "polarity": "positive",
+          "from": 0,
+          "to": 8
+        },
+        {
+          "target": "更新需要",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 13,
+          "to": 17
+        }
+      ]
+    },
+    {
+      "sentence_id": 21,
+      "sentence": "設備工事分野は、売上高は前連結会計年度と同水準になりましたが、原価低減等の推進により、営業損益は前連結会計年度を上回りました",
+      "opinions": [
+        {
+          "target": "設備工事分野",
+          "category": "business#sales",
+          "polarity": "neutral",
+          "from": 0,
+          "to": 6
+        },
+        {
+          "target": "設備工事分野",
+          "category": "business#profit",
+          "polarity": "positive",
+          "from": 0,
+          "to": 6
+        }
+      ]
+    },
+    {
+      "sentence_id": 22,
+      "sentence": "■パワエレ機器部門",
+      "opinions": []
+    },
+    {
+      "sentence_id": 23,
+      "sentence": "売上高は前連結会計年度比1%減少の2,058億55百万円となり、営業損益は前連結会計年度比7億91百万円減少の86億40百万円となりました",
+      "opinions": [
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "negative",
+          "from": 0,
+          "to": 3
+        },
+        {
+          "target": "営業損益",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 32,
+          "to": 36
+        }
+      ]
+    },
+    {
+      "sentence_id": 24,
+      "sentence": "なお、当連結会計年度の受注高は1,527億円（富士電機㈱のパワエレ機器部門及び富士電機機器制御㈱単独ベースの合計）となっております",
+      "opinions": []
+    },
+    {
+      "sentence_id": 25,
+      "sentence": "ドライブ分野は、為替影響に加え、鉄道車両用電機品の海外大口案件が減少したものの、インバータ・サーボが堅調に推移したことにより、売上高は前連結会計年度を上回りましたが、海外生産拠点をはじめとした先行投資等により、営業損益は前連結会計年度を下回りました",
+      "opinions": [
+        {
+          "target": "ドライブ分野",
+          "category": "business#sales",
+          "polarity": "positive",
+          "from": 0,
+          "to": 6
+        },
+        {
+          "target": "ドライブ分野",
+          "category": "business#profit",
+          "polarity": "negative",
+          "from": 0,
+          "to": 6
+        },
+        {
+          "target": "電機品",
+          "category": "product#amount",
+          "polarity": "negative",
+          "from": 21,
+          "to": 24
+        },
+        {
+          "target": "インバータ",
+          "category": "product#general",
+          "polarity": "positive",
+          "from": 40,
+          "to": 45
+        },
+        {
+          "target": "サーボ",
+          "category": "product#general",
+          "polarity": "positive",
+          "from": 46,
+          "to": 49
+        }
+      ]
+    },
+    {
+      "sentence_id": 26,
+      "sentence": "パワーサプライ分野は、メガソーラー向けパワーコンディショナの需要減少及び為替影響により、売上高は前連結会計年度を下回りましたが、原価低減等の推進により、営業損益は前連結会計年度を上回りました",
+      "opinions": [
+        {
+          "target": "パワーサプライ分野",
+          "category": "business#sales",
+          "polarity": "negative",
+          "from": 0,
+          "to": 9
+        },
+        {
+          "target": "パワーサプライ分野",
+          "category": "business#profit",
+          "polarity": "positive",
+          "from": 0,
+          "to": 9
+        },
+        {
+          "target": "パワーコンディショナ",
+          "category": "product#amount",
+          "polarity": "negative",
+          "from": 19,
+          "to": 29
+        }
+      ]
+    },
+    {
+      "sentence_id": 27,
+      "sentence": "器具分野は、工作機械をはじめとする機械セットメーカ及び受配電盤メーカの需要減少により、売上高、営業損益ともに前連結会計年度を下回りました",
+      "opinions": [
+        {
+          "target": "器具分野",
+          "category": "business#sales",
+          "polarity": "negative",
+          "from": 0,
+          "to": 4
+        },
+        {
+          "target": "器具分野",
+          "category": "business#profit",
+          "polarity": "negative",
+          "from": 0,
+          "to": 4
+        },
+        {
+          "target": "機械セットメーカ",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 17,
+          "to": 25
+        },
+        {
+          "target": "受配電盤メーカ",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 27,
+          "to": 34
+        }
+      ]
+    },
+    {
+      "sentence_id": 28,
+      "sentence": "■電子デバイス部門",
+      "opinions": []
+    },
+    {
+      "sentence_id": 29,
+      "sentence": "売上高は前連結会計年度比1%減少の1,184億62百万円となり、営業損益は前連結会計年度比17億49百万円減少の80億30百万円となりました",
+      "opinions": [
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "negative",
+          "from": 0,
+          "to": 3
+        },
+        {
+          "target": "営業損益",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 32,
+          "to": 36
+        }
+      ]
+    },
+    {
+      "sentence_id": 30,
+      "sentence": "なお、当連結会計年度の受注高は977億円（富士電機㈱の電子デバイス部門及び富士電機マレーシア社単独ベースの合計）となっております",
+      "opinions": []
+    },
+    {
+      "sentence_id": 31,
+      "sentence": "半導体分野は、為替が影響したものの、産業分野及び情報電源分野において需要回復が進み、自動車分野も堅調\nに推移したことから、売上高、営業損益ともに前連結会計年度を上回りました",
+      "opinions": [
+        {
+          "target": "半導体分野",
+          "category": "business#sales",
+          "polarity": "positive",
+          "from": 0,
+          "to": 5
+        },
+        {
+          "target": "半導体分野",
+          "category": "business#profit",
+          "polarity": "positive",
+          "from": 0,
+          "to": 5
+        },
+        {
+          "target": "産業分野",
+          "category": "business#general",
+          "polarity": "positive",
+          "from": 18,
+          "to": 22
+        },
+        {
+          "target": "情報電源分野",
+          "category": "business#general",
+          "polarity": "positive",
+          "from": 24,
+          "to": 30
+        },
+        {
+          "target": "自動車分野",
+          "category": "business#general",
+          "polarity": "positive",
+          "from": 42,
+          "to": 47
+        }
+      ]
+    },
+    {
+      "sentence_id": 32,
+      "sentence": "ディスク媒体分野は、市況悪化に伴う需要減少により、売上高、営業損益ともに前連結会計年度を下回りました",
+      "opinions": [
+        {
+          "target": "ディスク媒体分野",
+          "category": "business#amount",
+          "polarity": "negative",
+          "from": 0,
+          "to": 8
+        },
+        {
+          "target": "ディスク媒体分野",
+          "category": "business#sales",
+          "polarity": "negative",
+          "from": 0,
+          "to": 8
+        },
+        {
+          "target": "ディスク媒体分野",
+          "category": "business#profit",
+          "polarity": "negative",
+          "from": 0,
+          "to": 8
+        }
+      ]
+    },
+    {
+      "sentence_id": 33,
+      "sentence": "■食品流通部門",
+      "opinions": []
+    },
+    {
+      "sentence_id": 34,
+      "sentence": "売上高は前連結会計年度比若干減少の1,095億57百万円となり、営業損益は前連結会計年度比19億98百万円減少の60億29百万円となりました",
+      "opinions": [
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "negative",
+          "from": 0,
+          "to": 3
+        },
+        {
+          "target": "営業損益",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 32,
+          "to": 36
+        }
+      ]
+    },
+    {
+      "sentence_id": 35,
+      "sentence": "なお、当連結会計年度の受注高は998億円（富士電機㈱の食品流通部門単独ベース）となっております",
+      "opinions": []
+    },
+    {
+      "sentence_id": 36,
+      "sentence": "自販機分野は、国内市場の業界再編及び国内飲料メーカーの投資抑制に伴う需要減少、中国市場においては、顧客開拓は進むものの、設置計画の見直し等が影響し、売上高、営業損益ともに前連結会計年度を下回りました",
+      "opinions": [
+        {
+          "target": "自販機分野",
+          "category": "business#sales",
+          "polarity": "negative",
+          "from": 0,
+          "to": 5
+        },
+        {
+          "target": "自販機分野",
+          "category": "business#profit",
+          "polarity": "negative",
+          "from": 0,
+          "to": 5
+        },
+        {
+          "target": "国内飲料メーカー",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 18,
+          "to": 26
+        }
+      ]
+    },
+    {
+      "sentence_id": 37,
+      "sentence": "店舗流通分野は、コンビニエンスストア向け店舗設備機器及び自動釣銭機等の需要増加により、売上高は前連結会計年度を上回りましたが、機種構成差等により、営業損益は前連結会計年度を下回りました",
+      "opinions": [
+        {
+          "target": "店舗流通分野",
+          "category": "business#sales",
+          "polarity": "positive",
+          "from": 0,
+          "to": 6
+        },
+        {
+          "target": "店舗流通分野",
+          "category": "business#profit",
+          "polarity": "negative",
+          "from": 0,
+          "to": 6
+        },
+        {
+          "target": "店舗設備機器",
+          "category": "product#amount",
+          "polarity": "positive",
+          "from": 20,
+          "to": 26
+        },
+        {
+          "target": "自動釣銭機",
+          "category": "product#amount",
+          "polarity": "positive",
+          "from": 28,
+          "to": 33
+        }
+      ]
+    },
+    {
+      "sentence_id": 38,
+      "sentence": "■その他部門",
+      "opinions": []
+    },
+    {
+      "sentence_id": 39,
+      "sentence": "売上高は前連結会計年度比6%減少の590億99百万円となり、営業損益は前連結会計年度比２億71百万円減少の20億64百万円となりました",
+      "opinions": [
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "negative",
+          "from": 0,
+          "to": 3
+        },
+        {
+          "target": "営業損益",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 30,
+          "to": 34
+        }
+      ]
+    },
+    {
+      "sentence_id": 40,
+      "sentence": "(注) 当連結会計年度より、組織構造の変更に伴い、「産業インフラ」、「パワエレ機器」、「電子デバイス」及び「食品流通」の各報告セグメントにおいて、集約する事業を変更しており、各セグメントの前連結会計年度比につきましては、前連結会計年度の数値を変更後のセグメント区分に組み替えたうえで算出しております",
+      "opinions": []
+    }
+  ]
+}

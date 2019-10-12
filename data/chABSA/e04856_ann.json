@@ -1,0 +1,341 @@
+{
+  "header": {
+    "document_id": "E04856",
+    "document_name": "株式会社ＫＳＫ",
+    "doc_text": "有価証券報告書",
+    "edi_id": "E04856",
+    "security_code": "96870",
+    "category33": "情報・通信業",
+    "category17": "情報通信・サービスその他",
+    "scale": ""
+  },
+  "sentences": [
+    {
+      "sentence_id": 0,
+      "sentence": "当連結会計年度における我が国経済は、政府による経済対策や日本銀行の継続的な金融緩和を背景に、企業業績が好調に推移したことで雇用環境の改善がみられたことなどから、景気は緩やかな回復基調で推移いたしました",
+      "opinions": [
+        {
+          "target": "企業業績",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 46,
+          "to": 50
+        },
+        {
+          "target": "雇用環境",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 61,
+          "to": 65
+        },
+        {
+          "target": "景気",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 80,
+          "to": 82
+        }
+      ]
+    },
+    {
+      "sentence_id": 1,
+      "sentence": "一方、海外では資源国や新興国経済の成長が鈍化し、米国新政権発足による政策変更や英国のＥＵ離脱問題など保護主義的傾向の動きがみられ、世界経済の不確実性が高まるなど、景気の先行きは不透明な状況が続いております",
+      "opinions": [
+        {
+          "target": "成長",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 17,
+          "to": 19
+        },
+        {
+          "target": "世界経済",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 65,
+          "to": 69
+        },
+        {
+          "target": "先行き",
+          "category": "NULL#general",
+          "polarity": "neutral",
+          "from": 84,
+          "to": 87
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "sentence": "当社グループの属する情報サービス産業界におきましては、第４次産業革命に向けてＩｏＴ技術によるビッグデータの収集や、ＡＩを使ったその分析や活用などといった新たなビジネスチャンスが生まれています",
+      "opinions": [
+        {
+          "target": "ビジネスチャンス",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 79,
+          "to": 87
+        }
+      ]
+    },
+    {
+      "sentence_id": 3,
+      "sentence": "企業のシステム投資が増加することにより対応する技術者への需要は拡大していますが、一方で供給が追い付かず人件費や採用コストが上昇する状況となっております",
+      "opinions": [
+        {
+          "target": "システム投資",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 3,
+          "to": 9
+        },
+        {
+          "target": "需要",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 28,
+          "to": 30
+        },
+        {
+          "target": "人件費",
+          "category": "NULL#cost",
+          "polarity": "negative",
+          "from": 51,
+          "to": 54
+        },
+        {
+          "target": "採用コスト",
+          "category": "NULL#cost",
+          "polarity": "negative",
+          "from": 55,
+          "to": 60
+        }
+      ]
+    },
+    {
+      "sentence_id": 4,
+      "sentence": "このような環境の中、当社グループでは拡大する市場の需要へ対応すべく、新卒および中途の採用を強化するとともに人材育成にも注力してまいりました",
+      "opinions": [
+        {
+          "target": "需要",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 25,
+          "to": 27
+        }
+      ]
+    },
+    {
+      "sentence_id": 5,
+      "sentence": "また、将来の持続的な発展を見据え、自社開発の住宅建設業者向けパッケージソフトウェアの全面改良といった投資を行ったことで、募集費、教育費に加え研究開発費が増加しましたが、稼働率の向上や受注単価改善などに努めた結果、経費増加分を吸収し増益となっております",
+      "opinions": [
+        {
+          "target": "募集費",
+          "category": "NULL#cost",
+          "polarity": "negative",
+          "from": 60,
+          "to": 63
+        },
+        {
+          "target": "教育費",
+          "category": "NULL#cost",
+          "polarity": "negative",
+          "from": 64,
+          "to": 67
+        },
+        {
+          "target": "研究開発費",
+          "category": "NULL#cost",
+          "polarity": "negative",
+          "from": 70,
+          "to": 75
+        }
+      ]
+    },
+    {
+      "sentence_id": 6,
+      "sentence": "また、投資有価証券の一部を売却したことにより特別利益が発生し、税金等調整前当期純利益が増加しております",
+      "opinions": [
+        {
+          "target": "特別利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 22,
+          "to": 26
+        },
+        {
+          "target": "税金等調整前当期純利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 31,
+          "to": 42
+        }
+      ]
+    },
+    {
+      "sentence_id": 7,
+      "sentence": "なお、当社グループでは従業員一人一人の健康を最大の経営資産と捉え、これまで健康増進に向け様々な活動をおこなってまいりましたが、その取り組みが評価され、本年２月に経済産業省より「ホワイト５００」の認定を受けております",
+      "opinions": []
+    },
+    {
+      "sentence_id": 8,
+      "sentence": "以上の結果、当連結会計年度の売上高は14,540百万円で680百万円の増加（前連結会計年度比4.9％増）、経常利益は1,285百万円で119百万円の増加（同10.2％増）、親会社株主に帰属する当期純利益は895百万円で189百万円の増加（同26.9％増）となりました",
+      "opinions": [
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 14,
+          "to": 17
+        },
+        {
+          "target": "経常利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 53,
+          "to": 57
+        },
+        {
+          "target": "当期純利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 96,
+          "to": 101
+        }
+      ]
+    },
+    {
+      "sentence_id": 9,
+      "sentence": "セグメント別の業績は次のとおりであります",
+      "opinions": []
+    },
+    {
+      "sentence_id": 10,
+      "sentence": "（イ）システムコア事業",
+      "opinions": []
+    },
+    {
+      "sentence_id": 11,
+      "sentence": "組込ソフトウェア開発や半導体設計の分野では、技術者や外部ビジネスパートナーの確保という課題はあるものの、車載システムにかかわる業務の比率が高まっており、受注単価も比較的高いことなどから、売上高は2,831百万円（前連結会計年度比3.9％増）、セグメント利益は709百万円（同8.8％増）となりました",
+      "opinions": [
+        {
+          "target": "組込ソフトウェア開発",
+          "category": "product#sales",
+          "polarity": "positive",
+          "from": 0,
+          "to": 10
+        },
+        {
+          "target": "組込ソフトウェア開発",
+          "category": "product#profit",
+          "polarity": "positive",
+          "from": 0,
+          "to": 10
+        },
+        {
+          "target": "半導体設計",
+          "category": "product#sales",
+          "polarity": "positive",
+          "from": 11,
+          "to": 16
+        },
+        {
+          "target": "半導体設計",
+          "category": "product#profit",
+          "polarity": "positive",
+          "from": 11,
+          "to": 16
+        },
+        {
+          "target": "受注単価",
+          "category": "NULL#price",
+          "polarity": "positive",
+          "from": 76,
+          "to": 80
+        }
+      ]
+    },
+    {
+      "sentence_id": 12,
+      "sentence": "（ロ）ＩＴソリューション事業",
+      "opinions": []
+    },
+    {
+      "sentence_id": 13,
+      "sentence": "技術者や外部ビジネスパートナー不足から、大口開発案件での計画遅延や受注機会損失が発生したものの、不採算案件の受注抑制などにより利益率が改善したことなどから、売上高は4,054百万円（前連結会計年度比3.1％増）、セグメント利益は598百万円（同11.1％増）となりました",
+      "opinions": [
+        {
+          "target": "技術者",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 0,
+          "to": 3
+        },
+        {
+          "target": "外部ビジネスパートナー",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 4,
+          "to": 15
+        },
+        {
+          "target": "大口開発案件",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 20,
+          "to": 26
+        },
+        {
+          "target": "利益率",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 63,
+          "to": 66
+        },
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 78,
+          "to": 81
+        },
+        {
+          "target": "セグメント利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 106,
+          "to": 113
+        }
+      ]
+    },
+    {
+      "sentence_id": 14,
+      "sentence": "（ハ）ネットワークサービス事業",
+      "opinions": []
+    },
+    {
+      "sentence_id": 15,
+      "sentence": "業界未経験者も含めた積極的な技術者採用や外部ビジネスパートナーの有効活用、受注単価交渉による利益率の改善に努めたことなどから、売上高は7,654百万円（前連結会計年度比6.3％増）、セグメント利益は1,426百万円（同9.3％増）となりました",
+      "opinions": [
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 63,
+          "to": 66
+        },
+        {
+          "target": "セグメント利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 91,
+          "to": 98
+        }
+      ]
+    },
+    {
+      "sentence_id": 16,
+      "sentence": "（注）　記載金額には消費税等は含まれておりません",
+      "opinions": []
+    }
+  ]
+}

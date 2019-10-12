@@ -1,0 +1,371 @@
+{
+  "header": {
+    "document_id": "E00026",
+    "document_name": "日本精鉱株式会社",
+    "doc_text": "有価証券報告書",
+    "edi_id": "E00026",
+    "security_code": "57290",
+    "category33": "非鉄金属",
+    "category17": "鉄鋼・非鉄",
+    "scale": ""
+  },
+  "sentences": [
+    {
+      "sentence_id": 0,
+      "sentence": "当連結会計年度におけるわが国経済は、雇用、所得環境、企業業績の改善が続いており、景気全体としては、緩やかな回復基調が続いております",
+      "opinions": [
+        {
+          "target": "雇用",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 18,
+          "to": 20
+        },
+        {
+          "target": "所得環境",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 21,
+          "to": 25
+        },
+        {
+          "target": "企業業績",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 26,
+          "to": 30
+        },
+        {
+          "target": "景気全体",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 40,
+          "to": 44
+        }
+      ]
+    },
+    {
+      "sentence_id": 1,
+      "sentence": "一方、海外においては、新興国経済の減速、米国新政権の政策の不確実性などの影響が懸念され、景気の先行きについては、依然として不透明な状況が続いております",
+      "opinions": [
+        {
+          "target": "海外",
+          "category": "NULL#general",
+          "polarity": "neutral",
+          "from": 3,
+          "to": 5
+        },
+        {
+          "target": "新興国経済",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 11,
+          "to": 16
+        },
+        {
+          "target": "政策",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 26,
+          "to": 28
+        },
+        {
+          "target": "先行き",
+          "category": "NULL#general",
+          "polarity": "neutral",
+          "from": 47,
+          "to": 50
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "sentence": "このような環境下、当社グループは国内外での販売力の強化に努めるとともに、製造力及び技術力の向上、様々な工程での無駄の排除及び改善などに取り組んでまいりました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 3,
+      "sentence": "その結果、当連結会計年度の売上高は前年度比286百万円減収（2.4％減収）の11,511百万円、営業利益は同434百万円増益（81.5％増益）の966百万円、経常利益は同449百万円増益（89.0％増益）の955百万円、親会社株主に帰属する当期純利益は同331百万円増益（106.1％増益）の644百万円となりました",
+      "opinions": [
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "negative",
+          "from": 13,
+          "to": 16
+        },
+        {
+          "target": "営業利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 48,
+          "to": 52
+        },
+        {
+          "target": "経常利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 79,
+          "to": 83
+        },
+        {
+          "target": "当期純利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 120,
+          "to": 125
+        }
+      ]
+    },
+    {
+      "sentence_id": 4,
+      "sentence": "セグメントごとの業況は次のとおりです",
+      "opinions": []
+    },
+    {
+      "sentence_id": 5,
+      "sentence": "[アンチモン事業]",
+      "opinions": []
+    },
+    {
+      "sentence_id": 6,
+      "sentence": "同事業の原料であり、製品販売価格の基準ともなるアンチモン地金の国際相場（ドル建て）は、当連結会計年度に入り、上げ基調でしたが、第３四半期からは小幅な上げ下げを繰り返していました",
+      "opinions": [
+        {
+          "target": "国際相場",
+          "category": "NULL#general",
+          "polarity": "neutral",
+          "from": 31,
+          "to": 35
+        }
+      ]
+    },
+    {
+      "sentence_id": 7,
+      "sentence": "第４四半期に入り、原料地金供給国である中国において、環境監査などが順次実施され、地金製錬メーカーの操業停止などで減産となったことから、再び上げ基調となりました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 8,
+      "sentence": "当連結会計年度通期の相場は前年度とのドル建てでの比較では10.0%アップする一方、円高により、円建てでは0.7%と僅かにダウンしました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 9,
+      "sentence": "同事業の販売状況につきましては、自動車部品向けや、中国販売子会社での販売増により、販売数量は前年度比693トン増加（10.9％増加）の7,055トンとなりました",
+      "opinions": [
+        {
+          "target": "自動車部品向け",
+          "category": "product#amount",
+          "polarity": "positive",
+          "from": 16,
+          "to": 23
+        },
+        {
+          "target": "中国販売子会社",
+          "category": "company#amount",
+          "polarity": "positive",
+          "from": 25,
+          "to": 32
+        },
+        {
+          "target": "販売数量",
+          "category": "NULL#amount",
+          "polarity": "positive",
+          "from": 41,
+          "to": 45
+        }
+      ]
+    },
+    {
+      "sentence_id": 10,
+      "sentence": "その結果、同事業の当連結会計年度の売上高は、販売数量の増加があったものの、円ベースの原料価格下落に伴う販売価格の低下により、前年度比505百万円減収（8.1％減収）の5,734百万円となりました",
+      "opinions": [
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "negative",
+          "from": 17,
+          "to": 20
+        },
+        {
+          "target": "販売数量",
+          "category": "NULL#amount",
+          "polarity": "positive",
+          "from": 22,
+          "to": 26
+        },
+        {
+          "target": "販売価格",
+          "category": "NULL#price",
+          "polarity": "negative",
+          "from": 51,
+          "to": 55
+        }
+      ]
+    },
+    {
+      "sentence_id": 11,
+      "sentence": "セグメント利益は、販売数量の増加により、同247百万円増益の178百万円となりました",
+      "opinions": [
+        {
+          "target": "セグメント利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 0,
+          "to": 7
+        },
+        {
+          "target": "販売数量",
+          "category": "NULL#amount",
+          "polarity": "positive",
+          "from": 9,
+          "to": 13
+        }
+      ]
+    },
+    {
+      "sentence_id": 12,
+      "sentence": "[金属粉末事業]",
+      "opinions": []
+    },
+    {
+      "sentence_id": 13,
+      "sentence": "同事業の主原料である銅の国内建値は、11月から上昇に転じているものの、当連結会計年度平均でトン当たり603,900円となり、前年同期比10.6%の下落となりました",
+      "opinions": [
+        {
+          "target": "国内建値",
+          "category": "NULL#cost",
+          "polarity": "positive",
+          "from": 12,
+          "to": 16
+        }
+      ]
+    },
+    {
+      "sentence_id": 14,
+      "sentence": "電子部品向け金属粉の販売状況につきましては、スマートフォン関連需要に加え、軟磁性材向けの販売も堅調に推移しましたので、販売数量は前年度比302トン増加（32.1％増加）の1,244トンとなりました",
+      "opinions": [
+        {
+          "target": "金属粉",
+          "category": "product#amount",
+          "polarity": "positive",
+          "from": 6,
+          "to": 9
+        },
+        {
+          "target": "スマートフォン関連需要",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 22,
+          "to": 33
+        },
+        {
+          "target": "軟磁性材向け",
+          "category": "product#amount",
+          "polarity": "positive",
+          "from": 37,
+          "to": 43
+        }
+      ]
+    },
+    {
+      "sentence_id": 15,
+      "sentence": "粉末冶金向け金属粉の販売状況につきましては、自動車部品向けが好調な一方、熊本地震等の影響による需要減があり、販売数量は前年度比43トン減少（2.5％減少）の1,723トンとなりました",
+      "opinions": [
+        {
+          "target": "金属粉",
+          "category": "product#amount",
+          "polarity": "negative",
+          "from": 6,
+          "to": 9
+        },
+        {
+          "target": "自動車部品向け",
+          "category": "product#general",
+          "polarity": "positive",
+          "from": 22,
+          "to": 29
+        }
+      ]
+    },
+    {
+      "sentence_id": 16,
+      "sentence": "全体の販売数量は、前年度比259トン増加（9.6％増加）の2,967トンとなりました",
+      "opinions": [
+        {
+          "target": "販売数量",
+          "category": "NULL#amount",
+          "polarity": "positive",
+          "from": 3,
+          "to": 7
+        }
+      ]
+    },
+    {
+      "sentence_id": 17,
+      "sentence": "その結果、同事業の当連結会計年度の売上高は、販売数量の増加などにより、前年度比215百万円増収（3.9％増収）の5,753百万円となりました",
+      "opinions": [
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 17,
+          "to": 20
+        },
+        {
+          "target": "販売数量",
+          "category": "NULL#amount",
+          "polarity": "positive",
+          "from": 22,
+          "to": 26
+        }
+      ]
+    },
+    {
+      "sentence_id": 18,
+      "sentence": "セグメント利益は、電子部品向け金属粉の販売好調により、同186百万円増益（32.6％増益）の759百万円となりました",
+      "opinions": [
+        {
+          "target": "セグメント利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 0,
+          "to": 7
+        },
+        {
+          "target": "金属粉",
+          "category": "product#amount",
+          "polarity": "positive",
+          "from": 15,
+          "to": 18
+        }
+      ]
+    },
+    {
+      "sentence_id": 19,
+      "sentence": "[その他]",
+      "opinions": []
+    },
+    {
+      "sentence_id": 20,
+      "sentence": "不動産賃貸事業の当連結会計年度の売上高は23百万円（前年度比18.5%増収）、セグメント利益は22百万円（前年度比18.9%増益）となりました",
+      "opinions": [
+        {
+          "target": "不動産賃貸事業",
+          "category": "business#sales",
+          "polarity": "positive",
+          "from": 0,
+          "to": 7
+        },
+        {
+          "target": "不動産賃貸事業",
+          "category": "business#profit",
+          "polarity": "positive",
+          "from": 0,
+          "to": 7
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,266 @@
+{
+  "header": {
+    "document_id": "E02367",
+    "document_name": "任天堂株式会社",
+    "doc_text": "有価証券報告書",
+    "edi_id": "E02367",
+    "security_code": "79740",
+    "category33": "その他製品",
+    "category17": "情報通信・サービスその他",
+    "scale": "1"
+  },
+  "sentences": [
+    {
+      "sentence_id": 0,
+      "sentence": "当連結会計年度の状況は、プレイスタイルを多様化させる新しい家庭用据置型テレビゲーム機「Nintendo Switch」を全世界で3月3日に発売し、好調な滑り出しを見せています",
+      "opinions": [
+        {
+          "target": "Nintendo Switch",
+          "category": "product#general",
+          "polarity": "positive",
+          "from": 43,
+          "to": 58
+        }
+      ]
+    },
+    {
+      "sentence_id": 1,
+      "sentence": "特に同時に発売した『ゼルダの伝説　ブレス オブ ザ ワイルド』は世界中で大変人気を博し276万本(Wii U版を含め合計384万本)の販売を記録したほか、『1-2-Switch』も話題を集め、ハードウェアの販売台数は274万台、ソフトウェアの販売本数は546万本となりました",
+      "opinions": [
+        {
+          "target": "ゼルダの伝説　ブレス オブ ザ ワイルド",
+          "category": "product#amount",
+          "polarity": "positive",
+          "from": 10,
+          "to": 30
+        },
+        {
+          "target": "1-2-Switch",
+          "category": "product#general",
+          "polarity": "positive",
+          "from": 78,
+          "to": 88
+        },
+        {
+          "target": "ハードウェア",
+          "category": "product#amount",
+          "polarity": "neutral",
+          "from": 96,
+          "to": 102
+        },
+        {
+          "target": "ソフトウェア",
+          "category": "product#amount",
+          "polarity": "neutral",
+          "from": 114,
+          "to": 120
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "sentence": "ニンテンドー3DSでは、全世界で11月に発売した『ポケットモンスター サン・ムーン』が大変話題を呼び、1,544万本の大ヒットを記録したほか、『スーパーマリオメーカー for ニンテンドー3DS』が234万本、『星のカービィ　ロボボプラネット』も136万本と順調に販売本数を伸ばしました",
+      "opinions": [
+        {
+          "target": "ポケットモンスター サン・ムーン",
+          "category": "product#amount",
+          "polarity": "positive",
+          "from": 25,
+          "to": 41
+        },
+        {
+          "target": "スーパーマリオメーカー for ニンテンドー3DS",
+          "category": "product#amount",
+          "polarity": "positive",
+          "from": 72,
+          "to": 97
+        },
+        {
+          "target": "星のカービィ　ロボボプラネット",
+          "category": "product#amount",
+          "polarity": "positive",
+          "from": 106,
+          "to": 121
+        }
+      ]
+    },
+    {
+      "sentence_id": 3,
+      "sentence": "また、スマートデバイス向けアプリ『Pokémon GO』が配信されて以降、過去に発売した『ポケットモンスター』シリーズのソフトウェアも販売を伸ばし、海外ではハードウェアを牽引する動きが見られ、全世界におけるハードウェアの販売台数は727万台(前年同期比7％増)、ソフトウェアの販売本数は5,508万本(前年同期比14％増)となりました",
+      "opinions": [
+        {
+          "target": "『ポケットモンスター』シリーズ",
+          "category": "product#amount",
+          "polarity": "positive",
+          "from": 44,
+          "to": 59
+        },
+        {
+          "target": "ハードウェア",
+          "category": "product#amount",
+          "polarity": "positive",
+          "from": 103,
+          "to": 109
+        },
+        {
+          "target": "ソフトウェア",
+          "category": "product#amount",
+          "polarity": "positive",
+          "from": 131,
+          "to": 137
+        }
+      ]
+    },
+    {
+      "sentence_id": 4,
+      "sentence": "一方、Wii Uでは、全世界で3月に発売した『ゼルダの伝説　ブレス オブ ザ ワイルド』が108万本の販売本数を記録し健闘したものの、ソフトウェアの販売本数は1,480万本(前年同期比46％減)となり、ハードウェアも期初の想定に沿った動きとなり、販売台数は76万台(前年同期比77％減)となりました",
+      "opinions": [
+        {
+          "target": "ゼルダの伝説　ブレス オブ ザ ワイルド",
+          "category": "product#amount",
+          "polarity": "positive",
+          "from": 23,
+          "to": 43
+        },
+        {
+          "target": "ソフトウェア",
+          "category": "product#amount",
+          "polarity": "negative",
+          "from": 67,
+          "to": 73
+        },
+        {
+          "target": "ハードウェア",
+          "category": "product#amount",
+          "polarity": "negative",
+          "from": 101,
+          "to": 107
+        }
+      ]
+    },
+    {
+      "sentence_id": 5,
+      "sentence": "スマートデバイスビジネスでは、マリオの新しいアクションゲームアプリ『スーパーマリオ ラン』のiOS版を12月に、Android版を3月に配信開始し、世界中のお客様から大きな反響をいただいています",
+      "opinions": [
+        {
+          "target": "スーパーマリオ ラン",
+          "category": "product#general",
+          "polarity": "positive",
+          "from": 34,
+          "to": 44
+        }
+      ]
+    },
+    {
+      "sentence_id": 6,
+      "sentence": "また、スマートデバイス上で手軽に本格的なシミュレーションRPGが楽しめるゲームアプリ『ファイアーエムブレム ヒーローズ』を2月から配信し、従来のファイアーエムブレムシリーズのファンの方だけでなく、これまでゲーム専用機で同シリーズを遊んだことのない方も含め多くのお客様に楽しんでいただいています",
+      "opinions": [
+        {
+          "target": "ファイアーエムブレム ヒーローズ",
+          "category": "product#amount",
+          "polarity": "positive",
+          "from": 43,
+          "to": 59
+        }
+      ]
+    },
+    {
+      "sentence_id": 7,
+      "sentence": "その他、11月に国内外で発売した「ニンテンドークラシックミニ  ファミリーコンピュータ（日本版名称）」は各地で好評となりました",
+      "opinions": [
+        {
+          "target": "ニンテンドークラシックミニ  ファミリーコンピュータ",
+          "category": "product#general",
+          "polarity": "positive",
+          "from": 17,
+          "to": 43
+        }
+      ]
+    },
+    {
+      "sentence_id": 8,
+      "sentence": "一方で、amiibo（アミーボ）は、新たに発売したamiiboを使って楽しめる新作ソフトの展開により販売状況に回復の兆しを見せたものの、フィギュア型が約910万体、カード型が約930万枚の販売にとどまり、ダウンロード売上も、追加コンテンツによる売上が少なかったため、いずれも前年同期と比べて大きく減少しました",
+      "opinions": [
+        {
+          "target": "フィギュア型",
+          "category": "product#amount",
+          "polarity": "negative",
+          "from": 68,
+          "to": 74
+        },
+        {
+          "target": "カード型",
+          "category": "product#amount",
+          "polarity": "negative",
+          "from": 82,
+          "to": 86
+        },
+        {
+          "target": "ダウンロード売上",
+          "category": "NULL#sales",
+          "polarity": "negative",
+          "from": 102,
+          "to": 110
+        }
+      ]
+    },
+    {
+      "sentence_id": 9,
+      "sentence": "これらの状況により、売上高は4,890億円(前年同期比3.0％減)となり、このうち海外売上高は3,590億円(前年同期比2.7％減、海外売上高比率73.4％)となりました",
+      "opinions": [
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "negative",
+          "from": 10,
+          "to": 13
+        },
+        {
+          "target": "海外売上高",
+          "category": "NULL#sales",
+          "polarity": "negative",
+          "from": 41,
+          "to": 46
+        }
+      ]
+    },
+    {
+      "sentence_id": 10,
+      "sentence": "営業利益は293億円(前年同期比10.7％減)となり、株式会社ポケモンなどに係る持分法による投資利益202億円を計上したことにより、経常利益は503億円(前年同期比74.9％増)となりました",
+      "opinions": [
+        {
+          "target": "営業利益",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 0,
+          "to": 4
+        },
+        {
+          "target": "経常利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 66,
+          "to": 70
+        }
+      ]
+    },
+    {
+      "sentence_id": 11,
+      "sentence": "さらにメジャーリーグ球団シアトルマリナーズの運営会社の持分の一部を売却したことによる投資有価証券売却益645億円を特別利益として計上したため、親会社株主に帰属する当期純利益は1,025億円(前年同期比521.5％増)となりました",
+      "opinions": [
+        {
+          "target": "当期純利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 81,
+          "to": 86
+        }
+      ]
+    },
+    {
+      "sentence_id": 12,
+      "sentence": "なお、当社グループは単一セグメントのため、セグメント情報に関連付けた記載を行っていません",
+      "opinions": []
+    }
+  ]
+}

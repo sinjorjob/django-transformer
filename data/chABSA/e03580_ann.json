@@ -1,0 +1,630 @@
+{
+  "header": {
+    "document_id": "E03580",
+    "document_name": "株式会社南都銀行",
+    "doc_text": "有価証券報告書",
+    "edi_id": "E03580",
+    "security_code": "83670",
+    "category33": "銀行業",
+    "category17": "銀行",
+    "scale": "6"
+  },
+  "sentences": [
+    {
+      "sentence_id": 0,
+      "sentence": "当連結会計年度におけるわが国経済は、年度前半は新興国経済の低迷や英国のＥＵ離脱問題等の影響から株安・円高基調が進行し、輸出・生産面や個人消費の動きに足踏みが見られましたが、年度後半にかけて、内外経済の先行きに対する不透明感が和らいだことや、昨年11月の米大統領選挙を背景に、株高・円安が進む展開となり、全体としては緩やかな回復基調が続きました",
+      "opinions": [
+        {
+          "target": "わが国経済",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 11,
+          "to": 16
+        },
+        {
+          "target": "新興国経済",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 23,
+          "to": 28
+        },
+        {
+          "target": "輸出",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 59,
+          "to": 61
+        },
+        {
+          "target": "生産面",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 62,
+          "to": 65
+        },
+        {
+          "target": "個人消費",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 66,
+          "to": 70
+        },
+        {
+          "target": "先行き",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 100,
+          "to": 103
+        }
+      ]
+    },
+    {
+      "sentence_id": 1,
+      "sentence": "一方、金融面におきましては、昨年９月に日本銀行が「長短金利操作付き量的・質的金融緩和」の導入を決定し、物価上昇率が安定的に２％を超えるまで金融緩和を続ける姿勢を示しました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 2,
+      "sentence": "こうした情勢のもと、日経平均株価は、英国のＥＵ離脱決定を受けた昨年６月に一時15,000円を割り込みましたが、当期末は19,000円近辺まで回復いたしました",
+      "opinions": [
+        {
+          "target": "日経平均株価",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 10,
+          "to": 16
+        }
+      ]
+    },
+    {
+      "sentence_id": 3,
+      "sentence": "また、対米ドル円相場におきましても、一時は100円を割り込む局面もありましたが、当期末には110円台へと円安が進行いたしました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 4,
+      "sentence": "長期金利の指標である新発10年物国債流通利回りにおきましては、マイナス金利政策の導入以降マイナス圏での推移が続く中、昨年11月に再びプラス圏へと反転いたしましたが、同月に日本銀行による指し値オペが実施されるなど、「イールドカーブ・コントロール」のもと、金利上昇は限定的となりました",
+      "opinions": [
+        {
+          "target": "国債流通利回り",
+          "category": "NULL#general",
+          "polarity": "neutral",
+          "from": 16,
+          "to": 23
+        }
+      ]
+    },
+    {
+      "sentence_id": 5,
+      "sentence": "奈良県を中心とする地元経済におきましては、天候不順による食料品価格の高騰や、原油価格の上昇等の影響から、一部の業種で収益環境の改善に遅れが見られる一方、年初来の株安・円高基調が落ち着きを取り戻し、米国経済の先行きに対する期待感から業績に好影響を及ぼす企業も見られるなど、企業の景況感にはバラツキが見られました",
+      "opinions": [
+        {
+          "target": "食料品価格",
+          "category": "NULL#price",
+          "polarity": "negative",
+          "from": 28,
+          "to": 33
+        },
+        {
+          "target": "原油価格",
+          "category": "NULL#cost",
+          "polarity": "negative",
+          "from": 38,
+          "to": 42
+        },
+        {
+          "target": "収益環境",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 58,
+          "to": 62
+        },
+        {
+          "target": "景況感",
+          "category": "NULL#general",
+          "polarity": "neutral",
+          "from": 138,
+          "to": 141
+        }
+      ]
+    },
+    {
+      "sentence_id": 6,
+      "sentence": "個人消費では、百貨店・スーパー販売額におきまして、惣菜をはじめとした食料品が堅調に推移する一方、残暑が長引いた影響により衣料品販売が不振となるなど、全体としては一進一退の動きとなりました",
+      "opinions": [
+        {
+          "target": "個人消費",
+          "category": "NULL#general",
+          "polarity": "neutral",
+          "from": 0,
+          "to": 4
+        },
+        {
+          "target": "食料品",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 34,
+          "to": 37
+        },
+        {
+          "target": "衣料品販売",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 60,
+          "to": 65
+        }
+      ]
+    },
+    {
+      "sentence_id": 7,
+      "sentence": "地元の観光動向につきましては、国内外からの観光客が増加しており、引き続き地元経済に好影響を及ぼす動きとなりました",
+      "opinions": [
+        {
+          "target": "観光客",
+          "category": "NULL#amount",
+          "polarity": "positive",
+          "from": 21,
+          "to": 24
+        },
+        {
+          "target": "地元経済",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 36,
+          "to": 40
+        }
+      ]
+    },
+    {
+      "sentence_id": 8,
+      "sentence": "以上のような経済環境のもとで当行グループ（当行及び連結子会社）は、経営効率の向上に努めるなか、地域の発展と業績の伸展に尽力いたしました結果、当連結会計年度の業績は以下のとおりとなりました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 9,
+      "sentence": "まず、預金につきましては、多様な顧客に充実した金融商品・サービスの提供に努めるとともに安定的な資金調達に注力いたしました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 10,
+      "sentence": "この結果、個人預金が増加しましたので預金は当年度中18,013百万円増加して、当連結会計年度末残高は4,737,336百万円となりました",
+      "opinions": [
+        {
+          "target": "個人預金",
+          "category": "product#amount",
+          "polarity": "positive",
+          "from": 5,
+          "to": 9
+        },
+        {
+          "target": "預金",
+          "category": "product#amount",
+          "polarity": "positive",
+          "from": 18,
+          "to": 20
+        }
+      ]
+    },
+    {
+      "sentence_id": 11,
+      "sentence": "一方、譲渡性預金は地方公共団体からのお預け入れが減少したことから当年度中18,553百万円減少して、当連結会計年度末残高は28,453百万円となりました",
+      "opinions": [
+        {
+          "target": "譲渡性預金",
+          "category": "product#amount",
+          "polarity": "negative",
+          "from": 3,
+          "to": 8
+        },
+        {
+          "target": "お預け入れ",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 18,
+          "to": 23
+        }
+      ]
+    },
+    {
+      "sentence_id": 12,
+      "sentence": "貸出金につきましては、コンサルティング機能を強化して地域密着型金融への取り組みを強力に推進するとともに、地方公共団体等からの資金のご要請にも積極的にお応えいたしました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 13,
+      "sentence": "この結果、中小企業や地方公共団体向け貸出、住宅ローンが増加したことから貸出金は当年度中63,877百万円増加して、当連結会計年度末残高は3,252,218百万円となりました",
+      "opinions": [
+        {
+          "target": "貸出",
+          "category": "product#amount",
+          "polarity": "positive",
+          "from": 18,
+          "to": 20
+        },
+        {
+          "target": "住宅ローン",
+          "category": "product#amount",
+          "polarity": "positive",
+          "from": 21,
+          "to": 26
+        },
+        {
+          "target": "貸出金",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 35,
+          "to": 38
+        }
+      ]
+    },
+    {
+      "sentence_id": 14,
+      "sentence": "有価証券につきましては、市場の動向を注視しつつ効率的な運用を行った結果、国債や外国証券等が減少したことから当年度中110,835百万円減少して、当連結会計年度末残高は1,686,575百万円となりました",
+      "opinions": [
+        {
+          "target": "有価証券",
+          "category": "product#amount",
+          "polarity": "negative",
+          "from": 0,
+          "to": 4
+        },
+        {
+          "target": "国債",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 36,
+          "to": 38
+        },
+        {
+          "target": "外国証券",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 39,
+          "to": 43
+        }
+      ]
+    },
+    {
+      "sentence_id": 15,
+      "sentence": "なお、純資産額は当年度中573百万円減少して、当連結会計年度末残高は251,139百万円となりましたが、総資産額は当年度中309,487百万円増加して、当連結会計年度末残高は5,815,095百万円となりました",
+      "opinions": [
+        {
+          "target": "資産額",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 4,
+          "to": 7
+        },
+        {
+          "target": "資産額",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 53,
+          "to": 56
+        }
+      ]
+    },
+    {
+      "sentence_id": 16,
+      "sentence": "損益面についてみますと、経常収益は、銀行・証券業務において国債等債券売却益の増加によりその他業務収益が増加したことなどから前年度と比べ5,304百万円増加して81,161百万円となりました",
+      "opinions": [
+        {
+          "target": "経常収益",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 12,
+          "to": 16
+        },
+        {
+          "target": "債券売却益",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 32,
+          "to": 37
+        },
+        {
+          "target": "その他業務収益",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 43,
+          "to": 50
+        }
+      ]
+    },
+    {
+      "sentence_id": 17,
+      "sentence": "一方、経常費用につきましては、銀行・証券業務において営業経費は減少しましたが、与信費用の増加によりその他経常費用が増加したことなどから前年度と比べ2,742百万円増加して64,251百万円となりました",
+      "opinions": [
+        {
+          "target": "経常費用",
+          "category": "NULL#cost",
+          "polarity": "negative",
+          "from": 3,
+          "to": 7
+        },
+        {
+          "target": "営業経費",
+          "category": "NULL#cost",
+          "polarity": "positive",
+          "from": 26,
+          "to": 30
+        },
+        {
+          "target": "与信費用",
+          "category": "NULL#cost",
+          "polarity": "negative",
+          "from": 39,
+          "to": 43
+        },
+        {
+          "target": "その他経常費用",
+          "category": "NULL#cost",
+          "polarity": "negative",
+          "from": 49,
+          "to": 56
+        }
+      ]
+    },
+    {
+      "sentence_id": 18,
+      "sentence": "以上の結果、経常利益は前年度と比べ2,561百万円増加して16,909百万円となりました",
+      "opinions": [
+        {
+          "target": "経常利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 6,
+          "to": 10
+        }
+      ]
+    },
+    {
+      "sentence_id": 19,
+      "sentence": "また、親会社株主に帰属する当期純利益は前年度と比べ349百万円増加して12,508百万円となりました",
+      "opinions": [
+        {
+          "target": "当期純利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 13,
+          "to": 18
+        }
+      ]
+    },
+    {
+      "sentence_id": 20,
+      "sentence": "なお、当連結会計年度末の国内基準による連結自己資本比率は9.42％（前連結会計年度末は9.36％）となりました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 21,
+      "sentence": "セグメントの業績は、次のとおりであります",
+      "opinions": []
+    },
+    {
+      "sentence_id": 22,
+      "sentence": "①  「銀行・証券業務」におきましては、収益面では、有価証券利息配当金は増加したものの貸出金利息が減少したことから資金運用収益は微減となりましたが、国債等債券売却益の増加によりその他業務収益が増加したことなどから経常収益は前年度と比べ5,649百万円増加して74,210百万円となりました",
+      "opinions": [
+        {
+          "target": "銀行・証券業務",
+          "category": "business#sales",
+          "polarity": "positive",
+          "from": 4,
+          "to": 11
+        },
+        {
+          "target": "有価証券利息配当金",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 26,
+          "to": 35
+        },
+        {
+          "target": "貸出金利息",
+          "category": "NULL#sales",
+          "polarity": "negative",
+          "from": 43,
+          "to": 48
+        },
+        {
+          "target": "資金運用収益",
+          "category": "NULL#sales",
+          "polarity": "negative",
+          "from": 57,
+          "to": 63
+        },
+        {
+          "target": "債券売却益",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 77,
+          "to": 82
+        },
+        {
+          "target": "その他業務収益",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 88,
+          "to": 95
+        }
+      ]
+    },
+    {
+      "sentence_id": 23,
+      "sentence": "一方、費用面では、人件費を中心に営業経費が減少したものの国債等債券売却損の増加によりその他業務費用が増加したことに加え、与信費用の増加によりその他経常費用が増加したことなどから経常費用は前年度と比べ2,691百万円増加して58,150百万円となりました",
+      "opinions": [
+        {
+          "target": "営業経費",
+          "category": "NULL#cost",
+          "polarity": "positive",
+          "from": 16,
+          "to": 20
+        },
+        {
+          "target": "債券売却損",
+          "category": "NULL#cost",
+          "polarity": "negative",
+          "from": 31,
+          "to": 36
+        },
+        {
+          "target": "その他業務費用",
+          "category": "NULL#cost",
+          "polarity": "negative",
+          "from": 42,
+          "to": 49
+        },
+        {
+          "target": "与信費用",
+          "category": "NULL#cost",
+          "polarity": "negative",
+          "from": 60,
+          "to": 64
+        },
+        {
+          "target": "その他経常費用",
+          "category": "NULL#cost",
+          "polarity": "negative",
+          "from": 70,
+          "to": 77
+        },
+        {
+          "target": "経常費用",
+          "category": "NULL#cost",
+          "polarity": "negative",
+          "from": 88,
+          "to": 92
+        }
+      ]
+    },
+    {
+      "sentence_id": 24,
+      "sentence": "この結果、セグメント利益（経常利益）は前年度と比べ2,958百万円増加して16,059百万円となりました",
+      "opinions": [
+        {
+          "target": "セグメント利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 5,
+          "to": 12
+        }
+      ]
+    },
+    {
+      "sentence_id": 25,
+      "sentence": "なお、当連結会計年度末の国内基準による単体自己資本比率は9.19％（前連結会計年度末は9.11％）となりました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 26,
+      "sentence": "②  「リース業務」におきましては、経常収益は売上高が減少したことから前年度と比べ61百万円減少して6,507百万円となりました",
+      "opinions": [
+        {
+          "target": "リース業務",
+          "category": "business#sales",
+          "polarity": "negative",
+          "from": 4,
+          "to": 9
+        },
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "negative",
+          "from": 23,
+          "to": 26
+        }
+      ]
+    },
+    {
+      "sentence_id": 27,
+      "sentence": "一方、経常費用は、売上原価及び与信費用が減少したことから前年度と比べ293百万円減少して6,086百万円となりましたので、セグメント利益（経常利益）は前年度と比べ231百万円増加して421百万円となりました",
+      "opinions": [
+        {
+          "target": "経常費用",
+          "category": "NULL#cost",
+          "polarity": "positive",
+          "from": 3,
+          "to": 7
+        },
+        {
+          "target": "売上原価",
+          "category": "NULL#cost",
+          "polarity": "positive",
+          "from": 9,
+          "to": 13
+        },
+        {
+          "target": "与信費用",
+          "category": "NULL#cost",
+          "polarity": "positive",
+          "from": 15,
+          "to": 19
+        },
+        {
+          "target": "セグメント利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 61,
+          "to": 68
+        }
+      ]
+    },
+    {
+      "sentence_id": 28,
+      "sentence": "③  「その他」では、経常収益はクレジットカード業務において売上高が増加したことなどから前年度と比べ35百万円増加して4,147百万円となりました",
+      "opinions": [
+        {
+          "target": "その他",
+          "category": "business#sales",
+          "polarity": "positive",
+          "from": 4,
+          "to": 7
+        },
+        {
+          "target": "クレジットカード業務",
+          "category": "business#sales",
+          "polarity": "positive",
+          "from": 16,
+          "to": 26
+        }
+      ]
+    },
+    {
+      "sentence_id": 29,
+      "sentence": "一方、経常費用は信用保証業務において与信費用が増加したことなどから前年度と比べ101百万円増加して3,144百万円となりましたので、セグメント利益（経常利益）は前年度と比べ65百万円減少して1,002百万円となりました",
+      "opinions": [
+        {
+          "target": "経常費用",
+          "category": "NULL#cost",
+          "polarity": "negative",
+          "from": 3,
+          "to": 7
+        },
+        {
+          "target": "信用保証業務",
+          "category": "product#cost",
+          "polarity": "negative",
+          "from": 8,
+          "to": 14
+        },
+        {
+          "target": "セグメント利益",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 66,
+          "to": 73
+        }
+      ]
+    },
+    {
+      "sentence_id": 30,
+      "sentence": "なお、「事業の状況」に記載の課税取引については、消費税及び地方消費税を含んでおりません",
+      "opinions": []
+    },
+    {
+      "sentence_id": 31,
+      "sentence": "また、分析については「７  財政状態、経営成績及びキャッシュ・フローの状況の分析」に記載しております",
+      "opinions": []
+    }
+  ]
+}

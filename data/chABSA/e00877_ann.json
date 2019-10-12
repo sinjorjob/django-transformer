@@ -1,0 +1,529 @@
+{
+  "header": {
+    "document_id": "E00877",
+    "document_name": "旭化成株式会社",
+    "doc_text": "有価証券報告書",
+    "edi_id": "E00877",
+    "security_code": "34070",
+    "category33": "化学",
+    "category17": "素材・化学",
+    "scale": "2"
+  },
+  "sentences": [
+    {
+      "sentence_id": 0,
+      "sentence": "当連結会計年度(平成28年４月１日～平成29年３月31日)における世界経済は、新興国経済の景気減速懸念に加え、英国のEU離脱問題や米国新政権の経済施策に対する警戒感が高まり、先行きは不透明な状況が続きました",
+      "opinions": [
+        {
+          "target": "先行き",
+          "category": "NULL#general",
+          "polarity": "neutral",
+          "from": 87,
+          "to": 90
+        }
+      ]
+    },
+    {
+      "sentence_id": 1,
+      "sentence": "一方、日本経済は企業業績や雇用情勢・所得環境の改善に伴い個人消費は底堅く推移し、緩やかな回復基調が続きました",
+      "opinions": [
+        {
+          "target": "日本経済",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 3,
+          "to": 7
+        },
+        {
+          "target": "企業業績",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 8,
+          "to": 12
+        },
+        {
+          "target": "雇用情勢",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 13,
+          "to": 17
+        },
+        {
+          "target": "所得環境",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 18,
+          "to": 22
+        },
+        {
+          "target": "個人消費",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 28,
+          "to": 32
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "sentence": "このような状況の中で、当社グループ(当社、連結子会社及び持分法適用会社、以下同じ)の当連結会計年度における連結業績は、円高の影響に加え、医薬事業において薬価改定の影響を受けたことや、エレクトロニクス事業でPolypore社買収に伴うのれん償却費等を通期で計上したことなどから、売上高は１兆8,830億円となり前連結会計年度比579億円(3.0％)の減収、営業利益は1,592億円で前連結会計年度比60億円(3.6％)の減益、経常利益は1,606億円で前連結会計年度比７億円(0.5％)の減益となりました",
+      "opinions": [
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "negative",
+          "from": 138,
+          "to": 141
+        },
+        {
+          "target": "営業利益",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 177,
+          "to": 181
+        },
+        {
+          "target": "経常利益",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 212,
+          "to": 216
+        }
+      ]
+    },
+    {
+      "sentence_id": 3,
+      "sentence": "一方で、親会社株主に帰属する当期純利益は、投資有価証券売却益を計上したことや、法人税等が減少したことなどから、1,150億円で前連結会計年度比232億円(25.3％)の増益となり、過去最高を更新しました",
+      "opinions": [
+        {
+          "target": "当期純利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 14,
+          "to": 19
+        }
+      ]
+    },
+    {
+      "sentence_id": 4,
+      "sentence": "(セグメント別概況)",
+      "opinions": []
+    },
+    {
+      "sentence_id": 5,
+      "sentence": "当社グループは、平成28年４月より新たな中期経営計画をスタートし、事業ポートフォリオを再編しました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 6,
+      "sentence": "それに伴い、第１四半期連結会計期間より、報告セグメントを従来の「ケミカル・繊維」「住宅・建材」「エレクトロニクス」「ヘルスケア」の４報告セグメント及び「その他」の区分から、「マテリアル」「住宅」「ヘルスケア」の３報告セグメント及び「その他」の区分に変更しています",
+      "opinions": []
+    },
+    {
+      "sentence_id": 7,
+      "sentence": "なお、前期比較については、前連結会計年度の数値を変更後のセグメント区分に組み替えた数値で比較しています",
+      "opinions": []
+    },
+    {
+      "sentence_id": 8,
+      "sentence": "「マテリアル」セグメント",
+      "opinions": []
+    },
+    {
+      "sentence_id": 9,
+      "sentence": "売上高は9,732億円で前連結会計年度比313億円(3.1％)の減収となり、営業利益は845億円で前連結会計年度比53億円(6.6％)の増益となりました",
+      "opinions": [
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "negative",
+          "from": 0,
+          "to": 3
+        },
+        {
+          "target": "営業利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 38,
+          "to": 42
+        }
+      ]
+    },
+    {
+      "sentence_id": 10,
+      "sentence": "繊維事業では、キュプラ繊維「ベンベルグ™」や人工皮革「ラムース™」、ナイロン66繊維「レオナ™」の販売数量が増加しましたが、競合により販売価格が下落し、各製品において円高の影響を受けました",
+      "opinions": [
+        {
+          "target": "ベンベルグ™",
+          "category": "product#amount",
+          "polarity": "positive",
+          "from": 14,
+          "to": 20
+        },
+        {
+          "target": "ベンベルグ™",
+          "category": "product#price",
+          "polarity": "negative",
+          "from": 14,
+          "to": 20
+        },
+        {
+          "target": "ラムース™",
+          "category": "product#amount",
+          "polarity": "positive",
+          "from": 27,
+          "to": 32
+        },
+        {
+          "target": "ラムース™",
+          "category": "product#price",
+          "polarity": "negative",
+          "from": 27,
+          "to": 32
+        },
+        {
+          "target": "レオナ™",
+          "category": "product#amount",
+          "polarity": "positive",
+          "from": 43,
+          "to": 47
+        },
+        {
+          "target": "レオナ™",
+          "category": "product#price",
+          "polarity": "negative",
+          "from": 43,
+          "to": 47
+        }
+      ]
+    },
+    {
+      "sentence_id": 11,
+      "sentence": "ケミカル事業の石油化学事業では、国内石油化学事業の基盤強化に伴いスチレンモノマーの販売数量が減少しましたが、アクリロニトリルにおいて交易条件が改善しました",
+      "opinions": [
+        {
+          "target": "スチレンモノマー",
+          "category": "product#amount",
+          "polarity": "negative",
+          "from": 32,
+          "to": 40
+        },
+        {
+          "target": "交易条件",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 66,
+          "to": 70
+        }
+      ]
+    },
+    {
+      "sentence_id": 12,
+      "sentence": "高機能ポリマー事業では、低燃費タイヤ向け合成ゴムやエンジニアリング樹脂の販売数量が増加しましたが、各製品において円高の影響を受けました",
+      "opinions": [
+        {
+          "target": "合成ゴム",
+          "category": "product#amount",
+          "polarity": "positive",
+          "from": 20,
+          "to": 24
+        },
+        {
+          "target": "エンジニアリング樹脂",
+          "category": "product#amount",
+          "polarity": "positive",
+          "from": 25,
+          "to": 35
+        }
+      ]
+    },
+    {
+      "sentence_id": 13,
+      "sentence": "高機能マテリアルズ事業・消費財事業では、イオン交換膜などで円高の影響を受けたものの、電子材料製品や「サランラップ™」などの消費財製品の販売が順調に推移しました",
+      "opinions": [
+        {
+          "target": "消費財製品",
+          "category": "product#amount",
+          "polarity": "positive",
+          "from": 61,
+          "to": 66
+        }
+      ]
+    },
+    {
+      "sentence_id": 14,
+      "sentence": "エレクトロニクス事業のセパレータ事業では、各製品の販売数量が増加し、前連結会計年度第２四半期より連結したPolypore社の業績を通期で取り込みましたが、買収に伴うのれん償却費等を計上し、円高の影響も受けました",
+      "opinions": [
+        {
+          "target": "販売数量",
+          "category": "NULL#amount",
+          "polarity": "positive",
+          "from": 25,
+          "to": 29
+        }
+      ]
+    },
+    {
+      "sentence_id": 15,
+      "sentence": "電子部品事業では、円高の影響を受けましたが、オーディオデバイスなどのスマートフォン向け電子部品の販売数量が増加しました",
+      "opinions": [
+        {
+          "target": "電子部品",
+          "category": "product#amount",
+          "polarity": "positive",
+          "from": 43,
+          "to": 47
+        }
+      ]
+    },
+    {
+      "sentence_id": 16,
+      "sentence": "なお、欧州市場における事業拡大を図るため、昨年４月にドイツ・デュッセルドルフ市において旭化成ヨーロッパが営業活動を開始しました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 17,
+      "sentence": "繊維事業では、本年２月に宮崎県延岡市においてキュプラ長繊維不織布「ベンリーゼ™」増設設備の商業運転を開始しました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 18,
+      "sentence": "また、エレクトロニクス事業では、昨年５月と本年３月に滋賀県守山市におけるリチウムイオン二次電池用セパレータ「ハイポア™」の製造設備の増設を発表しました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 19,
+      "sentence": "「住宅」セグメント",
+      "opinions": []
+    },
+    {
+      "sentence_id": 20,
+      "sentence": "売上高は6,190億円で前連結会計年度比135億円(2.1％)の減収となり、営業利益は641億円で前連結会計年度比69億円(9.7％)の減益となりました",
+      "opinions": [
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "negative",
+          "from": 0,
+          "to": 3
+        },
+        {
+          "target": "営業利益",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 38,
+          "to": 42
+        }
+      ]
+    },
+    {
+      "sentence_id": 21,
+      "sentence": "住宅事業では、建築請負部門で前連結会計年度の受注実績の影響を受け、戸建住宅「へーベルハウス™」や集合住宅「ヘーベルメゾン™」の引渡棟数が減少し、広告宣伝費等の販管費が増加しました",
+      "opinions": [
+        {
+          "target": "へーベルハウス™",
+          "category": "product#amount",
+          "polarity": "negative",
+          "from": 38,
+          "to": 46
+        },
+        {
+          "target": "ヘーベルメゾン™",
+          "category": "product#amount",
+          "polarity": "negative",
+          "from": 53,
+          "to": 61
+        },
+        {
+          "target": "販管費",
+          "category": "NULL#cost",
+          "polarity": "negative",
+          "from": 79,
+          "to": 82
+        }
+      ]
+    },
+    {
+      "sentence_id": 22,
+      "sentence": "また、リフォーム部門で労務費などの販管費が増加したものの、不動産部門で賃貸管理事業が順調に推移しました",
+      "opinions": [
+        {
+          "target": "リフォーム部門",
+          "category": "business#cost",
+          "polarity": "negative",
+          "from": 3,
+          "to": 10
+        },
+        {
+          "target": "賃貸管理事業",
+          "category": "business#general",
+          "polarity": "positive",
+          "from": 35,
+          "to": 41
+        }
+      ]
+    },
+    {
+      "sentence_id": 23,
+      "sentence": "建材事業では、フェノールフォーム断熱材「ネオマ™フォーム」の販売が順調に推移したものの、ALC事業や基礎事業で販売数量が減少しました",
+      "opinions": [
+        {
+          "target": "ネオマ™フォーム",
+          "category": "product#amount",
+          "polarity": "positive",
+          "from": 20,
+          "to": 28
+        },
+        {
+          "target": "ALC事業",
+          "category": "business#amount",
+          "polarity": "negative",
+          "from": 44,
+          "to": 49
+        },
+        {
+          "target": "基礎事業",
+          "category": "business#amount",
+          "polarity": "negative",
+          "from": 50,
+          "to": 54
+        }
+      ]
+    },
+    {
+      "sentence_id": 24,
+      "sentence": "なお、住宅事業では、昨年11月に店舗や事務所などの商業用途を想定して新たに開発した中高層用ビルディングシステム「ヘーベルビルズ™システム」の販売を開始しました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 25,
+      "sentence": "建材事業では、本年１月に茨城県猿島郡において、フェノールフォーム断熱材「ネオマ™フォーム」を用いた体験・試験棟「快適空間ラボラトリー™」を開設しました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 26,
+      "sentence": "「ヘルスケア」セグメント",
+      "opinions": []
+    },
+    {
+      "sentence_id": 27,
+      "sentence": "売上高は2,701億円で前連結会計年度比153億円(5.4％)の減収となり、営業利益は319億円で前連結会計年度比43億円(11.9％)の減益となりました",
+      "opinions": [
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "negative",
+          "from": 0,
+          "to": 3
+        },
+        {
+          "target": "営業利益",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 38,
+          "to": 42
+        }
+      ]
+    },
+    {
+      "sentence_id": 28,
+      "sentence": "医薬事業では、骨粗鬆症治療剤「テリボン™」や血液凝固阻止剤「リコモジュリン™」などの販売数量が増加しましたが、薬価改定の影響を受けるとともに排尿障害改善剤「フリバス™」が後発医薬品の影響を受けました",
+      "opinions": [
+        {
+          "target": "テリボン™",
+          "category": "product#amount",
+          "polarity": "positive",
+          "from": 15,
+          "to": 20
+        },
+        {
+          "target": "リコモジュリン™",
+          "category": "product#amount",
+          "polarity": "positive",
+          "from": 30,
+          "to": 38
+        }
+      ]
+    },
+    {
+      "sentence_id": 29,
+      "sentence": "医療事業では、ウイルス除去フィルター「プラノバ™」の販売数量が増加しましたが、円高の影響や国内の透析関連製品において償還価格改定の影響を受けました",
+      "opinions": [
+        {
+          "target": "プラノバ™",
+          "category": "product#amount",
+          "polarity": "positive",
+          "from": 19,
+          "to": 24
+        }
+      ]
+    },
+    {
+      "sentence_id": 30,
+      "sentence": "クリティカルケア事業では、現地通貨ベースで、営業活動強化に伴う販管費が増加しましたが、着用型自動除細動器「LifeVest™」の業績が引き続き順調に拡大し、その他の除細動器の販売も堅調に推移しました",
+      "opinions": [
+        {
+          "target": "クリティカルケア事業",
+          "category": "business#cost",
+          "polarity": "negative",
+          "from": 0,
+          "to": 10
+        },
+        {
+          "target": "LifeVest™",
+          "category": "product#general",
+          "polarity": "positive",
+          "from": 53,
+          "to": 62
+        },
+        {
+          "target": "除細動器",
+          "category": "product#amount",
+          "polarity": "positive",
+          "from": 82,
+          "to": 86
+        }
+      ]
+    },
+    {
+      "sentence_id": 31,
+      "sentence": "なお、財務諸表の円換算において円高に伴う影響を受けました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 32,
+      "sentence": "医薬事業では年１回点滴静脈内投与の骨粗鬆症治療剤「リクラスト™点滴静注液５mg」の国内における販売承認を取得し、昨年11月に販売を開始しました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 33,
+      "sentence": "医療事業では、昨年９月に大分県大分市においてウイルス除去フィルター「プラノバ™ BioEX」の紡糸工場が竣工しました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 34,
+      "sentence": "「その他」",
+      "opinions": []
+    },
+    {
+      "sentence_id": 35,
+      "sentence": "売上高は207億円で前連結会計年度比21億円(11.2％)の増収となり、営業利益は60億円で前連結会計年度比23億円(59.8％)の増益となりました",
+      "opinions": [
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 0,
+          "to": 3
+        },
+        {
+          "target": "営業利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 36,
+          "to": 40
+        }
+      ]
+    }
+  ]
+}

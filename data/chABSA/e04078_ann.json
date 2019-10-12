@@ -1,0 +1,368 @@
+{
+  "header": {
+    "document_id": "E04078",
+    "document_name": "株式会社エー・ディー・ワークス",
+    "doc_text": "有価証券報告書",
+    "edi_id": "E04078",
+    "security_code": "32500",
+    "category33": "不動産業",
+    "category17": "不動産",
+    "scale": "7"
+  },
+  "sentences": [
+    {
+      "sentence_id": 0,
+      "sentence": "当連結会計年度における経済環境は、国内では雇用・所得環境が改善し、ゆるやかな景気回復への期待が続く一方で、海外においては、2016年６月実施の英国国民投票により決定した英国のEU離脱、2016年11月実施の米国大統領選挙を契機とした金融市場における急激な値動き等、不確実性の上昇につながる動きがありました",
+      "opinions": [
+        {
+          "target": "国内",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 17,
+          "to": 19
+        },
+        {
+          "target": "雇用",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 21,
+          "to": 23
+        },
+        {
+          "target": "所得環境",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 24,
+          "to": 28
+        },
+        {
+          "target": "海外",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 53,
+          "to": 55
+        },
+        {
+          "target": "金融市場",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 116,
+          "to": 120
+        }
+      ]
+    },
+    {
+      "sentence_id": 1,
+      "sentence": "当社グループを取り巻く経営環境においては、首都圏中古マンションの売買件数及び㎡単価の上昇傾向が継続しているものの、在庫件数も並行して増加傾向にあり、リテール市場は活況ながらも慎重な見方が出始めています",
+      "opinions": [
+        {
+          "target": "売買件数",
+          "category": "NULL#amount",
+          "polarity": "positive",
+          "from": 32,
+          "to": 36
+        },
+        {
+          "target": "㎡単価",
+          "category": "NULL#price",
+          "polarity": "positive",
+          "from": 38,
+          "to": 41
+        },
+        {
+          "target": "在庫件数",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 57,
+          "to": 61
+        },
+        {
+          "target": "リテール市場",
+          "category": "market#general",
+          "polarity": "neutral",
+          "from": 74,
+          "to": 80
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "sentence": "収益不動産市場においても同様であり、当社グループは市況の動向を注視しながら事業活動を行いました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 3,
+      "sentence": "このような事業環境のもと、当社グループは第５次中期経営計画（2017 年３月期～2019 年３月期）に基づき、「収益不動産残高の戦略的な拡充を通じた、強固な事業基盤の確立と安定的な収益基盤の追求」「新たな収益の柱となる事業の開発と育成」「規模拡大に耐えうるケイパビリティの再構築」を基本方針に掲げ、各種施策に取り組みました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 4,
+      "sentence": "当連結会計年度におきましては、上述の中期経営計画の方針に則し、首都圏及び米国（ロサンゼルス）の収益不動産の仕入を積極的に行い、並行して販売活動を行いました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 5,
+      "sentence": "2013年に開始した米国での事業は、米国が高い経済成長率を維持する中で順調に成長し、当連結会計年度においては、連結売上高の13.3％を占める2,527百万円の売上高を計上しました",
+      "opinions": [
+        {
+          "target": "米国",
+          "category": "business#sales",
+          "polarity": "positive",
+          "from": 10,
+          "to": 12
+        },
+        {
+          "target": "事業",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 14,
+          "to": 16
+        },
+        {
+          "target": "米国",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 18,
+          "to": 20
+        }
+      ]
+    },
+    {
+      "sentence_id": 6,
+      "sentence": "また、新しい取り組みとして、\n・渋谷道玄坂にて自社開発オフィスビルの新築工事に着手\n・「収益不動産事業の収益基盤拡大」「拠点の増加による事業安定化」を目的とする大阪営業所の開設\n・不動産小口化投資商品の流通プラットフォームを目指す『みんなの投資online』開設による不動産テック進出\n・賃料保証サービス『エーディー賃貸保証』の提供を開始\nを行い、新しい商品及び新しい顧客層の開拓を進めております",
+      "opinions": []
+    },
+    {
+      "sentence_id": 7,
+      "sentence": "以上の結果、当連結会計年度の経営成績は次頁の表のとおりとなりました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 8,
+      "sentence": "2016年５月12日に公表した連結業績計画は経常利益を除き全項目達成、また表に記載の全ての段階利益において過去最高益となりました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 9,
+      "sentence": "（注）１ （不動産販売）は「収益不動産販売事業」、（ストック）は「ストック型フィービジネス」、「税引前利益」は「税金等調整前当期純利益」、「純利益」は「親会社株主に帰属する当期純利益」をそれぞれ省略したものです",
+      "opinions": []
+    },
+    {
+      "sentence_id": 10,
+      "sentence": "（注）２ EBITDA（償却等前営業利益）：営業利益＋償却費等＋特別損益に計上された収益不動産売却損益\n償却費等には減価償却費、ソフトウェア償却費、のれん償却費等のキャッシュアウトを伴わない費用を含みます",
+      "opinions": []
+    },
+    {
+      "sentence_id": 11,
+      "sentence": "また当社では、固定資産の中に長期保有用収益不動産を含み、当該収益不動産の売却損益の一部は、連結損益計算書上の特別損益の区分に計上しております",
+      "opinions": []
+    },
+    {
+      "sentence_id": 12,
+      "sentence": "EBITDA は、当該特別損益を含めて算出しています",
+      "opinions": []
+    },
+    {
+      "sentence_id": 13,
+      "sentence": "（注）３ セグメントの売上高はグループ内取引による内部売上高を含んでいるため、（不動産販売）と（ストック）の合計は連結売上高と一致しません",
+      "opinions": []
+    },
+    {
+      "sentence_id": 14,
+      "sentence": "セグメント業績は次のとおりです",
+      "opinions": []
+    },
+    {
+      "sentence_id": 15,
+      "sentence": "なお、当社グループでは営業利益をセグメント利益としており、セグメント利益の算出においては、配賦不能営業費用及びセグメント間の内部取引による営業費用は控除しておりません",
+      "opinions": []
+    },
+    {
+      "sentence_id": 16,
+      "sentence": "よってその合計は連結営業利益と一致しません",
+      "opinions": []
+    },
+    {
+      "sentence_id": 17,
+      "sentence": "（収益不動産販売事業）",
+      "opinions": []
+    },
+    {
+      "sentence_id": 18,
+      "sentence": "当事業セグメントにおいては、期初に掲げた経営計画に基づき、積極的に収益不動産の仕入及び販売活動を行いました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 19,
+      "sentence": "不動産価格が上昇基調にある中、収益不動産の仕入に際しては、当社の情報収集力や購入判断ノウハウを最大限活用し、採算性の高い物件の選定に注力しました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 20,
+      "sentence": "その結果、国内45棟及び米国12棟の仕入を完了し、仕入額は18,514百万円となりました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 21,
+      "sentence": "一方、販売面においては、リノベーションやプロパティ・マネジメントまで包含することによる当社保有物件の収益性や効率性に対し、顧客からの信頼は引き続き高く、国内においては42棟、業況が拡大しつつある米国においては8棟の販売を行いました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 22,
+      "sentence": "結果として当連結会計年度においては、売上高17,034百万円（前年同期比20.5％増）、EBITDA1,640百万円（前年同期比38.8％増）、営業利益は1,551百万円（前年同期比31.4％増）となりました",
+      "opinions": [
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 18,
+          "to": 21
+        },
+        {
+          "target": "EBITDA",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 44,
+          "to": 50
+        },
+        {
+          "target": "営業利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 72,
+          "to": 76
+        }
+      ]
+    },
+    {
+      "sentence_id": 23,
+      "sentence": "また、将来の収益源である収益不動産の残高は、20,318百万円（前年度末は14,551百万円）となりました",
+      "opinions": [
+        {
+          "target": "収益不動産",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 12,
+          "to": 17
+        }
+      ]
+    },
+    {
+      "sentence_id": 24,
+      "sentence": "（ストック型フィービジネス）",
+      "opinions": []
+    },
+    {
+      "sentence_id": 25,
+      "sentence": "当事業セグメントは、第５次中期経営計画で掲げた「安定的な収益基盤の追求」の指標となるセグメントです",
+      "opinions": []
+    },
+    {
+      "sentence_id": 26,
+      "sentence": "当連結会計年度においては、前述のとおり収益不動産残高が増加しました",
+      "opinions": [
+        {
+          "target": "収益不動産残高",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 19,
+          "to": 26
+        }
+      ]
+    },
+    {
+      "sentence_id": 27,
+      "sentence": "また、販売後の収益不動産に対するプロパティ・マネジメントの受託も順調に推移し、当連結会計年度末の国内収益不動産管理戸数は4,157戸（前年度末は3,649戸）となりました",
+      "opinions": [
+        {
+          "target": "受託",
+          "category": "product#amount",
+          "polarity": "positive",
+          "from": 29,
+          "to": 31
+        },
+        {
+          "target": "国内収益不動産管理戸数",
+          "category": "NULL#amount",
+          "polarity": "positive",
+          "from": 48,
+          "to": 59
+        }
+      ]
+    },
+    {
+      "sentence_id": 28,
+      "sentence": "これらの要因の結果、賃料収入及びプロパティ・マネジメント受託に関する売上高が増加しました",
+      "opinions": [
+        {
+          "target": "賃料収入",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 10,
+          "to": 14
+        },
+        {
+          "target": "プロパティ・マネジメント受託",
+          "category": "product#sales",
+          "polarity": "positive",
+          "from": 16,
+          "to": 30
+        }
+      ]
+    },
+    {
+      "sentence_id": 29,
+      "sentence": "一方、保有不動産及び管理不動産の増加に伴うメンテナンスに関する委託費用の増加や、今後の成長に備えた組織拡充による人件費の増加などの要因により、当事業に係る費用負担が増加いたしました",
+      "opinions": [
+        {
+          "target": "委託費用",
+          "category": "NULL#cost",
+          "polarity": "negative",
+          "from": 31,
+          "to": 35
+        },
+        {
+          "target": "人件費",
+          "category": "NULL#cost",
+          "polarity": "negative",
+          "from": 56,
+          "to": 59
+        },
+        {
+          "target": "費用負担",
+          "category": "NULL#cost",
+          "polarity": "negative",
+          "from": 77,
+          "to": 81
+        }
+      ]
+    },
+    {
+      "sentence_id": 30,
+      "sentence": "以上の活動の結果、国内外合わせて売上高2,165百万円（前年同期比18.9％増）、EBITDA712百万円（前年同期比19.5％増）、営業利益651百万円（前年同期比16.4％増）となりました",
+      "opinions": [
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 16,
+          "to": 19
+        },
+        {
+          "target": "EBITDA",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 41,
+          "to": 47
+        },
+        {
+          "target": "営業利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 67,
+          "to": 71
+        }
+      ]
+    }
+  ]
+}

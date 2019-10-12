@@ -1,0 +1,253 @@
+{
+  "header": {
+    "document_id": "E01436",
+    "document_name": "ＪＦＥコンテイナー株式会社",
+    "doc_text": "有価証券報告書",
+    "edi_id": "E01436",
+    "security_code": "59070",
+    "category33": "金属製品",
+    "category17": "建設・資材",
+    "scale": ""
+  },
+  "sentences": [
+    {
+      "sentence_id": 0,
+      "sentence": "当連結会計年度におけるわが国経済は、緩やかな持ち直しが持続しております",
+      "opinions": [
+        {
+          "target": "わが国経済",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 11,
+          "to": 16
+        }
+      ]
+    },
+    {
+      "sentence_id": 1,
+      "sentence": "背景にはスマートフォン関連の電子部品を中心としたIT関連の改善、自動車を含めた輸送機械が持ち直したほか、中国・アジア向け資本財の輸出の増加や在庫調整の一巡が下支えに作用したことがあげられます",
+      "opinions": [
+        {
+          "target": "IT関連",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 24,
+          "to": 28
+        },
+        {
+          "target": "輸送機械",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 39,
+          "to": 43
+        },
+        {
+          "target": "輸出",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 64,
+          "to": 66
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "sentence": "当社グループの事業分野である産業用容器業界におきましては、主要需要家である化学・石油業界が、引き続き設備の統廃合や一部停止など国内事業の構造改革を進めている一方、高機能化学品やヘルスケア・医療薬等高付加価値事業へのシフトを強化しています",
+      "opinions": []
+    },
+    {
+      "sentence_id": 3,
+      "sentence": "このような状況の下、当連結会計年度の全国の200リットル新缶ドラムの販売数量は、前期比0.5％増の1,364万缶となりました",
+      "opinions": [
+        {
+          "target": "200リットル新缶ドラム",
+          "category": "product#amount",
+          "polarity": "positive",
+          "from": 21,
+          "to": 33
+        }
+      ]
+    },
+    {
+      "sentence_id": 4,
+      "sentence": "需要分野別では、上期の為替影響による輸出の低調が影響した化学分野では前期比1.4％減となりましたが、塗料分野は17.3％増と引き続きドラム缶需要が底堅い状況となっております",
+      "opinions": [
+        {
+          "target": "化学分野",
+          "category": "market#general",
+          "polarity": "negative",
+          "from": 28,
+          "to": 32
+        },
+        {
+          "target": "塗料分野",
+          "category": "market#general",
+          "polarity": "positive",
+          "from": 50,
+          "to": 54
+        },
+        {
+          "target": "ドラム缶需要",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 66,
+          "to": 72
+        }
+      ]
+    },
+    {
+      "sentence_id": 5,
+      "sentence": "このような需要環境の下、当連結会計年度における当社グループの連結業績につきましては、中国重慶工場の稼動もあり販売数量は伸びたものの、国内及び中国ドラム事業の販売価格の低下、中国元安による為替差等により、前期比0.8％減の274億47百万円となりました",
+      "opinions": [
+        {
+          "target": "連結業績",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 30,
+          "to": 34
+        },
+        {
+          "target": "販売数量",
+          "category": "NULL#amount",
+          "polarity": "positive",
+          "from": 54,
+          "to": 58
+        },
+        {
+          "target": "国内",
+          "category": "business#price",
+          "polarity": "negative",
+          "from": 66,
+          "to": 68
+        },
+        {
+          "target": "中国ドラム事業",
+          "category": "business#price",
+          "polarity": "negative",
+          "from": 70,
+          "to": 77
+        }
+      ]
+    },
+    {
+      "sentence_id": 6,
+      "sentence": "セグメント別にみますと、ドラム事業は国内における販売価格の低下及び中国元安為替差影響を受け、事業全体では前期比1.2％減の270億90百万円、高圧ガス容器事業は医療用酸素容器が着実に数量を伸ばしており、前期比41.8％増の３億56百万円となりました",
+      "opinions": [
+        {
+          "target": "ドラム事業",
+          "category": "business#sales",
+          "polarity": "negative",
+          "from": 12,
+          "to": 17
+        },
+        {
+          "target": "販売価格",
+          "category": "NULL#price",
+          "polarity": "negative",
+          "from": 24,
+          "to": 28
+        },
+        {
+          "target": "高圧ガス容器事業",
+          "category": "business#sales",
+          "polarity": "positive",
+          "from": 71,
+          "to": 79
+        },
+        {
+          "target": "医療用酸素容器",
+          "category": "product#amount",
+          "polarity": "positive",
+          "from": 80,
+          "to": 87
+        }
+      ]
+    },
+    {
+      "sentence_id": 7,
+      "sentence": "損益につきましては、経常利益は前期比14.7％増の29億66百万円となりました",
+      "opinions": [
+        {
+          "target": "経常利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 10,
+          "to": 14
+        }
+      ]
+    },
+    {
+      "sentence_id": 8,
+      "sentence": "セグメント別にみますと、国内ドラム事業は、品種構成の改善や生産体制の見直し等による生産性向上及び、固定費を中心とした工場コストダウンや管理経費の削減を一段と強化した結果増益となりました",
+      "opinions": [
+        {
+          "target": "国内ドラム事業",
+          "category": "business#profit",
+          "polarity": "positive",
+          "from": 12,
+          "to": 19
+        }
+      ]
+    },
+    {
+      "sentence_id": 9,
+      "sentence": "中国ドラム事業は重慶工場の稼動により出荷数量は伸長したものの、鋼材価格急騰による影響をカバーできず、元安による為替差もあり減益となりました",
+      "opinions": [
+        {
+          "target": "中国ドラム事業",
+          "category": "business#amount",
+          "polarity": "positive",
+          "from": 0,
+          "to": 7
+        },
+        {
+          "target": "中国ドラム事業",
+          "category": "business#profit",
+          "polarity": "negative",
+          "from": 0,
+          "to": 7
+        }
+      ]
+    },
+    {
+      "sentence_id": 10,
+      "sentence": "ドラム事業全体では、経常利益は前期比13.1％増の30億76百万円となりました",
+      "opinions": [
+        {
+          "target": "ドラム事業",
+          "category": "business#profit",
+          "polarity": "positive",
+          "from": 0,
+          "to": 5
+        }
+      ]
+    },
+    {
+      "sentence_id": 11,
+      "sentence": "高圧ガス容器事業は、ＣＮＧＶ関連事業が国内においては15年載せ替え需要への販売が計画を下回り、また、タイ事業の販売も回復せず厳しい収益状況が続いており、経常損益は１億86百万円の損失（前期は１億87百万円の損失）となりました",
+      "opinions": [
+        {
+          "target": "高圧ガス容器事業",
+          "category": "business#profit",
+          "polarity": "negative",
+          "from": 0,
+          "to": 8
+        },
+        {
+          "target": "ＣＮＧＶ関連事業",
+          "category": "business#amount",
+          "polarity": "negative",
+          "from": 10,
+          "to": 18
+        },
+        {
+          "target": "タイ事業",
+          "category": "business#amount",
+          "polarity": "negative",
+          "from": 50,
+          "to": 54
+        }
+      ]
+    }
+  ]
+}

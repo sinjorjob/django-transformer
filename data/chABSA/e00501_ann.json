@@ -1,0 +1,309 @@
+{
+  "header": {
+    "document_id": "E00501",
+    "document_name": "株式会社ダイショー",
+    "doc_text": "有価証券報告書",
+    "edi_id": "E00501",
+    "security_code": "28160",
+    "category33": "食料品",
+    "category17": "食品",
+    "scale": ""
+  },
+  "sentences": [
+    {
+      "sentence_id": 0,
+      "sentence": "当事業年度におけるわが国経済は、政府による経済財政政策を背景に、企業収益に改善の動きが見られるものの、新興国・資源国経済の減速による景気の下振れリスクなどから、先行きは不透明な状況で推移いたしました",
+      "opinions": [
+        {
+          "target": "企業収益",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 32,
+          "to": 36
+        },
+        {
+          "target": "新興国・資源国経済",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 51,
+          "to": 60
+        },
+        {
+          "target": "先行き",
+          "category": "NULL#general",
+          "polarity": "neutral",
+          "from": 80,
+          "to": 83
+        }
+      ]
+    },
+    {
+      "sentence_id": 1,
+      "sentence": "食品業界におきましては、人口減少による内需の伸び悩みのなかでの販売競争が激化する一方、雇用の改善に伴う人手不足により労働コストが上昇するなど、厳しい経営環境が続きました",
+      "opinions": [
+        {
+          "target": "食品業界",
+          "category": "market#general",
+          "polarity": "negative",
+          "from": 0,
+          "to": 4
+        },
+        {
+          "target": "内需",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 19,
+          "to": 21
+        },
+        {
+          "target": "販売競争",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 31,
+          "to": 35
+        },
+        {
+          "target": "労働コスト",
+          "category": "NULL#cost",
+          "polarity": "negative",
+          "from": 58,
+          "to": 63
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "sentence": "このような状況のもと、当社は、成長と構造改革をともに実現することを目指す中期経営計画に沿い、「成長分野である業務用製品の積極的な売上拡大」と、「焼肉のたれや生鮮向け製品などの基幹事業の安定的な売上確保」といった基本戦略を推進し、経営環境の変化に対応した販売体制・開発体制の構築とともに、新製品開発によるラインアップ充実、販売プロモーションを積極的に展開いたしました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 3,
+      "sentence": "製品群別の概況は、以下のとおりであります",
+      "opinions": []
+    },
+    {
+      "sentence_id": 4,
+      "sentence": "液体調味料群においては、小売用製品では、主力製品の「焼肉のたれ」類や『手羽唐のたれ』が好調に売上を伸ばすなか、トレンドの赤身肉・熟成肉に合わせた『焼肉のたれ 甘口』『焼肉のたれ 中辛』、健康志向の高まりに対応した『野菜の黒酢あんかけ炒めのたれ』など、食をめぐる環境の変化や消費者ニーズの多様化に応える新製品が売上を牽引いたしました",
+      "opinions": [
+        {
+          "target": "「焼肉のたれ」類",
+          "category": "product#sales",
+          "polarity": "positive",
+          "from": 25,
+          "to": 33
+        },
+        {
+          "target": "手羽唐のたれ",
+          "category": "product#sales",
+          "polarity": "positive",
+          "from": 35,
+          "to": 41
+        },
+        {
+          "target": "焼肉のたれ 甘口",
+          "category": "product#sales",
+          "polarity": "positive",
+          "from": 73,
+          "to": 81
+        },
+        {
+          "target": "焼肉のたれ 中辛",
+          "category": "product#sales",
+          "polarity": "positive",
+          "from": 83,
+          "to": 91
+        },
+        {
+          "target": "野菜の黒酢あんかけ炒めのたれ",
+          "category": "product#sales",
+          "polarity": "positive",
+          "from": 107,
+          "to": 121
+        }
+      ]
+    },
+    {
+      "sentence_id": 5,
+      "sentence": "鍋用スープの最需要期である秋冬市場に対しては、7種の新製品を投入するとともに、『ちゃんこ鍋スープ』など13種の主力製品のリニューアルを行い、ラインアップを拡充いたしました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 6,
+      "sentence": "９月以降は気温の高い日が続き、相次ぐ台風上陸や天候不順による野菜の不作・価格高騰など、厳しい環境のなか苦戦を強いられましたが、低価格のもやしを主材とする『野菜をいっぱい食べる鍋 もやし担々鍋スープ』、『野菜をいっぱい食べる鍋 もやし鍋スープ』が大きく売上を伸ばし、主力の『博多もつ鍋スープ』も好調に推移しました",
+      "opinions": [
+        {
+          "target": "野菜",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 30,
+          "to": 32
+        },
+        {
+          "target": "環境",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 46,
+          "to": 48
+        },
+        {
+          "target": "野菜をいっぱい食べる鍋 もやし担々鍋スープ",
+          "category": "product#sales",
+          "polarity": "positive",
+          "from": 77,
+          "to": 98
+        },
+        {
+          "target": "野菜をいっぱい食べる鍋 もやし鍋スープ",
+          "category": "product#sales",
+          "polarity": "positive",
+          "from": 101,
+          "to": 120
+        },
+        {
+          "target": "博多もつ鍋スープ",
+          "category": "product#general",
+          "polarity": "positive",
+          "from": 136,
+          "to": 144
+        }
+      ]
+    },
+    {
+      "sentence_id": 7,
+      "sentence": "業務用製品への取り組みでは、新製品の継続的な開発・投入とともに、惣菜専任部署を新たに東京・福岡・仙台・広島・名古屋に設置し、人員を拡充することで営業組織の全国展開を一層強化しました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 8,
+      "sentence": "これにより、顧客のニーズに沿ったメニュー開発・提案への注力がより効果的に行われ、市場開拓が更に促進されたことにより、大きく売上を伸ばしました",
+      "opinions": [
+        {
+          "target": "市場開拓",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 40,
+          "to": 44
+        },
+        {
+          "target": "売上",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 61,
+          "to": 63
+        }
+      ]
+    },
+    {
+      "sentence_id": 9,
+      "sentence": "この結果、売上高は135億56百万円（前期比104.6％）となりました",
+      "opinions": [
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 5,
+          "to": 8
+        }
+      ]
+    },
+    {
+      "sentence_id": 10,
+      "sentence": "粉体調味料群においては、小売用製品では、『味・塩こしょう』シリーズが好調に推移するなか、シリーズの一部で「持ちやすく、使いやすい」容器を新たに採用いたしました",
+      "opinions": [
+        {
+          "target": "味・塩こしょう",
+          "category": "product#general",
+          "polarity": "positive",
+          "from": 21,
+          "to": 28
+        }
+      ]
+    },
+    {
+      "sentence_id": 11,
+      "sentence": "業務用製品も組織的な取り組みが奏功し、精肉向けスパイス類などで大きく売上を伸ばしました",
+      "opinions": [
+        {
+          "target": "精肉向けスパイス類",
+          "category": "product#sales",
+          "polarity": "positive",
+          "from": 19,
+          "to": 28
+        }
+      ]
+    },
+    {
+      "sentence_id": 12,
+      "sentence": "この結果、売上高は39億51百万円（前期比101.0％）となりました",
+      "opinions": [
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 5,
+          "to": 8
+        }
+      ]
+    },
+    {
+      "sentence_id": 13,
+      "sentence": "その他調味料群においては、即食向け製品として新たに投入した『おいしさいろいろ ５つの味のスープはるさめ』が売上を牽引し、売上高は21億84百万円（前期比107.3％）となりました",
+      "opinions": [
+        {
+          "target": "その他調味料群",
+          "category": "business#sales",
+          "polarity": "positive",
+          "from": 0,
+          "to": 7
+        },
+        {
+          "target": "おいしさいろいろ ５つの味のスープはるさめ",
+          "category": "product#sales",
+          "polarity": "positive",
+          "from": 30,
+          "to": 51
+        }
+      ]
+    },
+    {
+      "sentence_id": 14,
+      "sentence": "以上の結果、当事業年度における売上高は、196億92百万円（前期比104.1％）となりました",
+      "opinions": [
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 15,
+          "to": 18
+        }
+      ]
+    },
+    {
+      "sentence_id": 15,
+      "sentence": "利益につきましては、増収を達成するなかで製造コストの効率化及び販売コストの効果的な運用に努め、営業利益は４億62百万円（前期比112.3％）、経常利益は４億62百万円（前期比114.5％）、当期純利益は２億96百万円（前期比143.3％）となりました",
+      "opinions": [
+        {
+          "target": "営業利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 47,
+          "to": 51
+        },
+        {
+          "target": "経常利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 71,
+          "to": 75
+        },
+        {
+          "target": "当期純利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 95,
+          "to": 100
+        }
+      ]
+    }
+  ]
+}

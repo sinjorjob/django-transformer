@@ -1,0 +1,361 @@
+{
+  "header": {
+    "document_id": "E00308",
+    "document_name": "麻生フオームクリート株式会社",
+    "doc_text": "有価証券報告書",
+    "edi_id": "E00308",
+    "security_code": "17300",
+    "category33": "建設業",
+    "category17": "建設・資材",
+    "scale": ""
+  },
+  "sentences": [
+    {
+      "sentence_id": 0,
+      "sentence": "当事業年度におけるわが国経済は、個人消費に力強さは見られなかったものの、企業収益環境の改善の持続や雇用所得環境の改善が見られ、また設備投資にも緩やかな持ち直しが見られるなど、全体として景気は緩やかな回復基調で推移いたしました",
+      "opinions": [
+        {
+          "target": "個人消費",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 16,
+          "to": 20
+        },
+        {
+          "target": "企業収益環境",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 36,
+          "to": 42
+        },
+        {
+          "target": "雇用所得環境",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 49,
+          "to": 55
+        },
+        {
+          "target": "設備投資",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 65,
+          "to": 69
+        },
+        {
+          "target": "景気",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 92,
+          "to": 94
+        }
+      ]
+    },
+    {
+      "sentence_id": 1,
+      "sentence": "建設業界におきましては、平成28年度第２次補正予算に係る政府建設投資が第４四半期に一部出来高として寄与し、政府建設投資は対前事業年度比で増加しました",
+      "opinions": [
+        {
+          "target": "政府建設投資",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 53,
+          "to": 59
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "sentence": "民間建設投資は、日銀のマイナス金利政策による金利の低下や相続税の節税対策による貸家の着工増で住宅建設投資が増加したことから堅調に推移しました",
+      "opinions": [
+        {
+          "target": "民間建設投資",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 0,
+          "to": 6
+        },
+        {
+          "target": "住宅建設投資",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 46,
+          "to": 52
+        }
+      ]
+    },
+    {
+      "sentence_id": 3,
+      "sentence": "しかしながら、資材費や労務費のコストが高止まりする中で、北海道・東北地区の集中豪雨の影響により、公共工事の優先順位が入れ替わり、当初予定されていた工期が先延ばしになるなど、当社を取り巻く経営環境は厳しい状況で推移しました",
+      "opinions": [
+        {
+          "target": "資材費",
+          "category": "NULL#cost",
+          "polarity": "negative",
+          "from": 7,
+          "to": 10
+        },
+        {
+          "target": "労務費",
+          "category": "NULL#cost",
+          "polarity": "negative",
+          "from": 11,
+          "to": 14
+        },
+        {
+          "target": "経営環境",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 93,
+          "to": 97
+        }
+      ]
+    },
+    {
+      "sentence_id": 4,
+      "sentence": "このような状況の下、当社は営業展開の強化をはかり、また施工人員の確保に注力し、引き続きコスト低減に取組み、受注量の確保と収益性の改善をはかってまいりました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 5,
+      "sentence": "その結果、当事業年度の業績は、気泡コンクリート工事において、管路中詰工事の大型工事の需要が一巡し端境期を迎えたことなどで、工事全体の受注高は3,944百万円（前事業年度比2.3％減）と減少しましたが、前事業年度からの繰越工事が多かった主力の気泡コンクリート工事の完成工事高が増加したことから、工事全体の完成工事高は3,965百万円（前事業年度比4.1％増）となり、商品販売を含めた全体の売上高も3,984百万円（前事業年度比4.0％増）と増加いたしました",
+      "opinions": [
+        {
+          "target": "気泡コンクリート工事",
+          "category": "business#amount",
+          "polarity": "negative",
+          "from": 15,
+          "to": 25
+        },
+        {
+          "target": "受注高",
+          "category": "NULL#amount",
+          "polarity": "negative",
+          "from": 66,
+          "to": 69
+        },
+        {
+          "target": "完成工事高",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 151,
+          "to": 156
+        },
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 193,
+          "to": 196
+        }
+      ]
+    },
+    {
+      "sentence_id": 6,
+      "sentence": "各段階の利益につきましては、予想売上高の減少や販管費の増加がありましたが、工期短縮など施工効率の向上に取組むとともにコスト低減に注力した結果、完成工事総利益率が改善し営業利益129百万円（前事業年度比7.0％増）、経常利益143百万円（前事業年度比4.0％増）、当期純利益148百万円（前事業年度比19.5％増）となりました",
+      "opinions": [
+        {
+          "target": "予想売上高",
+          "category": "NULL#sales",
+          "polarity": "negative",
+          "from": 14,
+          "to": 19
+        },
+        {
+          "target": "販管費",
+          "category": "NULL#cost",
+          "polarity": "negative",
+          "from": 23,
+          "to": 26
+        },
+        {
+          "target": "成工事総利益率",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 72,
+          "to": 79
+        },
+        {
+          "target": "営業利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 83,
+          "to": 87
+        },
+        {
+          "target": "経常利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 107,
+          "to": 111
+        },
+        {
+          "target": "当期純利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 131,
+          "to": 136
+        }
+      ]
+    },
+    {
+      "sentence_id": 7,
+      "sentence": "工事別等の状況は、次のとおりであります",
+      "opinions": []
+    },
+    {
+      "sentence_id": 8,
+      "sentence": "（気泡コンクリート工事）",
+      "opinions": []
+    },
+    {
+      "sentence_id": 9,
+      "sentence": "軽量盛土工事の受注高は、大型工事の受注により1,701百万円（前事業年度比22.6％増）と増加しましたが、空洞充填工事の受注高が628百万円（前事業年度比2.6％減）と減少し、また管路中詰工事の受注高も大型工事の発注が一段落したことから341百万円（前事業年度比64.8％減）と大幅に減少し、気泡コンクリート工事全体の受注高は2,671百万円（前事業年度比11.1％減）と減少いたしました",
+      "opinions": [
+        {
+          "target": "軽量盛土工事",
+          "category": "product#amount",
+          "polarity": "positive",
+          "from": 0,
+          "to": 6
+        },
+        {
+          "target": "空洞充填工事",
+          "category": "product#amount",
+          "polarity": "negative",
+          "from": 53,
+          "to": 59
+        },
+        {
+          "target": "管路中詰工事",
+          "category": "product#amount",
+          "polarity": "negative",
+          "from": 90,
+          "to": 96
+        },
+        {
+          "target": "気泡コンクリート工事",
+          "category": "business#amount",
+          "polarity": "negative",
+          "from": 146,
+          "to": 156
+        }
+      ]
+    },
+    {
+      "sentence_id": 10,
+      "sentence": "完成工事高につきましては、空洞充填工事の完成工事高が619百万円（前事業年度比5.2％減）と減少しましたが、軽量盛土工事の完成工事高が1,645百万円（前事業年度比13.4％増）と増加し、また受注高は大幅に減少しましたが前事業年度からの繰越工事が多かった管路中詰工事の完成工事高が696百万円（前事業年度比1.0％増）と増加したことから、気泡コンクリート工事全体の完成工事高は2,961百万円（前事業年度比6.0％増）と増加いたしました",
+      "opinions": [
+        {
+          "target": "空洞充填工事",
+          "category": "product#sales",
+          "polarity": "negative",
+          "from": 13,
+          "to": 19
+        },
+        {
+          "target": "軽量盛土工事",
+          "category": "product#sales",
+          "polarity": "positive",
+          "from": 54,
+          "to": 60
+        },
+        {
+          "target": "受注高",
+          "category": "NULL#sales",
+          "polarity": "negative",
+          "from": 96,
+          "to": 99
+        },
+        {
+          "target": "管路中詰工事",
+          "category": "product#sales",
+          "polarity": "positive",
+          "from": 127,
+          "to": 133
+        },
+        {
+          "target": "気泡コンクリート工事",
+          "category": "business#sales",
+          "polarity": "positive",
+          "from": 169,
+          "to": 179
+        }
+      ]
+    },
+    {
+      "sentence_id": 11,
+      "sentence": "（地盤改良工事）",
+      "opinions": []
+    },
+    {
+      "sentence_id": 12,
+      "sentence": "地盤改良工事の受注高は1,078百万円（前事業年度比5.5％増）と増加いたしました",
+      "opinions": [
+        {
+          "target": "地盤改良工事",
+          "category": "business#amount",
+          "polarity": "positive",
+          "from": 0,
+          "to": 6
+        }
+      ]
+    },
+    {
+      "sentence_id": 13,
+      "sentence": "完成工事高につきましては、大型工事の施工時期のずれ込みにより、地盤改良工事の完成工事高は904百万円（前事業年度比10.0％減）と減少いたしました",
+      "opinions": [
+        {
+          "target": "地盤改良工事",
+          "category": "business#sales",
+          "polarity": "negative",
+          "from": 31,
+          "to": 37
+        }
+      ]
+    },
+    {
+      "sentence_id": 14,
+      "sentence": "（その他工事）",
+      "opinions": []
+    },
+    {
+      "sentence_id": 15,
+      "sentence": "受注高は193百万円（前事業年度比1,972.9％増）、完成工事高につきましても99百万円（前事業年度比961.0％増）となりました",
+      "opinions": [
+        {
+          "target": "受注高",
+          "category": "NULL#amount",
+          "polarity": "positive",
+          "from": 0,
+          "to": 3
+        },
+        {
+          "target": "完成工事高",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 28,
+          "to": 33
+        }
+      ]
+    },
+    {
+      "sentence_id": 16,
+      "sentence": "（商品販売）",
+      "opinions": []
+    },
+    {
+      "sentence_id": 17,
+      "sentence": "売上高は、気泡剤や固化剤の販売など19百万円（前事業年度比17.3％減）となりました",
+      "opinions": [
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "negative",
+          "from": 0,
+          "to": 3
+        }
+      ]
+    }
+  ]
+}

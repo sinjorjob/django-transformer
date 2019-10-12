@@ -1,0 +1,710 @@
+{
+  "header": {
+    "document_id": "E01764",
+    "document_name": "寺崎電気産業株式会社",
+    "doc_text": "有価証券報告書",
+    "edi_id": "E01764",
+    "security_code": "66370",
+    "category33": "電気機器",
+    "category17": "電機・精密",
+    "scale": ""
+  },
+  "sentences": [
+    {
+      "sentence_id": 0,
+      "sentence": "文中の将来に関する事項は、当連結会計年度末現在において当社グループ（当社及び連結子会社）が判断したものであります",
+      "opinions": []
+    },
+    {
+      "sentence_id": 1,
+      "sentence": "当連結会計年度における世界経済は、先進国を中心に総じて緩やかな回復基調が続きました",
+      "opinions": [
+        {
+          "target": "世界経済",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 11,
+          "to": 15
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "sentence": "米国では、企業部門も改善傾向にあり、個人消費を中心にした内需も底堅く推移しており、回復基調が持続しました",
+      "opinions": [
+        {
+          "target": "米国",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 0,
+          "to": 2
+        },
+        {
+          "target": "企業部門",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 5,
+          "to": 9
+        },
+        {
+          "target": "内需",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 28,
+          "to": 30
+        }
+      ]
+    },
+    {
+      "sentence_id": 3,
+      "sentence": "欧州では、消費を中心とした緩やかな回復基調が持続しました",
+      "opinions": [
+        {
+          "target": "欧州",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 0,
+          "to": 2
+        }
+      ]
+    },
+    {
+      "sentence_id": 4,
+      "sentence": "新興国経済は、中国では減速のペースがやや弱まり、他の新興国については持ち直しの動きが見られました",
+      "opinions": [
+        {
+          "target": "中国",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 7,
+          "to": 9
+        },
+        {
+          "target": "新興国",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 26,
+          "to": 29
+        }
+      ]
+    },
+    {
+      "sentence_id": 5,
+      "sentence": "一方、わが国経済は、企業収益に改善の動きが見られ、個人消費も回復の動きがあり、総じて緩やかな回復基調の動きとなりました",
+      "opinions": [
+        {
+          "target": "わが国経済",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 3,
+          "to": 8
+        },
+        {
+          "target": "企業収益",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 10,
+          "to": 14
+        },
+        {
+          "target": "個人消費",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 25,
+          "to": 29
+        }
+      ]
+    },
+    {
+      "sentence_id": 6,
+      "sentence": "当社グループをとりまく経済環境は、国内における民間設備投資においては、外部環境の不透明感などから足踏み状態が続きました",
+      "opinions": [
+        {
+          "target": "民間設備投資",
+          "category": "NULL#general",
+          "polarity": "neutral",
+          "from": 23,
+          "to": 29
+        },
+        {
+          "target": "外部環境",
+          "category": "NULL#general",
+          "polarity": "neutral",
+          "from": 35,
+          "to": 39
+        }
+      ]
+    },
+    {
+      "sentence_id": 7,
+      "sentence": "海外においても、中国を始めとする新興国経済の減速及び欧米の政治情勢の先行き不透明感により弱めの動きとなりました",
+      "opinions": [
+        {
+          "target": "海外",
+          "category": "NULL#general",
+          "polarity": "neutral",
+          "from": 0,
+          "to": 2
+        },
+        {
+          "target": "新興国経済",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 16,
+          "to": 21
+        },
+        {
+          "target": "政治情勢",
+          "category": "NULL#general",
+          "polarity": "neutral",
+          "from": 29,
+          "to": 33
+        }
+      ]
+    },
+    {
+      "sentence_id": 8,
+      "sentence": "当社の主要顧客である造船業界においては、中国経済の減速等による海運市況の長期低迷に伴う船腹過剰、また一昨年の窒素酸化物３次規制の適用前の駆け込み発注に対する反動もあり、受注量は大幅に減少しており厳しい状況が続きました",
+      "opinions": [
+        {
+          "target": "造船業界",
+          "category": "market#general",
+          "polarity": "negative",
+          "from": 10,
+          "to": 14
+        },
+        {
+          "target": "中国経済",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 20,
+          "to": 24
+        },
+        {
+          "target": "海運市況",
+          "category": "market#general",
+          "polarity": "negative",
+          "from": 31,
+          "to": 35
+        },
+        {
+          "target": "受注量",
+          "category": "NULL#amount",
+          "polarity": "negative",
+          "from": 84,
+          "to": 87
+        }
+      ]
+    },
+    {
+      "sentence_id": 9,
+      "sentence": "このような状況のもと、当連結会計年度の業績につきましては、機器製品及びアジア地域での船舶用システム製品の売上の減少、為替の円高推移の影響などもあり、売上高は328億円73百万円と前年同期比16.6％の減少となりました",
+      "opinions": [
+        {
+          "target": "機器製品",
+          "category": "product#sales",
+          "polarity": "negative",
+          "from": 29,
+          "to": 33
+        },
+        {
+          "target": "システム製品",
+          "category": "product#sales",
+          "polarity": "negative",
+          "from": 45,
+          "to": 51
+        },
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "negative",
+          "from": 74,
+          "to": 77
+        }
+      ]
+    },
+    {
+      "sentence_id": 10,
+      "sentence": "利益面では、原価低減、経費削減に努めましたが、売上高の減少による影響、本社移転に関する経費等もあり、営業利益は18億38百万円と前年同期比49.8％の減益となり、経常利益につきましても、23億72百万円と前年同期比39.6％の減益となりました",
+      "opinions": [
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "negative",
+          "from": 23,
+          "to": 26
+        },
+        {
+          "target": "営業利益",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 50,
+          "to": 54
+        },
+        {
+          "target": "経常利益",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 81,
+          "to": 85
+        }
+      ]
+    },
+    {
+      "sentence_id": 11,
+      "sentence": "親会社株主に帰属する当期純利益は、旧本社の土地売却による特別利益を計上しておりますが、19億８百万円と前年同期比30.3％の減益となりました",
+      "opinions": [
+        {
+          "target": "当期純利益",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 10,
+          "to": 15
+        }
+      ]
+    },
+    {
+      "sentence_id": 12,
+      "sentence": "なお、製品別の連結売上高は、システム製品（配電制御システム等）が187億６百万円と前年同期比13.1％の減少、機器製品（低圧遮断器等）が141億67百万円と前年同期比20.7％の減少となりました",
+      "opinions": [
+        {
+          "target": "システム製品",
+          "category": "product#sales",
+          "polarity": "negative",
+          "from": 14,
+          "to": 20
+        },
+        {
+          "target": "機器製品",
+          "category": "product#sales",
+          "polarity": "negative",
+          "from": 55,
+          "to": 59
+        }
+      ]
+    },
+    {
+      "sentence_id": 13,
+      "sentence": "当社グループのシステム製品の連結受注高は、当連結会計年度においては、船舶用システム製品は、国内造船所向けのコンテナ船のシリーズ船の受注、産業用システム製品は、海外プラントや国内外の鉄道関連向けの受注がありましたが、アジア地域における船舶用システム製品が低調に推移したこと等により前年同期を18.4％下回る172億36百万円となりました",
+      "opinions": [
+        {
+          "target": "連結受注高",
+          "category": "NULL#amount",
+          "polarity": "negative",
+          "from": 14,
+          "to": 19
+        },
+        {
+          "target": "システム製品",
+          "category": "product#general",
+          "polarity": "negative",
+          "from": 119,
+          "to": 125
+        }
+      ]
+    },
+    {
+      "sentence_id": 14,
+      "sentence": "その結果、連結受注残高は前連結会計年度末より14億69百万円減少し、179億27百万円となりました",
+      "opinions": [
+        {
+          "target": "連結受注残高",
+          "category": "NULL#amount",
+          "polarity": "negative",
+          "from": 5,
+          "to": 11
+        }
+      ]
+    },
+    {
+      "sentence_id": 15,
+      "sentence": "なお、機器製品は、計画生産を行っているため、上記受注高、受注残高には含めておりません",
+      "opinions": []
+    },
+    {
+      "sentence_id": 16,
+      "sentence": "当連結会計年度におけるセグメント別の業績は以下のとおりであります",
+      "opinions": []
+    },
+    {
+      "sentence_id": 17,
+      "sentence": "「日本」",
+      "opinions": []
+    },
+    {
+      "sentence_id": 18,
+      "sentence": "船舶用システム製品（船舶用配電制御システム等）は、前年同期と比べ海外造船向けの大型タンカー、国内造船向けのばら積運搬船の売上が減少しましたが、国内、海外造船向けコンテナ船のシリーズ船、陸電供給システムなどの売上があり、売上が前年同期に比べ若干増加しました",
+      "opinions": [
+        {
+          "target": "システム製品",
+          "category": "product#sales",
+          "polarity": "positive",
+          "from": 3,
+          "to": 9
+        },
+        {
+          "target": "大型タンカー",
+          "category": "product#sales",
+          "polarity": "negative",
+          "from": 39,
+          "to": 45
+        },
+        {
+          "target": "ばら積運搬船",
+          "category": "product#sales",
+          "polarity": "negative",
+          "from": 53,
+          "to": 59
+        },
+        {
+          "target": "シリーズ船",
+          "category": "product#sales",
+          "polarity": "positive",
+          "from": 86,
+          "to": 91
+        },
+        {
+          "target": "陸電供給システム",
+          "category": "product#sales",
+          "polarity": "positive",
+          "from": 92,
+          "to": 100
+        }
+      ]
+    },
+    {
+      "sentence_id": 19,
+      "sentence": "産業用システム製品（配電制御システム）は、コージェネレーションシステム等の分散型エネルギー関連、国内向け製品の売上は減少しましたが、海外の鉄道関連向けの売上が増加したことにより、売上は前年同期に比べ増加しました",
+      "opinions": [
+        {
+          "target": "システム製品",
+          "category": "product#sales",
+          "polarity": "positive",
+          "from": 3,
+          "to": 9
+        },
+        {
+          "target": "分散型エネルギー関連",
+          "category": "product#sales",
+          "polarity": "negative",
+          "from": 37,
+          "to": 47
+        },
+        {
+          "target": "製品",
+          "category": "product#sales",
+          "polarity": "negative",
+          "from": 52,
+          "to": 54
+        },
+        {
+          "target": "鉄道関連向け",
+          "category": "product#sales",
+          "polarity": "positive",
+          "from": 69,
+          "to": 75
+        }
+      ]
+    },
+    {
+      "sentence_id": 20,
+      "sentence": "医療関連機器製品は、医療機器については、堅調に推移し、臨床検査機器についても、新製品が予定どおりに展開し、既存製品も堅調に推移しました",
+      "opinions": [
+        {
+          "target": "医療機器",
+          "category": "product#general",
+          "polarity": "positive",
+          "from": 10,
+          "to": 14
+        },
+        {
+          "target": "臨床検査機器",
+          "category": "product#general",
+          "polarity": "positive",
+          "from": 27,
+          "to": 33
+        },
+        {
+          "target": "既存製品",
+          "category": "product#general",
+          "polarity": "positive",
+          "from": 53,
+          "to": 57
+        }
+      ]
+    },
+    {
+      "sentence_id": 21,
+      "sentence": "その結果、医療関連機器製品全体では、売上は前年同期に比べ増加しました",
+      "opinions": [
+        {
+          "target": "医療関連機器製品",
+          "category": "product#sales",
+          "polarity": "positive",
+          "from": 5,
+          "to": 13
+        }
+      ]
+    },
+    {
+      "sentence_id": 22,
+      "sentence": "エンジニアリング及びライフサイクルサービスは、産業向けの更新工事などが前年同期に比べ増加しましたが、船舶向けの各種点検作業等が低調に推移したことにより、売上が前年同期に比べ減少しました",
+      "opinions": [
+        {
+          "target": "エンジニアリング",
+          "category": "business#sales",
+          "polarity": "negative",
+          "from": 0,
+          "to": 8
+        },
+        {
+          "target": "ライフサイクルサービス",
+          "category": "business#sales",
+          "polarity": "negative",
+          "from": 10,
+          "to": 21
+        },
+        {
+          "target": "更新工事",
+          "category": "product#amount",
+          "polarity": "positive",
+          "from": 28,
+          "to": 32
+        },
+        {
+          "target": "各種点検作業",
+          "category": "product#amount",
+          "polarity": "negative",
+          "from": 55,
+          "to": 61
+        }
+      ]
+    },
+    {
+      "sentence_id": 23,
+      "sentence": "その結果、システム製品全体の売上は前年同期に比べ増加となりました",
+      "opinions": [
+        {
+          "target": "システム製品",
+          "category": "product#sales",
+          "polarity": "positive",
+          "from": 5,
+          "to": 11
+        }
+      ]
+    },
+    {
+      "sentence_id": 24,
+      "sentence": "機器製品（低圧遮断器等）は、国内向けでは、マーケットの停滞により売上が減少、海外向けについても、東アジアの船舶市場、オセアニア地域の売上減少等により、機器製品全体の売上は、前年同期に比べ減少しました",
+      "opinions": [
+        {
+          "target": "国内向け",
+          "category": "product#sales",
+          "polarity": "negative",
+          "from": 14,
+          "to": 18
+        },
+        {
+          "target": "マーケット",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 21,
+          "to": 26
+        },
+        {
+          "target": "東アジア",
+          "category": "business#sales",
+          "polarity": "negative",
+          "from": 48,
+          "to": 52
+        },
+        {
+          "target": "オセアニア地域",
+          "category": "business#sales",
+          "polarity": "negative",
+          "from": 58,
+          "to": 65
+        },
+        {
+          "target": "機器製品",
+          "category": "product#sales",
+          "polarity": "negative",
+          "from": 75,
+          "to": 79
+        }
+      ]
+    },
+    {
+      "sentence_id": 25,
+      "sentence": "その結果、当セグメントの当連結会計年度の売上高は、224億23百万円と前年同期比6.0％の減少、セグメント利益は、機器製品の売上減少、本社移転に関する経費等により、15億95百万円と前年同期比39.4％の減益となりました",
+      "opinions": [
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "negative",
+          "from": 20,
+          "to": 23
+        },
+        {
+          "target": "セグメント利益",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 48,
+          "to": 55
+        },
+        {
+          "target": "機器製品",
+          "category": "product#sales",
+          "polarity": "negative",
+          "from": 57,
+          "to": 61
+        }
+      ]
+    },
+    {
+      "sentence_id": 26,
+      "sentence": "「アジア」",
+      "opinions": []
+    },
+    {
+      "sentence_id": 27,
+      "sentence": "船舶用システム製品（船舶用配電制御システム等）では、海運市況の悪化に伴う中国造船市場向け及び資源安による東南アジアにおける海洋掘削市場向けの受注低迷、納期遅延、キャンセル発生などにより、売上は前年同期に比べ大幅に減少しました",
+      "opinions": [
+        {
+          "target": "システム製品",
+          "category": "product#sales",
+          "polarity": "negative",
+          "from": 3,
+          "to": 9
+        },
+        {
+          "target": "海運市況",
+          "category": "market#general",
+          "polarity": "negative",
+          "from": 26,
+          "to": 30
+        },
+        {
+          "target": "中国造船市場向け",
+          "category": "product#amount",
+          "polarity": "negative",
+          "from": 36,
+          "to": 44
+        },
+        {
+          "target": "海洋掘削市場向け",
+          "category": "product#amount",
+          "polarity": "negative",
+          "from": 61,
+          "to": 69
+        }
+      ]
+    },
+    {
+      "sentence_id": 28,
+      "sentence": "機器製品（低圧遮断器等）は、マレーシア国内向け及び他の地域向けでも一定量の売上がありましたが、船舶向けの売上が低調に推移したことにより、売上は前年同期に比べ減少しました",
+      "opinions": [
+        {
+          "target": "機器製品",
+          "category": "product#sales",
+          "polarity": "negative",
+          "from": 0,
+          "to": 4
+        },
+        {
+          "target": "マレーシア国内向け",
+          "category": "product#sales",
+          "polarity": "positive",
+          "from": 14,
+          "to": 23
+        },
+        {
+          "target": "地域向け",
+          "category": "product#sales",
+          "polarity": "positive",
+          "from": 27,
+          "to": 31
+        },
+        {
+          "target": "船舶向け",
+          "category": "product#sales",
+          "polarity": "positive",
+          "from": 47,
+          "to": 51
+        }
+      ]
+    },
+    {
+      "sentence_id": 29,
+      "sentence": "その結果、当セグメントの当連結会計年度の売上高は、73億98百万円と前年同期比32.3％の減収、セグメント利益は９億67百万円と前年同期比38.0％の減益となりました",
+      "opinions": [
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "negative",
+          "from": 20,
+          "to": 23
+        },
+        {
+          "target": "セグメント利益",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 48,
+          "to": 55
+        }
+      ]
+    },
+    {
+      "sentence_id": 30,
+      "sentence": "「ヨーロッパ」",
+      "opinions": []
+    },
+    {
+      "sentence_id": 31,
+      "sentence": "機器製品（低圧遮断器等）は、英国内の景気の停滞、中近東向けについても資源安による市況の停滞により、売上は前年同期に比べ減少しました",
+      "opinions": [
+        {
+          "target": "機器製品",
+          "category": "product#sales",
+          "polarity": "negative",
+          "from": 0,
+          "to": 4
+        },
+        {
+          "target": "景気",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 18,
+          "to": 20
+        },
+        {
+          "target": "市況",
+          "category": "market#general",
+          "polarity": "negative",
+          "from": 40,
+          "to": 42
+        }
+      ]
+    },
+    {
+      "sentence_id": 32,
+      "sentence": "その結果、当セグメントの当連結会計年度の売上高は、30億55百万円と前年同期比32.5％の減少、セグメント利益は全体の売上減少等もあり、１億27百万円と前年同期比56.2％の減益となりました",
+      "opinions": [
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "negative",
+          "from": 20,
+          "to": 23
+        },
+        {
+          "target": "セグメント利益",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 48,
+          "to": 55
+        }
+      ]
+    }
+  ]
+}

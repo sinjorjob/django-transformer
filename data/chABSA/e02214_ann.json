@@ -1,0 +1,293 @@
+{
+  "header": {
+    "document_id": "E02214",
+    "document_name": "日本精機株式会社",
+    "doc_text": "訂正有価証券報告書",
+    "edi_id": "E02214",
+    "security_code": "72870",
+    "category33": "輸送用機器",
+    "category17": "自動車・輸送機",
+    "scale": ""
+  },
+  "sentences": [
+    {
+      "sentence_id": 0,
+      "sentence": "当連結会計年度における当社グループを取り巻く経済環境は、米国では個人消費の拡大を中心に底堅く推移し、欧州においても堅調な個人消費により緩やかな回復基調が続きましたが、アジアでは中国経済の減速が継続する等、世界経済は緩やかな回復にとどまりました",
+      "opinions": [
+        {
+          "target": "経済環境",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 22,
+          "to": 26
+        },
+        {
+          "target": "個人消費",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 32,
+          "to": 36
+        },
+        {
+          "target": "個人消費",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 60,
+          "to": 64
+        },
+        {
+          "target": "中国経済",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 88,
+          "to": 92
+        },
+        {
+          "target": "世界経済",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 102,
+          "to": 106
+        }
+      ]
+    },
+    {
+      "sentence_id": 1,
+      "sentence": "日本経済においては、雇用は改善傾向にあるものの、依然として停滞する個人消費等から力強さを欠く状況となりました",
+      "opinions": [
+        {
+          "target": "日本経済",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 0,
+          "to": 4
+        },
+        {
+          "target": "雇用",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 10,
+          "to": 12
+        },
+        {
+          "target": "個人消費",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 33,
+          "to": 37
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "sentence": "一方、金融市場は６月の英国国民投票を契機に進んだ円高傾向から一転して11月の米国大統領選挙以降に急速なドル高・円安が進行するなど、目まぐるしい変動に見舞われました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 3,
+      "sentence": "このような状況において、当社グループは、連結企業体としてグローバルでの競争に勝ち残り、継続的に成長できる企業体質を実現すべく、品質第一に徹し、競争に負けない「ものづくり総合力」（コスト・技術・物流・サービス）の強化と同時に、営業・設計・経営管理など、あらゆる面でのグローバル化を目指し、変化に柔軟かつ迅速に対応できるよう「経営のグローバル化」を推進してまいりました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 4,
+      "sentence": "自動車及び汎用計器事業においては、新規顧客の拡大や大規模市場における拡販に対応するため、生産レイアウト最適化・生産能力拡充を行ってまいりました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 5,
+      "sentence": "ヘッドアップディスプレイの生産体制構築の一環として、「ＮＳウエスト株式会社」（広島県）に新工場を建設し、重要内製部品を当社グループに供給することで、３ヶ国４拠点（日本２拠点、米国１拠点、英国１拠点）のグループ補完体制を整えることといたしました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 6,
+      "sentence": "北米においては米国及びメキシコの製造子会社の生産拡充により、各社単独でものづくりが完結する体制とすることで、受注変動・受注機種の多様化への柔軟な対応を実現する体制を構築いたしました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 7,
+      "sentence": "欧州やアジアにおいては計器部品をアジアから欧州へ供給するグループ補完体制をさらに充実させてまいりました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 8,
+      "sentence": "また、製品の高機能化に伴う設計開発力の増強については、従前からの日本、米国、欧州の設計開発拠点における人員の増員及び機能強化を図るとともに、ポーランドに設計事務所を新設、欧州における顧客ニーズを踏まえた開発と製品化をいち早く実現し、新規顧客の開拓並びに大規模市場での拡販に対応し、世界シェア拡大を図ってまいりました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 9,
+      "sentence": "製品開発においては、既存の事業により培った技術・ノウハウを活かし、ＩｏＴ技術を利用した高信頼性クラウド型遠隔監視システム「ＳＭＡＳＨ」（Ｓｍａｒｔ　Ｓｈａｒｉｎｇ　Ｓｙｓｔｅｍ）の開発を行い、新しい分野への進出を果たしました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 10,
+      "sentence": "また、民生機器事業とディスプレイ事業を統合することで、それぞれの技術、顧客、商材の深堀りと組合せにより新しい価値を提供するコンポーネント事業部の新設に向けての準備を進めてまいりました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 11,
+      "sentence": "このように、当社グループは大規模市場においては積極的な拠点機能の強化を行いつつグループ補完体制を構築し、自動車及び汎用計器事業における一層の競争力強化とともに、既存事業周辺及び新規事業領域への開拓、新たな価値創出を図ってまいります",
+      "opinions": []
+    },
+    {
+      "sentence_id": 12,
+      "sentence": "このような事業展開の結果、当連結会計年度の売上高は、240,520百万円（前年同期比1.3％減）、営業利益は、17,296百万円（前年同期比4.4％減）、経常利益は、17,764百万円（前年同期比8.5％増）、親会社株主に帰属する当期純利益は、9,412百万円（前年同期比2.9％増）となりました",
+      "opinions": [
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "negative",
+          "from": 21,
+          "to": 24
+        },
+        {
+          "target": "営業利益",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 49,
+          "to": 53
+        },
+        {
+          "target": "当期純利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 115,
+          "to": 120
+        }
+      ]
+    },
+    {
+      "sentence_id": 13,
+      "sentence": "セグメントの業績は次のとおりであります",
+      "opinions": []
+    },
+    {
+      "sentence_id": 14,
+      "sentence": "自動車及び汎用計器事業は、四輪車用計器が欧州で減少したものの、米州、アジア向けが増加し、売上高190,316百万円（前年同期比0.3％増）となりましたが、営業利益13,941百万円（前年同期比12.2％減）となりました",
+      "opinions": [
+        {
+          "target": "自動車及び汎用計器事業",
+          "category": "business#sales",
+          "polarity": "positive",
+          "from": 0,
+          "to": 11
+        },
+        {
+          "target": "自動車及び汎用計器事業",
+          "category": "business#profit",
+          "polarity": "negative",
+          "from": 0,
+          "to": 11
+        },
+        {
+          "target": "計器",
+          "category": "product#amount",
+          "polarity": "negative",
+          "from": 17,
+          "to": 19
+        },
+        {
+          "target": "米州",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 31,
+          "to": 33
+        },
+        {
+          "target": "アジア向け",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 34,
+          "to": 39
+        }
+      ]
+    },
+    {
+      "sentence_id": 15,
+      "sentence": "民生機器事業は、ＯＡ・情報機器操作パネル、アミューズメント向け基板ユニット等が減少し、売上高11,472百万円（前年同期比18.0％減）、営業損失47百万円（前年同期は338百万円の営業損失）となりました",
+      "opinions": [
+        {
+          "target": "民生機器事業",
+          "category": "business#sales",
+          "polarity": "negative",
+          "from": 0,
+          "to": 6
+        },
+        {
+          "target": "民生機器事業",
+          "category": "business#profit",
+          "polarity": "negative",
+          "from": 0,
+          "to": 6
+        },
+        {
+          "target": "ＯＡ・情報機器操作パネル",
+          "category": "product#amount",
+          "polarity": "negative",
+          "from": 8,
+          "to": 20
+        },
+        {
+          "target": "基板ユニット",
+          "category": "product#amount",
+          "polarity": "negative",
+          "from": 31,
+          "to": 37
+        }
+      ]
+    },
+    {
+      "sentence_id": 16,
+      "sentence": "自動車販売事業は、新車販売等が減少し、売上高21,686百万円（前年同期比5.1％減）となりましたが、営業利益1,041百万円（前年同期比7.4％増）となりました",
+      "opinions": [
+        {
+          "target": "自動車販売事業",
+          "category": "business#sales",
+          "polarity": "negative",
+          "from": 0,
+          "to": 7
+        },
+        {
+          "target": "自動車販売事業",
+          "category": "business#profit",
+          "polarity": "positive",
+          "from": 0,
+          "to": 7
+        },
+        {
+          "target": "新車販売",
+          "category": "NULL#sales",
+          "polarity": "negative",
+          "from": 9,
+          "to": 13
+        }
+      ]
+    },
+    {
+      "sentence_id": 17,
+      "sentence": "その他は、樹脂材料販売等が増加し、売上高17,044百万円（前年同期比0.4％増）、営業利益2,606百万円（前年同期比50.6％増）となりました",
+      "opinions": [
+        {
+          "target": "その他",
+          "category": "business#sales",
+          "polarity": "positive",
+          "from": 0,
+          "to": 3
+        },
+        {
+          "target": "その他",
+          "category": "business#profit",
+          "polarity": "positive",
+          "from": 0,
+          "to": 3
+        },
+        {
+          "target": "樹脂材料販売",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 5,
+          "to": 11
+        }
+      ]
+    }
+  ]
+}

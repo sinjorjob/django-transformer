@@ -1,0 +1,479 @@
+{
+  "header": {
+    "document_id": "E01862",
+    "document_name": "株式会社イマジカ・ロボット　ホールディングス",
+    "doc_text": "訂正有価証券報告書",
+    "edi_id": "E01862",
+    "security_code": "68790",
+    "category33": "情報・通信業",
+    "category17": "情報通信・サービスその他",
+    "scale": "7"
+  },
+  "sentences": [
+    {
+      "sentence_id": 0,
+      "sentence": "当連結会計年度におけるわが国経済は、企業収益や雇用環境など底堅く推移しているものの、英国のEU離脱等欧州の政治リスクや米国の政策動向の影響をはじめとした世界経済の不確実性などから、先行き不透明な状況が続きました",
+      "opinions": [
+        {
+          "target": "わが国経済",
+          "category": "NULL#general",
+          "polarity": "neutral",
+          "from": 11,
+          "to": 16
+        },
+        {
+          "target": "企業収益",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 18,
+          "to": 22
+        },
+        {
+          "target": "雇用環境",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 23,
+          "to": 27
+        },
+        {
+          "target": "世界経済",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 76,
+          "to": 80
+        }
+      ]
+    },
+    {
+      "sentence_id": 1,
+      "sentence": "当社グループの所属する映像関連業界におきましては、技術革新に伴う映像メディアの変化や映像制作工程の変化の中、常に新たな価値創造が求められております",
+      "opinions": []
+    },
+    {
+      "sentence_id": 2,
+      "sentence": "このような環境の下で、当社グループは、映像ビジネスにおいて幅広い事業展開を行っており、映像コンテンツ、映像制作サービス、映像システムソリューションを世界最高レベルでお届けできるOnly Oneのクリエイティブ＆テクノロジー集団を目指すことを経営ビジョンに掲げ、グループの総合力を発揮し、収益力及び財務体質を強化することに取り組んでまいりました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 3,
+      "sentence": "これらの結果、当連結会計年度における当社グループの業績につきましては、売上高は875億86百万円（前年同期比25.1％増）、営業利益は17億87百万円（前年同期比173.4％増）、経常利益は20億14百万円（前年同期比165.0％増）、親会社株主に帰属する当期純利益は17億７百万円（前年同期は親会社株主に帰属する当期純損失15億55百万円）となりました",
+      "opinions": [
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 35,
+          "to": 38
+        },
+        {
+          "target": "営業利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 62,
+          "to": 66
+        },
+        {
+          "target": "経常利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 90,
+          "to": 94
+        },
+        {
+          "target": "当期純利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 128,
+          "to": 133
+        }
+      ]
+    },
+    {
+      "sentence_id": 4,
+      "sentence": "セグメント別の業績は次のとおりであります",
+      "opinions": []
+    },
+    {
+      "sentence_id": 5,
+      "sentence": "ポストプロダクションにおきましては、各分野とも受注は堅調に推移し、また、IP配信事業者からのエンコード作業等の受注が増加したこと、及び売上原価削減の効果により、前期の実績を上回りました",
+      "opinions": [
+        {
+          "target": "ポストプロダクション",
+          "category": "business#amount",
+          "polarity": "positive",
+          "from": 0,
+          "to": 10
+        },
+        {
+          "target": "ポストプロダクション",
+          "category": "business#cost",
+          "polarity": "positive",
+          "from": 0,
+          "to": 10
+        },
+        {
+          "target": "エンコード作業",
+          "category": "product#amount",
+          "polarity": "positive",
+          "from": 46,
+          "to": 53
+        }
+      ]
+    },
+    {
+      "sentence_id": 6,
+      "sentence": "この結果、当連結会計年度における当該事業分野の業績は、売上高は156億９百万円（前年同期比4.7％増）、営業利益は12億28百万円（前年同期比25.9％増）となりました",
+      "opinions": [
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 27,
+          "to": 30
+        },
+        {
+          "target": "営業利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 52,
+          "to": 56
+        }
+      ]
+    },
+    {
+      "sentence_id": 7,
+      "sentence": "当連結会計年度よりアニメーション制作の株式会社オー・エル・エム及びその子会社２社が新たに当事業セグメントに加わったことにより、売上・利益とも大きく増加しました",
+      "opinions": [
+        {
+          "target": "売上",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 63,
+          "to": 65
+        },
+        {
+          "target": "利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 66,
+          "to": 68
+        }
+      ]
+    },
+    {
+      "sentence_id": 8,
+      "sentence": "また、既存のCM、映画制作分野等、各種コンテンツにおいて堅調に受注を獲得しました",
+      "opinions": [
+        {
+          "target": "CM",
+          "category": "product#amount",
+          "polarity": "positive",
+          "from": 6,
+          "to": 8
+        },
+        {
+          "target": "映画制作分野",
+          "category": "business#general",
+          "polarity": "positive",
+          "from": 9,
+          "to": 15
+        }
+      ]
+    },
+    {
+      "sentence_id": 9,
+      "sentence": "この結果、当連結会計年度における当該事業分野の業績は、売上高は215億60百万円（前年同期比75.0％増）、営業利益は10億８百万円（前年同期比115.6％増）となりました",
+      "opinions": [
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 27,
+          "to": 30
+        },
+        {
+          "target": "営業利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 54,
+          "to": 58
+        }
+      ]
+    },
+    {
+      "sentence_id": 10,
+      "sentence": "放送分野の「イマジカBS」「歌謡ポップスチャンネル」におきましては、加入者数、売上とも堅調に推移するとともに、番組販売、DVD/Blu-rayの販売が収益に貢献しました",
+      "opinions": [
+        {
+          "target": "イマジカBS",
+          "category": "product#sales",
+          "polarity": "positive",
+          "from": 6,
+          "to": 12
+        },
+        {
+          "target": "イマジカBS",
+          "category": "product#amount",
+          "polarity": "positive",
+          "from": 6,
+          "to": 12
+        },
+        {
+          "target": "歌謡ポップスチャンネル",
+          "category": "product#sales",
+          "polarity": "positive",
+          "from": 14,
+          "to": 25
+        },
+        {
+          "target": "歌謡ポップスチャンネル",
+          "category": "product#amount",
+          "polarity": "positive",
+          "from": 14,
+          "to": 25
+        },
+        {
+          "target": "番組販売",
+          "category": "business#amount",
+          "polarity": "positive",
+          "from": 55,
+          "to": 59
+        },
+        {
+          "target": "DVD/Blu-ray",
+          "category": "product#amount",
+          "polarity": "positive",
+          "from": 60,
+          "to": 71
+        }
+      ]
+    },
+    {
+      "sentence_id": 11,
+      "sentence": "この結果、当連結会計年度における当該事業分野の業績は、売上高は57億44百万円（前年同期比1.5％減）、営業利益は１億89百万円（前年同期比34.2％増）となりました",
+      "opinions": [
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "negative",
+          "from": 27,
+          "to": 30
+        },
+        {
+          "target": "営業利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 52,
+          "to": 56
+        }
+      ]
+    },
+    {
+      "sentence_id": 12,
+      "sentence": "なお、当放送事業を担う株式会社IMAGICAティーヴィにつきましては、その全株式を、平成29年４月３日を以って、株式会社WOWOWに譲渡いたしました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 13,
+      "sentence": "イメージング分野におきましては、期中に進行した円高が主力の高速度デジタルビデオカメラ等の欧米への輸出額に影響を与えたものの、国内の堅調な受注やアジアでの好調により、前期並みの実績となりました",
+      "opinions": [
+        {
+          "target": "イメージング分野",
+          "category": "business#general",
+          "polarity": "neutral",
+          "from": 0,
+          "to": 8
+        },
+        {
+          "target": "輸出額",
+          "category": "NULL#sales",
+          "polarity": "negative",
+          "from": 48,
+          "to": 51
+        },
+        {
+          "target": "国内",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 62,
+          "to": 64
+        },
+        {
+          "target": "アジア",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 71,
+          "to": 74
+        }
+      ]
+    },
+    {
+      "sentence_id": 14,
+      "sentence": "プロ用映像機器分野におきましては、大型案件の受注に加え、４K・８K対応案件等の確実な獲得により前期の実績を上回りました",
+      "opinions": [
+        {
+          "target": "プロ用映像機器分野",
+          "category": "business#sales",
+          "polarity": "positive",
+          "from": 0,
+          "to": 9
+        }
+      ]
+    },
+    {
+      "sentence_id": 15,
+      "sentence": "この結果、当連結会計年度における当該事業分野の業績は、売上高は139億76百万円（前年同期比15.8％増）、営業利益は13億38百万円（前年同期比8.2％増）となりました",
+      "opinions": [
+        {
+          "target": "当該事業分野",
+          "category": "business#sales",
+          "polarity": "positive",
+          "from": 16,
+          "to": 22
+        },
+        {
+          "target": "当該事業分野",
+          "category": "business#profit",
+          "polarity": "positive",
+          "from": 16,
+          "to": 22
+        }
+      ]
+    },
+    {
+      "sentence_id": 16,
+      "sentence": "人材派遣・請負サービス分野におきましては、主力の派遣事業がほぼ前期並みに推移する一方で、人材紹介事業やゲーム制作受託、デバック作業の案件が堅調で、また新規連結子会社も好調に推移いたしました",
+      "opinions": [
+        {
+          "target": "人材派遣・請負サービス分野",
+          "category": "business#general",
+          "polarity": "positive",
+          "from": 0,
+          "to": 13
+        },
+        {
+          "target": "派遣事業",
+          "category": "business#general",
+          "polarity": "neutral",
+          "from": 24,
+          "to": 28
+        },
+        {
+          "target": "人材紹介事業",
+          "category": "business#general",
+          "polarity": "positive",
+          "from": 44,
+          "to": 50
+        },
+        {
+          "target": "ゲーム制作受託",
+          "category": "business#general",
+          "polarity": "positive",
+          "from": 51,
+          "to": 58
+        },
+        {
+          "target": "デバック作業",
+          "category": "business#general",
+          "polarity": "positive",
+          "from": 59,
+          "to": 65
+        },
+        {
+          "target": "新規連結子会社",
+          "category": "company#general",
+          "polarity": "positive",
+          "from": 75,
+          "to": 82
+        }
+      ]
+    },
+    {
+      "sentence_id": 17,
+      "sentence": "なお、第１四半期連結会計期間より、グループ内へ派遣していた映像技術者は映像技術サービス事業セグメントに転籍しております",
+      "opinions": []
+    },
+    {
+      "sentence_id": 18,
+      "sentence": "この結果、当連結会計年度における当該事業分野の業績は、売上高は114億76百万円（前年同期比12.8％減）、営業利益は４億96百万円（前年同期比19.7％増）となりました",
+      "opinions": [
+        {
+          "target": "当該事業分野",
+          "category": "business#sales",
+          "polarity": "negative",
+          "from": 16,
+          "to": 22
+        },
+        {
+          "target": "当該事業分野",
+          "category": "business#profit",
+          "polarity": "positive",
+          "from": 16,
+          "to": 22
+        }
+      ]
+    },
+    {
+      "sentence_id": 19,
+      "sentence": "メディア・ローカライゼーション事業におきましては、VOD(Video On Demand)やOTT(Over The Top)の台頭に見られる世界的な放送業界を取り巻く環境の変化の中、顧客サービスの強化とオペレーションの見直し、コスト構造改革に取り組み、業績の回復に努めてまいりました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 20,
+      "sentence": "体制強化に伴う販売費・一般管理費において一時的な費用の発生もあり営業損失を計上いたしましたが、当初計画に比べ売上、利益ともに改善しております",
+      "opinions": [
+        {
+          "target": "販売費・一般管理費",
+          "category": "NULL#cost",
+          "polarity": "negative",
+          "from": 7,
+          "to": 16
+        },
+        {
+          "target": "売上",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 54,
+          "to": 56
+        },
+        {
+          "target": "利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 57,
+          "to": 59
+        }
+      ]
+    },
+    {
+      "sentence_id": 21,
+      "sentence": "この結果、当連結会計年度における当該事業分野の業績は、売上高は216億58百万円（前年同期比32.3％増）、営業損失は11億61百万円（前年同期は営業損失15億35百万円）となりました",
+      "opinions": [
+        {
+          "target": "当該事業分野",
+          "category": "business#sales",
+          "polarity": "positive",
+          "from": 16,
+          "to": 22
+        },
+        {
+          "target": "当該事業分野",
+          "category": "business#profit",
+          "polarity": "positive",
+          "from": 16,
+          "to": 22
+        }
+      ]
+    },
+    {
+      "sentence_id": 22,
+      "sentence": "なお、当該事業分野の業績につきましては、SDI Media Group, Inc.とその子会社の決算日が12月31日であるため、当連結会計年度は平成28年１月１日～平成28年12月31日の12ヶ月間の実績を反映しております",
+      "opinions": []
+    },
+    {
+      "sentence_id": 23,
+      "sentence": "また、前期につきましては、平成27年４月１日～平成27年12月31日の９ヶ月間の実績を反映しております",
+      "opinions": []
+    }
+  ]
+}

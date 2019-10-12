@@ -1,0 +1,480 @@
+{
+  "header": {
+    "document_id": "E01794",
+    "document_name": "パイオニア株式会社",
+    "doc_text": "訂正有価証券報告書",
+    "edi_id": "E01794",
+    "security_code": "67730",
+    "category33": "電気機器",
+    "category17": "電機・精密",
+    "scale": "6"
+  },
+  "sentences": [
+    {
+      "sentence_id": 0,
+      "sentence": "当連結会計年度における世界経済は、米国においては、雇用情勢の改善や米国大統領選挙後の内外需要回復を背景に緩やかな景気拡大が続きました",
+      "opinions": [
+        {
+          "target": "米国",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 17,
+          "to": 19
+        },
+        {
+          "target": "雇用情勢",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 25,
+          "to": 29
+        }
+      ]
+    },
+    {
+      "sentence_id": 1,
+      "sentence": "欧州においては、英国のEU離脱決定による先行きに不透明感があるものの、下期にかけて堅調に景気が回復しました",
+      "opinions": [
+        {
+          "target": "先行き",
+          "category": "NULL#general",
+          "polarity": "neutral",
+          "from": 20,
+          "to": 23
+        },
+        {
+          "target": "景気",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 44,
+          "to": 46
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "sentence": "中国においては、経済の急な加速・減速はなくほぼ横ばいに推移しました",
+      "opinions": [
+        {
+          "target": "中国",
+          "category": "NULL#general",
+          "polarity": "neutral",
+          "from": 0,
+          "to": 2
+        }
+      ]
+    },
+    {
+      "sentence_id": 3,
+      "sentence": "わが国においては、雇用情勢が堅調に推移し、緩やかな景気回復が見られました",
+      "opinions": [
+        {
+          "target": "わが国",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 0,
+          "to": 3
+        },
+        {
+          "target": "雇用情勢",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 9,
+          "to": 13
+        }
+      ]
+    },
+    {
+      "sentence_id": 4,
+      "sentence": "このような状況の中、当連結会計年度の売上高は、カーエレクトロニクスが主にＯＥＭ事業において減少したことや、円高の影響などにより、前連結会計年度に比べ、14.0％減収の386,682百万円となりました",
+      "opinions": [
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "negative",
+          "from": 18,
+          "to": 21
+        },
+        {
+          "target": "ＯＥＭ事業",
+          "category": "business#general",
+          "polarity": "negative",
+          "from": 36,
+          "to": 41
+        }
+      ]
+    },
+    {
+      "sentence_id": 5,
+      "sentence": "営業利益は、販売費及び一般管理費が主に為替の影響により減少したことや、原価率の良化はありましたが、売上高が減少したことにより、前連結会計年度に比べ、42.9％減益の4,167百万円となりました",
+      "opinions": [
+        {
+          "target": "営業利益",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 0,
+          "to": 4
+        },
+        {
+          "target": "販売費及び一般管理費",
+          "category": "NULL#cost",
+          "polarity": "positive",
+          "from": 6,
+          "to": 16
+        },
+        {
+          "target": "原価率",
+          "category": "NULL#cost",
+          "polarity": "positive",
+          "from": 35,
+          "to": 38
+        },
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "negative",
+          "from": 49,
+          "to": 52
+        }
+      ]
+    },
+    {
+      "sentence_id": 6,
+      "sentence": "また、親会社株主に帰属する当期純利益は、営業利益が減少したことや、特別損失として海外における事業構造改善費用を計上したことなどから、前連結会計年度の731百万円の利益から5,054百万円の損失となりました",
+      "opinions": [
+        {
+          "target": "当期純利益",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 13,
+          "to": 18
+        },
+        {
+          "target": "営業利益",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 20,
+          "to": 24
+        }
+      ]
+    },
+    {
+      "sentence_id": 7,
+      "sentence": "当連結会計年度の平均為替レートは、前連結会計年度に比べ、対米ドルは10.9％円高の１米ドル＝108円38銭、対ユーロは11.6％円高の１ユーロ＝118円79銭となりました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 8,
+      "sentence": "なお、当連結会計年度より、地図ソフトの事業区分を「その他」から「カーエレクトロニクス」に変更しています",
+      "opinions": []
+    },
+    {
+      "sentence_id": 9,
+      "sentence": "セグメントごとの業績は次のとおりです",
+      "opinions": []
+    },
+    {
+      "sentence_id": 10,
+      "sentence": "①　カーエレクトロニクス事業",
+      "opinions": []
+    },
+    {
+      "sentence_id": 11,
+      "sentence": "カーエレクトロニクスの売上高は、前連結会計年度に比べ12.7％減収の312,489百万円となりました",
+      "opinions": [
+        {
+          "target": "カーエレクトロニクス",
+          "category": "business#sales",
+          "polarity": "negative",
+          "from": 0,
+          "to": 10
+        }
+      ]
+    },
+    {
+      "sentence_id": 12,
+      "sentence": "市販事業は減収となりました",
+      "opinions": [
+        {
+          "target": "市販事業",
+          "category": "business#sales",
+          "polarity": "negative",
+          "from": 0,
+          "to": 4
+        }
+      ]
+    },
+    {
+      "sentence_id": 13,
+      "sentence": "カーオーディオは、北米を中心に海外で減少したことから減収となりました",
+      "opinions": [
+        {
+          "target": "カーオーディオ",
+          "category": "product#sales",
+          "polarity": "negative",
+          "from": 0,
+          "to": 7
+        },
+        {
+          "target": "海外",
+          "category": "business#sales",
+          "polarity": "negative",
+          "from": 15,
+          "to": 17
+        }
+      ]
+    },
+    {
+      "sentence_id": 14,
+      "sentence": "カーナビゲーションシステムは、中国で増加しましたが、国内や北米で減少したことから減収となりました",
+      "opinions": [
+        {
+          "target": "カーナビゲーションシステム",
+          "category": "product#sales",
+          "polarity": "negative",
+          "from": 0,
+          "to": 13
+        },
+        {
+          "target": "中国",
+          "category": "business#sales",
+          "polarity": "positive",
+          "from": 15,
+          "to": 17
+        },
+        {
+          "target": "国内",
+          "category": "business#sales",
+          "polarity": "negative",
+          "from": 26,
+          "to": 28
+        },
+        {
+          "target": "北米",
+          "category": "business#sales",
+          "polarity": "negative",
+          "from": 29,
+          "to": 31
+        }
+      ]
+    },
+    {
+      "sentence_id": 15,
+      "sentence": "ＯＥＭ事業は減収となりました",
+      "opinions": [
+        {
+          "target": "ＯＥＭ事業",
+          "category": "business#sales",
+          "polarity": "negative",
+          "from": 0,
+          "to": 5
+        }
+      ]
+    },
+    {
+      "sentence_id": 16,
+      "sentence": "カーオーディオは、国内で増加しましたが、北米を中心に海外で減少したことから減収となりました",
+      "opinions": [
+        {
+          "target": "カーオーディオ",
+          "category": "product#sales",
+          "polarity": "negative",
+          "from": 0,
+          "to": 7
+        },
+        {
+          "target": "国内",
+          "category": "business#sales",
+          "polarity": "positive",
+          "from": 9,
+          "to": 11
+        },
+        {
+          "target": "海外",
+          "category": "business#sales",
+          "polarity": "negative",
+          "from": 26,
+          "to": 28
+        }
+      ]
+    },
+    {
+      "sentence_id": 17,
+      "sentence": "カーナビゲーションシステムは、北米で増加しましたが、国内や新興国で減少したことから減収となりました",
+      "opinions": [
+        {
+          "target": "カーナビゲーションシステム",
+          "category": "business#sales",
+          "polarity": "negative",
+          "from": 0,
+          "to": 13
+        },
+        {
+          "target": "北米",
+          "category": "business#sales",
+          "polarity": "positive",
+          "from": 15,
+          "to": 17
+        },
+        {
+          "target": "国内",
+          "category": "business#sales",
+          "polarity": "negative",
+          "from": 26,
+          "to": 28
+        },
+        {
+          "target": "新興国",
+          "category": "business#sales",
+          "polarity": "negative",
+          "from": 29,
+          "to": 32
+        }
+      ]
+    },
+    {
+      "sentence_id": 18,
+      "sentence": "なお、カーエレクトロニクス全体の売上高に占めるＯＥＭの売上構成比は、前連結会計年度の60％から58％となりました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 19,
+      "sentence": "国内外別の売上高については、国内は7.8％減収の123,631万円、海外は15.6％減収の188,858百万円となりました",
+      "opinions": [
+        {
+          "target": "国内",
+          "category": "business#sales",
+          "polarity": "negative",
+          "from": 14,
+          "to": 16
+        },
+        {
+          "target": "海外",
+          "category": "business#sales",
+          "polarity": "negative",
+          "from": 34,
+          "to": 36
+        }
+      ]
+    },
+    {
+      "sentence_id": 20,
+      "sentence": "営業利益は、為替の影響等による、販売費及び一般管理費の減少や原価率の良化はありましたが、売上高の減少により、前連結会計年度に比べ、29.5％減益の6,051百万円となりました",
+      "opinions": [
+        {
+          "target": "営業利益",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 0,
+          "to": 4
+        },
+        {
+          "target": "販売費及び一般管理費",
+          "category": "NULL#cost",
+          "polarity": "positive",
+          "from": 16,
+          "to": 26
+        },
+        {
+          "target": "原価率",
+          "category": "NULL#cost",
+          "polarity": "positive",
+          "from": 30,
+          "to": 33
+        },
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "negative",
+          "from": 44,
+          "to": 47
+        }
+      ]
+    },
+    {
+      "sentence_id": 21,
+      "sentence": "②　その他事業",
+      "opinions": []
+    },
+    {
+      "sentence_id": 22,
+      "sentence": "その他の売上高は、ＦＡ機器の増加はありましたが、ホームＡＶや光ディスクドライブ関連製品の減少に加え、円高の影響もあり、前連結会計年度に比べ19.2％減収の74,193百万円となりました",
+      "opinions": [
+        {
+          "target": "その他",
+          "category": "business#sales",
+          "polarity": "negative",
+          "from": 0,
+          "to": 3
+        },
+        {
+          "target": "ＦＡ機器",
+          "category": "product#sales",
+          "polarity": "positive",
+          "from": 9,
+          "to": 13
+        },
+        {
+          "target": "ホームＡＶ",
+          "category": "product#sales",
+          "polarity": "negative",
+          "from": 24,
+          "to": 29
+        },
+        {
+          "target": "光ディスクドライブ関連製品",
+          "category": "product#sales",
+          "polarity": "negative",
+          "from": 30,
+          "to": 43
+        }
+      ]
+    },
+    {
+      "sentence_id": 23,
+      "sentence": "国内外別の売上高については、国内は18.2％減収の39,083百万円、海外は20.2％減収の35,110百万円となりました",
+      "opinions": [
+        {
+          "target": "国内",
+          "category": "business#sales",
+          "polarity": "negative",
+          "from": 14,
+          "to": 16
+        },
+        {
+          "target": "海外",
+          "category": "business#sales",
+          "polarity": "negative",
+          "from": 35,
+          "to": 37
+        }
+      ]
+    },
+    {
+      "sentence_id": 24,
+      "sentence": "営業損益は、原価率は良化しましたが、売上高が減少したことから、前連結会計年度の144百万円の損失から780百万円の損失となりました",
+      "opinions": [
+        {
+          "target": "営業損益",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 0,
+          "to": 4
+        },
+        {
+          "target": "原価率",
+          "category": "NULL#cost",
+          "polarity": "positive",
+          "from": 6,
+          "to": 9
+        },
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "negative",
+          "from": 18,
+          "to": 21
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,283 @@
+{
+  "header": {
+    "document_id": "E01813",
+    "document_name": "天昇電気工業株式会社",
+    "doc_text": "有価証券報告書",
+    "edi_id": "E01813",
+    "security_code": "67760",
+    "category33": "化学",
+    "category17": "素材・化学",
+    "scale": ""
+  },
+  "sentences": [
+    {
+      "sentence_id": 0,
+      "sentence": "当連結会計年度におけるわが国経済は、個人消費や企業の設備投資は引き続き弱含みで推移しているものの、企業業績や雇用情勢の改善が続き、穏やかな回復基調で推移いたしました",
+      "opinions": [
+        {
+          "target": "わが国経済",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 11,
+          "to": 16
+        },
+        {
+          "target": "個人消費",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 18,
+          "to": 22
+        },
+        {
+          "target": "設備投資",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 26,
+          "to": 30
+        },
+        {
+          "target": "企業業績",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 49,
+          "to": 53
+        },
+        {
+          "target": "雇用情勢",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 54,
+          "to": 58
+        }
+      ]
+    },
+    {
+      "sentence_id": 1,
+      "sentence": "一方、欧州や米国の政治経済情勢の不確実性を背景として、景気の先行きは不透明な状況が継続しております",
+      "opinions": [
+        {
+          "target": "先行き",
+          "category": "NULL#general",
+          "polarity": "neutral",
+          "from": 30,
+          "to": 33
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "sentence": "このような状況の下、当社グループは売上拡大に向け自動車部品分野、機構品分野及び自社製品群であります物流産業資材分野への営業活動に注力いたしました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 3,
+      "sentence": "自動車部品は、新型車の受注を積極的に獲得いたしました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 4,
+      "sentence": "物流産業資材では、当期においても雨水貯留浸透漕製品の需要は継続しております",
+      "opinions": [
+        {
+          "target": "雨水貯留浸透漕製品",
+          "category": "product#amount",
+          "polarity": "positive",
+          "from": 16,
+          "to": 25
+        }
+      ]
+    },
+    {
+      "sentence_id": 5,
+      "sentence": "事務機部品等の機構品分野においては営業活動を強力に推し進めましたが伸び悩む状況となりました",
+      "opinions": [
+        {
+          "target": "機構品分野",
+          "category": "business#general",
+          "polarity": "negative",
+          "from": 7,
+          "to": 12
+        }
+      ]
+    },
+    {
+      "sentence_id": 6,
+      "sentence": "その結果、当連結会計年度における売上高は153億67百万円（前年同期151億53百万円、1.4％増）となりました",
+      "opinions": [
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 16,
+          "to": 19
+        }
+      ]
+    },
+    {
+      "sentence_id": 7,
+      "sentence": "損益面におきましては、生産性を高めるための設備更新、工程改善、省力化の推進及び原材料効率化等の原価低減を徹底的に押し進めました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 8,
+      "sentence": "また販売管理費につきましては、特に運賃・梱包費を管理対象として徹底的に抑制に努めました結果、営業利益は12億79百万円（前年同期７億９百万円、80.3％増）となりました",
+      "opinions": [
+        {
+          "target": "営業利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 46,
+          "to": 50
+        }
+      ]
+    },
+    {
+      "sentence_id": 9,
+      "sentence": "経常損益につきましては、営業外収益に為替差益、営業外費用に支払利息を計上したこと等により、経常利益は12億71百万円（前年同期５億89百万円、115.6％増）となりました",
+      "opinions": [
+        {
+          "target": "経常利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 45,
+          "to": 49
+        }
+      ]
+    },
+    {
+      "sentence_id": 10,
+      "sentence": "最終損益につきましては、特別損失に投資有価証券売却損１億75百万円を計上したこと等により、親会社株主に帰属する当期純利益は９億64百万円（前年同期４億50百万円、113.8％増）となりました",
+      "opinions": [
+        {
+          "target": "当期純利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 55,
+          "to": 60
+        }
+      ]
+    },
+    {
+      "sentence_id": 11,
+      "sentence": "セグメントごとの状況は、以下のとおりであります",
+      "opinions": []
+    },
+    {
+      "sentence_id": 12,
+      "sentence": "日本成形関連事業",
+      "opinions": []
+    },
+    {
+      "sentence_id": 13,
+      "sentence": "自動車部品は、新型車の量産開始に伴い売上高は堅調に推移いたしました",
+      "opinions": [
+        {
+          "target": "自動車部品",
+          "category": "product#sales",
+          "polarity": "positive",
+          "from": 0,
+          "to": 5
+        }
+      ]
+    },
+    {
+      "sentence_id": 14,
+      "sentence": "物流産業資材は民間大規模開発等により雨水貯留浸透漕製品の売上は好調に推移いたしました",
+      "opinions": [
+        {
+          "target": "雨水貯留浸透漕製品",
+          "category": "product#sales",
+          "polarity": "positive",
+          "from": 18,
+          "to": 27
+        }
+      ]
+    },
+    {
+      "sentence_id": 15,
+      "sentence": "その結果、売上高は146億14百万円（前年同期比2.6％増）、セグメント利益につきましては、徹底した原価低減、販売管理費の削減等により、９億72百万円（前年同期比150.0％増）となりました",
+      "opinions": [
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 5,
+          "to": 8
+        },
+        {
+          "target": "セグメント利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 31,
+          "to": 38
+        }
+      ]
+    },
+    {
+      "sentence_id": 16,
+      "sentence": "中国成形関連事業",
+      "opinions": []
+    },
+    {
+      "sentence_id": 17,
+      "sentence": "日系企業を中心に物流産業資材及び機構品部品の売上拡大に努めておりますが、非常に厳しい状況が続いております",
+      "opinions": []
+    },
+    {
+      "sentence_id": 18,
+      "sentence": "売上高は３億30百万円（前年同期比32.3％減）と大幅減収となりました",
+      "opinions": [
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "negative",
+          "from": 0,
+          "to": 3
+        }
+      ]
+    },
+    {
+      "sentence_id": 19,
+      "sentence": "工場経費を中心とした徹底的な原価低減を進めましたが、セグメント損失は23百万円（前年同期は８百万円の損失）となりました",
+      "opinions": [
+        {
+          "target": "セグメント損失",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 26,
+          "to": 33
+        }
+      ]
+    },
+    {
+      "sentence_id": 20,
+      "sentence": "不動産関連事業",
+      "opinions": []
+    },
+    {
+      "sentence_id": 21,
+      "sentence": "相模原市、伊賀市、伊那市の賃貸建物及び二本松市所在の土地から構成されております",
+      "opinions": []
+    },
+    {
+      "sentence_id": 22,
+      "sentence": "売上高は４億22百万円（前年同期は４億22百万円）、セグメント利益は３億29百万円（前年同期比0.3％増）となりました",
+      "opinions": [
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "neutral",
+          "from": 0,
+          "to": 3
+        },
+        {
+          "target": "セグメント利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 26,
+          "to": 33
+        }
+      ]
+    }
+  ]
+}

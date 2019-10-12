@@ -1,0 +1,319 @@
+{
+  "header": {
+    "document_id": "E02380",
+    "document_name": "テイ・エス　テック株式会社",
+    "doc_text": "有価証券報告書",
+    "edi_id": "E02380",
+    "security_code": "73130",
+    "category33": "輸送用機器",
+    "category17": "自動車・輸送機",
+    "scale": "4"
+  },
+  "sentences": [
+    {
+      "sentence_id": 0,
+      "sentence": "当期における世界経済は、中国経済に対する懸念の高まり、英国のEU離脱問題などによる不安定な情勢はあったものの、その後の中国経済の持ち直しの動きやアメリカ経済の穏やかな伸びにより、全体的には底堅く推移しました",
+      "opinions": [
+        {
+          "target": "世界経済",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 6,
+          "to": 10
+        },
+        {
+          "target": "中国経済",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 59,
+          "to": 63
+        },
+        {
+          "target": "アメリカ経済",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 72,
+          "to": 78
+        }
+      ]
+    },
+    {
+      "sentence_id": 1,
+      "sentence": "当グループでは、米州やインドなどで受注台数が減少したものの、英国・タイを中心にホンダCIVIC用シートのフルモデルチェンジが受注台数の増加に寄与したほか、中国でのSUV需要の高まりに後押しされ、受注台数は堅調に推移しました",
+      "opinions": [
+        {
+          "target": "受注台数",
+          "category": "NULL#amount",
+          "polarity": "negative",
+          "from": 17,
+          "to": 21
+        },
+        {
+          "target": "受注台数",
+          "category": "NULL#amount",
+          "polarity": "positive",
+          "from": 62,
+          "to": 66
+        },
+        {
+          "target": "SUV需要",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 81,
+          "to": 86
+        },
+        {
+          "target": "受注台数",
+          "category": "NULL#amount",
+          "polarity": "positive",
+          "from": 97,
+          "to": 101
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "sentence": "このような状況の中、当グループは第12次中期経営計画の最終年度となった当期も、様々な収益改善施策に取り組んでまいりました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 3,
+      "sentence": "米州においては、売上が減少するなかではあるものの、生産ロス改善や合理化等を進め、体質改善を図りました",
+      "opinions": [
+        {
+          "target": "売上",
+          "category": "NULL#sales",
+          "polarity": "negative",
+          "from": 8,
+          "to": 10
+        }
+      ]
+    },
+    {
+      "sentence_id": 4,
+      "sentence": "中国においては、広州の拠点移転が完了し、生産効率を改善した新工場が稼動を開始しました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 5,
+      "sentence": "また、アジアにおいては、更なる収益向上に向けた裁断・縫製を行う子会社の稼動を開始するなど、部品競争力の向上につながる各種施策を実施いたしました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 6,
+      "sentence": "当連結会計年度の売上収益は、主要客先からの受注台数の増加があったものの、円高による為替換算影響等により、4,257億94百万円と前連結会計年度に比べ329億37百万円（7.2％）の減収となりました",
+      "opinions": [
+        {
+          "target": "売上収益",
+          "category": "NULL#sales",
+          "polarity": "negative",
+          "from": 8,
+          "to": 12
+        },
+        {
+          "target": "受注台数",
+          "category": "NULL#amount",
+          "polarity": "positive",
+          "from": 21,
+          "to": 25
+        }
+      ]
+    },
+    {
+      "sentence_id": 7,
+      "sentence": "利益面では、積極的な原価低減を展開いたしましたが、為替を中心とする減収影響に加え、新機種モデルへの切替に伴う一時的な労務費の増加等により、営業利益は345億57百万円と前連結会計年度に比べ47億22百万円（12.0％）の減益となりました",
+      "opinions": [
+        {
+          "target": "労務費",
+          "category": "NULL#cost",
+          "polarity": "negative",
+          "from": 58,
+          "to": 61
+        },
+        {
+          "target": "営業利益",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 69,
+          "to": 73
+        }
+      ]
+    },
+    {
+      "sentence_id": 8,
+      "sentence": "親会社の所有者に帰属する当期利益は196億22百万円と前連結会計年度に比べ39億５百万円（16.6％）の減益となりました",
+      "opinions": [
+        {
+          "target": "当期利益",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 12,
+          "to": 16
+        }
+      ]
+    },
+    {
+      "sentence_id": 9,
+      "sentence": "なお、2017年１月10日に「当社グループ製品搭載車種の市場回収処置（リコール）について」で公表しました当該事象に伴う当グループ負担見込み額を織り込んでおります",
+      "opinions": []
+    },
+    {
+      "sentence_id": 10,
+      "sentence": "※USドル/円平均為替レート・・・前連結会計年度累計平均：120.1円⇒当連結会計年度累計平均：108.4円",
+      "opinions": []
+    },
+    {
+      "sentence_id": 11,
+      "sentence": "セグメントごとの事業概況及び業績は次のとおりです",
+      "opinions": []
+    },
+    {
+      "sentence_id": 12,
+      "sentence": "（日本）",
+      "opinions": []
+    },
+    {
+      "sentence_id": 13,
+      "sentence": "新型モデルの立ち上がりはなかったものの、鈴鹿地区における軽自動車等の小型機種へ特化した高効率生産体制の確立、その他国内拠点の自動供給・運搬装置による効率化とその内製化、溶接工程ラインのレイアウト見直し等により、原価低減に取り組みました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 14,
+      "sentence": "日本セグメントの業績は下記のとおりです",
+      "opinions": []
+    },
+    {
+      "sentence_id": 15,
+      "sentence": "（単位：百万円）",
+      "opinions": []
+    },
+    {
+      "sentence_id": 16,
+      "sentence": "前連結会計年度との主な増減理由",
+      "opinions": []
+    },
+    {
+      "sentence_id": 17,
+      "sentence": "（米州）",
+      "opinions": []
+    },
+    {
+      "sentence_id": 18,
+      "sentence": "北米でホンダCR-V用シート及び内装品やホンダNSX用シートなどの生産を開始しました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 19,
+      "sentence": "厳しい競合環境が続く米州市場での競争力を更に強化するため、生産性の向上を目的として新型一括溶接設備を、CR-Vのモデルチェンジに合わせ、各拠点に導入しました",
+      "opinions": [
+        {
+          "target": "競合環境",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 3,
+          "to": 7
+        }
+      ]
+    },
+    {
+      "sentence_id": 20,
+      "sentence": "また、TS TECH ALABAMA, LLC.においては、増築した建屋でフォルクスワーゲン新型SUV向け３列目シートフレームの生産を開始したほか、ブラジルにおいて、同社向けトリムカバーを受注するなど、他販※ビジネスにも積極的に取り組みました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 21,
+      "sentence": "米州セグメントの業績は下記のとおりです",
+      "opinions": []
+    },
+    {
+      "sentence_id": 22,
+      "sentence": "（単位：百万円）",
+      "opinions": []
+    },
+    {
+      "sentence_id": 23,
+      "sentence": "前連結会計年度との主な増減理由",
+      "opinions": []
+    },
+    {
+      "sentence_id": 24,
+      "sentence": "※他販：主要客先以外の完成車メーカーへの販売",
+      "opinions": []
+    },
+    {
+      "sentence_id": 25,
+      "sentence": "（中国）",
+      "opinions": []
+    },
+    {
+      "sentence_id": 26,
+      "sentence": "ホンダAVANCIER用シートやホンダGIENIA用シートなどの生産を開始しました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 27,
+      "sentence": "広州市増城区の都市開発計画に伴う広州提愛思汽車内飾系統有限公司の工場移転が完了し、稼動を開始しました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 28,
+      "sentence": "同工場は、一貫生産ラインによる製造物流導線の最適化や、当グループ最速での生産が可能となった新型一体発泡成型機の導入など、生産効率の改善に取り組み、一層の競争力向上を図りました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 29,
+      "sentence": "中国セグメントの業績は下記のとおりです",
+      "opinions": []
+    },
+    {
+      "sentence_id": 30,
+      "sentence": "（単位：百万円）",
+      "opinions": []
+    },
+    {
+      "sentence_id": 31,
+      "sentence": "前連結会計年度との主な増減理由",
+      "opinions": []
+    },
+    {
+      "sentence_id": 32,
+      "sentence": "（アジア・欧州）",
+      "opinions": []
+    },
+    {
+      "sentence_id": 33,
+      "sentence": "英国においてホンダCIVIC用シートを、インドにおいてホンダBR-V用シートなどの生産を開始しました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 34,
+      "sentence": "また、更なる四輪シート部品のコスト競争力向上を目的に、当グループのトリムカバーのグローバル補完基地として、裁断・縫製を行うTS TECH BANGLADESH LIMITEDが稼動開始しました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 35,
+      "sentence": "アジア・欧州セグメントの業績は下記のとおりです",
+      "opinions": []
+    },
+    {
+      "sentence_id": 36,
+      "sentence": "（単位：百万円）",
+      "opinions": []
+    },
+    {
+      "sentence_id": 37,
+      "sentence": "前連結会計年度との主な増減理由",
+      "opinions": []
+    },
+    {
+      "sentence_id": 38,
+      "sentence": "また、事業別の売上収益については下記のとおりです",
+      "opinions": []
+    },
+    {
+      "sentence_id": 39,
+      "sentence": "（単位：百万円）",
+      "opinions": []
+    }
+  ]
+}

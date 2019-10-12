@@ -1,0 +1,430 @@
+{
+  "header": {
+    "document_id": "E02673",
+    "document_name": "ソマール株式会社",
+    "doc_text": "有価証券報告書",
+    "edi_id": "E02673",
+    "security_code": "81520",
+    "category33": "卸売業",
+    "category17": "商社・卸売",
+    "scale": ""
+  },
+  "sentences": [
+    {
+      "sentence_id": 0,
+      "sentence": "当連結会計年度のわが国経済は、年度の前半では円高による逆風にさらされたものの、全体的には政府の継続した経済対策や日銀の金融緩和政策などで、雇用や所得環境の改善が進み、また、中国をはじめとする新興国経済の減速も底入れしてきたことで、底堅く推移し緩やかな回復基調を維持しました",
+      "opinions": [
+        {
+          "target": "わが国経済",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 8,
+          "to": 13
+        },
+        {
+          "target": "雇用",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 69,
+          "to": 71
+        },
+        {
+          "target": "所得環境",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 72,
+          "to": 76
+        },
+        {
+          "target": "新興国経済",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 95,
+          "to": 100
+        }
+      ]
+    },
+    {
+      "sentence_id": 1,
+      "sentence": "しかし一方では、英国のＥＵ離脱の問題や米国のトランプ新政権誕生などで保護主義的な政策への懸念が強まっており、更には、中東や東アジアにおける地政学リスクも加わってグローバル経済の不確実性が高まっていることから、わが国経済の先行きは不透明さを一段と強めております",
+      "opinions": [
+        {
+          "target": "先行き",
+          "category": "NULL#general",
+          "polarity": "neutral",
+          "from": 110,
+          "to": 113
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "sentence": "こうした状況下で当社グループは、引き続き当社グループの特長を生かした事業運営とスピーディーな経営判断を心がけ、国内市場の新たな開拓はもとより、中国や東南アジアの新興市場、更には、堅調な景気を維持する米国やその周辺市場も視野に入れたグローバルな視点で、独自の新製品の拡販を主体としたきめ細かな営業活動に注力するとともに、物流インフラの整備や業務効率の更なる改善にも努めてまいりました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 3,
+      "sentence": "当年度におきましては、とりわけ前年度の業績を大きく牽引したスマートフォン関係業界向けの販売がその反動から低迷して、当年度の業績を大きく引き下げたなか、かかる業績向上に向けた取り組みにより、特に海外拠点での業績が順調に進展し、更には、年度後半からの円安基調も追い風となって、当期連結業績の落ち込みを下支えしました",
+      "opinions": [
+        {
+          "target": "販売",
+          "category": "NULL#sales",
+          "polarity": "negative",
+          "from": 43,
+          "to": 45
+        },
+        {
+          "target": "業績",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 61,
+          "to": 63
+        },
+        {
+          "target": "業績",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 102,
+          "to": 104
+        }
+      ]
+    },
+    {
+      "sentence_id": 4,
+      "sentence": "その結果、当連結会計年度の業績は、売上高が209億4千1百万円（前年同期比11.1％減）、営業利益が5億8千万円（前年同期比30.2％減）、経常利益が5億9千1百万円（前年同期比20.4％減）となり、親会社株主に帰属する当期純利益が5億1千1百万円（前年同期比47.3％減）となりました",
+      "opinions": [
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "negative",
+          "from": 17,
+          "to": 20
+        },
+        {
+          "target": "営業利益",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 45,
+          "to": 49
+        },
+        {
+          "target": "経常利益",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 70,
+          "to": 74
+        },
+        {
+          "target": "当期純利益",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 110,
+          "to": 115
+        }
+      ]
+    },
+    {
+      "sentence_id": 5,
+      "sentence": "セグメントの業績は、次のとおりであります",
+      "opinions": []
+    },
+    {
+      "sentence_id": 6,
+      "sentence": "なお、当連結会計年度より、報告セグメントの区分を変更しており、以下の前年同期比較については、前年同期の数値を変更後のセグメント区分に組み替えた数値で比較しております",
+      "opinions": []
+    },
+    {
+      "sentence_id": 7,
+      "sentence": "[高機能材料事業]",
+      "opinions": []
+    },
+    {
+      "sentence_id": 8,
+      "sentence": "スマートフォンなどの電子機器業界向け関連製商品の販売では、前年度の旺盛な需要からの反動減で需要が落ち込み、特にコーティング製品や電子材料の販売が前年度から大きく減少しました",
+      "opinions": [
+        {
+          "target": "需要",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 36,
+          "to": 38
+        },
+        {
+          "target": "需要",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 45,
+          "to": 47
+        },
+        {
+          "target": "コーティング製品",
+          "category": "product#amount",
+          "polarity": "negative",
+          "from": 55,
+          "to": 63
+        },
+        {
+          "target": "電子材料",
+          "category": "product#amount",
+          "polarity": "negative",
+          "from": 64,
+          "to": 68
+        }
+      ]
+    },
+    {
+      "sentence_id": 9,
+      "sentence": "一方、自動車部品業界向け関連製商品の販売では、国内の自動車生産の低迷の影響は受けたものの、関係業界の海外進出に呼応したグローバル対応が順調に推移して販売を進展させ、当事業全体の業績の落ち込みを下支えしました",
+      "opinions": [
+        {
+          "target": "関連製商品",
+          "category": "product#sales",
+          "polarity": "neutral",
+          "from": 12,
+          "to": 17
+        },
+        {
+          "target": "自動車生産",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 26,
+          "to": 31
+        },
+        {
+          "target": "グローバル対応",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 59,
+          "to": 66
+        }
+      ]
+    },
+    {
+      "sentence_id": 10,
+      "sentence": "その結果、当事業全体の売上高は158億8千9百万円（前年同期比8.8％減）、営業利益は7億1千2百万円（前年同期比25.8％減）となりました",
+      "opinions": [
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "negative",
+          "from": 11,
+          "to": 14
+        },
+        {
+          "target": "営業利益",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 38,
+          "to": 42
+        }
+      ]
+    },
+    {
+      "sentence_id": 11,
+      "sentence": "（主な製商品群の概況）",
+      "opinions": []
+    },
+    {
+      "sentence_id": 12,
+      "sentence": "[環境材料事業]",
+      "opinions": []
+    },
+    {
+      "sentence_id": 13,
+      "sentence": "当事業が主要な販売先としている製紙業界では、国内の紙需要が漸減傾向にあることから事業の軸足を少しずつ海外市場へと移しております",
+      "opinions": [
+        {
+          "target": "紙需要",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 25,
+          "to": 28
+        }
+      ]
+    },
+    {
+      "sentence_id": 14,
+      "sentence": "そうした影響で、とりわけ国内製紙市場では、競合他社との競争が一段と激しさを増しており、これに加えて海外市場への当社グループのキャッチアップも遅れているため、当事業の事業環境は厳しい状況が続いております",
+      "opinions": [
+        {
+          "target": "競争",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 27,
+          "to": 29
+        },
+        {
+          "target": "キャッチアップ",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 62,
+          "to": 69
+        },
+        {
+          "target": "事業環境",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 82,
+          "to": 86
+        }
+      ]
+    },
+    {
+      "sentence_id": 15,
+      "sentence": "更に当年度においては、当事業の主要な仕入販売商品である紙塗工用バインダーが、仕入先メーカーの国内生産拠点の統廃合推進に伴い、国内一部地域における物流面での相対的な競争力の低下をもたらし、当該地域の主要販売先を失注するなどしたため、バインダーの販売が当初の想定以上に大きく減少しました",
+      "opinions": [
+        {
+          "target": "バインダー",
+          "category": "product#amount",
+          "polarity": "negative",
+          "from": 31,
+          "to": 36
+        },
+        {
+          "target": "競争力",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 81,
+          "to": 84
+        },
+        {
+          "target": "主要販売先",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 98,
+          "to": 103
+        }
+      ]
+    },
+    {
+      "sentence_id": 16,
+      "sentence": "その結果、当事業全体の売上高は41億1千9百万円（前年同期比17.3％減）となりましたが、営業利益は4千7百万円（前年同期比76.0％増）となりました",
+      "opinions": [
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "negative",
+          "from": 11,
+          "to": 14
+        },
+        {
+          "target": "営業利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 45,
+          "to": 49
+        }
+      ]
+    },
+    {
+      "sentence_id": 17,
+      "sentence": "（主な製商品群の概況）",
+      "opinions": []
+    },
+    {
+      "sentence_id": 18,
+      "sentence": "[食品材料事業]",
+      "opinions": []
+    },
+    {
+      "sentence_id": 19,
+      "sentence": "食品材料事業では、健康にやさしく特長ある天然の食品材料を主として食品業界へ積極的に販売するとともに、新たな市場の開拓にも鋭意取り組んでおります",
+      "opinions": []
+    },
+    {
+      "sentence_id": 20,
+      "sentence": "当事業の主要な販売商品である天然の増粘安定剤は、輸入先での収穫状況を反映して生産者価格が当年度に大きく下落し、それを受けて国内の販売価格も大きく値を下げたため、増粘安定剤の販売が大きく減少しました",
+      "opinions": [
+        {
+          "target": "増粘安定剤",
+          "category": "product#amount",
+          "polarity": "negative",
+          "from": 17,
+          "to": 22
+        },
+        {
+          "target": "生産者価格",
+          "category": "NULL#cost",
+          "polarity": "positive",
+          "from": 38,
+          "to": 43
+        },
+        {
+          "target": "販売価格",
+          "category": "NULL#price",
+          "polarity": "negative",
+          "from": 64,
+          "to": 68
+        }
+      ]
+    },
+    {
+      "sentence_id": 21,
+      "sentence": "また、乾燥野菜の販売では、拡販に努めたものの、主要販売先の一つで商流変更による販売失注が生じたため、販売の減少となりました",
+      "opinions": [
+        {
+          "target": "乾燥野菜",
+          "category": "product#amount",
+          "polarity": "negative",
+          "from": 3,
+          "to": 7
+        }
+      ]
+    },
+    {
+      "sentence_id": 22,
+      "sentence": "その結果、当事業全体の売上高は9億1千9百万円（前年同期比20.6％減）、営業利益は1億1千6百万円（前年同期比6.0％減）となりました",
+      "opinions": [
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "negative",
+          "from": 11,
+          "to": 14
+        },
+        {
+          "target": "営業利益",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 37,
+          "to": 41
+        }
+      ]
+    },
+    {
+      "sentence_id": 23,
+      "sentence": "（主な製商品群の概況）",
+      "opinions": []
+    },
+    {
+      "sentence_id": 24,
+      "sentence": "[その他の事業]",
+      "opinions": []
+    },
+    {
+      "sentence_id": 25,
+      "sentence": "その他の事業では、当社グループの成長を支える新たな事業を開発・育成すべく、当社グループが保有する様々な情報や独自の技術を総合的に活用して、特長ある活動を推進しております",
+      "opinions": []
+    },
+    {
+      "sentence_id": 26,
+      "sentence": "当事業におきましては、まだ本格的な販売には至っておらず、試販の段階ではありますが、売上高は1千3百万円（前年同期比244.3％増）となり、営業損失は7百万円（前年同期は営業損失2百万円）となりました",
+      "opinions": [
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 41,
+          "to": 44
+        },
+        {
+          "target": "営業損失",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 69,
+          "to": 73
+        }
+      ]
+    }
+  ]
+}

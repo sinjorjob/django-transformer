@@ -1,0 +1,510 @@
+{
+  "header": {
+    "document_id": "E26443",
+    "document_name": "こころネット株式会社",
+    "doc_text": "有価証券報告書",
+    "edi_id": "E26443",
+    "security_code": "60600",
+    "category33": "サービス業",
+    "category17": "情報通信・サービスその他",
+    "scale": ""
+  },
+  "sentences": [
+    {
+      "sentence_id": 0,
+      "sentence": "（当期の経営成績）",
+      "opinions": []
+    },
+    {
+      "sentence_id": 1,
+      "sentence": "当連結会計年度におけるわが国経済は、企業の収益環境の改善が持続している他、堅調な雇用・所得情勢を受け、個人消費の持ち直しが見られるなど、緩やかな回復基調にあります",
+      "opinions": [
+        {
+          "target": "わが国経済",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 11,
+          "to": 16
+        },
+        {
+          "target": "収益環境",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 21,
+          "to": 25
+        },
+        {
+          "target": "雇用",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 40,
+          "to": 42
+        },
+        {
+          "target": "所得情勢",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 43,
+          "to": 47
+        },
+        {
+          "target": "個人消費",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 51,
+          "to": 55
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "sentence": "当社グループの事業基盤となる福島県の経済は、東日本大震災からの復旧・復興への取組み等により、一部に弱い動きがみられるものの緩やかに回復を続けております",
+      "opinions": [
+        {
+          "target": "経済",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 18,
+          "to": 20
+        }
+      ]
+    },
+    {
+      "sentence_id": 3,
+      "sentence": "このような環境下、当社グループでは、知名度・ブランド力の向上のためにＷｅｂを活用したプロモーション活動等を積極的に行いました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 4,
+      "sentence": "更に葬祭・婚礼事業における施設稼働率向上に向けた取り組みとして、施設におけるイベントの開催や団体・企業への訪問等、地域営業の推進を継続しました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 5,
+      "sentence": "また原価・経費面では、上期において円高により仕入コストが減少したことに加え、全ての事業で経費の見直しや業務の効率化等を推進しました",
+      "opinions": [
+        {
+          "target": "仕入コスト",
+          "category": "NULL#cost",
+          "polarity": "positive",
+          "from": 22,
+          "to": 27
+        }
+      ]
+    },
+    {
+      "sentence_id": 6,
+      "sentence": "これらの結果、当連結会計年度における当社グループの売上高は11,670百万円（前連結会計年度比4.6％増）、営業利益は885百万円（同109.9％増）、経常利益は1,013百万円（同71.3％増）、親会社株主に帰属する当期純利益は567百万円（同60.1％増）となりました",
+      "opinions": [
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 25,
+          "to": 28
+        },
+        {
+          "target": "営業利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 54,
+          "to": 58
+        },
+        {
+          "target": "経常利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 76,
+          "to": 80
+        },
+        {
+          "target": "当期純利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 109,
+          "to": 114
+        }
+      ]
+    },
+    {
+      "sentence_id": 7,
+      "sentence": "セグメント別の業績は、次のとおりであり、売上高については、セグメント間の内部売上高を除き記載しております",
+      "opinions": []
+    },
+    {
+      "sentence_id": 8,
+      "sentence": "なお、当社は事業子会社の経営統括を主たる目的とする純粋持株会社であり、各連結子会社からの不動産賃貸料収入、経営管理料収入及び配当金を主たる収益としております",
+      "opinions": []
+    },
+    {
+      "sentence_id": 9,
+      "sentence": "一方で、各セグメント(各連結子会社)の営業費用には、当社に対する不動産賃借料及び経営管理料が計上されております",
+      "opinions": []
+    },
+    {
+      "sentence_id": 10,
+      "sentence": "① 葬祭事業",
+      "opinions": []
+    },
+    {
+      "sentence_id": 11,
+      "sentence": "当社グループが展開している営業エリアにおいて、死亡者数は微増傾向にあるものの、同業他社との競争は激化しており、また小規模葬儀の割合も増加傾向にあります",
+      "opinions": [
+        {
+          "target": "死亡者数",
+          "category": "NULL#amount",
+          "polarity": "positive",
+          "from": 23,
+          "to": 27
+        },
+        {
+          "target": "競争",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 45,
+          "to": 47
+        }
+      ]
+    },
+    {
+      "sentence_id": 12,
+      "sentence": "このような状況の下、福島県内の企業に向けた「こころネットパートナー特典※」への新規加入営業、並びに「健康」や「終活」をテーマとしたセミナーの開催等の地域営業を強化しました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 13,
+      "sentence": "また、葬儀施行後の法事受注・仏壇仏具等の販売及び互助会への再加入の勧誘といったアフターフォロー営業を推進しました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 14,
+      "sentence": "更に有限会社牛久葬儀社の業績も通期で寄与した結果、売上高は売上高は5,771百万円（前連結会計年度比8.8％増）、営業利益は397百万円（同34.5％増）となりました",
+      "opinions": [
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 29,
+          "to": 32
+        },
+        {
+          "target": "営業利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 57,
+          "to": 61
+        }
+      ]
+    },
+    {
+      "sentence_id": 15,
+      "sentence": "※こころネットパートナー特典",
+      "opinions": []
+    },
+    {
+      "sentence_id": 16,
+      "sentence": "加入いただいた企業様及びその従業員様が、当社グループで婚礼・葬儀の施行や墓石の購入をされる際に、割引等が受けられる制度です",
+      "opinions": []
+    },
+    {
+      "sentence_id": 17,
+      "sentence": "② 石材卸売事業",
+      "opinions": []
+    },
+    {
+      "sentence_id": 18,
+      "sentence": "当社グループが展開している営業エリアにおいて、墓石の小型化や埋葬方法の多様化等により墓石需要の低迷が継続しました",
+      "opinions": [
+        {
+          "target": "墓石需要",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 42,
+          "to": 46
+        }
+      ]
+    },
+    {
+      "sentence_id": 19,
+      "sentence": "このような状況の下、インド・ベトナム加工墓石の販売に注力いたしましたが、大幅な受注増には至りませんでした",
+      "opinions": []
+    },
+    {
+      "sentence_id": 20,
+      "sentence": "一方で、円高による仕入コスト減少や経費の削減に努めた結果、売上高は1,426百万円（前連結会計年度比6.0％減）、営業利益は49百万円（同91.3％増）となりました",
+      "opinions": [
+        {
+          "target": "仕入コスト",
+          "category": "NULL#cost",
+          "polarity": "positive",
+          "from": 9,
+          "to": 14
+        },
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "negative",
+          "from": 29,
+          "to": 32
+        },
+        {
+          "target": "営業利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 57,
+          "to": 61
+        }
+      ]
+    },
+    {
+      "sentence_id": 21,
+      "sentence": "③ 石材小売事業",
+      "opinions": []
+    },
+    {
+      "sentence_id": 22,
+      "sentence": "当社グループが展開している営業エリアにおいて、一部で墓じまいの動きが見られる等、埋葬意識の多様化が進んだこと等により墓石需要の低迷が継続しました",
+      "opinions": [
+        {
+          "target": "墓石需要",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 58,
+          "to": 62
+        }
+      ]
+    },
+    {
+      "sentence_id": 23,
+      "sentence": "このような状況の下、耐震構造墓石やインド加工墓石の販売、寺院への永代供養塔の提案に注力しましたが、新規建立件数は前年を下回りました",
+      "opinions": [
+        {
+          "target": "新規建立件数",
+          "category": "NULL#amount",
+          "polarity": "negative",
+          "from": 49,
+          "to": 55
+        }
+      ]
+    },
+    {
+      "sentence_id": 24,
+      "sentence": "その結果、売上高は1,173百万円（前連結会計年度比9.5％減）、営業利益は25百万円（同19.3％減）となりました",
+      "opinions": [
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "negative",
+          "from": 5,
+          "to": 8
+        },
+        {
+          "target": "営業利益",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 33,
+          "to": 37
+        }
+      ]
+    },
+    {
+      "sentence_id": 25,
+      "sentence": "④ 婚礼事業",
+      "opinions": []
+    },
+    {
+      "sentence_id": 26,
+      "sentence": "当社グループが展開している営業エリアにおいて、婚礼施行件数が減少傾向にある中、婚礼ニーズの変化や同業他社の新規出店もあり、厳しい競争環境が継続しました",
+      "opinions": [
+        {
+          "target": "婚礼施行件数",
+          "category": "NULL#amount",
+          "polarity": "negative",
+          "from": 23,
+          "to": 29
+        },
+        {
+          "target": "競争環境",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 64,
+          "to": 68
+        }
+      ]
+    },
+    {
+      "sentence_id": 27,
+      "sentence": "このような状況の下、Ｗｅｂプロモーションや婚礼情報収集の強化等により集客力のアップを図るとともに施行品質の向上に努めました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 28,
+      "sentence": "また、広告宣伝費の見直し等による経費削減に努めた結果、売上高は2,505百万円（前連結会計年度比7.9％増）、営業利益は61百万円（前連結会計年度は152百万円の営業損失）となりました",
+      "opinions": [
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 27,
+          "to": 30
+        },
+        {
+          "target": "営業利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 55,
+          "to": 59
+        }
+      ]
+    },
+    {
+      "sentence_id": 29,
+      "sentence": "⑤ 生花事業",
+      "opinions": []
+    },
+    {
+      "sentence_id": 30,
+      "sentence": "当社グループが展開している営業エリアにおいて、生花需要は低調に推移しました",
+      "opinions": [
+        {
+          "target": "生花需要",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 23,
+          "to": 27
+        }
+      ]
+    },
+    {
+      "sentence_id": 31,
+      "sentence": "このような状況の下、生花店や葬儀社等へのＤＭの発送等継続的なアプローチが、新規取引先の獲得や既存取引先からの受注増加に繋がりました",
+      "opinions": [
+        {
+          "target": "既存取引先",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 46,
+          "to": 51
+        }
+      ]
+    },
+    {
+      "sentence_id": 32,
+      "sentence": "その結果、売上高は614百万円（前連結会計年度比7.3％増）、営業利益は144百万円（同29.4％増）となりました",
+      "opinions": [
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 5,
+          "to": 8
+        },
+        {
+          "target": "営業利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 31,
+          "to": 35
+        }
+      ]
+    },
+    {
+      "sentence_id": 33,
+      "sentence": "⑥ 互助会事業",
+      "opinions": []
+    },
+    {
+      "sentence_id": 34,
+      "sentence": "互助会事業につきましては、互助会会員による葬儀及び婚礼の施行件数増加を図るため、キャンペーン等を実施し会員数の増加に努めました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 35,
+      "sentence": "その結果、売上高は1百万円（前連結会計年度比7.7％減）、営業損失は16百万円（前連結会計年度は74百万円の営業損失）となりました",
+      "opinions": [
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "negative",
+          "from": 5,
+          "to": 8
+        },
+        {
+          "target": "営業損失",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 29,
+          "to": 33
+        }
+      ]
+    },
+    {
+      "sentence_id": 36,
+      "sentence": "⑦ 介護事業",
+      "opinions": []
+    },
+    {
+      "sentence_id": 37,
+      "sentence": "介護事業につきましては、医療機関・居宅介護支援事務所との連携により、サービス付き高齢者向け住宅の入居率は高水準を維持しました",
+      "opinions": [
+        {
+          "target": "住宅",
+          "category": "product#amount",
+          "polarity": "positive",
+          "from": 45,
+          "to": 47
+        }
+      ]
+    },
+    {
+      "sentence_id": 38,
+      "sentence": "その結果、売上高は92百万円（前連結会計年度比34.4％増）、営業損失は1百万円（前連結会計年度は3百万円の営業損失）となりました",
+      "opinions": [
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 5,
+          "to": 8
+        },
+        {
+          "target": "営業損失",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 31,
+          "to": 35
+        }
+      ]
+    },
+    {
+      "sentence_id": 39,
+      "sentence": "⑧ その他",
+      "opinions": []
+    },
+    {
+      "sentence_id": 40,
+      "sentence": "その他の装販部門につきましては、高単価商品の販売に注力するとともに、新たな商品開発に取り組みました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 41,
+      "sentence": "その結果、売上高は83百万円（前連結会計年度比12.7％増）、営業損失は3百万円（前連結会計年度は3百万円の営業損失）となりました",
+      "opinions": [
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 5,
+          "to": 8
+        },
+        {
+          "target": "営業損失",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 31,
+          "to": 35
+        }
+      ]
+    }
+  ]
+}

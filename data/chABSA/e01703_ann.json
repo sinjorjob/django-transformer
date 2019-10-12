@@ -1,0 +1,440 @@
+{
+  "header": {
+    "document_id": "E01703",
+    "document_name": "株式会社ササクラ",
+    "doc_text": "有価証券報告書",
+    "edi_id": "E01703",
+    "security_code": "63030",
+    "category33": "機械",
+    "category17": "機械",
+    "scale": ""
+  },
+  "sentences": [
+    {
+      "sentence_id": 0,
+      "sentence": "当連結会計年度（以下、当期という）におけるわが国経済は、政府や日銀による経済・金融政策を背景に雇用・所得環境の改善が見られたものの、中国をはじめとする新興諸国の成長鈍化や資源安の長期化に加えて、英国のEU（欧州連合）離脱問題や米国新政権移行に伴う影響などによる株式市場や為替相場の急激な変動もあり、景気の先行きは不透明な状況が続きました",
+      "opinions": [
+        {
+          "target": "雇用",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 47,
+          "to": 49
+        },
+        {
+          "target": "所得環境",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 50,
+          "to": 54
+        },
+        {
+          "target": "新興諸国",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 75,
+          "to": 79
+        },
+        {
+          "target": "資源安",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 85,
+          "to": 88
+        },
+        {
+          "target": "株式市場",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 130,
+          "to": 134
+        },
+        {
+          "target": "為替相場",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 135,
+          "to": 139
+        },
+        {
+          "target": "景気",
+          "category": "NULL#general",
+          "polarity": "neutral",
+          "from": 149,
+          "to": 151
+        }
+      ]
+    },
+    {
+      "sentence_id": 1,
+      "sentence": "このような状況の中、当社グループは顧客満足度の向上を経営方針として掲げ、新たな価値の創出にチャレンジすることを柱とした中期経営計画を遂行してまいりましたが、当期における受注高は、船舶用機器や水処理装置の受注が振るわず、95億42百万円（前期比4.2％減）にとどまりました",
+      "opinions": [
+        {
+          "target": "受注高",
+          "category": "NULL#amount",
+          "polarity": "negative",
+          "from": 84,
+          "to": 87
+        },
+        {
+          "target": "機器",
+          "category": "product#amount",
+          "polarity": "negative",
+          "from": 92,
+          "to": 94
+        },
+        {
+          "target": "水処理装置",
+          "category": "product#amount",
+          "polarity": "negative",
+          "from": 95,
+          "to": 100
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "sentence": "また、売上高は、前期の受注低迷の影響と既設海水淡水化プラントのリハビリ（機能回復・延命）工事の売上が前期と比べて少なかったことから、102億33百万円（同20.9％減）となり、受注残高は154億41百万円（同3.1％減）となりました",
+      "opinions": [
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "negative",
+          "from": 3,
+          "to": 6
+        },
+        {
+          "target": "売上",
+          "category": "NULL#sales",
+          "polarity": "negative",
+          "from": 47,
+          "to": 49
+        },
+        {
+          "target": "受注残高",
+          "category": "NULL#amount",
+          "polarity": "negative",
+          "from": 88,
+          "to": 92
+        }
+      ]
+    },
+    {
+      "sentence_id": 3,
+      "sentence": "損益面につきましては、十分な売上が確保できなかったことに加えて、サウジアラビア向け海水淡水化プラントの採算性の悪化により受注損失引当金４億97百万円の追加計上を行ったことから、営業損益は１億65百万円の損失（前期は４億19百万円の利益）となり、経常損益は１億90百万円の損失（前期は１億79百万円の利益）となりました",
+      "opinions": [
+        {
+          "target": "採算性",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 51,
+          "to": 54
+        },
+        {
+          "target": "営業損益",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 88,
+          "to": 92
+        },
+        {
+          "target": "経常損益",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 122,
+          "to": 126
+        }
+      ]
+    },
+    {
+      "sentence_id": 4,
+      "sentence": "また、特別利益として投資有価証券売却益４億98百万円に加え、本年３月に持分法適用会社ARABIAN COMPANY AND SASAKURA FOR WATER AND POWERの株式を追加取得し連結子会社としたことによる当該株式の段階取得に係る差益を６億99百万円計上した一方、特別損失として同社の将来キャッシュ・フロー予測に基づく回収可能性を検討した結果、のれん17億２百万円の減損損失を計上したことから、親会社株主に帰属する当期純損益は10億13百万円の損失（前期は34百万円の利益）となりました",
+      "opinions": [
+        {
+          "target": "当期純損益",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 216,
+          "to": 221
+        }
+      ]
+    },
+    {
+      "sentence_id": 5,
+      "sentence": "セグメントの業績は次のとおりであります",
+      "opinions": []
+    },
+    {
+      "sentence_id": 6,
+      "sentence": "①　船舶用機器事業",
+      "opinions": []
+    },
+    {
+      "sentence_id": 7,
+      "sentence": "世界の荷動きの低迷による船腹過剰感から運賃や新造船受注は大幅に低迷し、海運業界ならびに造船業界は業界再編に動くなど、厳しい状況となり、当期における受注高は22億28百万円（前期比10.1％減）となりました",
+      "opinions": [
+        {
+          "target": "荷動き",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 3,
+          "to": 6
+        },
+        {
+          "target": "運賃",
+          "category": "NULL#price",
+          "polarity": "negative",
+          "from": 19,
+          "to": 21
+        },
+        {
+          "target": "新造船受注",
+          "category": "NULL#amount",
+          "polarity": "negative",
+          "from": 22,
+          "to": 27
+        },
+        {
+          "target": "海運業界",
+          "category": "market#general",
+          "polarity": "negative",
+          "from": 35,
+          "to": 39
+        },
+        {
+          "target": "造船業界",
+          "category": "market#general",
+          "polarity": "negative",
+          "from": 43,
+          "to": 47
+        },
+        {
+          "target": "受注高",
+          "category": "NULL#amount",
+          "polarity": "negative",
+          "from": 73,
+          "to": 76
+        }
+      ]
+    },
+    {
+      "sentence_id": 8,
+      "sentence": "また、売上高は24億76百万円（同12.9％減）となり、営業利益は１億95百万円（同50.4％減）、受注残高は13億３百万円（同16.6％減）となりました",
+      "opinions": [
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "negative",
+          "from": 3,
+          "to": 6
+        },
+        {
+          "target": "営業利益",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 28,
+          "to": 32
+        },
+        {
+          "target": "受注残高",
+          "category": "NULL#amount",
+          "polarity": "negative",
+          "from": 50,
+          "to": 54
+        }
+      ]
+    },
+    {
+      "sentence_id": 9,
+      "sentence": "②　陸上用機器事業",
+      "opinions": []
+    },
+    {
+      "sentence_id": 10,
+      "sentence": "空冷式熱交換器の受注が堅調に推移したものの、その他の機器の受注が減少したことから、受注高は26億４百万円（同3.6％減）となりました",
+      "opinions": [
+        {
+          "target": "熱交換器",
+          "category": "product#amount",
+          "polarity": "positive",
+          "from": 3,
+          "to": 7
+        },
+        {
+          "target": "機器",
+          "category": "product#amount",
+          "polarity": "negative",
+          "from": 26,
+          "to": 28
+        },
+        {
+          "target": "受注高",
+          "category": "NULL#amount",
+          "polarity": "negative",
+          "from": 41,
+          "to": 44
+        }
+      ]
+    },
+    {
+      "sentence_id": 11,
+      "sentence": "売上高はごみ焼却プラント向け空冷式熱交換器の売上増加により、27億20百万円（同6.1％増）となったものの、不採算売上の計上により、営業損益は27百万円の損失（前期は３百万円の利益）、受注残高は27億88百万円（前期比4.0％減）となりました",
+      "opinions": [
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 0,
+          "to": 3
+        },
+        {
+          "target": "熱交換器",
+          "category": "product#sales",
+          "polarity": "positive",
+          "from": 17,
+          "to": 21
+        },
+        {
+          "target": "営業損益",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 66,
+          "to": 70
+        },
+        {
+          "target": "受注残高",
+          "category": "NULL#amount",
+          "polarity": "negative",
+          "from": 92,
+          "to": 96
+        }
+      ]
+    },
+    {
+      "sentence_id": 12,
+      "sentence": "③　水処理装置事業",
+      "opinions": []
+    },
+    {
+      "sentence_id": 13,
+      "sentence": "海水淡水化装置、蒸発濃縮装置ともに受注が振るわず、受注高は24億10百万円（同26.0％減）となりました",
+      "opinions": [
+        {
+          "target": "装置",
+          "category": "product#sales",
+          "polarity": "negative",
+          "from": 5,
+          "to": 7
+        },
+        {
+          "target": "蒸発濃縮装置",
+          "category": "product#sales",
+          "polarity": "negative",
+          "from": 8,
+          "to": 14
+        },
+        {
+          "target": "受注高",
+          "category": "NULL#amount",
+          "polarity": "negative",
+          "from": 25,
+          "to": 28
+        }
+      ]
+    },
+    {
+      "sentence_id": 14,
+      "sentence": "売上高は、既設海水淡水化プラントのリハビリ工事の売上が前期と比べて少なかったことから、26億82百万円（同57.6％減）となり、営業損益は売上が大幅に減少したことに加え、サウジアラビア向け海水淡水化プラント工事の長期中断に伴って採算性が悪化したことから受注損失引当金の追加計上を行い、５億３百万円の損失（前期は１億40百万円の利益）、受注残高は98億54百万円（前期比2.6％減）となりました",
+      "opinions": [
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "negative",
+          "from": 0,
+          "to": 3
+        },
+        {
+          "target": "売上",
+          "category": "NULL#sales",
+          "polarity": "negative",
+          "from": 24,
+          "to": 26
+        },
+        {
+          "target": "営業損益",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 64,
+          "to": 68
+        },
+        {
+          "target": "売上",
+          "category": "NULL#sales",
+          "polarity": "negative",
+          "from": 69,
+          "to": 71
+        },
+        {
+          "target": "採算性",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 114,
+          "to": 117
+        },
+        {
+          "target": "受注残高",
+          "category": "NULL#amount",
+          "polarity": "negative",
+          "from": 167,
+          "to": 171
+        }
+      ]
+    },
+    {
+      "sentence_id": 15,
+      "sentence": "④　消音冷熱装置事業",
+      "opinions": []
+    },
+    {
+      "sentence_id": 16,
+      "sentence": "風洞設備向けや都市ごみ焼却プラント向け騒音防止装置の需要拡大に加え、同事業の収益力の強化のため、首都圏のビル空調設備向け消音装置の製造・販売会社株式会社アルク環境エンジニアリング（現社名 株式会社ササクラ・アルク・エーイー）を昨年10月に連結子会社とした結果、受注高は22億86百万円（同51.8％増）、売上高は23億41百万円（同97.4％増）、営業利益は１億61百万円（前期は１億27百万円の損失）、受注残高は14億95百万円（前期比10.8％増）となりました",
+      "opinions": [
+        {
+          "target": "需要",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 26,
+          "to": 28
+        },
+        {
+          "target": "受注高",
+          "category": "NULL#amount",
+          "polarity": "positive",
+          "from": 130,
+          "to": 133
+        },
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 152,
+          "to": 155
+        },
+        {
+          "target": "営業利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 174,
+          "to": 178
+        },
+        {
+          "target": "受注残高",
+          "category": "NULL#amount",
+          "polarity": "positive",
+          "from": 202,
+          "to": 206
+        }
+      ]
+    }
+  ]
+}

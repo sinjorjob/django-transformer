@@ -1,0 +1,374 @@
+{
+  "header": {
+    "document_id": "E26332",
+    "document_name": "株式会社エムアップ",
+    "doc_text": "有価証券報告書",
+    "edi_id": "E26332",
+    "security_code": "36610",
+    "category33": "情報・通信業",
+    "category17": "情報通信・サービスその他",
+    "scale": "7"
+  },
+  "sentences": [
+    {
+      "sentence_id": 0,
+      "sentence": "当連結会計年度における我が国の経済は、雇用及び所得環境の改善が続くなかで、個人消費も総じて持ち直しに向かうなど、一部にこそ遅れは見られるものの、緩やかな回復基調にあります",
+      "opinions": [
+        {
+          "target": "経済",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 15,
+          "to": 17
+        },
+        {
+          "target": "雇用",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 19,
+          "to": 21
+        },
+        {
+          "target": "所得環境",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 23,
+          "to": 27
+        },
+        {
+          "target": "個人消費",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 37,
+          "to": 41
+        }
+      ]
+    },
+    {
+      "sentence_id": 1,
+      "sentence": "今後についても緩やかな回復が続いていくと期待されておりますが、新興国をはじめとした海外経済の先行きや政策に関する不確実性、金融資本市場の変動による影響など、依然として不透明な状況にあります",
+      "opinions": []
+    },
+    {
+      "sentence_id": 2,
+      "sentence": "当社を取り巻くインターネット関連市場につきましては、スマートフォンやタブレット端末の普及と利用の定着によるインターネットのモバイル化が進んでおり、今後も安定的な成長と拡大が期待されております",
+      "opinions": [
+        {
+          "target": "インターネット関連市場",
+          "category": "market#general",
+          "polarity": "positive",
+          "from": 7,
+          "to": 18
+        }
+      ]
+    },
+    {
+      "sentence_id": 3,
+      "sentence": "平成28年12月末における携帯電話端末全体の契約数は１億6,070万（前年同期比4.1％増）に達しており、増加のペースは緩やかになっております（出所：一般社団法人電気通信事業者協会）",
+      "opinions": [
+        {
+          "target": "契約数",
+          "category": "NULL#amount",
+          "polarity": "positive",
+          "from": 22,
+          "to": 25
+        }
+      ]
+    },
+    {
+      "sentence_id": 4,
+      "sentence": "情報通信機器の普及状況を見ると、スマートフォンが72.0％（前年同期比7.8ポイント増）、タブレット端末が33.3％（前年同期比7.0ポイント増）と、いずれも保有率は大きく上昇しております",
+      "opinions": [
+        {
+          "target": "スマートフォン",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 16,
+          "to": 23
+        },
+        {
+          "target": "タブレット端末",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 45,
+          "to": 52
+        }
+      ]
+    },
+    {
+      "sentence_id": 5,
+      "sentence": "また、スマートフォンやタブレット端末の普及に牽引され、インターネットの利用機会や頻度はますます増加しており、特にモバイルコンテンツの市場規模は、平成27年には全体で１兆5,632億円（前年同期比7.3％増）となり、なお拡大が続いております（出所：いずれも総務省「情報通信白書」）",
+      "opinions": [
+        {
+          "target": "モバイルコンテンツ",
+          "category": "market#general",
+          "polarity": "positive",
+          "from": 56,
+          "to": 65
+        }
+      ]
+    },
+    {
+      "sentence_id": 6,
+      "sentence": "音楽やアーティスト関連の市場動向といたしましては、平成28年における音楽ソフト（オーディオレコード及び音楽ビデオ合計）の生産数量は212,293千枚（前年同期比5.1%減）、販売金額では245,657百万円（前年同期比3.5%減）と減少しております",
+      "opinions": [
+        {
+          "target": "音楽",
+          "category": "market#general",
+          "polarity": "negative",
+          "from": 0,
+          "to": 2
+        },
+        {
+          "target": "アーティスト関連",
+          "category": "market#general",
+          "polarity": "negative",
+          "from": 3,
+          "to": 11
+        },
+        {
+          "target": "生産数量",
+          "category": "NULL#amount",
+          "polarity": "negative",
+          "from": 60,
+          "to": 64
+        },
+        {
+          "target": "販売金額",
+          "category": "NULL#sales",
+          "polarity": "negative",
+          "from": 87,
+          "to": 91
+        }
+      ]
+    },
+    {
+      "sentence_id": 7,
+      "sentence": "その一方で、有料音楽配信の販売金額は、52,886百万円（前年同期比12.3%増）と、３年連続で増加しております（出所：いずれも一般社団法人日本レコード協会）",
+      "opinions": [
+        {
+          "target": "有料音楽配信",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 6,
+          "to": 12
+        }
+      ]
+    },
+    {
+      "sentence_id": 8,
+      "sentence": "これは、主にスマートフォンを通じたサブスクリプションサービスの利用拡大が要因であり、新たな音楽流通の普及と音楽に対する底堅い需要が見られております",
+      "opinions": [
+        {
+          "target": "サブスクリプションサービス",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 17,
+          "to": 30
+        },
+        {
+          "target": "需要",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 62,
+          "to": 64
+        }
+      ]
+    },
+    {
+      "sentence_id": 9,
+      "sentence": "このような外部環境の中、当社は、アーティストやタレント、声優、アニメまでの幅広いジャンルにおいて、ファンクラブサイトの運営、キャラクター、スタンプ、音楽、ファンメールといった多岐にわたるデジタルコンテンツの配信や、eコマースに至るまでを複合的に展開し、サイトや各事業セグメント間でのシナジー効果を発揮させることによって、事業基盤の拡大と多様化を進めてまいりました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 10,
+      "sentence": "また、今後の成長に向けた取り組みとして、積極的な新規子会社の展開や子会社を通じた事業提携、並びに新規事業の開発に取り組んでまいりました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 11,
+      "sentence": "以上の結果、当連結会計年度における売上高は3,711百万円（前年同期比0.7%減）となりました",
+      "opinions": [
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "negative",
+          "from": 17,
+          "to": 20
+        }
+      ]
+    },
+    {
+      "sentence_id": 12,
+      "sentence": "営業利益は426百万円（前年同期比7.3%増）、経常利益は467百万円（前年同期比26.0%増）、親会社株主に帰属する当期純利益は310百万円（前年同期比37.2%増）となりました",
+      "opinions": [
+        {
+          "target": "営業利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 0,
+          "to": 4
+        },
+        {
+          "target": "経常利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 24,
+          "to": 28
+        },
+        {
+          "target": "当期純利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 59,
+          "to": 64
+        }
+      ]
+    },
+    {
+      "sentence_id": 13,
+      "sentence": "セグメントごとの概要は、以下のとおりであります",
+      "opinions": []
+    },
+    {
+      "sentence_id": 14,
+      "sentence": "イ．携帯コンテンツ配信事業",
+      "opinions": []
+    },
+    {
+      "sentence_id": 15,
+      "sentence": "携帯コンテンツ配信事業につきましては、引き続きアーティストや声優、タレントの獲得と新規ファンメール配信サイトの開設を進めるとともに、他社が運営するサイトの当社への移管にも取り組んでまいりました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 16,
+      "sentence": "その一方で、既存サイトの一部では会員数の減少も見られ、また、新規ファンクラブサイトの開設も想定を下回る結果となりました",
+      "opinions": [
+        {
+          "target": "既存サイト",
+          "category": "product#amount",
+          "polarity": "negative",
+          "from": 6,
+          "to": 11
+        },
+        {
+          "target": "新規ファンクラブサイト",
+          "category": "product#amount",
+          "polarity": "negative",
+          "from": 30,
+          "to": 41
+        }
+      ]
+    },
+    {
+      "sentence_id": 17,
+      "sentence": "「スゴ得コンテンツ」等、各キャリアが運営するスマートフォン向け月額使い放題サービスにつきましては、コンテンツ提供を行うだけでなくキャリアと共同での人気キャラクターを使用したキャンペーンやリアル連動イベントなどを展開し、利用促進とそれに伴う収益拡大に努めてまいりました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 18,
+      "sentence": "この他、スマートフォン向けのアプリや動画、スタンプ等の配信など、今後へ向けた新たな施策も講じてまいりました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 19,
+      "sentence": "以上の結果、当連結会計年度における携帯コンテンツ配信事業の売上高は2,977百万円(前期比7.6％減)、セグメント利益は771百万円(前期比6.7％減)となりました",
+      "opinions": [
+        {
+          "target": "携帯コンテンツ配信事業",
+          "category": "business#sales",
+          "polarity": "negative",
+          "from": 17,
+          "to": 28
+        },
+        {
+          "target": "携帯コンテンツ配信事業",
+          "category": "business#profit",
+          "polarity": "negative",
+          "from": 17,
+          "to": 28
+        }
+      ]
+    },
+    {
+      "sentence_id": 20,
+      "sentence": "ロ．ＰＣコンテンツ配信事業",
+      "opinions": []
+    },
+    {
+      "sentence_id": 21,
+      "sentence": "ＰＣコンテンツ配信事業につきましては、アーティスト及びタレント等のＰＣ向け有料ファンクラブサイトの運営、並びにオフィシャルサイトの受託制作などを実施し、他の事業部門も含め、将来の新たな収益獲得へと繋がることを見据えた事業展開を行ってまいりました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 22,
+      "sentence": "以上の結果、当連結会計年度におけるＰＣコンテンツ配信事業の売上高は167百万円(前期比13.2％減)、セグメント利益は0.7百万円(前期比95.4％減)となりました",
+      "opinions": [
+        {
+          "target": "ＰＣコンテンツ配信事業",
+          "category": "business#sales",
+          "polarity": "negative",
+          "from": 17,
+          "to": 28
+        },
+        {
+          "target": "ＰＣコンテンツ配信事業",
+          "category": "business#profit",
+          "polarity": "negative",
+          "from": 17,
+          "to": 28
+        }
+      ]
+    },
+    {
+      "sentence_id": 23,
+      "sentence": "ハ．ｅコマース事業",
+      "opinions": []
+    },
+    {
+      "sentence_id": 24,
+      "sentence": "ｅコマース事業につきましては、ＣＤ、ＤＶＤ及びブルーレイといった音楽映像商品と、それに関連するアーティストグッズを中心に、大手レコード会社との提携によるレコード会社の公式販売サイトの運営管理と、当社による直販の両面から事業を展開してまいりました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 25,
+      "sentence": "当連結会計年度では、レコード会社の公式販売サイトにおいて、一部アーティストの需要の高まりが見られ、販売が好調に推移いたしました",
+      "opinions": [
+        {
+          "target": "需要",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 38,
+          "to": 40
+        },
+        {
+          "target": "販売",
+          "category": "NULL#amount",
+          "polarity": "positive",
+          "from": 49,
+          "to": 51
+        }
+      ]
+    },
+    {
+      "sentence_id": 26,
+      "sentence": "以上の結果、当連結会計年度におけるeコマース事業の売上高は、435百万円(前期比40.8％増)、セグメント利益は58百万円(前期は93百万円のセグメント損失)となりました",
+      "opinions": [
+        {
+          "target": "eコマース事業",
+          "category": "business#sales",
+          "polarity": "positive",
+          "from": 17,
+          "to": 24
+        },
+        {
+          "target": "eコマース事業",
+          "category": "business#profit",
+          "polarity": "positive",
+          "from": 17,
+          "to": 24
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,429 @@
+{
+  "header": {
+    "document_id": "E01719",
+    "document_name": "株式会社昭和真空",
+    "doc_text": "有価証券報告書",
+    "edi_id": "E01719",
+    "security_code": "63840",
+    "category33": "機械",
+    "category17": "機械",
+    "scale": ""
+  },
+  "sentences": [
+    {
+      "sentence_id": 0,
+      "sentence": "当連結会計年度における世界経済は、米国では新政権発足に伴う政策の不確実性が増大しましたが、雇用・所得環境の改善により着実な回復が続きました",
+      "opinions": [
+        {
+          "target": "世界経済",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 11,
+          "to": 15
+        },
+        {
+          "target": "政策",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 29,
+          "to": 31
+        },
+        {
+          "target": "雇用",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 45,
+          "to": 47
+        },
+        {
+          "target": "所得環境",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 48,
+          "to": 52
+        }
+      ]
+    },
+    {
+      "sentence_id": 1,
+      "sentence": "欧州では英国のＥＵ離脱問題により懸念された影響が限定的であり、中国では生産設備の高度化・自動化の進展により需要は堅調に推移するなど、総じて緩やかに拡大しました",
+      "opinions": [
+        {
+          "target": "需要",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 53,
+          "to": 55
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "sentence": "国内経済については、企業収益の改善やアジアを中心とした海外からの需要に支えられ、景気全般をみると緩やかな回復基調が継続しました",
+      "opinions": [
+        {
+          "target": "企業収益",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 10,
+          "to": 14
+        },
+        {
+          "target": "景気全般",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 40,
+          "to": 44
+        }
+      ]
+    },
+    {
+      "sentence_id": 3,
+      "sentence": "当社グループを取り巻く経営環境を見ると、スマートフォン・車載関連の電子部品需要が堅調に推移し、当社グループの主要な取引先である光学・電子デバイス業界を下支えしました",
+      "opinions": [
+        {
+          "target": "電子部品需要",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 33,
+          "to": 39
+        }
+      ]
+    },
+    {
+      "sentence_id": 4,
+      "sentence": "デバイスメーカ各社の増産設備投資にも持ち直しの動きが見られ回復傾向となりました",
+      "opinions": [
+        {
+          "target": "増産設備投資",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 10,
+          "to": 16
+        }
+      ]
+    },
+    {
+      "sentence_id": 5,
+      "sentence": "また、各社の次世代製品に向けた開発意欲は継続され、当社グループに対するサンプル成膜の依頼等は引き続き活発に推移しました",
+      "opinions": [
+        {
+          "target": "開発意欲",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 15,
+          "to": 19
+        },
+        {
+          "target": "サンプル成膜",
+          "category": "product#amount",
+          "polarity": "positive",
+          "from": 35,
+          "to": 41
+        }
+      ]
+    },
+    {
+      "sentence_id": 6,
+      "sentence": "こうした環境の中、当社グループでは、好調な市場を捉え、既存分野への深掘りによる拡販を推進するとともに、既存技術応用分野や新規市場の開拓に注力しました",
+      "opinions": [
+        {
+          "target": "市場",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 21,
+          "to": 23
+        }
+      ]
+    },
+    {
+      "sentence_id": 7,
+      "sentence": "ユーザーからの意見等をふまえた機種ごとのメンテナンス性の改善や社内検査の強化による品質向上やコストダウン推進にも継続して取り組みました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 8,
+      "sentence": "また、次世代製品に向けたデバイスメーカからの依頼実験や製品開発にも積極的に対応することで事業の拡大を図ってまいりました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 9,
+      "sentence": "この結果、当連結会計年度の業績は、受注高110億11百万円(前年同期比10.1％増)、売上高86億40百万円(同14.4％減)となりました",
+      "opinions": [
+        {
+          "target": "受注高",
+          "category": "NULL#amount",
+          "polarity": "positive",
+          "from": 17,
+          "to": 20
+        },
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "negative",
+          "from": 43,
+          "to": 46
+        }
+      ]
+    },
+    {
+      "sentence_id": 10,
+      "sentence": "損益につきましては、経常利益８億98百万円(前年同期比21.5％減)、親会社株主に帰属する当期純利益７億10百万円(同39.9％減)となりました",
+      "opinions": [
+        {
+          "target": "経常利益",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 10,
+          "to": 14
+        },
+        {
+          "target": "当期純利益",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 45,
+          "to": 50
+        }
+      ]
+    },
+    {
+      "sentence_id": 11,
+      "sentence": "セグメントの業績は次のとおりであります",
+      "opinions": []
+    },
+    {
+      "sentence_id": 12,
+      "sentence": "①真空技術応用装置事業",
+      "opinions": []
+    },
+    {
+      "sentence_id": 13,
+      "sentence": "真空技術応用装置事業の業績につきましては、主にスマートフォンに搭載される電子部品、光学部品向けの製造装置の受注が好調に推移しました",
+      "opinions": [
+        {
+          "target": "製造装置",
+          "category": "product#amount",
+          "polarity": "positive",
+          "from": 48,
+          "to": 52
+        }
+      ]
+    },
+    {
+      "sentence_id": 14,
+      "sentence": "売上については、装置受入整備状況といった客先都合や開発要素の高い案件の進捗遅延等により売上計上が翌期となるものがありました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 15,
+      "sentence": "受注高は92億11百万円（前年同期比16.6％増）、売上高は68億40百万円（同14.5％減）、セグメント利益は14億43百万円（同12.9％減）となりました",
+      "opinions": [
+        {
+          "target": "受注高",
+          "category": "NULL#amount",
+          "polarity": "positive",
+          "from": 0,
+          "to": 3
+        },
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "negative",
+          "from": 26,
+          "to": 29
+        },
+        {
+          "target": "セグメント利益",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 48,
+          "to": 55
+        }
+      ]
+    },
+    {
+      "sentence_id": 16,
+      "sentence": "業界別の状況は以下のとおりです",
+      "opinions": []
+    },
+    {
+      "sentence_id": 17,
+      "sentence": "(水晶デバイス装置)",
+      "opinions": []
+    },
+    {
+      "sentence_id": 18,
+      "sentence": "水晶デバイス業界では、ＴＣＸＯ（温度補償水晶発振器）の需要増等により、主に周波数調整工程向けの最新装置を中心に受注が好調に推移しました",
+      "opinions": [
+        {
+          "target": "ＴＣＸＯ（温度補償水晶発振器）",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 11,
+          "to": 26
+        },
+        {
+          "target": "最新装置",
+          "category": "product#amount",
+          "polarity": "positive",
+          "from": 47,
+          "to": 51
+        }
+      ]
+    },
+    {
+      "sentence_id": 19,
+      "sentence": "水晶デバイス装置の受注高は33億43百万円(前年同期比160.3％増)、売上高は25億59百万円(同108.0％増)となりました",
+      "opinions": [
+        {
+          "target": "水晶デバイス装置",
+          "category": "product#amount",
+          "polarity": "positive",
+          "from": 0,
+          "to": 8
+        },
+        {
+          "target": "水晶デバイス装置",
+          "category": "product#sales",
+          "polarity": "positive",
+          "from": 0,
+          "to": 8
+        }
+      ]
+    },
+    {
+      "sentence_id": 20,
+      "sentence": "(光学装置)",
+      "opinions": []
+    },
+    {
+      "sentence_id": 21,
+      "sentence": "光学業界では、スマートフォンのデュアルレンズ進展への対応などを背景に反射防止膜成膜用装置の受注が好調に推移しました",
+      "opinions": [
+        {
+          "target": "装置",
+          "category": "product#amount",
+          "polarity": "positive",
+          "from": 42,
+          "to": 44
+        }
+      ]
+    },
+    {
+      "sentence_id": 22,
+      "sentence": "光学装置の受注高は40億96百万円(前年同期比124.3％増)、売上高は18億72百万円(同8.3％減)となりました",
+      "opinions": [
+        {
+          "target": "光学装置",
+          "category": "product#amount",
+          "polarity": "positive",
+          "from": 0,
+          "to": 4
+        },
+        {
+          "target": "光学装置",
+          "category": "product#sales",
+          "polarity": "negative",
+          "from": 0,
+          "to": 4
+        }
+      ]
+    },
+    {
+      "sentence_id": 23,
+      "sentence": "(電子部品装置・その他装置)",
+      "opinions": []
+    },
+    {
+      "sentence_id": 24,
+      "sentence": "電子部品業界では、既存技術応用分野及び新規市場の開拓に注力しましたが、前期好調に推移したスマートフォン向け圧電部品の製造用装置の反動減により、受注・売上ともに前年同期に対して減少となりました",
+      "opinions": [
+        {
+          "target": "装置",
+          "category": "product#amount",
+          "polarity": "negative",
+          "from": 61,
+          "to": 63
+        },
+        {
+          "target": "受注",
+          "category": "NULL#amount",
+          "polarity": "negative",
+          "from": 71,
+          "to": 73
+        },
+        {
+          "target": "売上",
+          "category": "NULL#sales",
+          "polarity": "negative",
+          "from": 74,
+          "to": 76
+        }
+      ]
+    },
+    {
+      "sentence_id": 25,
+      "sentence": "電子部品装置・その他装置の受注高は17億72百万円（前年同期比63.0％減）、売上高は24億９百万円(同49.1％減)となりました",
+      "opinions": [
+        {
+          "target": "電子部品装置",
+          "category": "product#amount",
+          "polarity": "negative",
+          "from": 0,
+          "to": 6
+        },
+        {
+          "target": "電子部品装置",
+          "category": "product#sales",
+          "polarity": "negative",
+          "from": 0,
+          "to": 6
+        },
+        {
+          "target": "その他装置",
+          "category": "product#amount",
+          "polarity": "negative",
+          "from": 7,
+          "to": 12
+        },
+        {
+          "target": "その他装置",
+          "category": "product#sales",
+          "polarity": "negative",
+          "from": 7,
+          "to": 12
+        }
+      ]
+    },
+    {
+      "sentence_id": 26,
+      "sentence": "②サービス事業",
+      "opinions": []
+    },
+    {
+      "sentence_id": 27,
+      "sentence": "サービス事業につきましては、ユーザーに対する当社装置の稼働状況の定期的な確認を励行するとともに、生産終了に伴うサポート終了品及び更新機種の案内を積極的に行い、装置の改造・修理や消耗品の販売に努めました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 28,
+      "sentence": "サービス事業の売上高は17億99百万円（前年同期比14.1％減）、セグメント利益は４億７百万円（同12.6％減）となりました",
+      "opinions": [
+        {
+          "target": "サービス事業",
+          "category": "business#sales",
+          "polarity": "negative",
+          "from": 0,
+          "to": 6
+        },
+        {
+          "target": "サービス事業",
+          "category": "business#profit",
+          "polarity": "negative",
+          "from": 0,
+          "to": 6
+        }
+      ]
+    }
+  ]
+}

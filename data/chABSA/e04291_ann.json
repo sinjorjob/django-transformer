@@ -1,0 +1,522 @@
+{
+  "header": {
+    "document_id": "E04291",
+    "document_name": "株式会社ヤマタネ",
+    "doc_text": "有価証券報告書",
+    "edi_id": "E04291",
+    "security_code": "93050",
+    "category33": "卸売業",
+    "category17": "商社・卸売",
+    "scale": "7"
+  },
+  "sentences": [
+    {
+      "sentence_id": 0,
+      "sentence": "当連結会計年度におけるわが国経済は、世界経済の緩やかな回復等を背景にした輸出や設備投資をけん引役に、底堅く推移しました",
+      "opinions": [
+        {
+          "target": "わが国経済",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 11,
+          "to": 16
+        },
+        {
+          "target": "世界経済",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 18,
+          "to": 22
+        }
+      ]
+    },
+    {
+      "sentence_id": 1,
+      "sentence": "このような状況下におきまして、当連結会計年度の連結業績は、食品部門における玄米の販売数量の減少とその他部門での減収により、売上高は502億13百万円（前期比3.1％減）となりました",
+      "opinions": [
+        {
+          "target": "玄米",
+          "category": "product#amount",
+          "polarity": "negative",
+          "from": 37,
+          "to": 39
+        },
+        {
+          "target": "その他部門",
+          "category": "business#sales",
+          "polarity": "negative",
+          "from": 48,
+          "to": 53
+        },
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "negative",
+          "from": 61,
+          "to": 64
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "sentence": "営業利益においては、物流部門と食品部門で増益、情報部門ではほぼ前年並みとなったものの、不動産部門で大きく減益となったことから、45億84百万円（同4.6％減）となりました",
+      "opinions": [
+        {
+          "target": "営業利益",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 0,
+          "to": 4
+        },
+        {
+          "target": "物流部門",
+          "category": "business#profit",
+          "polarity": "positive",
+          "from": 10,
+          "to": 14
+        },
+        {
+          "target": "食品部門",
+          "category": "business#profit",
+          "polarity": "positive",
+          "from": 15,
+          "to": 19
+        },
+        {
+          "target": "情報部門",
+          "category": "business#profit",
+          "polarity": "neutral",
+          "from": 23,
+          "to": 27
+        },
+        {
+          "target": "不動産部門",
+          "category": "business#profit",
+          "polarity": "negative",
+          "from": 43,
+          "to": 48
+        }
+      ]
+    },
+    {
+      "sentence_id": 3,
+      "sentence": "また、支払利息の減少等により営業外損益は改善しましたが、経常利益は40億84百万円（同1.1％減）となりました",
+      "opinions": [
+        {
+          "target": "支払利息",
+          "category": "NULL#sales",
+          "polarity": "negative",
+          "from": 3,
+          "to": 7
+        },
+        {
+          "target": "営業外損益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 14,
+          "to": 19
+        },
+        {
+          "target": "経常利益",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 28,
+          "to": 32
+        }
+      ]
+    },
+    {
+      "sentence_id": 4,
+      "sentence": "一方、親会社株主に帰属する当期純利益は、固定資産の売却による特別利益の計上と法人税率の引き下げの影響等により26億21百万円（同15.8％増）となりました",
+      "opinions": [
+        {
+          "target": "当期純利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 13,
+          "to": 18
+        },
+        {
+          "target": "法人税率",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 38,
+          "to": 42
+        }
+      ]
+    },
+    {
+      "sentence_id": 5,
+      "sentence": "物流関連",
+      "opinions": []
+    },
+    {
+      "sentence_id": 6,
+      "sentence": "物流業界におきましては、上半期を中心に企業の在庫調整の影響等が残り、倉庫の保管残高の前年割れが続きました",
+      "opinions": [
+        {
+          "target": "保管残高",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 37,
+          "to": 41
+        }
+      ]
+    },
+    {
+      "sentence_id": 7,
+      "sentence": "荷動きに関しては、消費関連や建設関連の貨物が堅調に推移したことから、国内の総輸送量は５年振りに増加に転じました",
+      "opinions": [
+        {
+          "target": "貨物",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 19,
+          "to": 21
+        },
+        {
+          "target": "総輸送量",
+          "category": "NULL#amount",
+          "polarity": "positive",
+          "from": 37,
+          "to": 41
+        }
+      ]
+    },
+    {
+      "sentence_id": 8,
+      "sentence": "また、国際貨物についても世界経済の回復基調のもとで、輸送量・取扱金額ともに前年を上回りました",
+      "opinions": [
+        {
+          "target": "世界経済",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 12,
+          "to": 16
+        },
+        {
+          "target": "輸送量",
+          "category": "NULL#amount",
+          "polarity": "positive",
+          "from": 26,
+          "to": 29
+        },
+        {
+          "target": "取扱金額",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 30,
+          "to": 34
+        }
+      ]
+    },
+    {
+      "sentence_id": 9,
+      "sentence": "このような状況下で、物流部門では、配送センター業務や海外引越業務が堅調に推移しましたが、倉庫の保管残高の減少による保管料の減収に加え、大口荷主との取引内容の見直し等の影響もあり、売上高は209億90百万円(前期比1.5％減)となりました",
+      "opinions": [
+        {
+          "target": "物流部門",
+          "category": "business#sales",
+          "polarity": "negative",
+          "from": 10,
+          "to": 14
+        },
+        {
+          "target": "配送センター業務",
+          "category": "product#general",
+          "polarity": "positive",
+          "from": 17,
+          "to": 25
+        },
+        {
+          "target": "海外引越業務",
+          "category": "product#general",
+          "polarity": "positive",
+          "from": 26,
+          "to": 32
+        },
+        {
+          "target": "保管残高",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 47,
+          "to": 51
+        },
+        {
+          "target": "保管料",
+          "category": "NULL#sales",
+          "polarity": "negative",
+          "from": 57,
+          "to": 60
+        }
+      ]
+    },
+    {
+      "sentence_id": 10,
+      "sentence": "一方、営業利益は低採算先の見直しに加え、付帯作業等が堅調に推移したことから31億42百万円(同1.2％増)となりました",
+      "opinions": [
+        {
+          "target": "営業利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 3,
+          "to": 7
+        },
+        {
+          "target": "付帯作業",
+          "category": "product#general",
+          "polarity": "positive",
+          "from": 20,
+          "to": 24
+        }
+      ]
+    },
+    {
+      "sentence_id": 11,
+      "sentence": "食品関連",
+      "opinions": []
+    },
+    {
+      "sentence_id": 12,
+      "sentence": "コメ流通業界におきましては、飼料用米の増産等により生産調整目標（減反目標）が２年連続で達成されたことを受け、主食用のコメ取引の需給が締まり、平成28年産米の価格は前年に続き上昇しました",
+      "opinions": [
+        {
+          "target": "価格",
+          "category": "NULL#price",
+          "polarity": "positive",
+          "from": 78,
+          "to": 80
+        }
+      ]
+    },
+    {
+      "sentence_id": 13,
+      "sentence": "特に業務用の低価格米の逼迫感が大きく、余剰ぎみの高級ブランド米との価格差が縮小しました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 14,
+      "sentence": "このような状況下で、食品部門では、量販店・外食向けである精米販売の数量は、69千玄米トン（前期比3.9％増）と増加しましたが、一般小売店や他卸売業者向けである玄米販売は、主要産地である東北・関東を中心に取引価格の高騰から思うようなコメの手当ができず、23千玄米トン（同47.7％減）と大幅に減少しました",
+      "opinions": [
+        {
+          "target": "精米販売",
+          "category": "business#amount",
+          "polarity": "positive",
+          "from": 28,
+          "to": 32
+        },
+        {
+          "target": "玄米販売",
+          "category": "business#amount",
+          "polarity": "negative",
+          "from": 79,
+          "to": 83
+        },
+        {
+          "target": "取引価格",
+          "category": "NULL#cost",
+          "polarity": "negative",
+          "from": 101,
+          "to": 105
+        }
+      ]
+    },
+    {
+      "sentence_id": 15,
+      "sentence": "この結果、総販売数量は92千玄米トン（同16.6％減）となりました",
+      "opinions": [
+        {
+          "target": "販売数量",
+          "category": "NULL#amount",
+          "polarity": "negative",
+          "from": 6,
+          "to": 10
+        }
+      ]
+    },
+    {
+      "sentence_id": 16,
+      "sentence": "売上高は、コメの取引価格は上昇したものの玄米の販売数量の落ち込みの影響が大きく、234億22百万円（前期比4.0％減）となりました",
+      "opinions": [
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "negative",
+          "from": 0,
+          "to": 3
+        },
+        {
+          "target": "取引価格",
+          "category": "NULL#price",
+          "polarity": "positive",
+          "from": 8,
+          "to": 12
+        },
+        {
+          "target": "玄米",
+          "category": "product#amount",
+          "polarity": "negative",
+          "from": 20,
+          "to": 22
+        }
+      ]
+    },
+    {
+      "sentence_id": 17,
+      "sentence": "一方、営業利益は、需給が締まる中で適正な販売差益の確保に努めた結果、２億96百万円（同39.4％増）となりました",
+      "opinions": [
+        {
+          "target": "営業利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 3,
+          "to": 7
+        }
+      ]
+    },
+    {
+      "sentence_id": 18,
+      "sentence": "情報関連",
+      "opinions": []
+    },
+    {
+      "sentence_id": 19,
+      "sentence": "情報サービス業界におきましては、IoTやＡＩ等といった新規技術の導入の動きが強まり、ＩＴ関連投資は増加を続けております",
+      "opinions": [
+        {
+          "target": "動き",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 35,
+          "to": 37
+        },
+        {
+          "target": "ＩＴ関連投資",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 42,
+          "to": 48
+        }
+      ]
+    },
+    {
+      "sentence_id": 20,
+      "sentence": "このような状況下で、情報部門では、システム開発業務は堅調に推移しましたが、棚卸代行関連業務における不採算取引の縮小等の影響により、売上高は22億69百万円（前期比3.0％減）となりました",
+      "opinions": [
+        {
+          "target": "情報部門",
+          "category": "product#sales",
+          "polarity": "negative",
+          "from": 10,
+          "to": 14
+        },
+        {
+          "target": "システム開発業務",
+          "category": "product#general",
+          "polarity": "positive",
+          "from": 17,
+          "to": 25
+        },
+        {
+          "target": "棚卸代行関連業務",
+          "category": "product#general",
+          "polarity": "positive",
+          "from": 37,
+          "to": 45
+        }
+      ]
+    },
+    {
+      "sentence_id": 21,
+      "sentence": "一方、営業利益は３億14百万円（同0.2％減）とほぼ横ばいで推移しました",
+      "opinions": [
+        {
+          "target": "営業利益",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 3,
+          "to": 7
+        }
+      ]
+    },
+    {
+      "sentence_id": 22,
+      "sentence": "不動産関連",
+      "opinions": []
+    },
+    {
+      "sentence_id": 23,
+      "sentence": "不動産業界におきましては、三大都市圏を中心に活発な取引が続き、地価は上昇基調となりました",
+      "opinions": [
+        {
+          "target": "取引",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 25,
+          "to": 27
+        },
+        {
+          "target": "地価",
+          "category": "NULL#price",
+          "polarity": "positive",
+          "from": 31,
+          "to": 33
+        }
+      ]
+    },
+    {
+      "sentence_id": 24,
+      "sentence": "また、都心部の賃貸オフィスビル市場も、景況感の改善から空室率が低下傾向が続き、賃料水準も底堅い動きとなりました",
+      "opinions": [
+        {
+          "target": "景況感",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 19,
+          "to": 22
+        },
+        {
+          "target": "空室率",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 27,
+          "to": 30
+        },
+        {
+          "target": "賃料水準",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 39,
+          "to": 43
+        }
+      ]
+    },
+    {
+      "sentence_id": 25,
+      "sentence": "このような状況下で、不動産部門では、大口テナントの入れ替わりに伴う稼働率の低下により、売上高は35億30百万円（前期比6.4％減）、営業利益は16億81百万円（同10.6％減）となりました",
+      "opinions": [
+        {
+          "target": "不動産部門",
+          "category": "business#sales",
+          "polarity": "negative",
+          "from": 10,
+          "to": 15
+        },
+        {
+          "target": "不動産部門",
+          "category": "business#profit",
+          "polarity": "negative",
+          "from": 10,
+          "to": 15
+        },
+        {
+          "target": "稼働率",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 33,
+          "to": 36
+        }
+      ]
+    }
+  ]
+}

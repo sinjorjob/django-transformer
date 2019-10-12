@@ -1,0 +1,440 @@
+{
+  "header": {
+    "document_id": "E02505",
+    "document_name": "豊田通商株式会社",
+    "doc_text": "有価証券報告書",
+    "edi_id": "E02505",
+    "security_code": "80150",
+    "category33": "卸売業",
+    "category17": "商社・卸売",
+    "scale": "4"
+  },
+  "sentences": [
+    {
+      "sentence_id": 0,
+      "sentence": "当連結会計年度の世界経済を概観しますと、米国と欧州の経済が堅調に推移したことに加え、新興国の成長減速傾向に歯止めがかかり、全体として持ち直し基調となりました",
+      "opinions": [
+        {
+          "target": "世界経済",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 8,
+          "to": 12
+        },
+        {
+          "target": "経済",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 26,
+          "to": 28
+        },
+        {
+          "target": "新興国",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 42,
+          "to": 45
+        }
+      ]
+    },
+    {
+      "sentence_id": 1,
+      "sentence": "米国経済は、雇用・所得環境の改善と堅調な個人消費及び設備投資の拡大に加え、税制改革やインフラ投資等の新政権の経済・財政政策への期待による株高等もあり、回復基調が継続しました",
+      "opinions": [
+        {
+          "target": "米国経済",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 0,
+          "to": 4
+        },
+        {
+          "target": "雇用",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 6,
+          "to": 8
+        },
+        {
+          "target": "所得環境",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 9,
+          "to": 13
+        },
+        {
+          "target": "個人消費",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 20,
+          "to": 24
+        },
+        {
+          "target": "設備投資",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 26,
+          "to": 30
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "sentence": "欧州経済は、英国のEU離脱問題等により先行き不透明感があるものの、金融緩和等の下支えによる内需拡大と雇用環境の改善及び輸出拡大により、緩やかに回復しました",
+      "opinions": [
+        {
+          "target": "欧州経済",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 0,
+          "to": 4
+        },
+        {
+          "target": "雇用環境",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 50,
+          "to": 54
+        }
+      ]
+    },
+    {
+      "sentence_id": 3,
+      "sentence": "中国経済は、政府政策を背景とする住宅・自動車等の個人消費が下支えとなったものの、企業債務や過剰生産能力の調整が重荷となり、踊り場状態が続きました",
+      "opinions": [
+        {
+          "target": "中国経済",
+          "category": "NULL#general",
+          "polarity": "neutral",
+          "from": 0,
+          "to": 4
+        }
+      ]
+    },
+    {
+      "sentence_id": 4,
+      "sentence": "新興国経済は、資源価格の持ち直し等により景況感が改善し、緩やかに回復しました",
+      "opinions": [
+        {
+          "target": "新興国経済",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 0,
+          "to": 5
+        },
+        {
+          "target": "資源価格",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 7,
+          "to": 11
+        },
+        {
+          "target": "景況感",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 20,
+          "to": 23
+        }
+      ]
+    },
+    {
+      "sentence_id": 5,
+      "sentence": "こうした中、わが国経済は、堅調な設備投資や欧米・アジア向け輸出の増加等により、回復基調が継続しました",
+      "opinions": [
+        {
+          "target": "わが国経済",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 6,
+          "to": 11
+        },
+        {
+          "target": "設備投資",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 16,
+          "to": 20
+        },
+        {
+          "target": "輸出",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 29,
+          "to": 31
+        }
+      ]
+    },
+    {
+      "sentence_id": 6,
+      "sentence": "このような環境のもと、豊田通商グループの当連結会計年度の収益は円高による為替影響等により、前連結会計年度を4,488億円（7.2％）下回る５兆7,973億円となりました",
+      "opinions": [
+        {
+          "target": "収益",
+          "category": "NULL#sales",
+          "polarity": "negative",
+          "from": 28,
+          "to": 30
+        }
+      ]
+    },
+    {
+      "sentence_id": 7,
+      "sentence": "利益につきましては、営業活動に係る利益は固定資産減損損失の減少等により、前連結会計年度（829億円）を507億円（61.1％）上回る1,336億円となりました",
+      "opinions": [
+        {
+          "target": "利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 17,
+          "to": 19
+        }
+      ]
+    },
+    {
+      "sentence_id": 8,
+      "sentence": "また、連結納税制度の適用を前提とした会計処理による税金費用の減少等により、当期利益（親会社の所有者に帰属）は1,079億円となり、前連結会計年度（当期損失（親会社の所有者に帰属）△192億円）を1,271億円上回りました",
+      "opinions": [
+        {
+          "target": "税金費用",
+          "category": "NULL#cost",
+          "polarity": "positive",
+          "from": 25,
+          "to": 29
+        },
+        {
+          "target": "当期利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 37,
+          "to": 41
+        }
+      ]
+    },
+    {
+      "sentence_id": 9,
+      "sentence": "①金属",
+      "opinions": []
+    },
+    {
+      "sentence_id": 10,
+      "sentence": "自動車鋼材分野では、インドにおいて、鋼板輸入・保管・加工会社TT Steel Service India Private Ltd.の分工場を建設し、2017年５月に操業を開始しました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 11,
+      "sentence": "非鉄金属分野では、金属資源の原料調達・安定供給の窓口ワンストップ化、収益力の向上及びガバナンス強化を図るため、豊通マテリアル株式会社による豊通レアアース株式会社の吸収合併を行い、2017年４月１日より業務内容・サービスの拡充を行いました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 12,
+      "sentence": "また、メキシコにおいて、TOYOTSU SMELTING TECHNOLOGY MEXICO, S.A. DE C.V.が自動車用ダイキャスト部品向けのアルミ溶湯の安定的な生産・供給を目指し、商業生産を開始しました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 13,
+      "sentence": "当期利益（親会社の所有者に帰属）については、持分法による投資損益の良化及び自動車生産台数の増加等により、前連結会計年度を131億円（105.4％）上回る254億円となりました",
+      "opinions": [
+        {
+          "target": "当期利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 0,
+          "to": 4
+        },
+        {
+          "target": "投資損益",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 28,
+          "to": 32
+        },
+        {
+          "target": "自動車生産台数",
+          "category": "NULL#amount",
+          "polarity": "positive",
+          "from": 37,
+          "to": 44
+        }
+      ]
+    },
+    {
+      "sentence_id": 14,
+      "sentence": "②グローバル部品・ロジスティクス",
+      "opinions": []
+    },
+    {
+      "sentence_id": 15,
+      "sentence": "世界有数の燃料電池開発・製造会社Ballard Power Systems Inc.と日本国内市場での販売契約を締結し、販売を開始しました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 16,
+      "sentence": "また、ケニアにおいて、Bolloré Transport & Logistics Kenya Limited、日本郵船株式会社と共同で完成車物流会社Bolloré NYK Auto Logistics Limitedを設立しました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 17,
+      "sentence": "当期利益（親会社の所有者に帰属）については、海外での自動車部品取り扱いの増加等により、前連結会計年度を36億円（27.7％）上回る169億円となりました",
+      "opinions": [
+        {
+          "target": "当期利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 0,
+          "to": 4
+        },
+        {
+          "target": "自動車部品取り扱い",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 26,
+          "to": 35
+        }
+      ]
+    },
+    {
+      "sentence_id": 18,
+      "sentence": "③自動車",
+      "opinions": []
+    },
+    {
+      "sentence_id": 19,
+      "sentence": "日本において、韓国有数のタイヤ製造会社であるNEXEN TIRE Corporationと合弁で、同社製品の総輸入販売代理店となる株式会社ネクセンタイヤジャパンを設立し、営業を開始しました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 20,
+      "sentence": "タイヤ流通事業への参入により、日本での自動車用市販部品バリューチェーンの拡大を狙います",
+      "opinions": []
+    },
+    {
+      "sentence_id": 21,
+      "sentence": "ウガンダにおいては、トヨタ車総輸入販売代理店TOYOTA UGANDA LTD.で同国４店舗目となる自動車販売・サービス拠点を開業し、ネットワークを拡充しました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 22,
+      "sentence": "当期利益（親会社の所有者に帰属）については、単体の輸出及び海外自動車販売台数の減少等により、前連結会計年度を51億円（21.5％）下回る186億円となりました",
+      "opinions": [
+        {
+          "target": "当期利益",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 0,
+          "to": 4
+        },
+        {
+          "target": "輸出",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 25,
+          "to": 27
+        },
+        {
+          "target": "海外自動車販売台数",
+          "category": "NULL#amount",
+          "polarity": "negative",
+          "from": 29,
+          "to": 38
+        }
+      ]
+    },
+    {
+      "sentence_id": 23,
+      "sentence": "④機械・エネルギー・プラントプロジェクト",
+      "opinions": []
+    },
+    {
+      "sentence_id": 24,
+      "sentence": "当社グループの株式会社ユーラスエナジーホールディングスにおいて、新たにフィンランドとオランダで風力発電事業に参入し、世界11か国で事業を展開することになりました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 25,
+      "sentence": "また、同社が米国ハワイ州で建設を進めていた大規模太陽光発電所が完成し、2017年１月より営業運転を開始しました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 26,
+      "sentence": "イラクにおいては、同国電力省より、固定式及び移動式変電所の建設工事を受注しました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 27,
+      "sentence": "当期利益（親会社の所有者に帰属）については、前期固定資産減損損失の影響等により、前連結会計年度を641億円上回る159億円となりました",
+      "opinions": [
+        {
+          "target": "当期利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 0,
+          "to": 4
+        }
+      ]
+    },
+    {
+      "sentence_id": 28,
+      "sentence": "⑤化学品・エレクトロニクス",
+      "opinions": []
+    },
+    {
+      "sentence_id": 29,
+      "sentence": "化学品分野では、ケニアにおいて、Toyota Tsusho Fertilizer Africa Limitedにて、現地の土壌に合った肥料の開発・生産・販売を開始しました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 30,
+      "sentence": "エレクトロニクス分野では、株式会社トーメンエレクトロニクスと株式会社豊通エレクトロニクスの事業を統合し、株式会社ネクスティ エレクトロニクスとして2017年４月１日より事業を開始しました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 31,
+      "sentence": "当期利益（親会社の所有者に帰属）については、持分法による投資損益の良化等により、前連結会計年度を39億円（40.2％）上回る136億円となりました",
+      "opinions": [
+        {
+          "target": "当期利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 0,
+          "to": 4
+        },
+        {
+          "target": "投資損益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 28,
+          "to": 32
+        }
+      ]
+    },
+    {
+      "sentence_id": 32,
+      "sentence": "⑥食料・生活産業",
+      "opinions": []
+    },
+    {
+      "sentence_id": 33,
+      "sentence": "食料分野では、米国においてサッポロインターナショナル株式会社と共同出資する米国果汁飲料メーカーのCountry Pure Foods,Inc.を介し、米国業務用シャーベット製造会社であるThe Ridgefield's Brand Corporation,Inc.のシャーベット事業を取得しました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 34,
+      "sentence": "生活産業分野では、インドネシアにおいて、長期滞在者及び出張者向けホテルレジデンス「AXIA SOUTH CIKARANG」の第１期客室棟に続き、第２期客室棟が営業を開始しました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 35,
+      "sentence": "当期損失（親会社の所有者に帰属）については、固定資産減損損失等により、前連結会計年度を84億円下回る△77億円となりました",
+      "opinions": [
+        {
+          "target": "当期損失",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 0,
+          "to": 4
+        }
+      ]
+    }
+  ]
+}

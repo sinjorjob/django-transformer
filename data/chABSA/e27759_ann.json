@@ -1,0 +1,172 @@
+{
+  "header": {
+    "document_id": "E27759",
+    "document_name": "飯田グループホールディングス株式会社",
+    "doc_text": "訂正有価証券報告書",
+    "edi_id": "E27759",
+    "security_code": "32910",
+    "category33": "不動産業",
+    "category17": "不動産",
+    "scale": "4"
+  },
+  "sentences": [
+    {
+      "sentence_id": 0,
+      "sentence": "当連結会計年度におけるわが国経済は、企業収益や雇用環境に改善が見られ、緩やかな回復基調が続いているものの、新興国経済の減速懸念に加え、米国新政権の政策への警戒感等が影響し、先行きに不透明感を残す状況で推移いたしました",
+      "opinions": [
+        {
+          "target": "わが国経済",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 11,
+          "to": 16
+        },
+        {
+          "target": "企業収益",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 18,
+          "to": 22
+        },
+        {
+          "target": "雇用環境",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 23,
+          "to": 27
+        },
+        {
+          "target": "先行き",
+          "category": "NULL#general",
+          "polarity": "neutral",
+          "from": 86,
+          "to": 89
+        }
+      ]
+    },
+    {
+      "sentence_id": 1,
+      "sentence": "当不動産業界におきましては、住宅ローン減税等の住宅取得支援制度や低金利を背景として、住宅投資に持ち直しの動きがみられたものの、足元では弱含みの状況で推移しております",
+      "opinions": [
+        {
+          "target": "不動産業界",
+          "category": "market#general",
+          "polarity": "negative",
+          "from": 1,
+          "to": 6
+        },
+        {
+          "target": "住宅投資",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 42,
+          "to": 46
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "sentence": "このような状況のもと、当社グループは「誰もがあたり前に家を買える社会」の実現を目指し、徹底した原価管理と品質の向上に努め、高品質の住宅を低価格で供給することに注力してまいりました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 3,
+      "sentence": "また、2014年度からスタートした「第１次中期経営計画」の最終年度として、①コア事業の競争力強化、②事業ポートフォリオの拡大、③財務・経営体質の強化を基本戦略に、営業拠点の効率的な展開や、全国展開に向けたエリア拡大を図るとともに、新工法・新技術の開発や住宅関連事業の内製化、共同購買によるコストダウンやブランド戦略の推進など、各種施策に取り組んでまいりました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 4,
+      "sentence": "更に、リフォーム事業や不動産賃貸事業（不動産再生事業）、海外事業など新たな収益源確保に向けた取組みを実施し、総合不動産住宅メーカーとして、更なる成長を遂げるための基盤整備を図ってまいりました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 5,
+      "sentence": "その結果、当連結会計年度の売上収益は１兆2,324億76百万円（前期比8.5％増）、営業利益は1,136億47百万円（前期比20.1％増）、税引前利益は1,108億78百万円（前期比21.1％増）、親会社の所有者に帰属する当期利益は767億41百万円（前期比18.2％増）となりました",
+      "opinions": [
+        {
+          "target": "売上収益",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 13,
+          "to": 17
+        },
+        {
+          "target": "営業利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 42,
+          "to": 46
+        },
+        {
+          "target": "税引前利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 70,
+          "to": 75
+        },
+        {
+          "target": "当期利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 111,
+          "to": 115
+        }
+      ]
+    },
+    {
+      "sentence_id": 6,
+      "sentence": "セグメント別の業績は、次のとおりであります",
+      "opinions": []
+    },
+    {
+      "sentence_id": 7,
+      "sentence": "（注）１．セグメント間の取引については、相殺消去しております",
+      "opinions": []
+    },
+    {
+      "sentence_id": 8,
+      "sentence": "２．上記の金額には、消費税等は含まれておりません",
+      "opinions": []
+    },
+    {
+      "sentence_id": 9,
+      "sentence": "３．戸建分譲事業には、戸建住宅のほか、建築条件付戸建住宅及び宅地等が含まれます",
+      "opinions": []
+    },
+    {
+      "sentence_id": 10,
+      "sentence": "マンション分譲事業",
+      "opinions": []
+    },
+    {
+      "sentence_id": 11,
+      "sentence": "には、分譲マンションのほか、マンション用地等が含まれます",
+      "opinions": []
+    },
+    {
+      "sentence_id": 12,
+      "sentence": "請負工事事業には、注文住宅のほか、リ",
+      "opinions": []
+    },
+    {
+      "sentence_id": 13,
+      "sentence": "フォームやオプション工事等が含まれます",
+      "opinions": []
+    },
+    {
+      "sentence_id": 14,
+      "sentence": "４．一建設グループの住宅情報館㈱における戸建住宅、建築条件付戸建住宅及び宅地等については、前連結会計年度までは同セグメントの請負工事事業に含めて記載しておりましたが、当連結会計年度より、同セグメントの戸建分譲事業に含めて記載しており、前連結会計年度においても同セグメントの戸建分譲事業に含めたうえで前期比を算定しております",
+      "opinions": []
+    },
+    {
+      "sentence_id": 15,
+      "sentence": "５．タクトホームグループにおけるマンション分譲事業の件数は、オフィスビルの一棟販売を１件として記載しております",
+      "opinions": []
+    },
+    {
+      "sentence_id": 16,
+      "sentence": "６．「その他」の区分は、報告セグメントに含まれない事業セグメントであり、ファーストウッド及び当社の事業に係るものであります",
+      "opinions": []
+    }
+  ]
+}

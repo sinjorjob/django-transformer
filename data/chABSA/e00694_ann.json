@@ -1,0 +1,384 @@
+{
+  "header": {
+    "document_id": "E00694",
+    "document_name": "図書印刷株式会社",
+    "doc_text": "有価証券報告書",
+    "edi_id": "E00694",
+    "security_code": "79130",
+    "category33": "その他製品",
+    "category17": "情報通信・サービスその他",
+    "scale": "7"
+  },
+  "sentences": [
+    {
+      "sentence_id": 0,
+      "sentence": "当期におけるわが国経済は、企業収益や雇用・所得環境の改善が続く中で、緩やかな回復基調で推移しました",
+      "opinions": [
+        {
+          "target": "わが国経済",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 6,
+          "to": 11
+        },
+        {
+          "target": "企業収益",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 13,
+          "to": 17
+        },
+        {
+          "target": "雇用",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 18,
+          "to": 20
+        },
+        {
+          "target": "所得環境",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 21,
+          "to": 25
+        }
+      ]
+    },
+    {
+      "sentence_id": 1,
+      "sentence": "一方で、不安定な海外経済や金融市場の変動の影響等により、景気の先行きは不透明な状況が継続しました",
+      "opinions": [
+        {
+          "target": "海外経済",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 8,
+          "to": 12
+        },
+        {
+          "target": "先行き",
+          "category": "NULL#general",
+          "polarity": "neutral",
+          "from": 31,
+          "to": 34
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "sentence": "印刷業界におきましては、出版印刷市場は、電子出版関係が大幅に増加し、書籍は横ばいで推移しましたが、雑誌の大幅減少に歯止めがかからず、また商業印刷市場は、広告宣伝費はインターネット広告がけん引してプラス成長となりましたが、競争はますます激化するなど、依然として厳しい経営環境が継続しました",
+      "opinions": [
+        {
+          "target": "出版印刷市場",
+          "category": "market#general",
+          "polarity": "negative",
+          "from": 12,
+          "to": 18
+        },
+        {
+          "target": "電子出版関係",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 20,
+          "to": 26
+        },
+        {
+          "target": "書籍",
+          "category": "NULL#general",
+          "polarity": "neutral",
+          "from": 34,
+          "to": 36
+        },
+        {
+          "target": "雑誌",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 49,
+          "to": 51
+        },
+        {
+          "target": "商業印刷市場",
+          "category": "market#general",
+          "polarity": "negative",
+          "from": 68,
+          "to": 74
+        },
+        {
+          "target": "広告宣伝費",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 76,
+          "to": 81
+        },
+        {
+          "target": "競争",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 110,
+          "to": 112
+        }
+      ]
+    },
+    {
+      "sentence_id": 3,
+      "sentence": "このような環境の中で当社グループは、「顧客満足度向上にむけ、創造的な事業活動への変革を推進する」を中期経営方針として、「売上拡大」「収益基盤強化」「総合品質保証」「人財育成」を重点施策として、売上拡大や事業領域拡大を図るとともに、市場環境にあわせて既存事業分野の収益体質を強化してまいりました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 4,
+      "sentence": "売上拡大に向けて、主力工場である沼津工場に顧客ニーズに対応した多品種小ロット設備を導入し、また、全営業部門にモバイル端末を導入することで業務の効率化による顧客接点を増やす営業活動や情報の有効活用による営業生産性の向上を進めてまいりました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 5,
+      "sentence": "出版印刷部門では、コミックスの受注拡大や市場の中でも伸長している学習参考書・児童書等の教育関連分野への営業活動を重点的に推進し、シェア拡大を図ってまいりました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 6,
+      "sentence": "商業印刷部門では、ＢＰＯやＳＰ領域を中心とした営業活動に取り組んでまいりました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 7,
+      "sentence": "収益基盤強化においては、沼津・川越両工場を中心に製造体制の再構築を行うことで収益力の拡大を図るとともに、全社の業務効率の最大化を目指し業務プロセス改革のプロジェクトをスタートしました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 8,
+      "sentence": "総合品質保証においては、全社レベルでの規程や手順書の見直しを行うとともに、ＱＭＳ（品質マネジメントシステム）体制を整備してまいりました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 9,
+      "sentence": "更に人財育成面では、モバイル端末の活用による営業スタイルの変革とあわせて、一人ひとりの働き方の改善を図るとともに有能な「個」の育成に努めてまいりました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 10,
+      "sentence": "また、実務に直結する「資格取得」の奨励と次世代のリーダー育成を目的に階層別教育の見直しに取り組んでまいりました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 11,
+      "sentence": "以上のように、経営全般にわたる諸施策を実施しました結果、当社グループの通期の業績は、売上高は538億４千２百万円（前期比2.6％減）、売上総利益は製造体制の再構築の効果により原価率が改善し85億５百万円(前期比1.6％増)となりました",
+      "opinions": [
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "negative",
+          "from": 42,
+          "to": 45
+        },
+        {
+          "target": "売上総利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 67,
+          "to": 72
+        },
+        {
+          "target": "原価率",
+          "category": "NULL#cost",
+          "polarity": "positive",
+          "from": 87,
+          "to": 90
+        }
+      ]
+    },
+    {
+      "sentence_id": 12,
+      "sentence": "営業利益は投資有価証券売却により法人事業税の付加価値割が２億２百万円追加で発生し、販売費及び一般管理費が増加したため、２億８千３百万円（前期比19.5％減）となりました",
+      "opinions": [
+        {
+          "target": "営業利益",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 0,
+          "to": 4
+        },
+        {
+          "target": "販売費及び一般管理費",
+          "category": "NULL#cost",
+          "polarity": "negative",
+          "from": 41,
+          "to": 51
+        }
+      ]
+    },
+    {
+      "sentence_id": 13,
+      "sentence": "経常利益は７億８千８百万円（前期比13.5％減）、特別損益に政策保有株式の一部売却による投資有価証券売却益163億４千６百万円、製造体制の再構築の一環として沼津工場の不動産の一部が遊休となったことに伴う減損損失９億４千５百万円を計上し、親会社株主に帰属する当期純利益は106億８千７百万円（前期は親会社株主に帰属する当期純利益４億６千３百万円）となりました",
+      "opinions": [
+        {
+          "target": "経常利益",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 0,
+          "to": 4
+        },
+        {
+          "target": "当期純利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 128,
+          "to": 133
+        }
+      ]
+    },
+    {
+      "sentence_id": 14,
+      "sentence": "セグメント別の売上概況は、次のとおりであります",
+      "opinions": []
+    },
+    {
+      "sentence_id": 15,
+      "sentence": "(印刷事業)",
+      "opinions": []
+    },
+    {
+      "sentence_id": 16,
+      "sentence": "印刷事業の売上高は、518億８千３百万円(前期比1.0％減)となりました",
+      "opinions": [
+        {
+          "target": "印刷事業",
+          "category": "business#sales",
+          "polarity": "negative",
+          "from": 0,
+          "to": 4
+        }
+      ]
+    },
+    {
+      "sentence_id": 17,
+      "sentence": "印刷事業セグメントは、出版印刷部門と商業印刷部門から構成されております",
+      "opinions": []
+    },
+    {
+      "sentence_id": 18,
+      "sentence": "出版印刷部門では、絵本やコミック、雑誌などが増加したものの、新聞印刷の売上が減少した結果、当部門の売上高は341億８千５百万円(前期比2.4％減)となりました",
+      "opinions": [
+        {
+          "target": "出版印刷部門",
+          "category": "business#sales",
+          "polarity": "negative",
+          "from": 0,
+          "to": 6
+        },
+        {
+          "target": "絵本",
+          "category": "product#sales",
+          "polarity": "positive",
+          "from": 9,
+          "to": 11
+        },
+        {
+          "target": "コミック",
+          "category": "product#sales",
+          "polarity": "positive",
+          "from": 12,
+          "to": 16
+        },
+        {
+          "target": "雑誌",
+          "category": "product#sales",
+          "polarity": "positive",
+          "from": 17,
+          "to": 19
+        },
+        {
+          "target": "新聞印刷",
+          "category": "product#sales",
+          "polarity": "negative",
+          "from": 30,
+          "to": 34
+        }
+      ]
+    },
+    {
+      "sentence_id": 19,
+      "sentence": "商業印刷部門では、カタログ・パンフレットが減少したものの、リーフレット・チラシ、ＰＯＰ、ノベルティなどが増加した結果、当部門の売上高は176億９千７百万円(前期比1.9％増)となりました",
+      "opinions": [
+        {
+          "target": "商業印刷部門",
+          "category": "business#sales",
+          "polarity": "positive",
+          "from": 0,
+          "to": 6
+        },
+        {
+          "target": "カタログ",
+          "category": "product#sales",
+          "polarity": "negative",
+          "from": 9,
+          "to": 13
+        },
+        {
+          "target": "パンフレット",
+          "category": "product#sales",
+          "polarity": "negative",
+          "from": 14,
+          "to": 20
+        },
+        {
+          "target": "リーフレット",
+          "category": "product#sales",
+          "polarity": "positive",
+          "from": 29,
+          "to": 35
+        },
+        {
+          "target": "チラシ",
+          "category": "product#sales",
+          "polarity": "positive",
+          "from": 36,
+          "to": 39
+        },
+        {
+          "target": "ＰＯＰ",
+          "category": "product#sales",
+          "polarity": "positive",
+          "from": 40,
+          "to": 43
+        },
+        {
+          "target": "ノベルティ",
+          "category": "product#sales",
+          "polarity": "positive",
+          "from": 44,
+          "to": 49
+        }
+      ]
+    },
+    {
+      "sentence_id": 20,
+      "sentence": "(出版事業)",
+      "opinions": []
+    },
+    {
+      "sentence_id": 21,
+      "sentence": "出版事業では、教師用指導書の販売が減少した結果、当事業の売上高は19億５千８百万円(前期比32.0％減)となりました",
+      "opinions": [
+        {
+          "target": "出版事業",
+          "category": "business#sales",
+          "polarity": "negative",
+          "from": 0,
+          "to": 4
+        },
+        {
+          "target": "教師用指導書",
+          "category": "product#amount",
+          "polarity": "negative",
+          "from": 7,
+          "to": 13
+        }
+      ]
+    },
+    {
+      "sentence_id": 22,
+      "sentence": "(注)消費税等の処理方法は税抜方式によっているため、記載している金額には消費税等は含まれておりません",
+      "opinions": []
+    }
+  ]
+}

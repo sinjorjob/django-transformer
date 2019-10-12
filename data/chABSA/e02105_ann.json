@@ -1,0 +1,413 @@
+{
+  "header": {
+    "document_id": "E02105",
+    "document_name": "レシップホールディングス株式会社",
+    "doc_text": "有価証券報告書",
+    "edi_id": "E02105",
+    "security_code": "72130",
+    "category33": "輸送用機器",
+    "category17": "自動車・輸送機",
+    "scale": "7"
+  },
+  "sentences": [
+    {
+      "sentence_id": 0,
+      "sentence": "当連結会計年度におけるわが国経済は、英国のEU離脱問題や米国の新大統領の誕生、また朝鮮半島情勢の不安定化などの要因により為替や株価の乱高下はありましたものの、国内におきましては、企業の設備投資やインバウンド需要などの下支えを背景に、比較的安定した状況で推移いたしました",
+      "opinions": [
+        {
+          "target": "わが国経済",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 11,
+          "to": 16
+        },
+        {
+          "target": "朝鮮半島情勢",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 41,
+          "to": 47
+        },
+        {
+          "target": "為替",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 60,
+          "to": 62
+        },
+        {
+          "target": "株価",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 63,
+          "to": 65
+        }
+      ]
+    },
+    {
+      "sentence_id": 1,
+      "sentence": "このような中、当社グループにおきましては、当連結会計年度よりスタートいたしました中期５ヵ年計画「CA2020」の重点課題である「イノベーションで業界をリードする新商品企画と拡販」「アフターサービスの強化によるお客様満足度の向上」「海外におけるビジネス基盤の確立」「品質向上による顧客信頼の確保」「プロジェクトの見える化によるQCDの向上」の５つの課題に向けた取り組みに注力してまいりました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 2,
+      "sentence": "当連結会計年度におきましては、売上面につきましては、輸送機器事業・産業機器事業ともに前年を上回るペースで推移いたしました",
+      "opinions": [
+        {
+          "target": "輸送機器事業",
+          "category": "business#sales",
+          "polarity": "positive",
+          "from": 26,
+          "to": 32
+        },
+        {
+          "target": "産業機器事業",
+          "category": "business#sales",
+          "polarity": "positive",
+          "from": 33,
+          "to": 39
+        }
+      ]
+    },
+    {
+      "sentence_id": 3,
+      "sentence": "また利益面につきましても、米国ワシントン州のプロジェクトを完納し、北米向けの開発投資が一段落したことに加え、全社的に原価低減及び経費削減を推し進めたことにより、利益率が改善いたしました",
+      "opinions": [
+        {
+          "target": "利益率",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 80,
+          "to": 83
+        }
+      ]
+    },
+    {
+      "sentence_id": 4,
+      "sentence": "この結果、売上高は前期比4.8％増の169億85百万円、営業利益は４億83百万円（前期は５億71百万円の営業損失）、経常利益は３億54百万円（前期は６億49百万円の経常損失）、親会社株主に帰属する当期純利益は50百万円（前期は13億78百万円の親会社株主に帰属する当期純損失）となりました",
+      "opinions": [
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 5,
+          "to": 8
+        },
+        {
+          "target": "営業利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 28,
+          "to": 32
+        },
+        {
+          "target": "経常利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 58,
+          "to": 62
+        },
+        {
+          "target": "当期純利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 98,
+          "to": 103
+        }
+      ]
+    },
+    {
+      "sentence_id": 5,
+      "sentence": "a.輸送機器事業",
+      "opinions": []
+    },
+    {
+      "sentence_id": 6,
+      "sentence": "当事業の売上高は116億74百万円（前年同期比2.2％増）、営業利益は２億26百万円（前期は６億38百万円の営業損失）となりました",
+      "opinions": [
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 4,
+          "to": 7
+        },
+        {
+          "target": "営業利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 30,
+          "to": 34
+        }
+      ]
+    },
+    {
+      "sentence_id": 7,
+      "sentence": "市場別の売上高は、バス市場が92億79百万円（前年同期比3.5％増）、鉄道市場が14億54百万円（前年同期比8.3％減）、自動車市場が９億40百万円（前年同期比7.5％増）となりました",
+      "opinions": [
+        {
+          "target": "バス市場",
+          "category": "business#sales",
+          "polarity": "positive",
+          "from": 9,
+          "to": 13
+        },
+        {
+          "target": "鉄道市場",
+          "category": "business#sales",
+          "polarity": "negative",
+          "from": 35,
+          "to": 39
+        },
+        {
+          "target": "自動車市場",
+          "category": "business#sales",
+          "polarity": "positive",
+          "from": 61,
+          "to": 66
+        }
+      ]
+    },
+    {
+      "sentence_id": 8,
+      "sentence": "バス市場は、国内において、主力のバス用運賃箱は前期並みとなりましたものの、新製品のカラーLED行先表示器や車載用液晶表示器OBC－VISIONなど表示機器の販売が好調に推移したこと、また海外においても、米国ワシントン州の事業者様に自動運賃収受システム一式を完納したことにより、増収となりました",
+      "opinions": [
+        {
+          "target": "バス市場",
+          "category": "business#sales",
+          "polarity": "positive",
+          "from": 0,
+          "to": 4
+        },
+        {
+          "target": "運賃箱",
+          "category": "product#amount",
+          "polarity": "neutral",
+          "from": 19,
+          "to": 22
+        },
+        {
+          "target": "カラーLED行先表示器",
+          "category": "product#amount",
+          "polarity": "positive",
+          "from": 41,
+          "to": 52
+        },
+        {
+          "target": "OBC－VISION",
+          "category": "product#amount",
+          "polarity": "positive",
+          "from": 61,
+          "to": 71
+        }
+      ]
+    },
+    {
+      "sentence_id": 9,
+      "sentence": "鉄道市場は、鉄道用ワンマン機器の売上減により、減収となりました",
+      "opinions": [
+        {
+          "target": "鉄道市場",
+          "category": "business#sales",
+          "polarity": "negative",
+          "from": 0,
+          "to": 4
+        },
+        {
+          "target": "ワンマン機器",
+          "category": "product#sales",
+          "polarity": "negative",
+          "from": 9,
+          "to": 15
+        }
+      ]
+    },
+    {
+      "sentence_id": 10,
+      "sentence": "自動車市場は、国内における一般貨物運搬用トラックの販売台数増加に伴い、自動車用LED灯具が好調に推移したことから、増収となりました",
+      "opinions": [
+        {
+          "target": "自動車市場",
+          "category": "business#sales",
+          "polarity": "positive",
+          "from": 0,
+          "to": 5
+        },
+        {
+          "target": "トラック",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 20,
+          "to": 24
+        },
+        {
+          "target": "LED灯具",
+          "category": "product#general",
+          "polarity": "positive",
+          "from": 39,
+          "to": 44
+        }
+      ]
+    },
+    {
+      "sentence_id": 11,
+      "sentence": "損益面につきましては、増収効果に加え、北米市場向けの開発投資が一段落したことや、原価低減及び経費削減を推進したことにより、黒字転換いたしました",
+      "opinions": [
+        {
+          "target": "損益面",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 0,
+          "to": 3
+        }
+      ]
+    },
+    {
+      "sentence_id": 12,
+      "sentence": "b.産業機器事業",
+      "opinions": []
+    },
+    {
+      "sentence_id": 13,
+      "sentence": "当事業の売上高は52億67百万円（前年同期比11.3％増）、営業利益は３億15百万円（前年同期比147.3%増）となりました",
+      "opinions": [
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 4,
+          "to": 7
+        },
+        {
+          "target": "営業利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 30,
+          "to": 34
+        }
+      ]
+    },
+    {
+      "sentence_id": 14,
+      "sentence": "市場別の売上高は、電源ソリューション市場が28億74百万円（前年同期比25.3％増）、エコ照明・高電圧ソリューション市場が６億55百万円（前年同期比21.5％減）、EMS市場が17億37百万円（前年同期比8.2％増）となりました",
+      "opinions": [
+        {
+          "target": "電源ソリューション市場",
+          "category": "business#sales",
+          "polarity": "positive",
+          "from": 9,
+          "to": 20
+        },
+        {
+          "target": "エコ照明・高電圧ソリューション市場",
+          "category": "business#sales",
+          "polarity": "negative",
+          "from": 43,
+          "to": 60
+        },
+        {
+          "target": "EMS市場",
+          "category": "business#sales",
+          "polarity": "positive",
+          "from": 82,
+          "to": 87
+        }
+      ]
+    },
+    {
+      "sentence_id": 15,
+      "sentence": "電源ソリューション市場は、通信基地局向け無停電電源装置の受注増により、大幅な増収となりました",
+      "opinions": [
+        {
+          "target": "電源ソリューション市場",
+          "category": "business#sales",
+          "polarity": "positive",
+          "from": 0,
+          "to": 11
+        },
+        {
+          "target": "無停電電源装置",
+          "category": "product#amount",
+          "polarity": "positive",
+          "from": 20,
+          "to": 27
+        }
+      ]
+    },
+    {
+      "sentence_id": 16,
+      "sentence": "エコ照明・高電圧ソリューション市場は、LED電源等のエコ照明製品、特殊用途向け変圧器等の高電圧製品ともに売上減となり、減収となりました",
+      "opinions": [
+        {
+          "target": "エコ照明・高電圧ソリューション市場",
+          "category": "business#sales",
+          "polarity": "negative",
+          "from": 0,
+          "to": 17
+        },
+        {
+          "target": "エコ照明製品",
+          "category": "product#sales",
+          "polarity": "negative",
+          "from": 26,
+          "to": 32
+        },
+        {
+          "target": "高電圧製品",
+          "category": "product#sales",
+          "polarity": "negative",
+          "from": 44,
+          "to": 49
+        }
+      ]
+    },
+    {
+      "sentence_id": 17,
+      "sentence": "EMS市場は、自動車向けプリント基板の受注増により、増収となりました",
+      "opinions": [
+        {
+          "target": "EMS市場",
+          "category": "business#sales",
+          "polarity": "positive",
+          "from": 0,
+          "to": 5
+        },
+        {
+          "target": "プリント基板",
+          "category": "product#amount",
+          "polarity": "positive",
+          "from": 12,
+          "to": 18
+        }
+      ]
+    },
+    {
+      "sentence_id": 18,
+      "sentence": "利益面につきましては、増収効果に加え、原価低減の推進により増益となりました",
+      "opinions": [
+        {
+          "target": "利益面",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 0,
+          "to": 3
+        }
+      ]
+    },
+    {
+      "sentence_id": 19,
+      "sentence": "c.その他",
+      "opinions": []
+    },
+    {
+      "sentence_id": 20,
+      "sentence": "当事業の売上高は43百万円、営業利益は３百万円となりました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 21,
+      "sentence": "事業の内容は、主としてレシップホールディングス株式会社による不動産賃貸業であります",
+      "opinions": []
+    }
+  ]
+}

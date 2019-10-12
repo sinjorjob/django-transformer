@@ -1,0 +1,329 @@
+{
+  "header": {
+    "document_id": "E04976",
+    "document_name": "株式会社フォーカスシステムズ",
+    "doc_text": "有価証券報告書",
+    "edi_id": "E04976",
+    "security_code": "46620",
+    "category33": "情報・通信業",
+    "category17": "情報通信・サービスその他",
+    "scale": "7"
+  },
+  "sentences": [
+    {
+      "sentence_id": 0,
+      "sentence": "当事業年度におけるわが国経済は、政府主導の経済政策の効果もあって、雇用・所得環境の改善や、企業収益・設備投資の改善が続く中で、一部に改善の遅れもみられますが、緩やかな回復基調が続いております",
+      "opinions": [
+        {
+          "target": "わが国経済",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 9,
+          "to": 14
+        },
+        {
+          "target": "雇用",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 33,
+          "to": 35
+        },
+        {
+          "target": "所得環境",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 36,
+          "to": 40
+        },
+        {
+          "target": "企業収益",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 45,
+          "to": 49
+        },
+        {
+          "target": "設備投資",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 50,
+          "to": 54
+        }
+      ]
+    },
+    {
+      "sentence_id": 1,
+      "sentence": "しかし、アメリカの金融政策正常化の影響や中国をはじめとするアジア新興国等の経済の先行き、政策に関する不確実性による影響、金融資本市場の変動の影響等について留意する必要があります",
+      "opinions": []
+    },
+    {
+      "sentence_id": 2,
+      "sentence": "情報サービス業界におきましては、ＡＩやＩｏＴ、フィンテックなどの最先端技術の動きを背景に、情報システムに関する投資意欲は、高水準で推移しており、人材不足という状況が続いております",
+      "opinions": [
+        {
+          "target": "投資意欲",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 55,
+          "to": 59
+        }
+      ]
+    },
+    {
+      "sentence_id": 3,
+      "sentence": "このような状況の中、当社は、「公共関連事業」・「民間関連事業」・「セキュリティ機器関連事業」の３報告セグメントそれぞれで事業環境・得意分野が異なることを念頭に置いた上で、人材育成・採用の強化、取引深耕、新規事業・自社製品の創出、そして組織間の連携強化による強い組織の構築を経営方針に掲げ、事業活動を推進しております",
+      "opinions": []
+    },
+    {
+      "sentence_id": 4,
+      "sentence": "この結果、当事業年度業績は、売上高17,846百万円（前事業年度比8.3％増）、営業利益743百万円（前事業年度比22.0％減）、経常利益731百万円（前事業年度比23.0％減）、当期純利益551百万円（前事業年度比25.3％減）となりました",
+      "opinions": [
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 14,
+          "to": 17
+        },
+        {
+          "target": "営業利益",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 40,
+          "to": 44
+        },
+        {
+          "target": "経常利益",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 65,
+          "to": 69
+        },
+        {
+          "target": "当期純利益",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 90,
+          "to": 95
+        }
+      ]
+    },
+    {
+      "sentence_id": 5,
+      "sentence": "セグメントの業績を示すと、次のとおりであります",
+      "opinions": []
+    },
+    {
+      "sentence_id": 6,
+      "sentence": "①公共関連事業",
+      "opinions": []
+    },
+    {
+      "sentence_id": 7,
+      "sentence": "当セグメントにおきましては、航空管制関連業務、貿易流通関連業務、医療事務関連業務の受注増加により売上高は順調に増加いたしましたが、一部のプロジェクトにおいて発生した進捗遅れによりコストが増大いたしました",
+      "opinions": [
+        {
+          "target": "航空管制関連業務",
+          "category": "product#amount",
+          "polarity": "positive",
+          "from": 14,
+          "to": 22
+        },
+        {
+          "target": "貿易流通関連業務",
+          "category": "product#amount",
+          "polarity": "positive",
+          "from": 23,
+          "to": 31
+        },
+        {
+          "target": "医療事務関連業務",
+          "category": "product#amount",
+          "polarity": "positive",
+          "from": 32,
+          "to": 40
+        },
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 48,
+          "to": 51
+        },
+        {
+          "target": "コスト",
+          "category": "NULL#cost",
+          "polarity": "negative",
+          "from": 89,
+          "to": 92
+        }
+      ]
+    },
+    {
+      "sentence_id": 8,
+      "sentence": "その結果、売上高は6,195百万円（前年同期比8.0％増）となりました",
+      "opinions": [
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 5,
+          "to": 8
+        }
+      ]
+    },
+    {
+      "sentence_id": 9,
+      "sentence": "セグメント利益は691百万円（前年同期比17.2％減）となりました",
+      "opinions": [
+        {
+          "target": "セグメント利益",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 0,
+          "to": 7
+        }
+      ]
+    },
+    {
+      "sentence_id": 10,
+      "sentence": "②民間関連事業",
+      "opinions": []
+    },
+    {
+      "sentence_id": 11,
+      "sentence": "当セグメントにおきましては、主に主要取引先からのインフラ構築・運用サービス及びＥＲＰ関連製品のカスタマイズと設計・開発が順調に伸びており、売上高は順調に増加しましたが、業界全体の課題でもある人材確保の厳しい状況が続き、外注費が増加いたしました",
+      "opinions": [
+        {
+          "target": "インフラ構築・運用サービス",
+          "category": "product#amount",
+          "polarity": "positive",
+          "from": 24,
+          "to": 37
+        },
+        {
+          "target": "カスタマイズ",
+          "category": "product#amount",
+          "polarity": "positive",
+          "from": 47,
+          "to": 53
+        },
+        {
+          "target": "設計",
+          "category": "product#amount",
+          "polarity": "positive",
+          "from": 54,
+          "to": 56
+        },
+        {
+          "target": "開発",
+          "category": "product#amount",
+          "polarity": "positive",
+          "from": 57,
+          "to": 59
+        },
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 69,
+          "to": 72
+        },
+        {
+          "target": "外注費",
+          "category": "NULL#cost",
+          "polarity": "negative",
+          "from": 109,
+          "to": 112
+        }
+      ]
+    },
+    {
+      "sentence_id": 12,
+      "sentence": "また、大阪・名古屋を拠点とした地方につきましては、業務実績を積み、拡大を進めてまいりました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 13,
+      "sentence": "その結果、売上高は10,456百万円（前年同期比7.4％増）となりました",
+      "opinions": [
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 5,
+          "to": 8
+        }
+      ]
+    },
+    {
+      "sentence_id": 14,
+      "sentence": "セグメント利益は1,163百万円（前年同期比2.0％減）となりました",
+      "opinions": [
+        {
+          "target": "セグメント利益",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 0,
+          "to": 7
+        }
+      ]
+    },
+    {
+      "sentence_id": 15,
+      "sentence": "③セキュリティ機器関連事業",
+      "opinions": []
+    },
+    {
+      "sentence_id": 16,
+      "sentence": "当セグメントにおきましては、近年では、サイバー攻撃に対する事後対応の一環として、組織内にコンピュータ緊急対応チームを立ち上げる組織が急増している背景もあり、民間企業に対する当社の製品及びサービスの導入が広がったことや、一部官公庁関連の大型受注があったことにより、売上高、利益ともに増収、増益となりました",
+      "opinions": [
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 131,
+          "to": 134
+        },
+        {
+          "target": "利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 135,
+          "to": 137
+        }
+      ]
+    },
+    {
+      "sentence_id": 17,
+      "sentence": "また、新規事業開拓分野におきましては、介護・医療分野におけるＩｏＴやＡＩを中心とした事業化に取組んでまいりました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 18,
+      "sentence": "その結果、売上高は1,195百万円（前年同期比18.4％増）となりました",
+      "opinions": [
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 5,
+          "to": 8
+        }
+      ]
+    },
+    {
+      "sentence_id": 19,
+      "sentence": "セグメント利益は216百万円（前年同期比24.9％増）となりました",
+      "opinions": [
+        {
+          "target": "セグメント利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 0,
+          "to": 7
+        }
+      ]
+    }
+  ]
+}

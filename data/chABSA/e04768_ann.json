@@ -1,0 +1,668 @@
+{
+  "header": {
+    "document_id": "E04768",
+    "document_name": "株式会社ジャックス",
+    "doc_text": "訂正有価証券報告書",
+    "edi_id": "E04768",
+    "security_code": "85840",
+    "category33": "その他金融業",
+    "category17": "金融（除く銀行）",
+    "scale": "6"
+  },
+  "sentences": [
+    {
+      "sentence_id": 0,
+      "sentence": "当連結会計年度におけるわが国経済は、政府の各種経済政策や日銀による金融政策等を背景に、雇用・所得環境に改善が見られ、景気は緩やかな回復基調が続いております",
+      "opinions": [
+        {
+          "target": "雇用",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 43,
+          "to": 45
+        },
+        {
+          "target": "所得環境",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 46,
+          "to": 50
+        },
+        {
+          "target": "景気",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 58,
+          "to": 60
+        }
+      ]
+    },
+    {
+      "sentence_id": 1,
+      "sentence": "一方、米国新政権の政策運営や、英国のＥＵ離脱問題による欧州経済の動向など、世界経済の先行きに不透明感が高まっております",
+      "opinions": [
+        {
+          "target": "世界経済",
+          "category": "NULL#general",
+          "polarity": "neutral",
+          "from": 37,
+          "to": 41
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "sentence": "当社グループを取り巻く環境は、電子商取引（EC）市場の拡大、非接触型電子マネーの普及など「決済のキャッシュレス化」が進み、今後はモバイル決済のさらなる普及も見込まれ、決済ビジネスにおける競争はますます激化しております",
+      "opinions": []
+    },
+    {
+      "sentence_id": 3,
+      "sentence": "このような中、当社グループは中期３カ年経営計画「ACT-Σ（アクト・シグマ）」の２年目を終え、経営資源の戦略的な活用に向けたコスト構造改革を推進してきました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 4,
+      "sentence": "また、海外事業として新たにフィリピンへの進出、「次世代審査システム」の稼働、アクワイアリング事業への参入、業界初となるクラウドファンディング事業の開始など、中計ビジョン「日本を代表する先進的なコンシューマーファイナンスカンパニー」の実現に向け、「グループシナジー」、「先進性」、「CSR」を重点方針とする経営戦略を着実に実行してまいりました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 5,
+      "sentence": "クレジット事業は、住宅関連、高級時計、二輪の取扱いが拡大し、輸入車、中古車及びオートリースの取扱いが好調に推移したことから取扱高が増加いたしました",
+      "opinions": [
+        {
+          "target": "クレジット事業",
+          "category": "business#amount",
+          "polarity": "positive",
+          "from": 0,
+          "to": 7
+        },
+        {
+          "target": "住宅関連",
+          "category": "product#amount",
+          "polarity": "positive",
+          "from": 9,
+          "to": 13
+        },
+        {
+          "target": "高級時計",
+          "category": "product#amount",
+          "polarity": "positive",
+          "from": 14,
+          "to": 18
+        },
+        {
+          "target": "二輪",
+          "category": "product#amount",
+          "polarity": "positive",
+          "from": 19,
+          "to": 21
+        },
+        {
+          "target": "輸入車",
+          "category": "product#amount",
+          "polarity": "positive",
+          "from": 30,
+          "to": 33
+        },
+        {
+          "target": "中古車",
+          "category": "product#amount",
+          "polarity": "positive",
+          "from": 34,
+          "to": 37
+        },
+        {
+          "target": "オートリース",
+          "category": "product#amount",
+          "polarity": "positive",
+          "from": 39,
+          "to": 45
+        }
+      ]
+    },
+    {
+      "sentence_id": 6,
+      "sentence": "カード事業は、上新電機株式会社をはじめとした提携カードの新規会員獲得が堅調に推移し、在籍会員数が拡大いたしました",
+      "opinions": [
+        {
+          "target": "カード事業",
+          "category": "business#amount",
+          "polarity": "positive",
+          "from": 0,
+          "to": 5
+        },
+        {
+          "target": "提携カード",
+          "category": "product#amount",
+          "polarity": "positive",
+          "from": 22,
+          "to": 27
+        }
+      ]
+    },
+    {
+      "sentence_id": 7,
+      "sentence": "また、各種プロモーションを実施したことによりショッピングの取扱高は増加、アリペイやApple Payなどの決済メニューの多様化にも取り組みました",
+      "opinions": [
+        {
+          "target": "ショッピング",
+          "category": "product#amount",
+          "polarity": "positive",
+          "from": 22,
+          "to": 28
+        }
+      ]
+    },
+    {
+      "sentence_id": 8,
+      "sentence": "キャッシングは、各種プロモーションを実施いたしましたが取扱高は減少いたしました",
+      "opinions": [
+        {
+          "target": "キャッシング",
+          "category": "product#amount",
+          "polarity": "negative",
+          "from": 0,
+          "to": 6
+        }
+      ]
+    },
+    {
+      "sentence_id": 9,
+      "sentence": "ファイナンス事業は、銀行個人ローン保証等が好調に推移し、さらに投資用マンション向け住宅ローン保証においては、過去最高の取扱いとなった結果、取扱高が増加いたしました",
+      "opinions": [
+        {
+          "target": "ファイナンス事業",
+          "category": "business#amount",
+          "polarity": "positive",
+          "from": 0,
+          "to": 8
+        },
+        {
+          "target": "銀行個人ローン保証",
+          "category": "product#general",
+          "polarity": "positive",
+          "from": 10,
+          "to": 19
+        },
+        {
+          "target": "住宅ローン保証",
+          "category": "product#amount",
+          "polarity": "positive",
+          "from": 41,
+          "to": 48
+        }
+      ]
+    },
+    {
+      "sentence_id": 10,
+      "sentence": "新事業は、連結子会社ジャックス・ペイメント・ソリューションズ株式会社が提供する後払い決済サービス「ATODENE（アトディーネ）」において、株式会社バンダイをはじめとした新規提携先が拡大し、取扱高が増加いたしました",
+      "opinions": [
+        {
+          "target": "新事業",
+          "category": "business#amount",
+          "polarity": "positive",
+          "from": 0,
+          "to": 3
+        },
+        {
+          "target": "ATODENE（アトディーネ）",
+          "category": "product#general",
+          "polarity": "positive",
+          "from": 49,
+          "to": 64
+        }
+      ]
+    },
+    {
+      "sentence_id": 11,
+      "sentence": "海外事業は、連結子会社であるベトナムの現地法人が、二輪のローンカウンターを増設、家電ローンにおいては営業エリアの拡大を図った結果、取扱高が増加いたしました",
+      "opinions": [
+        {
+          "target": "海外事業",
+          "category": "business#amount",
+          "polarity": "positive",
+          "from": 0,
+          "to": 4
+        }
+      ]
+    },
+    {
+      "sentence_id": 12,
+      "sentence": "持分法適用関連会社であるインドネシアのファイナンス会社PT Mitra Pinasthika Mustika Financeについては、今後の事業拡大を展望し、株式の追加取得を本年２月に決議し子会社化することにいたしました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 13,
+      "sentence": "さらに、昨年５月にはフィリピンで三菱自動車を専門に取扱う販売金融会社、MMPC Auto Financial Services Corporationを合弁で設立、昨年９月より本格的に営業を開始し、順調に取扱いを伸ばしております",
+      "opinions": [
+        {
+          "target": "MMPC Auto Financial Services Corporation",
+          "category": "company#amount",
+          "polarity": "positive",
+          "from": 35,
+          "to": 75
+        }
+      ]
+    },
+    {
+      "sentence_id": 14,
+      "sentence": "なお、当社グループの営業費用につきましては、コスト構造改革の推進や、組織・業務運営の効率化を図り経費削減に努めてまいりました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 15,
+      "sentence": "また、良好な調達環境により引き続き金融費用が減少いたしました",
+      "opinions": [
+        {
+          "target": "調達環境",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 6,
+          "to": 10
+        },
+        {
+          "target": "金融費用",
+          "category": "NULL#cost",
+          "polarity": "positive",
+          "from": 17,
+          "to": 21
+        }
+      ]
+    },
+    {
+      "sentence_id": 16,
+      "sentence": "一方、退職給付費用や戦略的投資のためのシステム関連費用等が増加しました",
+      "opinions": [
+        {
+          "target": "システム関連費用",
+          "category": "NULL#cost",
+          "polarity": "negative",
+          "from": 19,
+          "to": 27
+        }
+      ]
+    },
+    {
+      "sentence_id": 17,
+      "sentence": "そのほか営業債権残高の拡大に伴う未収債権の発生に鑑み、貸倒引当金の積み増しを行った結果、一時的に費用が増加いたしました",
+      "opinions": [
+        {
+          "target": "費用",
+          "category": "NULL#cost",
+          "polarity": "negative",
+          "from": 48,
+          "to": 50
+        }
+      ]
+    },
+    {
+      "sentence_id": 18,
+      "sentence": "以上の結果、当社グループの業績は、連結取扱高３兆7,681億18百万円（前期比10.7％増）、連結営業収益1,196億54百万円（前期比5.3％増）、連結経常利益118億15百万円（前期比2.3％減）、親会社株主に帰属する当期純利益87億24百万円（前期比15.3％増）となりました",
+      "opinions": [
+        {
+          "target": "連結取扱高",
+          "category": "NULL#amount",
+          "polarity": "positive",
+          "from": 17,
+          "to": 22
+        },
+        {
+          "target": "連結営業収益",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 47,
+          "to": 53
+        },
+        {
+          "target": "連結経常利益",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 75,
+          "to": 81
+        },
+        {
+          "target": "当期純利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 111,
+          "to": 116
+        }
+      ]
+    },
+    {
+      "sentence_id": 19,
+      "sentence": "当社グループは信販事業の単一セグメントであるため、セグメント情報の記載を省略しております",
+      "opinions": []
+    },
+    {
+      "sentence_id": 20,
+      "sentence": "主な部門別の状況は以下のとおりです",
+      "opinions": []
+    },
+    {
+      "sentence_id": 21,
+      "sentence": "（2）部門別の状況",
+      "opinions": []
+    },
+    {
+      "sentence_id": 22,
+      "sentence": "（包括信用購入あっせん）",
+      "opinions": []
+    },
+    {
+      "sentence_id": 23,
+      "sentence": "カードショッピングの取扱高は、ポイント還元率の見直しを行った一部のクレジットカードで取扱い減少の影響があったものの、利用促進キャンペーン等を積極的に行ってきた結果、取扱高が増加いたしました",
+      "opinions": [
+        {
+          "target": "カードショッピング",
+          "category": "product#amount",
+          "polarity": "positive",
+          "from": 0,
+          "to": 9
+        },
+        {
+          "target": "クレジットカード",
+          "category": "product#amount",
+          "polarity": "negative",
+          "from": 33,
+          "to": 41
+        }
+      ]
+    },
+    {
+      "sentence_id": 24,
+      "sentence": "また、家賃決済をはじめとするペイメント関連商品においても、新規提携先の拡大及び大手取引先の安定的な取扱い拡大により順調に推移いたしました",
+      "opinions": [
+        {
+          "target": "ペイメント関連商品",
+          "category": "product#general",
+          "polarity": "positive",
+          "from": 14,
+          "to": 23
+        },
+        {
+          "target": "新規提携先",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 29,
+          "to": 34
+        },
+        {
+          "target": "取扱い",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 49,
+          "to": 52
+        }
+      ]
+    },
+    {
+      "sentence_id": 25,
+      "sentence": "さらに、九州・中四国を中心に展開するディスカウントストアのダイレックス株式会社と提携し、「ダイレックスクレジットポイントカード」の発行や、北海道内に40店舗のサービスステーションを展開する茂田石油株式会社と提携した、クレジットカード「MODACA」の発行を開始するなど、新規提携先の獲得にも努めてきました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 26,
+      "sentence": "当部門の連結取扱高は、１兆1,961億77百万円（前期比6.1％増）となりました",
+      "opinions": [
+        {
+          "target": "連結取扱高",
+          "category": "NULL#amount",
+          "polarity": "positive",
+          "from": 4,
+          "to": 9
+        }
+      ]
+    },
+    {
+      "sentence_id": 27,
+      "sentence": "（個別信用購入あっせん）",
+      "opinions": []
+    },
+    {
+      "sentence_id": 28,
+      "sentence": "ショッピングクレジットにつきましては、高級時計・二輪等の業種が牽引し順調に拡大いたしました",
+      "opinions": [
+        {
+          "target": "ショッピングクレジット",
+          "category": "product#general",
+          "polarity": "positive",
+          "from": 0,
+          "to": 11
+        }
+      ]
+    },
+    {
+      "sentence_id": 29,
+      "sentence": "また、Web商品の利便性向上を図った結果、Webの利用率が伸長いたしました",
+      "opinions": [
+        {
+          "target": "利用率",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 25,
+          "to": 28
+        }
+      ]
+    },
+    {
+      "sentence_id": 30,
+      "sentence": "オートローンにつきましては、国産新車の取扱いが、各メーカーファイナンスの施策等の影響を受けたものの、キャプティブファイナンス（※）の取り組み強化により、輸入車の取扱高が好調に推移いたしました",
+      "opinions": [
+        {
+          "target": "取扱い",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 19,
+          "to": 22
+        },
+        {
+          "target": "取扱高",
+          "category": "NULL#amount",
+          "polarity": "positive",
+          "from": 80,
+          "to": 83
+        }
+      ]
+    },
+    {
+      "sentence_id": 31,
+      "sentence": "また、中古車においては、各種施策による中古車ディーラーとの取引拡大に努めてきた結果、取扱高が増加いたしました",
+      "opinions": [
+        {
+          "target": "中古車",
+          "category": "product#amount",
+          "polarity": "positive",
+          "from": 3,
+          "to": 6
+        }
+      ]
+    },
+    {
+      "sentence_id": 32,
+      "sentence": "当部門の連結取扱高は、6,403億21百万円（前期比43.5％増）となりました",
+      "opinions": [
+        {
+          "target": "連結取扱高",
+          "category": "NULL#amount",
+          "polarity": "positive",
+          "from": 4,
+          "to": 9
+        }
+      ]
+    },
+    {
+      "sentence_id": 33,
+      "sentence": "（※）メーカーと連携した自動車金融販売業",
+      "opinions": []
+    },
+    {
+      "sentence_id": 34,
+      "sentence": "（信用保証）",
+      "opinions": []
+    },
+    {
+      "sentence_id": 35,
+      "sentence": "銀行個人ローン保証につきましては、株式会社三菱東京UFJ銀行のWeb商品や地方銀行等との取引拡大を図った結果、取扱高が増加いたしました",
+      "opinions": [
+        {
+          "target": "銀行個人ローン保証",
+          "category": "product#amount",
+          "polarity": "positive",
+          "from": 0,
+          "to": 9
+        }
+      ]
+    },
+    {
+      "sentence_id": 36,
+      "sentence": "また、新商品として目的ローン借換商品「Reファイナンス」及び「無担保住宅ローン」をリリースいたしました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 37,
+      "sentence": "さらに非対面Web申込システムの機能を拡充し、提携先の拡大に努めてまいりました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 38,
+      "sentence": "投資用マンション向け住宅ローン保証につきましては、投資用マンションの販売の好調を受け、取引拡大に向けて営業を強化した結果、過去最高の取扱高となりました",
+      "opinions": [
+        {
+          "target": "住宅ローン保証",
+          "category": "product#amount",
+          "polarity": "positive",
+          "from": 10,
+          "to": 17
+        },
+        {
+          "target": "販売",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 34,
+          "to": 36
+        }
+      ]
+    },
+    {
+      "sentence_id": 39,
+      "sentence": "住宅関連商品につきましては、ソーラーローンの取扱高が減少する中、ハウスメーカーを中心としたリフォームローンの取扱高の拡大により前年実績を上回りました",
+      "opinions": [
+        {
+          "target": "住宅関連商品",
+          "category": "product#amount",
+          "polarity": "positive",
+          "from": 0,
+          "to": 6
+        },
+        {
+          "target": "ソーラーローン",
+          "category": "product#amount",
+          "polarity": "negative",
+          "from": 14,
+          "to": 21
+        },
+        {
+          "target": "リフォームローン",
+          "category": "product#amount",
+          "polarity": "positive",
+          "from": 45,
+          "to": 53
+        }
+      ]
+    },
+    {
+      "sentence_id": 40,
+      "sentence": "当部門の連結取扱高は、7,803億78百万円（前期比3.8％増）となりました",
+      "opinions": [
+        {
+          "target": "連結取扱高",
+          "category": "NULL#amount",
+          "polarity": "positive",
+          "from": 4,
+          "to": 9
+        }
+      ]
+    },
+    {
+      "sentence_id": 41,
+      "sentence": "（融資）",
+      "opinions": []
+    },
+    {
+      "sentence_id": 42,
+      "sentence": "カードキャッシングにつきましては、プロモーションの拡充を図ってまいりましたが、取扱高は減少いたしました",
+      "opinions": [
+        {
+          "target": "カードキャッシング",
+          "category": "product#amount",
+          "polarity": "negative",
+          "from": 0,
+          "to": 9
+        }
+      ]
+    },
+    {
+      "sentence_id": 43,
+      "sentence": "当部門の連結取扱高は、726億67百万円（前期比6.1％減）となりました",
+      "opinions": [
+        {
+          "target": "連結取扱高",
+          "category": "NULL#amount",
+          "polarity": "negative",
+          "from": 4,
+          "to": 9
+        }
+      ]
+    },
+    {
+      "sentence_id": 44,
+      "sentence": "（その他）",
+      "opinions": []
+    },
+    {
+      "sentence_id": 45,
+      "sentence": "集金代行業務につきましては、家賃及びスポーツクラブ等の継続課金の取扱いが順調に推移いたしました",
+      "opinions": [
+        {
+          "target": "取扱い",
+          "category": "product#general",
+          "polarity": "positive",
+          "from": 32,
+          "to": 35
+        }
+      ]
+    },
+    {
+      "sentence_id": 46,
+      "sentence": "また、連結子会社のジャックスリース株式会社におけるリース事業も堅調に推移いたしました",
+      "opinions": [
+        {
+          "target": "リース事業",
+          "category": "business#general",
+          "polarity": "positive",
+          "from": 25,
+          "to": 30
+        }
+      ]
+    },
+    {
+      "sentence_id": 47,
+      "sentence": "そのほかネッツトヨタ多摩株式会社と提携し、ハウス型プリペイドカード「T's Family Member's Card」による車両購入資金等の積立制度を構築いたしました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 48,
+      "sentence": "当部門の連結取扱高は、１兆785億73百万円（前期比7.6％増）となりました",
+      "opinions": [
+        {
+          "target": "連結取扱高",
+          "category": "NULL#amount",
+          "polarity": "positive",
+          "from": 4,
+          "to": 9
+        }
+      ]
+    }
+  ]
+}

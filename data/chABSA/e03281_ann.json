@@ -1,0 +1,175 @@
+{
+  "header": {
+    "document_id": "E03281",
+    "document_name": "Ａｓ−ｍｅエステール株式会社",
+    "doc_text": "有価証券報告書",
+    "edi_id": "E03281",
+    "security_code": "78720",
+    "category33": "その他製品",
+    "category17": "情報通信・サービスその他",
+    "scale": "7"
+  },
+  "sentences": [
+    {
+      "sentence_id": 0,
+      "sentence": "当連結会計年度におけるわが国経済は、中国経済の減速、欧州や米国での不透明な政治状況の現出などわが国をとりまく状況において不透明感を増しましたが、日銀の金融緩和による下支えなどにより緩やかな改善が見られ、企業業績では、期央の円高などによる減速があったものの、概ね、堅調に推移しました",
+      "opinions": [
+        {
+          "target": "わが国経済",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 11,
+          "to": 16
+        },
+        {
+          "target": "中国経済",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 18,
+          "to": 22
+        },
+        {
+          "target": "政治状況",
+          "category": "NULL#general",
+          "polarity": "neutral",
+          "from": 37,
+          "to": 41
+        },
+        {
+          "target": "企業業績",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 101,
+          "to": 105
+        }
+      ]
+    },
+    {
+      "sentence_id": 1,
+      "sentence": "一方、個人消費は、雇用環境は堅調に推移しているものの、景気先行きに対する警戒感などから低調に推移しました",
+      "opinions": [
+        {
+          "target": "個人消費",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 3,
+          "to": 7
+        },
+        {
+          "target": "雇用環境",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 9,
+          "to": 13
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "sentence": "当連結会計年度の業績は、売上高は、店舗数の減少などにより、325億79百万円（前年同期比4.2％減）となりました",
+      "opinions": [
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "negative",
+          "from": 12,
+          "to": 15
+        },
+        {
+          "target": "店舗数",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 17,
+          "to": 20
+        }
+      ]
+    },
+    {
+      "sentence_id": 3,
+      "sentence": "営業利益は、販売促進活動の効率化や不採算店の圧縮などによる販売費の減少により13億60百万円（前年同期比18.7％増）となり、経常利益は、支払利息の減少などにより12億92百万円（前年同期比23.4％増）となりました",
+      "opinions": [
+        {
+          "target": "営業利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 0,
+          "to": 4
+        },
+        {
+          "target": "販売費",
+          "category": "NULL#cost",
+          "polarity": "positive",
+          "from": 29,
+          "to": 32
+        },
+        {
+          "target": "経常利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 63,
+          "to": 67
+        },
+        {
+          "target": "支払利息",
+          "category": "NULL#cost",
+          "polarity": "positive",
+          "from": 69,
+          "to": 73
+        }
+      ]
+    },
+    {
+      "sentence_id": 4,
+      "sentence": "親会社株主に帰属する当期純利益は、４億36百万円（前年同期比165.4％増）となりました",
+      "opinions": [
+        {
+          "target": "当期純利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 10,
+          "to": 15
+        }
+      ]
+    },
+    {
+      "sentence_id": 5,
+      "sentence": "セグメントの業績は次のとおりです",
+      "opinions": []
+    },
+    {
+      "sentence_id": 6,
+      "sentence": "①宝飾品",
+      "opinions": []
+    },
+    {
+      "sentence_id": 7,
+      "sentence": "外部顧客への売上高は306億53百万円となり、セグメント利益は12億45百万円となりました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 8,
+      "sentence": "②眼鏡",
+      "opinions": []
+    },
+    {
+      "sentence_id": 9,
+      "sentence": "外部顧客への売上高は19億26百万円となり、セグメント利益は１億45百万円となりました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 10,
+      "sentence": "なお、前連結会計年度については、「眼鏡」の全セグメントに占める割合が低く、重要性に乏しいため、セグメントごとの売上高及び利益又は損失について記載しておりません",
+      "opinions": []
+    },
+    {
+      "sentence_id": 11,
+      "sentence": "なお、当連結会計年度における当社グループの主な店舗展開は以下のとおりです",
+      "opinions": []
+    },
+    {
+      "sentence_id": 12,
+      "sentence": "（注）㈱ＢＬＯＯＭの店舗数には、消化仕入契約に基づく百貨店等への出店を含んでおります",
+      "opinions": []
+    }
+  ]
+}

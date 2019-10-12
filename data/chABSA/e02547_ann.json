@@ -1,0 +1,423 @@
+{
+  "header": {
+    "document_id": "E02547",
+    "document_name": "ラサ商事株式会社",
+    "doc_text": "有価証券報告書",
+    "edi_id": "E02547",
+    "security_code": "30230",
+    "category33": "卸売業",
+    "category17": "商社・卸売",
+    "scale": "7"
+  },
+  "sentences": [
+    {
+      "sentence_id": 0,
+      "sentence": "当連結会計年度におけるわが国経済は、海外における政治リスクや地政学リスク等の影響を受けながらも、経済は比較的落着いた動きとなり、企業収益は総じて堅調に推移し、設備投資や雇用が持続したことなどから、緩やかな回復基調が続きました",
+      "opinions": [
+        {
+          "target": "わが国経済",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 11,
+          "to": 16
+        },
+        {
+          "target": "経済",
+          "category": "NULL#general",
+          "polarity": "neutral",
+          "from": 48,
+          "to": 50
+        },
+        {
+          "target": "企業収益",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 64,
+          "to": 68
+        },
+        {
+          "target": "設備投資",
+          "category": "NULL#general",
+          "polarity": "neutral",
+          "from": 79,
+          "to": 83
+        },
+        {
+          "target": "雇用",
+          "category": "NULL#general",
+          "polarity": "neutral",
+          "from": 84,
+          "to": 86
+        }
+      ]
+    },
+    {
+      "sentence_id": 1,
+      "sentence": "このような経済環境のもとで当社グループは、営業活動の積極的な展開と経営効率の向上に努めた結果、中期計画初年度の売上高は299億37百万円となり、前年同期と比べ５億85百万円(△1.9％)の減収となり、中期計画と比べ20億63百万円(△6.4％)計画を下回りました",
+      "opinions": [
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "negative",
+          "from": 55,
+          "to": 58
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "sentence": "営業利益におきましては、売上高の減収はあったものの、販売や販売費及び一般管理費の効率向上から、14億59百万円となり、前年同期と比べ37百万円(2.7％)の増益となりました",
+      "opinions": [
+        {
+          "target": "営業利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 0,
+          "to": 4
+        },
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "negative",
+          "from": 12,
+          "to": 15
+        },
+        {
+          "target": "販売",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 26,
+          "to": 28
+        },
+        {
+          "target": "販売費及び一般管理費",
+          "category": "NULL#cost",
+          "polarity": "positive",
+          "from": 29,
+          "to": 39
+        }
+      ]
+    },
+    {
+      "sentence_id": 3,
+      "sentence": "中期計画と比べ６億９百万円(71.6％)計画を上回りました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 4,
+      "sentence": "経常利益におきましては、持分法による投資利益が倍増したことなどから16億39百万円となり、前年同期と比べ１億47百万円(9.9％)の増益となりました",
+      "opinions": [
+        {
+          "target": "経常利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 0,
+          "to": 4
+        }
+      ]
+    },
+    {
+      "sentence_id": 5,
+      "sentence": "中期計画と比べ６億89百万円(72.5％)計画を上回りました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 6,
+      "sentence": "親会社株主に帰属する当期純利益におきましては、遊休不動産の売却益や税負担の軽減などから13億48百万円となり、前年同期と比べ４億４百万円(42.8％)の増益となりました",
+      "opinions": [
+        {
+          "target": "当期純利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 10,
+          "to": 15
+        },
+        {
+          "target": "税負担",
+          "category": "NULL#cost",
+          "polarity": "positive",
+          "from": 33,
+          "to": 36
+        }
+      ]
+    },
+    {
+      "sentence_id": 7,
+      "sentence": "中期計画に比べ７億40百万円(121.7％)計画を上回りました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 8,
+      "sentence": "当連結会計年度におけるセグメント別の状況は、次のとおりです",
+      "opinions": []
+    },
+    {
+      "sentence_id": 9,
+      "sentence": "資源・金属素材関連では、世界的な政治の混乱などが実体経済へ波及し、資源需要が全般的に低迷したことから、関連部門の売上高は93億３百万円となり、前年同期と比べ13億46百万円(△12.6％)の減収となりました",
+      "opinions": [
+        {
+          "target": "資源・金属素材関連",
+          "category": "business#sales",
+          "polarity": "negative",
+          "from": 0,
+          "to": 9
+        },
+        {
+          "target": "資源需要",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 33,
+          "to": 37
+        }
+      ]
+    },
+    {
+      "sentence_id": 10,
+      "sentence": "セグメント営業利益は資源需要の低迷から利幅が圧縮されるなど、厳しい状況となり１億32百万円(前年同期は５百万円の損失)の損失となりました",
+      "opinions": [
+        {
+          "target": "セグメント営業利益",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 0,
+          "to": 9
+        },
+        {
+          "target": "資源需要",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 10,
+          "to": 14
+        },
+        {
+          "target": "利幅",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 19,
+          "to": 21
+        }
+      ]
+    },
+    {
+      "sentence_id": 11,
+      "sentence": "産機・建機関連では、企業収益や設備投資にやや改善傾向が見られたことから、民間企業向け各種ポンプ類の商品の販売増加があったものの、前年度大口の商品販売の実績があったことや当期の建設機械類の低調に推移したことなどから、関連部門の売上高は76億48百万円となり、前年同期と比べ３億71百万円(△4.6％)の減収となりました",
+      "opinions": [
+        {
+          "target": "産機・建機関連",
+          "category": "business#sales",
+          "polarity": "negative",
+          "from": 0,
+          "to": 7
+        },
+        {
+          "target": "企業収益",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 10,
+          "to": 14
+        },
+        {
+          "target": "設備投資",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 15,
+          "to": 19
+        },
+        {
+          "target": "各種ポンプ類",
+          "category": "product#amount",
+          "polarity": "positive",
+          "from": 42,
+          "to": 48
+        },
+        {
+          "target": "建設機械類",
+          "category": "product#general",
+          "polarity": "negative",
+          "from": 87,
+          "to": 92
+        }
+      ]
+    },
+    {
+      "sentence_id": 12,
+      "sentence": "セグメント営業利益は14億34百万円となり、前年同期と比べ２億５百万円(△12.5％)の減益となりました",
+      "opinions": [
+        {
+          "target": "セグメント営業利益",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 0,
+          "to": 9
+        }
+      ]
+    },
+    {
+      "sentence_id": 13,
+      "sentence": "環境設備関連では、主力商品、関連商品とも堅調に推移し、水砕関連もほぼ計画のとおりとなったことから、関連部門の売上高は18億37百万円となり、前年同期と比べ５億25百万円(40.1％)の増収となりました",
+      "opinions": [
+        {
+          "target": "環境設備関連",
+          "category": "business#sales",
+          "polarity": "positive",
+          "from": 0,
+          "to": 6
+        },
+        {
+          "target": "主力商品",
+          "category": "product#general",
+          "polarity": "positive",
+          "from": 9,
+          "to": 13
+        },
+        {
+          "target": "関連商品",
+          "category": "product#general",
+          "polarity": "positive",
+          "from": 14,
+          "to": 18
+        },
+        {
+          "target": "水砕関連",
+          "category": "product#general",
+          "polarity": "positive",
+          "from": 27,
+          "to": 31
+        }
+      ]
+    },
+    {
+      "sentence_id": 14,
+      "sentence": "セグメント営業利益は３億71百万円となり、前年同期と比べ１億34百万円(56.7％)の増益となりました",
+      "opinions": [
+        {
+          "target": "セグメント営業利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 0,
+          "to": 9
+        }
+      ]
+    },
+    {
+      "sentence_id": 15,
+      "sentence": "プラント・設備工事関連では、大口受注工事の完工などから、関連部門の売上高は45億１百万円となり、前年同期と比べ９億11百万円(25.4％)の増収となりました",
+      "opinions": [
+        {
+          "target": "プラント・設備工事関連",
+          "category": "business#sales",
+          "polarity": "positive",
+          "from": 0,
+          "to": 11
+        }
+      ]
+    },
+    {
+      "sentence_id": 16,
+      "sentence": "セグメント営業利益は特に大口の工事は競争が激しく、売上の増収に比べ厳しい運営となったことから２億76百万円となり、前年同期と比べ24百万円(9.8％)の増益となりました",
+      "opinions": [
+        {
+          "target": "セグメント営業利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 0,
+          "to": 9
+        },
+        {
+          "target": "競争",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 18,
+          "to": 20
+        },
+        {
+          "target": "売上",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 25,
+          "to": 27
+        }
+      ]
+    },
+    {
+      "sentence_id": 17,
+      "sentence": "化成品関連では、自動車関連及び一部電線業界が堅調に推移したものの、原油価格の低迷から販売価格の低下が影響したため、関連部門の売上高は64億65百万円となり、前年同期と比べ３億５百万円(△4.5％)の減収となりました",
+      "opinions": [
+        {
+          "target": "化成品関連",
+          "category": "business#sales",
+          "polarity": "negative",
+          "from": 0,
+          "to": 5
+        },
+        {
+          "target": "自動車関連",
+          "category": "product#general",
+          "polarity": "positive",
+          "from": 8,
+          "to": 13
+        },
+        {
+          "target": "一部電線業界",
+          "category": "product#general",
+          "polarity": "positive",
+          "from": 15,
+          "to": 21
+        },
+        {
+          "target": "原油価格",
+          "category": "NULL#price",
+          "polarity": "negative",
+          "from": 33,
+          "to": 37
+        },
+        {
+          "target": "販売価格",
+          "category": "NULL#price",
+          "polarity": "negative",
+          "from": 42,
+          "to": 46
+        }
+      ]
+    },
+    {
+      "sentence_id": 18,
+      "sentence": "セグメント営業利益は販売の効率化や資産譲渡などによる経費削減効果などから１億30百万円となり、前年同期と比べ46百万円(54.9％)の増益となりました",
+      "opinions": [
+        {
+          "target": "セグメント営業利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 0,
+          "to": 9
+        }
+      ]
+    },
+    {
+      "sentence_id": 19,
+      "sentence": "不動産賃貸関連では、当社グループ全体での一体運営を徹底したことから、関連部門の売上高は３億４百万円となり、前年同期と比べ３百万円(1.1％)の増収となりました",
+      "opinions": [
+        {
+          "target": "不動産賃貸関連",
+          "category": "business#sales",
+          "polarity": "positive",
+          "from": 0,
+          "to": 7
+        }
+      ]
+    },
+    {
+      "sentence_id": 20,
+      "sentence": "セグメント営業利益は１億10百万円となり、前年同期と比べ０百万円(△0.1％)の減益となりました",
+      "opinions": [
+        {
+          "target": "セグメント営業利益",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 0,
+          "to": 9
+        }
+      ]
+    }
+  ]
+}

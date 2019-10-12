@@ -1,0 +1,592 @@
+{
+  "header": {
+    "document_id": "E05480",
+    "document_name": "株式会社インターネットイニシアティブ",
+    "doc_text": "有価証券報告書",
+    "edi_id": "E05480",
+    "security_code": "37740",
+    "category33": "情報・通信業",
+    "category17": "情報通信・サービスその他",
+    "scale": "6"
+  },
+  "sentences": [
+    {
+      "sentence_id": 0,
+      "sentence": "①当連結会計年度(自 平成28年４月１日 至 平成29年３月31日)の連結業績の概要",
+      "opinions": []
+    },
+    {
+      "sentence_id": 1,
+      "sentence": "当連結会計年度におけるわが国の景気は、政府の各種政策等を背景に、企業収益や雇用情勢の改善及び企業の設備投資持ち直し等があり、緩やかな回復基調が継続いたしました",
+      "opinions": [
+        {
+          "target": "景気",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 15,
+          "to": 17
+        },
+        {
+          "target": "企業収益",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 32,
+          "to": 36
+        },
+        {
+          "target": "雇用情勢",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 37,
+          "to": 41
+        },
+        {
+          "target": "設備投資",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 49,
+          "to": 53
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "sentence": "先行きにつきましては、雇用や所得の改善が続くなか、引き続き緩やかな回復が期待されますが、米国新政権の動向や英国のEU離脱等の不透明感の高まりがあり、国内景気を下押しするリスクに留意する必要があります",
+      "opinions": []
+    },
+    {
+      "sentence_id": 3,
+      "sentence": "当社グループが係わる法人向けICT(*1)関連市場は、クラウドコンピューティングの普及を始めとする企業情報システムの変化、企業活動におけるビッグデータやIoT(*)等のICT利活用の進展、情報漏洩等に対応するセキュリティ需要の高まり、4K(*)配信等に伴うネットワーク利用の増大等により、継続的に拡大していくものと認識しております",
+      "opinions": [
+        {
+          "target": "法人向けICT(*1)関連市場",
+          "category": "market#general",
+          "polarity": "positive",
+          "from": 10,
+          "to": 25
+        },
+        {
+          "target": "セキュリティ需要",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 104,
+          "to": 112
+        },
+        {
+          "target": "ネットワーク利用",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 128,
+          "to": 136
+        }
+      ]
+    },
+    {
+      "sentence_id": 4,
+      "sentence": "個人向け市場では、MVNO(*)による格安SIMサービス(*)の急速な普及が続いております",
+      "opinions": []
+    },
+    {
+      "sentence_id": 5,
+      "sentence": "このような市場環境のなか、当社グループは、当期において、インターネットに係わる技術力と優良法人顧客基盤を基に、信頼性及び付加価値の高いサービスを開発し提供のうえ、企業の情報ネットワークシステムに関連するアウトソーシング需要を取り込むとの従来からの戦略を継続して推進いたしました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 6,
+      "sentence": "クラウドコンピューティング関連サービスでは、前下半期に提供開始した「IIJ GIOインフラストラクチャーP2(*)」にて企業の基幹システムのクラウド化等の案件が積み上がり、また、都道府県及び市町村のインターネット接続環境をフルアウトソースする自治体情報セキュリティクラウド(*)案件を複数受注いたしました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 7,
+      "sentence": "当期のクラウドコンピューティング関連サービス売上高は、前期の140.9億円から156.6億円へと増加し、今後の一層の規模拡大を期待しております",
+      "opinions": [
+        {
+          "target": "クラウドコンピューティング関連サービス",
+          "category": "product#sales",
+          "polarity": "positive",
+          "from": 3,
+          "to": 22
+        }
+      ]
+    },
+    {
+      "sentence_id": 8,
+      "sentence": "セキュリティ関連サービスでは、標的型攻撃に対応するサンドボックス(*)や「DDoSプロテクションサービス(*)」の需要が強く、既存セキュリティサービスの売上積み上げも併せ、増収率は10.9％となりました",
+      "opinions": [
+        {
+          "target": "セキュリティ関連サービス",
+          "category": "product#sales",
+          "polarity": "positive",
+          "from": 0,
+          "to": 12
+        },
+        {
+          "target": "需要",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 57,
+          "to": 59
+        }
+      ]
+    },
+    {
+      "sentence_id": 9,
+      "sentence": "また、トラフィックログ等の独自脅威情報を活用する「IIJ C-SOCサービス(*)」を開発のうえ提供開始し、更なる優位性を発揮してまいります",
+      "opinions": []
+    },
+    {
+      "sentence_id": 10,
+      "sentence": "モバイル関連サービスでは、個人向け分野でMVNE(*)や全国郵便局等の販売チャネルの拡充に努め、当期末のモバイルサービス提供回線総数は185.6万回線(前期末より62.8万回線増加)となり、売上高は前期の155.9億円から267.0億円へと大幅に増加いたしました",
+      "opinions": [
+        {
+          "target": "モバイル関連サービス",
+          "category": "product#amount",
+          "polarity": "positive",
+          "from": 0,
+          "to": 10
+        },
+        {
+          "target": "モバイル関連サービス",
+          "category": "product#sales",
+          "polarity": "positive",
+          "from": 0,
+          "to": 10
+        }
+      ]
+    },
+    {
+      "sentence_id": 11,
+      "sentence": "また、フルMVNO(*)のサービス開始(平成29年度第４四半期予定)への準備を進め、これにて、IoT案件等の法人需要を一層取り込み、ネットワーク稼動効率の向上等のスケールメリットの発揮を展望してまいります",
+      "opinions": []
+    },
+    {
+      "sentence_id": 12,
+      "sentence": "その他のインターネット接続サービス、アウトソーシングサービス、WANサービス及びシステムインテグレーションでも、企業のネットワークシステム関連の需要は根強く、売上高は堅調に推移いたしました",
+      "opinions": [
+        {
+          "target": "インターネット接続サービス",
+          "category": "product#sales",
+          "polarity": "positive",
+          "from": 4,
+          "to": 17
+        },
+        {
+          "target": "アウトソーシングサービス",
+          "category": "product#sales",
+          "polarity": "positive",
+          "from": 18,
+          "to": 30
+        },
+        {
+          "target": "WANサービス",
+          "category": "product#sales",
+          "polarity": "positive",
+          "from": 31,
+          "to": 38
+        },
+        {
+          "target": "システムインテグレーション",
+          "category": "product#sales",
+          "polarity": "positive",
+          "from": 40,
+          "to": 53
+        },
+        {
+          "target": "需要",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 72,
+          "to": 74
+        }
+      ]
+    },
+    {
+      "sentence_id": 13,
+      "sentence": "配信事業では、当第３四半期に民放15社との合弁会社JOCDN㈱(持分法適用関連会社)を設立し、放送事業者やコンテンツ事業者の動画配信向けに高品質で安定したCDN(*)サービスを提供してまいります",
+      "opinions": []
+    },
+    {
+      "sentence_id": 14,
+      "sentence": "国際事業では、既存各拠点の事業遂行に加え、タイ及びベトナムで現地有力企業とのクラウドコンピューティングサービスの協業を開始いたしました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 15,
+      "sentence": "ラオスへのコンテナ型データセンターの輸出案件もあり、国際事業の売上高は63.9億円(前期 52.6億円)、営業赤字は1.8億円(前期 5.4億円)となり、平成29年度での黒字化を展望しております",
+      "opinions": [
+        {
+          "target": "国際事業",
+          "category": "business#sales",
+          "polarity": "positive",
+          "from": 26,
+          "to": 30
+        },
+        {
+          "target": "国際事業",
+          "category": "business#profit",
+          "polarity": "negative",
+          "from": 26,
+          "to": 30
+        }
+      ]
+    },
+    {
+      "sentence_id": 16,
+      "sentence": "当連結会計年度の業績全般といたしましては、売上高は、モバイル関連サービス及びクラウドコンピューティング関連サービスの牽引等により、前年同期比12.2％増と強い増収基調が継続しました",
+      "opinions": [
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 21,
+          "to": 24
+        }
+      ]
+    },
+    {
+      "sentence_id": 17,
+      "sentence": "一方、営業利益は、「IIJ GIOインフラストラクチャーP2」「IIJ Omnibusサービス(*)」のサービス開始等により費用が先行増加するなか、案件大口化等に伴い売上計上までのリードタイムが長期化し、また、システムインテグレーションにて不採算案件及び販売稼動の低下等があり売上総利益率が低下し、販売管理費の増加を売上総利益の増加で吸収しきれず、減益との結果となりました",
+      "opinions": [
+        {
+          "target": "営業利益",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 3,
+          "to": 7
+        },
+        {
+          "target": "費用",
+          "category": "NULL#cost",
+          "polarity": "negative",
+          "from": 62,
+          "to": 64
+        },
+        {
+          "target": "システムインテグレーション",
+          "category": "product#cost",
+          "polarity": "negative",
+          "from": 105,
+          "to": 118
+        },
+        {
+          "target": "販売稼動",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 127,
+          "to": 131
+        },
+        {
+          "target": "売上総利益率",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 138,
+          "to": 144
+        },
+        {
+          "target": "販売管理費",
+          "category": "NULL#cost",
+          "polarity": "negative",
+          "from": 149,
+          "to": 154
+        }
+      ]
+    },
+    {
+      "sentence_id": 18,
+      "sentence": "当連結会計年度におけるネットワークサービス売上高は、法人及び個人向けモバイル関連サービス売上の大幅増加やセキュリティ需要増等に伴うアウトソーシングサービス売上の増加等があり、前年同期比17.3％増の92,996百万円(前年同期 79,296百万円)となり、売上原価は、モバイル関連サービスの提供回線増加に伴う接続料の増加等があり、前年同期比18.9％増の76,387百万円(前年同期 64,239百万円)となり、売上総利益は前年同期比10.3％増の16,609百万円(前年同期 15,056百万円)となりました",
+      "opinions": [
+        {
+          "target": "ネットワークサービス売上高",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 11,
+          "to": 24
+        },
+        {
+          "target": "モバイル関連サービス売上",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 34,
+          "to": 46
+        },
+        {
+          "target": "セキュリティ需要",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 52,
+          "to": 60
+        },
+        {
+          "target": "アウトソーシングサービス売上",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 65,
+          "to": 79
+        },
+        {
+          "target": "売上原価",
+          "category": "NULL#cost",
+          "polarity": "negative",
+          "from": 128,
+          "to": 132
+        },
+        {
+          "target": "接続料",
+          "category": "NULL#cost",
+          "polarity": "negative",
+          "from": 154,
+          "to": 157
+        },
+        {
+          "target": "売上総利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 206,
+          "to": 211
+        }
+      ]
+    },
+    {
+      "sentence_id": 19,
+      "sentence": "システムインテグレーション売上高は、システム構築案件の増加やクラウドコンピューティング関連サービスを含むシステム運用保守の増加等があり、前年同期比6.6％増の57,749百万円(前年同期 54,188百万円)となり、売上原価は、外注人件費の増加等があり、前年同期比10.3％増の50,992百万円(前年同期 46,226百万円)となり、売上総利益は前年同期比15.2％減の6,756百万円(前年同期 7,963百万円)となりました",
+      "opinions": [
+        {
+          "target": "システムインテグレーション売上高",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 0,
+          "to": 16
+        },
+        {
+          "target": "システム構築案件",
+          "category": "product#amount",
+          "polarity": "positive",
+          "from": 18,
+          "to": 26
+        },
+        {
+          "target": "システム運用保守",
+          "category": "product#amount",
+          "polarity": "positive",
+          "from": 52,
+          "to": 60
+        },
+        {
+          "target": "売上原価",
+          "category": "NULL#cost",
+          "polarity": "negative",
+          "from": 108,
+          "to": 112
+        },
+        {
+          "target": "売上総利益",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 168,
+          "to": 173
+        }
+      ]
+    },
+    {
+      "sentence_id": 20,
+      "sentence": "機器売上高は、前年同期比8.6％減の2,994百万円(前年同期 3,275百万円)、売上原価は、前年同期比7.9％減の2,735百万円(前年同期2,969百万円)、売上総利益は前年同期比15.4％減の260百万円(前年同期 306百万円)となりました",
+      "opinions": [
+        {
+          "target": "機器売上高",
+          "category": "NULL#sales",
+          "polarity": "negative",
+          "from": 0,
+          "to": 5
+        },
+        {
+          "target": "売上原価",
+          "category": "NULL#cost",
+          "polarity": "positive",
+          "from": 42,
+          "to": 46
+        },
+        {
+          "target": "売上総利益",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 82,
+          "to": 87
+        }
+      ]
+    },
+    {
+      "sentence_id": 21,
+      "sentence": "ATM運営事業売上高は、前年同期比4.1％増の4,050百万円(前年同期3,889百万円)、売上原価は、前年同期比5.1％減の2,428百万円(前年同期 2,559百万円)、売上総利益は前年同期比22.0％増の1,622百万円(前年同期 1,330百万円)となりました",
+      "opinions": [
+        {
+          "target": "ATM運営事業売上高",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 0,
+          "to": 10
+        },
+        {
+          "target": "売上原価",
+          "category": "NULL#cost",
+          "polarity": "positive",
+          "from": 46,
+          "to": 50
+        },
+        {
+          "target": "売上総利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 87,
+          "to": 92
+        }
+      ]
+    },
+    {
+      "sentence_id": 22,
+      "sentence": "これらより、売上高総額は前年同期比12.2％増の157,789百万円(前年同期140,648百万円)、売上原価総額は、前年同期比14.3％増の132,542百万円(前年同期 115,993百万円)、売上総利益総額は前年同期比2.4％増の25,247百万円(前年同期 24,655百万円)となり、売上総利益率は前年同期比1.5ポイント減少し16.0％となりました",
+      "opinions": [
+        {
+          "target": "売上高総額",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 6,
+          "to": 11
+        },
+        {
+          "target": "売上原価総額",
+          "category": "NULL#cost",
+          "polarity": "negative",
+          "from": 51,
+          "to": 57
+        },
+        {
+          "target": "売上総利益総額",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 99,
+          "to": 106
+        },
+        {
+          "target": "売上総利益率",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 147,
+          "to": 153
+        }
+      ]
+    },
+    {
+      "sentence_id": 23,
+      "sentence": "販売管理費は、モバイル関連サービスに係る販売関連手数料、広告宣伝費及び地代家賃の増加等があり、前年同期比8.6％増の20,113百万円(前年同期 18,515百円)となりました",
+      "opinions": [
+        {
+          "target": "販売管理費",
+          "category": "NULL#cost",
+          "polarity": "negative",
+          "from": 0,
+          "to": 5
+        },
+        {
+          "target": "モバイル関連サービス",
+          "category": "business#cost",
+          "polarity": "negative",
+          "from": 7,
+          "to": 17
+        }
+      ]
+    },
+    {
+      "sentence_id": 24,
+      "sentence": "これらより、当連結会計年度における営業利益は、前年同期比16.4％減の5,134百万円(前年同期 6,140百万円)となりました",
+      "opinions": [
+        {
+          "target": "営業利益",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 17,
+          "to": 21
+        }
+      ]
+    },
+    {
+      "sentence_id": 25,
+      "sentence": "当連結会計年度における税引前当期純利益(法人税等及び持分法による投資損益調整前当期純利益)は、前年同期比12.4％減の5,427百万円(前年同期 6,193百万円)となりました",
+      "opinions": [
+        {
+          "target": "税引前当期純利益",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 11,
+          "to": 19
+        }
+      ]
+    },
+    {
+      "sentence_id": 26,
+      "sentence": "当社株主に帰属する当期純利益は、前年同期比21.6％減の3,167百万円(前年同期 4,038百万円)となりました",
+      "opinions": [
+        {
+          "target": "当期純利益",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 9,
+          "to": 14
+        }
+      ]
+    },
+    {
+      "sentence_id": 27,
+      "sentence": "セグメント別では、当連結会計年度のネットワークサービス及びシステムインテグレーション(SI)事業の営業収益は、前年同期比12.4％増の154,126百万円(前年同期 137,142百万円)となり、営業利益は前年同期比24.8％減の3,854百万円(前年同期 5,128百万円)となりました",
+      "opinions": [
+        {
+          "target": "ネットワークサービス",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 17,
+          "to": 27
+        },
+        {
+          "target": "ネットワークサービス",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 17,
+          "to": 27
+        },
+        {
+          "target": "システムインテグレーション(SI)事業",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 29,
+          "to": 48
+        },
+        {
+          "target": "システムインテグレーション(SI)事業",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 29,
+          "to": 48
+        }
+      ]
+    },
+    {
+      "sentence_id": 28,
+      "sentence": "当連結会計年度のATM運営事業の営業収益は、前年同期比4.1％増の4,050百万円(前年同期 3,889百万円)となり、営業利益は前年同期比25.1％増の1,437百万円(前年同期 1,149百万円)となりました",
+      "opinions": [
+        {
+          "target": "ATM運営事業",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 8,
+          "to": 15
+        },
+        {
+          "target": "ATM運営事業",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 8,
+          "to": 15
+        }
+      ]
+    }
+  ]
+}

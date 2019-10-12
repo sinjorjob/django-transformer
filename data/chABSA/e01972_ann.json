@@ -1,0 +1,127 @@
+{
+  "header": {
+    "document_id": "E01972",
+    "document_name": "株式会社アイレックス",
+    "doc_text": "有価証券報告書",
+    "edi_id": "E01972",
+    "security_code": "69440",
+    "category33": "情報・通信業",
+    "category17": "情報通信・サービスその他",
+    "scale": ""
+  },
+  "sentences": [
+    {
+      "sentence_id": 0,
+      "sentence": "当社グループの事業分野である情報サービス業界におきましては、緩やかな伸びを示しているものの、通信領域でのソフトウェア開発需要は減少傾向にあります",
+      "opinions": [
+        {
+          "target": "情報サービス業界",
+          "category": "market#general",
+          "polarity": "positive",
+          "from": 14,
+          "to": 22
+        },
+        {
+          "target": "ソフトウェア開発需要",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 52,
+          "to": 62
+        }
+      ]
+    },
+    {
+      "sentence_id": 1,
+      "sentence": "一方、社会インフラ領域でのソフトウェア開発や、自動車関連での組込み系システム開発の需要、メーカーをはじめ広い領域での業務用アプリケーションの開発需要は増加傾向にあります",
+      "opinions": [
+        {
+          "target": "ソフトウェア開発",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 13,
+          "to": 21
+        },
+        {
+          "target": "需要",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 41,
+          "to": 43
+        },
+        {
+          "target": "開発需要",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 70,
+          "to": 74
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "sentence": "特に、近年、IT業界では、通信やクラウドでの技術的進化と関連機器のコストダウンにより、ＩoＴ(Internet of Things)によるビジネスがダイナミックに変革しつつあります",
+      "opinions": []
+    },
+    {
+      "sentence_id": 3,
+      "sentence": "このような事業環境下、通信とクラウド技術に強い当社と、インフラ構築に強い株式会社アイレックスインダストリアルソリューションズ、組込み系ソフト開発に強いアイレックスシステム株式会社のグループ各社は、各社間の連携を一層強固にするとともに、各社それぞれが強みとする技術をＩoＴ関連領域に積極的に活かし、主要領域に意欲的に取り組んでまいりました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 4,
+      "sentence": "また、先端技術への積極的な取組みにより、既存顧客の潜在的需要の掘り起こしや、新規顧客開拓により事業拡大を推進してまいりました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 5,
+      "sentence": "以上の結果、当連結会計年度における売上高は3,319,663千円と前連結会計年度と比べ167,844千円(5.3％)増加しました",
+      "opinions": [
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 17,
+          "to": 20
+        }
+      ]
+    },
+    {
+      "sentence_id": 6,
+      "sentence": "営業利益は243,588千円（前連結会計年度は営業損失22,403千円）となり、経常利益は249,590千円（前連結会計年度は経常損失17,684千円)となりました",
+      "opinions": [
+        {
+          "target": "営業利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 0,
+          "to": 4
+        },
+        {
+          "target": "経常利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 40,
+          "to": 44
+        }
+      ]
+    },
+    {
+      "sentence_id": 7,
+      "sentence": "なお、特別利益に投資有価証券売却益26,778千円及び特別損失に固定資産除却損857千円を計上した結果、当連結会計年度の親会社株主に帰属する当期純利益は258,194千円（前連結会計年度は親会社株主に帰属する当期純損失36,335千円）となりました",
+      "opinions": [
+        {
+          "target": "当期純利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 70,
+          "to": 75
+        }
+      ]
+    },
+    {
+      "sentence_id": 8,
+      "sentence": "なお、当社グループの事業はシステム事業の単一事業でありますので、開示対象となるセグメントが存在しないため、事業のセグメント別の業績は記載しておりません",
+      "opinions": []
+    }
+  ]
+}

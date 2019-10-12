@@ -1,0 +1,235 @@
+{
+  "header": {
+    "document_id": "E05452",
+    "document_name": "株式会社省電舎ホールディングス",
+    "doc_text": "訂正有価証券報告書",
+    "edi_id": "E05452",
+    "security_code": "17110",
+    "category33": "建設業",
+    "category17": "建設・資材",
+    "scale": ""
+  },
+  "sentences": [
+    {
+      "sentence_id": 0,
+      "sentence": "当連結会計年度におけるわが国経済は、政府の各種経済政策や金融緩和を背景に企業収益や雇用情勢が改善する中で、海外経済に持ち直しの兆候がみられ、特に米国大統領選後は円安、株高に転じることとなり、緩やかな景気の回復基調は続いております",
+      "opinions": [
+        {
+          "target": "わが国経済",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 11,
+          "to": 16
+        },
+        {
+          "target": "企業収益",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 36,
+          "to": 40
+        },
+        {
+          "target": "雇用情勢",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 41,
+          "to": 45
+        },
+        {
+          "target": "海外経済",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 53,
+          "to": 57
+        }
+      ]
+    },
+    {
+      "sentence_id": 1,
+      "sentence": "しかしながら、今後の経済の先行きについては欧州、アジア諸国の経済不安や米国の今後の政治、経済の動向等、依然先行き不透明感は払拭できない状況が続いております",
+      "opinions": [
+        {
+          "target": "先行き",
+          "category": "NULL#general",
+          "polarity": "neutral",
+          "from": 13,
+          "to": 16
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "sentence": "このような状況の中、当社グループは再生可能エネルギー事業を主たる事業として積極的に事業を推進いたしました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 3,
+      "sentence": "省エネルギー事業、再生可能エネルギー事業ともに期末に見込んでおりました案件が期ずれする等の要因により期初計画を下回る結果となりました",
+      "opinions": [
+        {
+          "target": "省エネルギー事業",
+          "category": "business#general",
+          "polarity": "negative",
+          "from": 0,
+          "to": 8
+        },
+        {
+          "target": "再生可能エネルギー事業",
+          "category": "business#general",
+          "polarity": "negative",
+          "from": 9,
+          "to": 20
+        }
+      ]
+    },
+    {
+      "sentence_id": 4,
+      "sentence": "なお、保有する投資有価証券を売却することにより特別利益として100百万円を計上しました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 5,
+      "sentence": "また、バイオマス燃料事業推進のため設立しました当社子会社PT.SDS ENERGYINDONESIAにつきましては、インドネシアからのバイオマス燃料輸入販売事業の立ち上げに時間を要していること、インドネシアのバイオマス燃料供給事業者に当社が国内のバイオマス発電事業者を紹介することによる紹介手数料が売上となる可能性が出てきたことにより、当該子会社の解散も視野に入れる必要があるため、当該子会社の事業開始後、資本金に振替る予定で立替金及び預け金で処理しておりました設立費用等合計44百万円を、特別損失として計上しております",
+      "opinions": []
+    },
+    {
+      "sentence_id": 6,
+      "sentence": "以上の結果、当連結会計年度における売上高1,785百万円(前年同期比357百万円減、16.7％減)、営業損失117百万円(前年同期比174百万円減、前年同期　営業利益57百万円)、経常損失112百万円(前年同期比183百万円減、前年同期　経常利益71百万円)、親会社株主に帰属する当期純損失58百万円(前年同期比116百万円減、前年同期　親会社株主に帰属する当期純利益57百万円)となりました",
+      "opinions": [
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "negative",
+          "from": 17,
+          "to": 20
+        },
+        {
+          "target": "営業損失",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 50,
+          "to": 54
+        },
+        {
+          "target": "経常損失",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 90,
+          "to": 94
+        },
+        {
+          "target": "当期純損失",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 140,
+          "to": 145
+        }
+      ]
+    },
+    {
+      "sentence_id": 7,
+      "sentence": "セグメントの業績については、次の通りであります",
+      "opinions": []
+    },
+    {
+      "sentence_id": 8,
+      "sentence": "①省エネルギー関連事業",
+      "opinions": []
+    },
+    {
+      "sentence_id": 9,
+      "sentence": "省エネルギー関連事業につきましては、当連結会計年度において新たに子会社化した株式会社エールの子会社である株式会社エールケンフォーとともに、積極的に事業を推進いたしました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 10,
+      "sentence": "しかしながら、大型案件が少なく、計画していた案件の中で成約に至らなかったものもあり、売上・利益ともに計画未達の結果となりました",
+      "opinions": [
+        {
+          "target": "売上",
+          "category": "NULL#sales",
+          "polarity": "negative",
+          "from": 42,
+          "to": 44
+        },
+        {
+          "target": "利益",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 45,
+          "to": 47
+        }
+      ]
+    },
+    {
+      "sentence_id": 11,
+      "sentence": "以上の結果、売上高301百万円(前年同期比119百万円減 28.3％減)、セグメント損失(営業損失)は33百万円(前年同期 営業利益13百万円)となりました",
+      "opinions": [
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "negative",
+          "from": 6,
+          "to": 9
+        },
+        {
+          "target": "セグメント損失",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 37,
+          "to": 44
+        }
+      ]
+    },
+    {
+      "sentence_id": 12,
+      "sentence": "②再生可能エネルギー事業",
+      "opinions": []
+    },
+    {
+      "sentence_id": 13,
+      "sentence": "再生可能エネルギー事業につきましても、当連結会計年度において新たに子会社化した株式会社エールの子会社である株式会社エールケンフォーとともに、積極的に事業を推進いたしました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 14,
+      "sentence": "しかしながら、期末に計上予定でありました工事案件に期ずれが発生したこと等により、売上・利益ともに計画未達の結果となりました",
+      "opinions": [
+        {
+          "target": "売上",
+          "category": "NULL#sales",
+          "polarity": "negative",
+          "from": 40,
+          "to": 42
+        },
+        {
+          "target": "利益",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 43,
+          "to": 45
+        }
+      ]
+    },
+    {
+      "sentence_id": 15,
+      "sentence": "以上の結果、売上高1,483百万円(前年同期比237百万円減 13.8％減)、セグメント損失(営業損失)82百万円(前年同期 営業利益34百万円)となりました",
+      "opinions": [
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "negative",
+          "from": 6,
+          "to": 9
+        },
+        {
+          "target": "セグメント損失",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 39,
+          "to": 46
+        }
+      ]
+    }
+  ]
+}

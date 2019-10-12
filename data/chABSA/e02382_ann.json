@@ -1,0 +1,291 @@
+{
+  "header": {
+    "document_id": "E02382",
+    "document_name": "グローブライド株式会社",
+    "doc_text": "有価証券報告書",
+    "edi_id": "E02382",
+    "security_code": "79900",
+    "category33": "その他製品",
+    "category17": "情報通信・サービスその他",
+    "scale": "7"
+  },
+  "sentences": [
+    {
+      "sentence_id": 0,
+      "sentence": "当連結会計年度における国内経済は、個人消費動向など一部に弱さが見られましたが、概ね緩やかな回復基調が続いております",
+      "opinions": [
+        {
+          "target": "国内経済",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 11,
+          "to": 15
+        },
+        {
+          "target": "個人消費動向",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 17,
+          "to": 23
+        }
+      ]
+    },
+    {
+      "sentence_id": 1,
+      "sentence": "一方海外では、全体としては堅調に推移したものの、保護主義化を進める米国の動向、英国のＥＵ離脱問題、新興国経済の低迷に、その他の地政学的リスクも加わって、世界経済全体としては、依然として先行き不透明な状況が続いております",
+      "opinions": [
+        {
+          "target": "新興国経済",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 49,
+          "to": 54
+        },
+        {
+          "target": "世界経済",
+          "category": "NULL#general",
+          "polarity": "neutral",
+          "from": 76,
+          "to": 80
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "sentence": "当社グループの属するスポーツ・レジャー用品等の業界は、こうした経済情勢の下、未だ足取りの重い状態が続いております",
+      "opinions": [
+        {
+          "target": "業界",
+          "category": "market#general",
+          "polarity": "negative",
+          "from": 23,
+          "to": 25
+        }
+      ]
+    },
+    {
+      "sentence_id": 3,
+      "sentence": "このような市場環境の中、当社グループは、新製品開発や販売促進活動などに注力し、市場の活性化と売上の拡大に努めたものの、円高の影響もあって当連結会計年度の売上高は791億4千2百万円（前期比0.1％増）、営業利益は34億1千6百万円（前期比0.1％減）と、概ね前年並みとなりました",
+      "opinions": [
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 76,
+          "to": 79
+        },
+        {
+          "target": "営業利益",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 101,
+          "to": 105
+        }
+      ]
+    },
+    {
+      "sentence_id": 4,
+      "sentence": "一方、期中の為替変動による為替差損の発生や模倣品対策費用の増加等により、経常利益は24億4千7百万円（前期比15.2％減）となりましたが、不動産の売却益の発生等により、親会社株主に帰属する当期純利益は21億8千4百万円（前期比31.6％増）となりました",
+      "opinions": [
+        {
+          "target": "模倣品対策費用",
+          "category": "NULL#cost",
+          "polarity": "negative",
+          "from": 21,
+          "to": 28
+        },
+        {
+          "target": "経常利益",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 36,
+          "to": 40
+        },
+        {
+          "target": "当期純利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 94,
+          "to": 99
+        }
+      ]
+    },
+    {
+      "sentence_id": 5,
+      "sentence": "セグメントの業績は次のとおりであります",
+      "opinions": []
+    },
+    {
+      "sentence_id": 6,
+      "sentence": "なお、各セグメントの売上高はセグメント間の内部売上高及び振替高を含んでおります",
+      "opinions": []
+    },
+    {
+      "sentence_id": 7,
+      "sentence": "国内経済は、急激な為替変動による企業業績への影響や先行き不安による根強い生活防衛意識等もあり、消費市場は力強さに欠ける状況にあります",
+      "opinions": [
+        {
+          "target": "為替変動",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 9,
+          "to": 13
+        },
+        {
+          "target": "消費市場",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 47,
+          "to": 51
+        }
+      ]
+    },
+    {
+      "sentence_id": 8,
+      "sentence": "このような中、独自の機構を搭載した新製品の投入や拡販活動に積極的に取り組み、売上高は627億2千7百万円（前期比0.6％増）、セグメント利益は43億6千2百万円（前期比3.1％増）となりました",
+      "opinions": [
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 38,
+          "to": 41
+        },
+        {
+          "target": "セグメント利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 63,
+          "to": 70
+        }
+      ]
+    },
+    {
+      "sentence_id": 9,
+      "sentence": "米州経済は、雇用・所得環境が着実に改善し、個人消費を中心として回復傾向にありますが、大手スポーツチェーン店の閉鎖が発生する等、スポーツ・アウトドア市場は依然厳しい状況が続いております",
+      "opinions": [
+        {
+          "target": "雇用",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 6,
+          "to": 8
+        },
+        {
+          "target": "所得環境",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 9,
+          "to": 13
+        },
+        {
+          "target": "個人消費",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 21,
+          "to": 25
+        },
+        {
+          "target": "スポーツ・アウトドア市場",
+          "category": "market#general",
+          "polarity": "negative",
+          "from": 63,
+          "to": 75
+        }
+      ]
+    },
+    {
+      "sentence_id": 10,
+      "sentence": "このような中、市場ニーズに合った製品ラインナップの強化と積極的なマーケティング活動を展開した結果、売上高は44億円（前期比4.0％増）、セグメント利益は7千4百万円（前期比27.4％減）となりました",
+      "opinions": [
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 49,
+          "to": 52
+        },
+        {
+          "target": "セグメント利益",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 68,
+          "to": 75
+        }
+      ]
+    },
+    {
+      "sentence_id": 11,
+      "sentence": "欧州経済は、英国のＥＵ離脱問題を中心に、総じて先行き不透明な状況が続き、市況も低調に推移しました",
+      "opinions": [
+        {
+          "target": "欧州経済",
+          "category": "NULL#general",
+          "polarity": "neutral",
+          "from": 0,
+          "to": 4
+        },
+        {
+          "target": "市況",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 36,
+          "to": 38
+        }
+      ]
+    },
+    {
+      "sentence_id": 12,
+      "sentence": "このような市場環境の中で、地域に密着した製品開発と販売体制の強化に注力しましたが、円高の影響もあり、売上高は84億2千4百万円（前期比6.5％減）、セグメント利益は5千1百万円（前期比163.7％増）となりました",
+      "opinions": [
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "negative",
+          "from": 50,
+          "to": 53
+        },
+        {
+          "target": "セグメント利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 74,
+          "to": 81
+        }
+      ]
+    },
+    {
+      "sentence_id": 13,
+      "sentence": "アジア・オセアニア経済は、地政学的リスクの高まりや中国や韓国における倹約令の影響等もあり、市場は低迷を続けております",
+      "opinions": [
+        {
+          "target": "市場",
+          "category": "market#general",
+          "polarity": "negative",
+          "from": 45,
+          "to": 47
+        }
+      ]
+    },
+    {
+      "sentence_id": 14,
+      "sentence": "そうした中、製品ラインナップの拡大等、積極的な拡販活動を行いましたが、円高の影響により、売上高は195億7百万円（前期比3.5％減）、セグメント利益は9億7百万円（前期比18.2％減）となりました",
+      "opinions": [
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "negative",
+          "from": 44,
+          "to": 47
+        },
+        {
+          "target": "セグメント利益",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 67,
+          "to": 74
+        }
+      ]
+    }
+  ]
+}

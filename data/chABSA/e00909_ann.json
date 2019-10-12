@@ -1,0 +1,192 @@
+{
+  "header": {
+    "document_id": "E00909",
+    "document_name": "株式会社アサヒペン",
+    "doc_text": "有価証券報告書",
+    "edi_id": "E00909",
+    "security_code": "46230",
+    "category33": "化学",
+    "category17": "素材・化学",
+    "scale": ""
+  },
+  "sentences": [
+    {
+      "sentence_id": 0,
+      "sentence": "当連結会計年度におけるわが国経済は、新興国経済の成長鈍化に加え、英国の欧州連合離脱や米国の経済・金融政策の不確実性などの影響により、先行き不透明な状況で推移いたしました",
+      "opinions": [
+        {
+          "target": "わが国経済",
+          "category": "NULL#general",
+          "polarity": "neutral",
+          "from": 11,
+          "to": 16
+        },
+        {
+          "target": "新興国経済",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 18,
+          "to": 23
+        },
+        {
+          "target": "経済・金融政策",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 45,
+          "to": 52
+        }
+      ]
+    },
+    {
+      "sentence_id": 1,
+      "sentence": "当社グループを取り巻く経営環境といたしましても、消費者の節約志向を背景に個人消費は力強さに欠けており、日用生活関連商品についての価格競争も激しく、依然として厳しい状況が続きました",
+      "opinions": [
+        {
+          "target": "経営環境",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 11,
+          "to": 15
+        },
+        {
+          "target": "個人消費",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 36,
+          "to": 40
+        },
+        {
+          "target": "価格競争",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 64,
+          "to": 68
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "sentence": "このような状況のもと、当社グループでは、新製品の投入、販路の拡大、各種メディアを利用しての販売促進など、積極的な営業活動を展開いたしました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 3,
+      "sentence": "しかしながら、天候不順の影響などにより、売上は伸び悩み、当連結会計年度の売上高は135億３千７百万円（前年同期比3.8％減）となりました",
+      "opinions": [
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "negative",
+          "from": 36,
+          "to": 39
+        }
+      ]
+    },
+    {
+      "sentence_id": 4,
+      "sentence": "収益面では、主力の家庭用塗料の商品構成の見直し、為替、原油価格の変動の影響に加え、グループ企業一体となって経営の効率化に努めたことなどから、営業利益は７億４千８百万円（前年同期比20.2％増）、経常利益は８億２千１百万円（前年同期比24.5％増）、親会社株主に帰属する当期純利益は５億８千２百万円（前年同期比37.9％増）となりました",
+      "opinions": [
+        {
+          "target": "営業利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 70,
+          "to": 74
+        },
+        {
+          "target": "経常利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 97,
+          "to": 101
+        },
+        {
+          "target": "当期純利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 134,
+          "to": 139
+        }
+      ]
+    },
+    {
+      "sentence_id": 5,
+      "sentence": "セグメントの業績は、次のとおりであります",
+      "opinions": []
+    },
+    {
+      "sentence_id": 6,
+      "sentence": "＜塗料事業＞",
+      "opinions": []
+    },
+    {
+      "sentence_id": 7,
+      "sentence": "当事業は、当社の主力商品である家庭用塗料及び金属用・プラスチック用等の工業用塗料の製造及び販売並びに塗装工事等を行っております",
+      "opinions": []
+    },
+    {
+      "sentence_id": 8,
+      "sentence": "当連結会計年度におきましても、店頭での販売促進、店内シェアの拡大をはかるとともに、新規顧客の獲得に向け積極的な営業活動を展開いたしました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 9,
+      "sentence": "しかしながら、天候不順の影響などにより、当事業全体の売上高は、80億６千７百万円（前年同期比3.5％減）となりました",
+      "opinions": [
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "negative",
+          "from": 26,
+          "to": 29
+        }
+      ]
+    },
+    {
+      "sentence_id": 10,
+      "sentence": "＜ＤＩＹ用品事業＞",
+      "opinions": []
+    },
+    {
+      "sentence_id": 11,
+      "sentence": "当事業は、カベ紙、障子紙やガラス用装飾シート等のインテリア用品、住宅用補修材やワックス等のハウスケア用品及び園芸用品等の製造及び販売を行っております",
+      "opinions": []
+    },
+    {
+      "sentence_id": 12,
+      "sentence": "当事業におきましても、消費者ニーズに応えた新製品の投入や積極的な販売促進活動とともに、新規顧客への提案営業等に注力いたしました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 13,
+      "sentence": "しかしながら、当事業全体の売上高は、53億２千４百万円（前年同期比4.5％減）となりました",
+      "opinions": [
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "negative",
+          "from": 13,
+          "to": 16
+        }
+      ]
+    },
+    {
+      "sentence_id": 14,
+      "sentence": "＜その他＞",
+      "opinions": []
+    },
+    {
+      "sentence_id": 15,
+      "sentence": "その他の事業は、物流サービス業及び賃貸業等を行っており、売上高は１億４千５百万円（前年同期比8.6％増）となりました",
+      "opinions": [
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 28,
+          "to": 31
+        }
+      ]
+    }
+  ]
+}

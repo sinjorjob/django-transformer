@@ -1,0 +1,328 @@
+{
+  "header": {
+    "document_id": "E03275",
+    "document_name": "ワタミ株式会社",
+    "doc_text": "有価証券報告書",
+    "edi_id": "E03275",
+    "security_code": "75220",
+    "category33": "小売業",
+    "category17": "小売",
+    "scale": "6"
+  },
+  "sentences": [
+    {
+      "sentence_id": 0,
+      "sentence": "当連結会計年度におけるわが国経済は、企業収益の改善や雇用環境の持続的な改善が見られました",
+      "opinions": [
+        {
+          "target": "企業収益",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 18,
+          "to": 22
+        },
+        {
+          "target": "雇用環境",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 26,
+          "to": 30
+        }
+      ]
+    },
+    {
+      "sentence_id": 1,
+      "sentence": "一方、個人消費低迷の長期化と、米国新大統領就任に伴う政策変更や英国のＥＵ離脱問題等の国内景気への影響など、依然として先行きは不透明な状況にあります",
+      "opinions": [
+        {
+          "target": "先行き",
+          "category": "NULL#general",
+          "polarity": "neutral",
+          "from": 58,
+          "to": 61
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "sentence": "このような環境下、「地球上で一番たくさんのありがとうを集めるグループになろう」というグループスローガンのもと、各事業分野においてお客様のありがとうを集める活動を展開してまいりました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 3,
+      "sentence": "①国内外食事業",
+      "opinions": []
+    },
+    {
+      "sentence_id": 4,
+      "sentence": "国内外食事業におきましては、７店舗の新規出店を実施いたしました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 5,
+      "sentence": "一方では17店舗の撤退を行い、当連結会計年度末の店舗数は479店舗となりました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 6,
+      "sentence": "既存店売上高前年比は103.3％、既存店客数前年比は101.2％となっております",
+      "opinions": []
+    },
+    {
+      "sentence_id": 7,
+      "sentence": "業態転換等による売上獲得施策と店舗オペレーションの改善等による収益改善施策を実施し、黒字化に向けた改善が進んでおります",
+      "opinions": []
+    },
+    {
+      "sentence_id": 8,
+      "sentence": "国内外食事業における売上高は47,936百万円（前期比99.2％）、セグメント損失は221百万円（前期は1,535百万円の損失）となりました",
+      "opinions": [
+        {
+          "target": "国内外食事業",
+          "category": "business#sales",
+          "polarity": "negative",
+          "from": 0,
+          "to": 6
+        },
+        {
+          "target": "国内外食事業",
+          "category": "business#profit",
+          "polarity": "positive",
+          "from": 0,
+          "to": 6
+        }
+      ]
+    },
+    {
+      "sentence_id": 9,
+      "sentence": "②宅食事業",
+      "opinions": []
+    },
+    {
+      "sentence_id": 10,
+      "sentence": "宅食事業におきましては、当連結会計年度末の営業拠点数は532ヶ所となっております",
+      "opinions": []
+    },
+    {
+      "sentence_id": 11,
+      "sentence": "３月の最終週における調理済み商品の平日１日あたりお届け数は228千食（前年同月最終週は225千食）となっております",
+      "opinions": []
+    },
+    {
+      "sentence_id": 12,
+      "sentence": "商品製造拠点における生産性向上の取り組みが奏功したことなどもあり、減収ながら増益となっております",
+      "opinions": []
+    },
+    {
+      "sentence_id": 13,
+      "sentence": "宅食事業における売上高は35,933百万円（前期比95.6％）、セグメント利益は2,462百万円（前期比118.8％）となりました",
+      "opinions": [
+        {
+          "target": "宅食事業",
+          "category": "business#sales",
+          "polarity": "negative",
+          "from": 0,
+          "to": 4
+        },
+        {
+          "target": "宅食事業",
+          "category": "business#profit",
+          "polarity": "positive",
+          "from": 0,
+          "to": 4
+        }
+      ]
+    },
+    {
+      "sentence_id": 14,
+      "sentence": "③海外外食事業",
+      "opinions": []
+    },
+    {
+      "sentence_id": 15,
+      "sentence": "海外外食事業におきましては、７店舗の新規出店を実施いたしました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 16,
+      "sentence": "一方では18店舗の撤退を行い、当連結会計年度末の店舗数は86店舗（前期は97店舗）となりました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 17,
+      "sentence": "既存店売上高前年比は92.1％、既存店客数前年比は88.1％となっております",
+      "opinions": []
+    },
+    {
+      "sentence_id": 18,
+      "sentence": "不採算店舗の撤退も進めておりますが、特に上海エリアにおける売上高減少の影響が大きく、海外外食事業全体としての収益改善途上となっております",
+      "opinions": [
+        {
+          "target": "上海エリア",
+          "category": "business#sales",
+          "polarity": "negative",
+          "from": 20,
+          "to": 25
+        }
+      ]
+    },
+    {
+      "sentence_id": 19,
+      "sentence": "海外外食事業における売上高は12,815百万円（前期比81.2％）、セグメント損失は54百万円（前期は264百万円の損失）となりました",
+      "opinions": [
+        {
+          "target": "海外外食事業",
+          "category": "business#sales",
+          "polarity": "negative",
+          "from": 0,
+          "to": 6
+        },
+        {
+          "target": "海外外食事業",
+          "category": "business#profit",
+          "polarity": "negative",
+          "from": 0,
+          "to": 6
+        }
+      ]
+    },
+    {
+      "sentence_id": 20,
+      "sentence": "④環境事業",
+      "opinions": []
+    },
+    {
+      "sentence_id": 21,
+      "sentence": "環境事業におきましては、再生可能エネルギーを中心とした電力小売事業を中心に展開しております",
+      "opinions": []
+    },
+    {
+      "sentence_id": 22,
+      "sentence": "電力供給量の増加に伴い電力小売事業の売上高前年比は1,276百万円増となりました",
+      "opinions": [
+        {
+          "target": "電力供給量",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 0,
+          "to": 5
+        },
+        {
+          "target": "電力小売事業",
+          "category": "business#sales",
+          "polarity": "positive",
+          "from": 11,
+          "to": 17
+        }
+      ]
+    },
+    {
+      "sentence_id": 23,
+      "sentence": "一方、前連結会計年度において、高収益であったメガ・ソーラー事業の分離を行った結果、売上高は2,626百万円（前期比112.9％）、セグメント利益は45百万円（前期比17.1％）となりました",
+      "opinions": [
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 41,
+          "to": 44
+        },
+        {
+          "target": "セグメント利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 65,
+          "to": 72
+        }
+      ]
+    },
+    {
+      "sentence_id": 24,
+      "sentence": "⑤農業",
+      "opinions": []
+    },
+    {
+      "sentence_id": 25,
+      "sentence": "農業におきましては、有機農産物の生産、酪農畜産および乳加工品製造を行っております",
+      "opinions": []
+    },
+    {
+      "sentence_id": 26,
+      "sentence": "販路拡大、反収向上（前期比103.6%）に取り組みましたが、青果物市況等の価格変動による収益減となりました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 27,
+      "sentence": "その結果、売上高は1,000百万円（前期比154.1％）、セグメント損失は196百万円（前期は96百万円の損失）となりました",
+      "opinions": [
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 5,
+          "to": 8
+        },
+        {
+          "target": "セグメント損失",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 29,
+          "to": 36
+        }
+      ]
+    },
+    {
+      "sentence_id": 28,
+      "sentence": "当連結会計年度における当社グループの成果は、上記のように厳しい収益環境のもと、業績改善施策の遂行に努めました",
+      "opinions": [
+        {
+          "target": "当社グループ",
+          "category": "company#general",
+          "polarity": "negative",
+          "from": 11,
+          "to": 17
+        }
+      ]
+    },
+    {
+      "sentence_id": 29,
+      "sentence": "その結果、売上高は100,312百万円（前期比78.2％）となり、営業利益は182百万円（前期は290百万円の営業損失）、経常利益は717百万円（前期は1,132百万円の経常損失）と、３期振りの黒字を果たすことが出来ました",
+      "opinions": [
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "negative",
+          "from": 5,
+          "to": 8
+        },
+        {
+          "target": "営業利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 33,
+          "to": 37
+        },
+        {
+          "target": "経常利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 61,
+          "to": 65
+        }
+      ]
+    },
+    {
+      "sentence_id": 30,
+      "sentence": "しかしながら、減損損失2,107百万円等の計上により、親会社株主に帰属する当期純損失は1,833百万円（前期は7,810百万円の利益）となりました",
+      "opinions": [
+        {
+          "target": "当期純損失",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 37,
+          "to": 42
+        }
+      ]
+    }
+  ]
+}

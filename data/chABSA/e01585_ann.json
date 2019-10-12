@@ -1,0 +1,222 @@
+{
+  "header": {
+    "document_id": "E01585",
+    "document_name": "日立建機株式会社",
+    "doc_text": "有価証券報告書",
+    "edi_id": "E01585",
+    "security_code": "63050",
+    "category33": "機械",
+    "category17": "機械",
+    "scale": "4"
+  },
+  "sentences": [
+    {
+      "sentence_id": 0,
+      "sentence": "文中の将来に関する事項は、当連結会計年度末現在において当連結グループが判断したものです",
+      "opinions": []
+    },
+    {
+      "sentence_id": 1,
+      "sentence": "当連結グループは、グローバルなサポート体制の確立とシェア向上、コスト低減を進め収益確保に努めると共に、事業・コスト構造改革を進め、体質強化と経営の効率化に取り組みました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 2,
+      "sentence": "また、地域市場に最適な製品やお客様のライフサイクルコスト低減に繋がるソリューションの提供を促進すべく、グローバルな研究・開発体制の構築と開発マーケティングの強化を推進しました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 3,
+      "sentence": "加えてバリューチェーンの深化を推進する中で、ソリューション事業強化の一環として2016年12月21日付でH-E Parts International LLC及びその子会社を取得、2017年３月20日付でBradken Limited及びその子会社を連結子会社化しました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 4,
+      "sentence": "一方で、2017年３月31日付で提出会社の連結子会社である日立住友重機械建機クレーン株式会社の一部株式を住友重機械工業株式会社に譲渡し、持分法適用関連会社としました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 5,
+      "sentence": "以上の結果、当連結会計年度の売上収益については、油圧ショベルの需要回復により販売物量は増加したものの為替影響を受け、前連結会計年度比99％の7,539億４千７百万円となりました",
+      "opinions": [
+        {
+          "target": "売上収益",
+          "category": "NULL#sales",
+          "polarity": "negative",
+          "from": 14,
+          "to": 18
+        },
+        {
+          "target": "油圧ショベル",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 24,
+          "to": 30
+        },
+        {
+          "target": "販売物量",
+          "category": "NULL#amount",
+          "polarity": "positive",
+          "from": 38,
+          "to": 42
+        }
+      ]
+    },
+    {
+      "sentence_id": 6,
+      "sentence": "営業利益は事業再編利益の差等により、前連結会計年度比69％の236億２千２百万円となりました",
+      "opinions": [
+        {
+          "target": "営業利益",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 0,
+          "to": 4
+        }
+      ]
+    },
+    {
+      "sentence_id": 7,
+      "sentence": "税引前当期利益は前連結会計年度比97％の238億５千９百万円、親会社株主に帰属する当期利益は前連結会計年度比91％の80億２千２百万円となりました",
+      "opinions": [
+        {
+          "target": "税引前当期利益",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 0,
+          "to": 7
+        },
+        {
+          "target": "当期利益",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 41,
+          "to": 45
+        }
+      ]
+    },
+    {
+      "sentence_id": 8,
+      "sentence": "セグメントの業績は次のとおりとなりました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 9,
+      "sentence": "なお、当連結会計年度において、提出会社の従来事業である建設機械ビジネスに加えて、第３四半期より提出会社の連結子会社となったH-E Parts International LLC及びその子会社、及び第４四半期より提出会社の連結子会社となったBradken Limited及びその子会社の事業をソリューションビジネスとして新たに追加し、２つの事業セグメントで報告することといたしました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 10,
+      "sentence": "① 建設機械ビジネス",
+      "opinions": []
+    },
+    {
+      "sentence_id": 11,
+      "sentence": "当期においては、特に油圧ショベルの需要が中国・インド・アジア・西欧で前連結会計年度に比べ回復し、全世界需要は前連結会計年度比約10％増加しました",
+      "opinions": [
+        {
+          "target": "需要",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 17,
+          "to": 19
+        },
+        {
+          "target": "全世界需要",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 48,
+          "to": 53
+        }
+      ]
+    },
+    {
+      "sentence_id": 12,
+      "sentence": "当連結グループでは、お客様の機械を総合的にサポートするサービスソリューション「ConSite（コンサイト）」のグローバル展開や、部品供給体制の拡充等により、部品・サービス事業の強化を図り、収益の拡大に努めました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 13,
+      "sentence": "日本では、国土交通省が推進するi-Constructionへの対応として、ＩＣＴ油圧ショベルと情報化施工ソリューションの普及を促進しています",
+      "opinions": []
+    },
+    {
+      "sentence_id": 14,
+      "sentence": "マイニング機械需要は、当連結会計年度半ばでの資源価格の回復を受け、超大型油圧ショベルでは前連結会計年度比約10％増加しましたが、ダンプトラックでは約20％減少しました",
+      "opinions": [
+        {
+          "target": "資源価格",
+          "category": "NULL#price",
+          "polarity": "positive",
+          "from": 22,
+          "to": 26
+        },
+        {
+          "target": "超大型油圧ショベル",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 33,
+          "to": 42
+        },
+        {
+          "target": "ダンプトラック",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 64,
+          "to": 71
+        }
+      ]
+    },
+    {
+      "sentence_id": 15,
+      "sentence": "両製品ともに、特に超大型クラスの需要低迷が続きました",
+      "opinions": [
+        {
+          "target": "超大型クラス",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 9,
+          "to": 15
+        }
+      ]
+    },
+    {
+      "sentence_id": 16,
+      "sentence": "提出会社では、日立グループの力を合せて高度な車体安定化制御を実現したリジッドダンプトラックＡＣ－３シリーズのトロリー仕様機や高地仕様機の拡販に努めると共に、鉱山機械の運行管理システムの提供や自律運転技術の開発等、鉱山運営の効率化に取り組んでいます",
+      "opinions": []
+    },
+    {
+      "sentence_id": 17,
+      "sentence": "また、より高度なレベルの顧客サポート体制の構築を進め、部品・サービスの売上収益拡大に努めています",
+      "opinions": []
+    },
+    {
+      "sentence_id": 18,
+      "sentence": "連結売上収益は、前連結会計年度比99％の7,472億５千６百万円となりました",
+      "opinions": [
+        {
+          "target": "連結売上収益",
+          "category": "NULL#sales",
+          "polarity": "negative",
+          "from": 0,
+          "to": 6
+        }
+      ]
+    },
+    {
+      "sentence_id": 19,
+      "sentence": "② ソリューションビジネス",
+      "opinions": []
+    },
+    {
+      "sentence_id": 20,
+      "sentence": "当事業は、オーストラリア及び米国を中心にマイニング・砕石・建設機械及び設備に係るサービスソリューションの提供、及び付随する部品の開発・加工・販売を展開するH-E Parts International LLC及びその子会社と、鉱業及びインフラ産業向け鋳造部品を製造するほか、マイニング設備やマイニング機械の消耗部品、及びそのメンテナンスサービス等を提供し、多岐に亘るバリューチェーンでの事業を世界各地で展開しているBradken Limited及びその子会社の事業で構成しています",
+      "opinions": []
+    },
+    {
+      "sentence_id": 21,
+      "sentence": "連結売上収益は、第３四半期にH-E Parts International LLC及びその子会社を連結子会社化したことにより、66億９千１百万円となりました",
+      "opinions": []
+    }
+  ]
+}

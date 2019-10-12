@@ -1,0 +1,257 @@
+{
+  "header": {
+    "document_id": "E03236",
+    "document_name": "カッパ・クリエイト株式会社",
+    "doc_text": "有価証券報告書",
+    "edi_id": "E03236",
+    "security_code": "74210",
+    "category33": "小売業",
+    "category17": "小売",
+    "scale": "6"
+  },
+  "sentences": [
+    {
+      "sentence_id": 0,
+      "sentence": "当連結会計年度における我が国経済は、政府の経済対策等を背景に緩やかな回復基調を辿ったものの、英国のEU離脱問題、アメリカの政権交代の影響による世界経済の不確実性の高まりなど景気の先行きは不透明な状況で推移いたしました",
+      "opinions": [
+        {
+          "target": "先行き",
+          "category": "NULL#general",
+          "polarity": "neutral",
+          "from": 89,
+          "to": 92
+        }
+      ]
+    },
+    {
+      "sentence_id": 1,
+      "sentence": "外食業界におきましては、食材価格の高騰、人材確保の競争の激化、また食の「安心・安全」に対する社会的関心の高まりに加え、消費者の節約志向の影響から経営環境はより一層の厳しさを増しております",
+      "opinions": [
+        {
+          "target": "食材価格",
+          "category": "NULL#cost",
+          "polarity": "negative",
+          "from": 12,
+          "to": 16
+        },
+        {
+          "target": "競争",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 25,
+          "to": 27
+        },
+        {
+          "target": "経営環境",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 72,
+          "to": 76
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "sentence": "このような状況の中、昨年10月より「かっぱ寿司」のブランド力を回復すべくリブランディングを実施し、「おいしいネタ、はなしのネタ",
+      "opinions": []
+    },
+    {
+      "sentence_id": 3,
+      "sentence": "」をキーワードに魅力ある高品質な商品を投入するとともに、店舗ロゴのデザインを刷新し、新規顧客の獲得及びリピーターの増加を目指してまいりました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 4,
+      "sentence": "店舗面では、平成28年６月に宇部店、７月に新小岩ルミエール店、淡路店、逗子店、９月に広島呉店、越谷レイクタウン店、六日町店、11月に洲本店、小倉足立インター店、豊中上新田店の計10店舗を出店いたしました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 5,
+      "sentence": "以上の結果、当連結会計年度の売上高は794億22百万円（前年同期比1.1％減）、営業損失は５億24百万円（前年同期は営業利益25億49百万円）、経常損失は３億49百万円（前年同期は経常利益27億23百万円）、親会社株主に帰属する当期純損失は58億７百万円（前年同期は親会社株主に帰属する当期純利益52億81百万円）となりました",
+      "opinions": [
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "negative",
+          "from": 14,
+          "to": 17
+        },
+        {
+          "target": "営業損失",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 40,
+          "to": 44
+        },
+        {
+          "target": "経常損失",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 72,
+          "to": 76
+        },
+        {
+          "target": "当期純損失",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 114,
+          "to": 119
+        }
+      ]
+    },
+    {
+      "sentence_id": 6,
+      "sentence": "次にセグメントの概況をご報告申し上げます",
+      "opinions": []
+    },
+    {
+      "sentence_id": 7,
+      "sentence": "〈回転寿司事業〉",
+      "opinions": []
+    },
+    {
+      "sentence_id": 8,
+      "sentence": "回転寿司事業におきましては、引き続き商品力と店舗サービスの強化に取り組んでまいりました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 9,
+      "sentence": "お客様の利便性向上の施策としてWebによる客席予約やテイクアウト注文システムの導入など、新規顧客の獲得及びリピーターの増加を目指しております",
+      "opinions": []
+    },
+    {
+      "sentence_id": 10,
+      "sentence": "しかしながら、営業戦略の不徹底及び作業スキルのブラッシュアップ不足により、店舗オペレーション力の低下を招き、来店客数の減少、商品廃棄ロス及び人件費などのコストが増加した結果、売上高及び利益が減少いたしました",
+      "opinions": [
+        {
+          "target": "店舗オペレーション力",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 37,
+          "to": 47
+        },
+        {
+          "target": "来店客数",
+          "category": "NULL#amount",
+          "polarity": "negative",
+          "from": 54,
+          "to": 58
+        },
+        {
+          "target": "商品廃棄ロス",
+          "category": "NULL#cost",
+          "polarity": "negative",
+          "from": 62,
+          "to": 68
+        },
+        {
+          "target": "人件費",
+          "category": "NULL#cost",
+          "polarity": "negative",
+          "from": 70,
+          "to": 73
+        },
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "negative",
+          "from": 87,
+          "to": 90
+        },
+        {
+          "target": "利益",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 92,
+          "to": 94
+        }
+      ]
+    },
+    {
+      "sentence_id": 11,
+      "sentence": "また、昨年10月より実施したリブランディング戦略は、「かっぱ寿司」ブランドのお客様認知度の向上や客単価の上昇などの点において一時的な効果はあったものの、広告宣伝費や販売促進費等の投資を回収するための収益の改善には繋がらず費用が先行したことにより利益を圧迫する要因となりました",
+      "opinions": [
+        {
+          "target": "お客様認知度",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 38,
+          "to": 44
+        },
+        {
+          "target": "客単価",
+          "category": "NULL#price",
+          "polarity": "positive",
+          "from": 48,
+          "to": 51
+        }
+      ]
+    },
+    {
+      "sentence_id": 12,
+      "sentence": "本年２月以降、経営体制・運営方針を抜本的に改め、また、コロワイドグループの全面的な協力を受け、従来の枠組みにとらわれることなく全社的な事業構造改革を進めた結果、売上高の回復並びにコスト構造の改善ともに順調に推移しております",
+      "opinions": []
+    },
+    {
+      "sentence_id": 13,
+      "sentence": "また、海外では韓国で回転寿司を６店舗運営しております",
+      "opinions": []
+    },
+    {
+      "sentence_id": 14,
+      "sentence": "商品力・サービスの向上に注力し、改善を進めた結果、過去最高の売上高及び利益を達成いたしました",
+      "opinions": [
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 30,
+          "to": 33
+        },
+        {
+          "target": "利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 35,
+          "to": 37
+        }
+      ]
+    },
+    {
+      "sentence_id": 15,
+      "sentence": "以上の結果、回転寿司事業の売上高は676億42百万円（前年同期比2.5％減）となりました",
+      "opinions": [
+        {
+          "target": "回転寿司事業",
+          "category": "business#sales",
+          "polarity": "negative",
+          "from": 6,
+          "to": 12
+        }
+      ]
+    },
+    {
+      "sentence_id": 16,
+      "sentence": "〈デリカ事業〉",
+      "opinions": []
+    },
+    {
+      "sentence_id": 17,
+      "sentence": "デリカ事業におきましては、コンビニエンスストアを中心とした寿司弁当、調理パン等の新規取引先の拡大、既存顧客の販売強化及びコスト構造の見直しに取り組んでおります",
+      "opinions": []
+    },
+    {
+      "sentence_id": 18,
+      "sentence": "以上の結果、デリカ事業の売上高は117億80百万円（前年同期比7.8％増）となりました",
+      "opinions": [
+        {
+          "target": "デリカ事業",
+          "category": "business#sales",
+          "polarity": "positive",
+          "from": 6,
+          "to": 11
+        }
+      ]
+    }
+  ]
+}

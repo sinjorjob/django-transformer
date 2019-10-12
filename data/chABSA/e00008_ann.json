@@ -1,0 +1,427 @@
+{
+  "header": {
+    "document_id": "E00008",
+    "document_name": "ホクト株式会社",
+    "doc_text": "有価証券報告書",
+    "edi_id": "E00008",
+    "security_code": "13790",
+    "category33": "水産・農林業",
+    "category17": "食品",
+    "scale": "6"
+  },
+  "sentences": [
+    {
+      "sentence_id": 0,
+      "sentence": "当連結会計年度におけるわが国経済は、政府の経済政策や日銀の金融緩和策により、企業業績、雇用・所得環境は改善し、景気も緩やかな回復基調のうちに推移いたしましたが、中国をはじめとするアジア新興国経済の減速懸念や、英国の欧州連合（ＥＵ）離脱決定、米国新政権への移行など、引き続き先行きは不透明な状況となっております",
+      "opinions": [
+        {
+          "target": "わが国経済",
+          "category": "NULL#general",
+          "polarity": "neutral",
+          "from": 11,
+          "to": 16
+        },
+        {
+          "target": "企業業績",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 38,
+          "to": 42
+        },
+        {
+          "target": "雇用",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 43,
+          "to": 45
+        },
+        {
+          "target": "所得環境",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 46,
+          "to": 50
+        },
+        {
+          "target": "景気",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 55,
+          "to": 57
+        }
+      ]
+    },
+    {
+      "sentence_id": 1,
+      "sentence": "当社グループを取り巻く環境は、実質賃金が伸び悩むなか、消費者の皆様の生活防衛意識の高まりや節約志向により、個人消費は本格的な改善には至らず、また少子高齢化、人口減少による社会構造の変化、雇用改善に伴う労働コストの上昇、企業間競争の激化など、引き続き厳しい状況となりました",
+      "opinions": [
+        {
+          "target": "環境",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 11,
+          "to": 13
+        },
+        {
+          "target": "実質賃金",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 15,
+          "to": 19
+        },
+        {
+          "target": "個人消費",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 53,
+          "to": 57
+        },
+        {
+          "target": "労働コスト",
+          "category": "NULL#cost",
+          "polarity": "negative",
+          "from": 100,
+          "to": 105
+        },
+        {
+          "target": "企業間競争",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 109,
+          "to": 114
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "sentence": "このような環境の中、当社グループはきのこ事業を中心として、健康食材である「きのこ」の研究開発、生産、販売を通して、より多くの皆様へ、おいしさと健康をお届けできるよう事業活動を行ってまいりました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 3,
+      "sentence": "また、平成26年に策定いたしました中期経営計画の見直しを行い、市況に左右されない事業ポートフォリオの構築を目指した活動を推進し、おいしくて健康な「きのこ食文化の創造」と「企業の発展」に向け邁進してまいりました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 4,
+      "sentence": "以上の結果、当連結会計年度の当社グループの業績は、売上高631億19百万円（前期比3.5％増）、営業利益34億30百万円（前期比0.1％増）、経常利益43億79百万円（前期比7.5％増）、親会社株主に帰属する当期純利益は28億28百万円（前期比8.9％増）となりました",
+      "opinions": [
+        {
+          "target": "当社グループ",
+          "category": "company#sales",
+          "polarity": "positive",
+          "from": 14,
+          "to": 20
+        },
+        {
+          "target": "当社グループ",
+          "category": "company#profit",
+          "polarity": "positive",
+          "from": 14,
+          "to": 20
+        }
+      ]
+    },
+    {
+      "sentence_id": 5,
+      "sentence": "なお、当連結会計年度の生産量は、ブナピーを含めブナシメジ42,602ｔ（同5.5％増）、エリンギ19,250ｔ（同0.2％減）、マイタケ14,281ｔ（同4.3％増）となりました",
+      "opinions": [
+        {
+          "target": "ブナシメジ",
+          "category": "product#amount",
+          "polarity": "positive",
+          "from": 23,
+          "to": 28
+        },
+        {
+          "target": "エリンギ",
+          "category": "product#amount",
+          "polarity": "negative",
+          "from": 44,
+          "to": 48
+        },
+        {
+          "target": "マイタケ",
+          "category": "product#amount",
+          "polarity": "positive",
+          "from": 64,
+          "to": 68
+        }
+      ]
+    },
+    {
+      "sentence_id": 6,
+      "sentence": "当連結会計年度の各セグメントの概況は次のとおりであります",
+      "opinions": []
+    },
+    {
+      "sentence_id": 7,
+      "sentence": "「国内きのこ事業」",
+      "opinions": []
+    },
+    {
+      "sentence_id": 8,
+      "sentence": "生産部門におきましては、衛生管理を徹底し、安定栽培と品質の向上に努めてまいりました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 9,
+      "sentence": "平成27年４月の火災により生産を休止していた苫小牧第一きのこセンターが、工場を再建し、平成28年４月27日よりブナシメジの収穫・出荷を再開したことや、カットブナシメジ専用工場として新設した富山きのこセンターが平成28年９月上旬から収穫・出荷を開始したことにより、ブナシメジの生産量は増加いたしました",
+      "opinions": [
+        {
+          "target": "ブナシメジ",
+          "category": "product#amount",
+          "polarity": "positive",
+          "from": 131,
+          "to": 136
+        }
+      ]
+    },
+    {
+      "sentence_id": 10,
+      "sentence": "また、改修のため一時生産を休止しておりました広川きのこセンターにおきまして、平成28年９月上旬より霜降りひらたけの収穫・出荷を開始したことなどにより、きのこ全体の生産量は増加いたしました",
+      "opinions": [
+        {
+          "target": "きのこ",
+          "category": "product#amount",
+          "polarity": "positive",
+          "from": 75,
+          "to": 78
+        }
+      ]
+    },
+    {
+      "sentence_id": 11,
+      "sentence": "研究部門におきましては、品質管理体制の強化、付加価値の高い新商品の開発およびきのこの薬理効果や機能性の追求に取り組んでまいりました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 12,
+      "sentence": "特に、平成27年７月に完成したシイタケ栽培技術研究施設におきまして、シイタケの大量・安定栽培に向けた研究に注力いたしました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 13,
+      "sentence": "営業部門におきましては、鮮度に拘った営業活動を行う一方、きのこによる健康と美容価値の創出が消費に結びつくものとして、引き続き「菌活」の提唱を行い、消費の拡大に努めてまいりました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 14,
+      "sentence": "春から夏にかけましては個人消費の低迷などにより、きのこの価格は厳しい状況で推移いたしました",
+      "opinions": [
+        {
+          "target": "きのこ",
+          "category": "product#price",
+          "polarity": "negative",
+          "from": 24,
+          "to": 27
+        },
+        {
+          "target": "個人消費",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 11,
+          "to": 15
+        }
+      ]
+    },
+    {
+      "sentence_id": 15,
+      "sentence": "反面、秋から冬にかけましては天候不順などによる野菜価格の高騰により、きのこの価格は堅調に推移いたしました",
+      "opinions": [
+        {
+          "target": "野菜価格",
+          "category": "NULL#price",
+          "polarity": "positive",
+          "from": 23,
+          "to": 27
+        },
+        {
+          "target": "きのこ",
+          "category": "product#price",
+          "polarity": "positive",
+          "from": 34,
+          "to": 37
+        }
+      ]
+    },
+    {
+      "sentence_id": 16,
+      "sentence": "以上の結果、国内きのこ事業全体の売上高は422億96百万円（同3.1％増）となりました",
+      "opinions": [
+        {
+          "target": "国内きのこ事業",
+          "category": "business#sales",
+          "polarity": "positive",
+          "from": 6,
+          "to": 13
+        }
+      ]
+    },
+    {
+      "sentence_id": 17,
+      "sentence": "「海外きのこ事業」",
+      "opinions": []
+    },
+    {
+      "sentence_id": 18,
+      "sentence": "海外きのこ事業におきましては、各子会社が稼働率を高めたことにより、生産量は増加いたしました",
+      "opinions": [
+        {
+          "target": "海外きのこ事業",
+          "category": "business#amount",
+          "polarity": "positive",
+          "from": 0,
+          "to": 7
+        },
+        {
+          "target": "各子会社",
+          "category": "company#general",
+          "polarity": "positive",
+          "from": 15,
+          "to": 19
+        }
+      ]
+    },
+    {
+      "sentence_id": 19,
+      "sentence": "台湾の現地法人「台灣北斗生技股份有限公司」におきましては、ブランドの構築、企画提案などに力を入れ販売活動を行ってまいりましたが、企業間競争の激化により厳しい状況で推移いたしました",
+      "opinions": [
+        {
+          "target": "台灣北斗生技股份有限公司",
+          "category": "company#general",
+          "polarity": "negative",
+          "from": 8,
+          "to": 20
+        },
+        {
+          "target": "企業間競争",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 64,
+          "to": 69
+        }
+      ]
+    },
+    {
+      "sentence_id": 20,
+      "sentence": "米国の現地法人「HOKTO KINOKO COMPANY」におきましては、引き続き非アジア系顧客の開拓に注力し、販売の拡大を目指すとともに、欧州でのマーケティング活動も引き続き行ってまいりました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 21,
+      "sentence": "マレーシアの現地法人「HOKTO MALAYSIA SDN. BHD.」におきましては、マレーシア国内に限らず、広く東南アジアのマーケットでの販売を展開してまいりました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 22,
+      "sentence": "また、当社では新たな販路の開拓を目的として、東南アジア地域の市場調査・情報収集活動を強化するため、平成28年７月にタイ・バンコクに駐在員事務所を開設いたしました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 23,
+      "sentence": "以上の結果、海外きのこ事業全体の売上高は45億12百万円（同1.4％増）となりました",
+      "opinions": [
+        {
+          "target": "海外きのこ事業",
+          "category": "business#sales",
+          "polarity": "positive",
+          "from": 6,
+          "to": 13
+        }
+      ]
+    },
+    {
+      "sentence_id": 24,
+      "sentence": "「加工品事業」",
+      "opinions": []
+    },
+    {
+      "sentence_id": 25,
+      "sentence": "加工品事業におきましては、水煮・冷凍などのアイテムやレトルト食品など加工品の販売を行っております",
+      "opinions": []
+    },
+    {
+      "sentence_id": 26,
+      "sentence": "その中で新しいアイテムの開発とさらなる市場開拓を行ってまいりました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 27,
+      "sentence": "一方、自社きのこを活用した新商品の開発および健康食品・レトルト食品を中心とした販売活動にも注力するとともに、一部商品におきましては通販事業による一般の消費者の皆様への直接販売にも力を入れてまいりました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 28,
+      "sentence": "また、子会社の株式会社アーデンにおきましては、ＯＥＭ製品が好調に推移いたしました",
+      "opinions": [
+        {
+          "target": "ＯＥＭ製品",
+          "category": "product#general",
+          "polarity": "positive",
+          "from": 23,
+          "to": 28
+        }
+      ]
+    },
+    {
+      "sentence_id": 29,
+      "sentence": "以上の結果、加工品事業の売上高は70億64百万円（同15.5％増）となりました",
+      "opinions": [
+        {
+          "target": "加工品事業",
+          "category": "business#sales",
+          "polarity": "positive",
+          "from": 6,
+          "to": 11
+        }
+      ]
+    },
+    {
+      "sentence_id": 30,
+      "sentence": "「化成品事業」",
+      "opinions": []
+    },
+    {
+      "sentence_id": 31,
+      "sentence": "化成品事業におきましては、引き続き厳しい販売環境にありましたが、中核である包装資材部門におきましては、効率化・利益率の改善を図るため営業戦略を見直し、販売強化に注力してまいりました",
+      "opinions": [
+        {
+          "target": "販売環境",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 20,
+          "to": 24
+        }
+      ]
+    },
+    {
+      "sentence_id": 32,
+      "sentence": "農業資材部門におきましては、資材の提供だけではなく、きめ細やかなサポートを強化してまいりました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 33,
+      "sentence": "新規戦略本部におきましては、一昨年より自社製品の販売を一つの柱にすべく営業活動を展開しております",
+      "opinions": []
+    },
+    {
+      "sentence_id": 34,
+      "sentence": "新規販路の開拓と既存製品拡販に対応するため製造能力を旧工場の３倍にアップした新工場を長野市豊野に建設し、平成28年９月から稼働を開始いたしました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 35,
+      "sentence": "以上の結果、化成品事業の売上高は92億45百万円（同1.7％減）となりました",
+      "opinions": [
+        {
+          "target": "化成品事業",
+          "category": "business#sales",
+          "polarity": "negative",
+          "from": 6,
+          "to": 11
+        }
+      ]
+    }
+  ]
+}

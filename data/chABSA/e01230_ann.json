@@ -1,0 +1,452 @@
+{
+  "header": {
+    "document_id": "E01230",
+    "document_name": "トピー工業株式会社",
+    "doc_text": "有価証券報告書",
+    "edi_id": "E01230",
+    "security_code": "72310",
+    "category33": "輸送用機器",
+    "category17": "自動車・輸送機",
+    "scale": "6"
+  },
+  "sentences": [
+    {
+      "sentence_id": 0,
+      "sentence": "当連結会計年度における世界経済は、米国は景気が堅調に推移し、欧州も回復傾向が続きました",
+      "opinions": [
+        {
+          "target": "景気",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 20,
+          "to": 22
+        },
+        {
+          "target": "欧州",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 30,
+          "to": 32
+        }
+      ]
+    },
+    {
+      "sentence_id": 1,
+      "sentence": "また、中国及び新興国でも期央より持ち直しの動きが見られ、全体としては緩やかに回復しました",
+      "opinions": [
+        {
+          "target": "中国",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 3,
+          "to": 5
+        },
+        {
+          "target": "新興国",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 7,
+          "to": 10
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "sentence": "わが国経済は、雇用情勢の改善や鉱工業生産の持ち直し等により緩やかな回復傾向で推移しました",
+      "opinions": [
+        {
+          "target": "わが国経済",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 0,
+          "to": 5
+        },
+        {
+          "target": "雇用情勢",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 7,
+          "to": 11
+        },
+        {
+          "target": "鉱工業生産",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 15,
+          "to": 20
+        }
+      ]
+    },
+    {
+      "sentence_id": 3,
+      "sentence": "このような状況下、当社グループは、持続的成長と働きがいのある会社を目指した中期経営計画「Growth & Change 2018」をスタートしました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 4,
+      "sentence": "その一環として、スチールホイール事業においてMW ITALIA S.R.L.との戦略的提携を強化するとともに、工業用ファスナーの海外拠点の生産能力増強を図り、グローバル展開を加速しました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 5,
+      "sentence": "また、スチールホイールの国内需要の減少等、経営環境の変化に対応するため、リンテックス株式会社の完全子会社化に向けた検討を開始いたしました",
+      "opinions": [
+        {
+          "target": "国内需要",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 12,
+          "to": 16
+        }
+      ]
+    },
+    {
+      "sentence_id": 6,
+      "sentence": "加えて、需要に応じた生産体制の構築や生産性の向上、省エネ等のコスト改善についても引き続き取り組んでまいりました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 7,
+      "sentence": "当連結会計年度における当社グループの業績は、売上高2,082億３千７百万円（前期比3.5％減）、営業利益71億８千万円（前期比28.2％減）、経常利益61億１千６百万円（前期比30.5％減）となりました",
+      "opinions": [
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "negative",
+          "from": 22,
+          "to": 25
+        },
+        {
+          "target": "営業利益",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 48,
+          "to": 52
+        },
+        {
+          "target": "経常利益",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 71,
+          "to": 75
+        }
+      ]
+    },
+    {
+      "sentence_id": 8,
+      "sentence": "親会社株主に帰属する当期純利益については、固定資産の譲渡に伴う特別利益を計上したことにより、71億９千１百万円（前期比 322.9％増）となりました",
+      "opinions": [
+        {
+          "target": "当期純利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 10,
+          "to": 15
+        }
+      ]
+    },
+    {
+      "sentence_id": 9,
+      "sentence": "セグメントの業績は、以下のとおりです",
+      "opinions": []
+    },
+    {
+      "sentence_id": 10,
+      "sentence": "（鉄鋼事業）",
+      "opinions": []
+    },
+    {
+      "sentence_id": 11,
+      "sentence": "電炉業界は、建設向けをはじめとした鋼材需要が期後半より回復基調で推移したため、粗鋼生産量は前期を上回りました",
+      "opinions": [
+        {
+          "target": "鋼材需要",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 17,
+          "to": 21
+        },
+        {
+          "target": "粗鋼生産量",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 39,
+          "to": 44
+        }
+      ]
+    },
+    {
+      "sentence_id": 12,
+      "sentence": "一方、鋼材市況が低迷する中で、主原料である鉄スクラップ価格が期央より急騰する等、厳しい環境が続きました",
+      "opinions": [
+        {
+          "target": "鋼材市況",
+          "category": "market#general",
+          "polarity": "negative",
+          "from": 3,
+          "to": 7
+        },
+        {
+          "target": "鉄スクラップ価格",
+          "category": "NULL#cost",
+          "polarity": "negative",
+          "from": 21,
+          "to": 29
+        }
+      ]
+    },
+    {
+      "sentence_id": 13,
+      "sentence": "このような状況下、当社グループは、異形形鋼の需要開拓等に取り組み、販売数量が増加したため、売上高は638億３百万円（前期比0.1％増）となりました",
+      "opinions": [
+        {
+          "target": "販売数量",
+          "category": "NULL#amount",
+          "polarity": "positive",
+          "from": 33,
+          "to": 37
+        },
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 45,
+          "to": 48
+        }
+      ]
+    },
+    {
+      "sentence_id": 14,
+      "sentence": "しかしながら、鉄スクラップ価格の急騰に対応した販売価格の改善に努めたものの、鉄スクラップ価格との値差が縮小したため、営業利益は28億８千２百万円（前期比40.1％減）となりました",
+      "opinions": [
+        {
+          "target": "鉄スクラップ価格",
+          "category": "NULL#cost",
+          "polarity": "negative",
+          "from": 7,
+          "to": 15
+        },
+        {
+          "target": "営業利益",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 58,
+          "to": 62
+        }
+      ]
+    },
+    {
+      "sentence_id": 15,
+      "sentence": "（自動車・産業機械部品事業）",
+      "opinions": []
+    },
+    {
+      "sentence_id": 16,
+      "sentence": "自動車業界は、軽自動車の販売が低迷するとともに、トラックの輸出が減少したものの、普通乗用車の国内外における販売が堅調に推移したため、国内生産台数は前期並みとなりました",
+      "opinions": [
+        {
+          "target": "販売",
+          "category": "NULL#sales",
+          "polarity": "negative",
+          "from": 12,
+          "to": 14
+        },
+        {
+          "target": "輸出",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 29,
+          "to": 31
+        },
+        {
+          "target": "販売",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 53,
+          "to": 55
+        },
+        {
+          "target": "国内生産台数",
+          "category": "NULL#general",
+          "polarity": "neutral",
+          "from": 66,
+          "to": 72
+        }
+      ]
+    },
+    {
+      "sentence_id": 17,
+      "sentence": "また、米国の需要は高水準で推移しました",
+      "opinions": [
+        {
+          "target": "需要",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 6,
+          "to": 8
+        }
+      ]
+    },
+    {
+      "sentence_id": 18,
+      "sentence": "建設機械業界は、国内需要が減少したものの、中国市場では公共投資の増加により、回復傾向となりました",
+      "opinions": [
+        {
+          "target": "建設機械業界",
+          "category": "market#general",
+          "polarity": "positive",
+          "from": 0,
+          "to": 6
+        },
+        {
+          "target": "国内需要",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 8,
+          "to": 12
+        },
+        {
+          "target": "公共投資",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 27,
+          "to": 31
+        }
+      ]
+    },
+    {
+      "sentence_id": 19,
+      "sentence": "鉱山機械需要についても回復の兆しが見られました",
+      "opinions": [
+        {
+          "target": "鉱山機械需要",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 0,
+          "to": 6
+        }
+      ]
+    },
+    {
+      "sentence_id": 20,
+      "sentence": "このような状況下、当社グループは、建設機械用足回り部品の販売数量が中国向けを中心に増加したものの、円高による影響に加え、トラック用ホイールの販売数量の減少等により、売上高は1,296億８千１百万円（前期比3.3％減）となりました",
+      "opinions": [
+        {
+          "target": "足回り部品",
+          "category": "product#amount",
+          "polarity": "positive",
+          "from": 22,
+          "to": 27
+        },
+        {
+          "target": "トラック用ホイール",
+          "category": "product#amount",
+          "polarity": "negative",
+          "from": 60,
+          "to": 69
+        },
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "negative",
+          "from": 82,
+          "to": 85
+        }
+      ]
+    },
+    {
+      "sentence_id": 21,
+      "sentence": "一方、建設機械用足回り部品の販売数量増加や中国の生産拠点の集約、コスト改善の効果により、営業利益は65億２千４百万円（前期比22.6％増）となりました",
+      "opinions": [
+        {
+          "target": "足回り部品",
+          "category": "product#amount",
+          "polarity": "positive",
+          "from": 8,
+          "to": 13
+        },
+        {
+          "target": "営業利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 44,
+          "to": 48
+        }
+      ]
+    },
+    {
+      "sentence_id": 22,
+      "sentence": "（発電事業）",
+      "opinions": []
+    },
+    {
+      "sentence_id": 23,
+      "sentence": "事業計画に沿って石炭火力発電による安定した電力供給を続けてまいりましたが、原油及びＬＮＧ価格の急落に伴う電力販売価格の大幅な下落により、売上高は84億２千５百万円（前期比20.7％減）となりました",
+      "opinions": [
+        {
+          "target": "原油",
+          "category": "NULL#cost",
+          "polarity": "positive",
+          "from": 37,
+          "to": 39
+        },
+        {
+          "target": "ＬＮＧ価格",
+          "category": "NULL#cost",
+          "polarity": "positive",
+          "from": 41,
+          "to": 46
+        },
+        {
+          "target": "電力販売価格",
+          "category": "NULL#price",
+          "polarity": "negative",
+          "from": 52,
+          "to": 58
+        },
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "negative",
+          "from": 68,
+          "to": 71
+        }
+      ]
+    },
+    {
+      "sentence_id": 24,
+      "sentence": "一方、発電燃料である石炭価格の値下がりが小幅だったため、営業利益は４億９千４百万円（前期比80.0％減）となりました",
+      "opinions": [
+        {
+          "target": "石炭価格",
+          "category": "NULL#price",
+          "polarity": "negative",
+          "from": 10,
+          "to": 14
+        },
+        {
+          "target": "営業利益",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 28,
+          "to": 32
+        }
+      ]
+    },
+    {
+      "sentence_id": 25,
+      "sentence": "（その他）",
+      "opinions": []
+    },
+    {
+      "sentence_id": 26,
+      "sentence": "化粧品等に使われる合成マイカの製造販売、クローラーロボットの製作販売、屋内外サインシステム事業、土木・建築事業、「トピレックプラザ」（東京都江東区南砂）等の不動産賃貸及びスポーツクラブ「OSSO」の運営等を行っております",
+      "opinions": []
+    },
+    {
+      "sentence_id": 27,
+      "sentence": "売上高は63億２千６百万円、営業利益は15億５千７百万円となりました",
+      "opinions": []
+    }
+  ]
+}

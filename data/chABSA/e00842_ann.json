@@ -1,0 +1,191 @@
+{
+  "header": {
+    "document_id": "E00842",
+    "document_name": "戸田工業株式会社",
+    "doc_text": "有価証券報告書",
+    "edi_id": "E00842",
+    "security_code": "41000",
+    "category33": "化学",
+    "category17": "素材・化学",
+    "scale": "7"
+  },
+  "sentences": [
+    {
+      "sentence_id": 0,
+      "sentence": "当連結会計年度におけるわが国経済は、雇用・所得環境に改善が見られるものの、不安定な為替相場、中国経済をはじめとした海外経済の減速、英国のＥＵ離脱問題、米国新政権の政策動向等により、景気の先行きは依然として不透明な状況となっております",
+      "opinions": [
+        {
+          "target": "雇用",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 18,
+          "to": 20
+        },
+        {
+          "target": "所得環境",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 21,
+          "to": 25
+        },
+        {
+          "target": "為替相場",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 41,
+          "to": 45
+        },
+        {
+          "target": "海外経済",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 57,
+          "to": 61
+        },
+        {
+          "target": "先行き",
+          "category": "NULL#general",
+          "polarity": "neutral",
+          "from": 93,
+          "to": 96
+        }
+      ]
+    },
+    {
+      "sentence_id": 1,
+      "sentence": "こうした状況のもと、当社グループにおきましては、海外経済の減速から国内外の販売が低迷し、また為替が乱高下したこと、戸田アメリカINC.、戸田アドバンストマテリアルズINC.を連結子会社とした影響等を受け、売上高は27,889百万円（前期比2.2％減）となり、営業損失は151百万円（前期は営業利益1,051百万円）となりました",
+      "opinions": [
+        {
+          "target": "海外経済",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 24,
+          "to": 28
+        },
+        {
+          "target": "販売",
+          "category": "NULL#amount",
+          "polarity": "negative",
+          "from": 37,
+          "to": 39
+        },
+        {
+          "target": "為替",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 46,
+          "to": 48
+        },
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "negative",
+          "from": 102,
+          "to": 105
+        },
+        {
+          "target": "営業損失",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 129,
+          "to": 133
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "sentence": "為替差損107百万円、持分法による投資損失694百万円等があり、経常損失は1,116百万円（前期は経常損失1,440百万円）となりました",
+      "opinions": [
+        {
+          "target": "経常損失",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 32,
+          "to": 36
+        }
+      ]
+    },
+    {
+      "sentence_id": 3,
+      "sentence": "また、のれん償却額1,380百万円等があり親会社株主に帰属する当期純損失は2,926百万円（前期は親会社株主に帰属する当期純損失6,865百万円）となりました",
+      "opinions": [
+        {
+          "target": "当期純損失",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 31,
+          "to": 36
+        }
+      ]
+    },
+    {
+      "sentence_id": 4,
+      "sentence": "連結子会社及び持分法適用会社につきましては、前連結会計年度から積極的に収益改善及び縮小等を含めた活動を行っており、徐々に改善効果は現れております",
+      "opinions": []
+    },
+    {
+      "sentence_id": 5,
+      "sentence": "なお、北米におけるリチウムイオン電池用正極材料事業の合弁化に向けた活動は継続しており、複数の候補先と協議を行っております",
+      "opinions": []
+    },
+    {
+      "sentence_id": 6,
+      "sentence": "セグメント別の状況は、次のとおりであります",
+      "opinions": []
+    },
+    {
+      "sentence_id": 7,
+      "sentence": "(機能性顔料)\n　海外経済の減速から国内外の販売が低迷し、売上高は前期比10.7％減の15,020百万円、セグメント利益は前期比2.3％減の2,768百万円となりました",
+      "opinions": [
+        {
+          "target": "海外経済",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 9,
+          "to": 13
+        },
+        {
+          "target": "販売",
+          "category": "NULL#amount",
+          "polarity": "negative",
+          "from": 22,
+          "to": 24
+        },
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "negative",
+          "from": 29,
+          "to": 32
+        },
+        {
+          "target": "セグメント利益",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 53,
+          "to": 60
+        }
+      ]
+    },
+    {
+      "sentence_id": 8,
+      "sentence": "(電子素材)\n　戸田アメリカINC.、戸田アドバンストマテリアルズINC.を連結子会社とした影響等を受け、売上高は前期比12.8％増の13,208百万円、セグメント損失は525百万円（前期はセグメント利益425百万円）となりました",
+      "opinions": [
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 53,
+          "to": 56
+        },
+        {
+          "target": "セグメント損失",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 77,
+          "to": 84
+        }
+      ]
+    }
+  ]
+}

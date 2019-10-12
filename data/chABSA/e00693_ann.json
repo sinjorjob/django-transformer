@@ -1,0 +1,663 @@
+{
+  "header": {
+    "document_id": "E00693",
+    "document_name": "大日本印刷株式会社",
+    "doc_text": "有価証券報告書",
+    "edi_id": "E00693",
+    "security_code": "79120",
+    "category33": "その他製品",
+    "category17": "情報通信・サービスその他",
+    "scale": "4"
+  },
+  "sentences": [
+    {
+      "sentence_id": 0,
+      "sentence": "当連結会計年度におけるわが国経済は、政府の経済政策や日銀の金融緩和政策によって雇用・所得情勢が改善するなど、緩やかな回復基調で推移したが、円高の影響や個人消費の伸び悩みに加え、中国などの海外経済の減速もあり、本格的な回復には至らなかった",
+      "opinions": [
+        {
+          "target": "わが国経済",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 11,
+          "to": 16
+        },
+        {
+          "target": "雇用",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 39,
+          "to": 41
+        },
+        {
+          "target": "所得情勢",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 42,
+          "to": 46
+        },
+        {
+          "target": "個人消費",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 75,
+          "to": 79
+        },
+        {
+          "target": "海外経済",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 93,
+          "to": 97
+        }
+      ]
+    },
+    {
+      "sentence_id": 1,
+      "sentence": "印刷業界においては、出版印刷物をはじめとした紙媒体の需要減少に加え、競争激化による受注単価の下落などにより、引き続き厳しい経営環境にあった",
+      "opinions": [
+        {
+          "target": "印刷業界",
+          "category": "market#general",
+          "polarity": "negative",
+          "from": 0,
+          "to": 4
+        },
+        {
+          "target": "紙媒体",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 22,
+          "to": 25
+        },
+        {
+          "target": "受注単価",
+          "category": "NULL#price",
+          "polarity": "negative",
+          "from": 41,
+          "to": 45
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "sentence": "このような状況のなか、ＤＮＰは、国内外のさまざまな社会課題のうち「知とコミュニケーション」「食とヘルスケア」「住まいとモビリティ」「環境とエネルギー」の４つを成長領域として位置づけ、印刷（Printing）と情報（Information）の強みを組み合わせた「Ｐ＆Ｉイノベーション」により、既存事業の拡大と新規ビジネスの開発による新しい価値の創造に注力し、業績の向上に努めた",
+      "opinions": []
+    },
+    {
+      "sentence_id": 3,
+      "sentence": "まず、「知とコミュニケーション」の領域では、平成28年４月、安全・安心で利便性の高いオンラインでの本人確認サービスの拡充を目指し、電子認証に強みを持つサイバートラスト株式会社と共同で各種認証サービスの提供に関する協業を開始した",
+      "opinions": []
+    },
+    {
+      "sentence_id": 4,
+      "sentence": "また同年９月には、地域情報ポータルサイトと地域通貨ポイントを活用した地域創生事業への本格参入に向け、株式会社フューチャーリンクネットワークと資本業務提携した",
+      "opinions": []
+    },
+    {
+      "sentence_id": 5,
+      "sentence": "「食とヘルスケア」の領域では、平成28年５月、世界大手の飲料・食品向け紙容器メーカーであるＳＩＧ（エスアイジー）コンビブロックグループと、日本市場において連携していくことに合意した",
+      "opinions": []
+    },
+    {
+      "sentence_id": 6,
+      "sentence": "「住まいとモビリティ」の領域では、２枚のガラスを手動でスライドさせて透明と遮蔽を切り替える「ＤＮＰ調光ブラインド スマートシェード」や、軽量で耐候性や耐摩耗性に優れた自動車向け曲面樹脂ガラスなど、機能性に優れた新製品の開発を進めた",
+      "opinions": []
+    },
+    {
+      "sentence_id": 7,
+      "sentence": "「環境とエネルギー」の領域では、経済的な発展と地球環境の保全を両立させる持続可能な社会の実現に向けて、多様な製品・サービスを開発した",
+      "opinions": []
+    },
+    {
+      "sentence_id": 8,
+      "sentence": "平成29年２月には、窓から入る太陽光を効果的に室内に反射・拡散させる「ＤＮＰ採光フィルム」による消費電力の削減などの環境保全に対する取り組みが評価され、第26回地球環境大賞「日本経済団体連合会会長賞」を受賞した",
+      "opinions": []
+    },
+    {
+      "sentence_id": 9,
+      "sentence": "このほか、事業競争力の強化に向けて、事業部門やグループ会社の再編・統合などの構造改革にグループを挙げて取り組んだ",
+      "opinions": []
+    },
+    {
+      "sentence_id": 10,
+      "sentence": "その結果、当連結会計年度の売上高は1兆4,101億円（前期比3.1％減）、営業利益は314億円（前期比30.9％減）、経常利益は367億円（前期比30.2％減）、親会社株主に帰属する当期純利益は252億円（前期比24.9％減）となった",
+      "opinions": [
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "negative",
+          "from": 13,
+          "to": 16
+        },
+        {
+          "target": "営業利益",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 37,
+          "to": 41
+        },
+        {
+          "target": "経常利益",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 59,
+          "to": 63
+        },
+        {
+          "target": "当期純利益",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 91,
+          "to": 96
+        }
+      ]
+    },
+    {
+      "sentence_id": 11,
+      "sentence": "セグメントごとの業績は、次のとおりである",
+      "opinions": []
+    },
+    {
+      "sentence_id": 12,
+      "sentence": "〔印刷事業〕",
+      "opinions": []
+    },
+    {
+      "sentence_id": 13,
+      "sentence": "(情報コミュニケーション部門)",
+      "opinions": []
+    },
+    {
+      "sentence_id": 14,
+      "sentence": "出版関連事業のうち、出版メディア関連は、出版市場の低迷が続くなか、積極的な営業活動を推進し、書籍は前年並みに推移したが、雑誌の減少の影響が大きく、前年を下回った",
+      "opinions": [
+        {
+          "target": "出版メディア関連",
+          "category": "business#general",
+          "polarity": "negative",
+          "from": 10,
+          "to": 18
+        },
+        {
+          "target": "出版市場",
+          "category": "market#general",
+          "polarity": "negative",
+          "from": 20,
+          "to": 24
+        },
+        {
+          "target": "雑誌",
+          "category": "product#amount",
+          "polarity": "negative",
+          "from": 60,
+          "to": 62
+        }
+      ]
+    },
+    {
+      "sentence_id": 15,
+      "sentence": "教育・出版流通関連は、平成28年10月に、作家や書店員などが独自のテーマで選んだ本を、利用者の興味・関心などに合わせて表示するサービス「ブックツリー」を開始するなど、書店での販売とネット通販、電子書籍販売サービスを連携させたハイブリッド型総合書店「ｈｏｎｔｏ」の事業拡大に努めた",
+      "opinions": []
+    },
+    {
+      "sentence_id": 16,
+      "sentence": "また、図書館サポート事業も運営受託館数が増加して前年を上回ったが、出版関連事業全体としては前年を下回った",
+      "opinions": [
+        {
+          "target": "図書館サポート事業",
+          "category": "business#amount",
+          "polarity": "positive",
+          "from": 3,
+          "to": 12
+        },
+        {
+          "target": "出版関連事業",
+          "category": "business#general",
+          "polarity": "negative",
+          "from": 33,
+          "to": 39
+        }
+      ]
+    },
+    {
+      "sentence_id": 17,
+      "sentence": "情報イノベーション事業は、チラシは前年を下回ったが、ＰＯＰなどの販促関連ツールが好調に推移したほか、カタログやパンフレットが堅調に推移した",
+      "opinions": [
+        {
+          "target": "チラシ",
+          "category": "product#amount",
+          "polarity": "negative",
+          "from": 13,
+          "to": 16
+        },
+        {
+          "target": "販促関連ツール",
+          "category": "product#general",
+          "polarity": "positive",
+          "from": 32,
+          "to": 39
+        },
+        {
+          "target": "カタログ",
+          "category": "product#general",
+          "polarity": "positive",
+          "from": 50,
+          "to": 54
+        },
+        {
+          "target": "パンフレット",
+          "category": "product#general",
+          "polarity": "positive",
+          "from": 55,
+          "to": 61
+        }
+      ]
+    },
+    {
+      "sentence_id": 18,
+      "sentence": "また、金融機関や電子マネー向けのＩＣカードのほか、パーソナルメール等のデータ入力・印刷・発送等を行うＩＰＳ（Information Processing Services）等の情報セキュリティ関連も順調に推移し、全体として前年を上回った",
+      "opinions": [
+        {
+          "target": "ＩＣカード",
+          "category": "product#general",
+          "polarity": "positive",
+          "from": 16,
+          "to": 21
+        },
+        {
+          "target": "ＩＰＳ",
+          "category": "product#general",
+          "polarity": "positive",
+          "from": 50,
+          "to": 53
+        }
+      ]
+    },
+    {
+      "sentence_id": 19,
+      "sentence": "平成28年10月には、生活者視点に立った的確な情報収集と分析を行い、付加価値の高いマーケティングコミュニケーション施策を迅速に提供するため、企画・制作に関連するグループ会社３社を統合し、株式会社ＤＮＰコミュニケーションデザインを設立した",
+      "opinions": []
+    },
+    {
+      "sentence_id": 20,
+      "sentence": "各メディアの企画・制作からシステムの構築・運用までワンストップで提供し、新しい価値の提供と事業の拡大を図っている",
+      "opinions": []
+    },
+    {
+      "sentence_id": 21,
+      "sentence": "イメージングコミュニケーション事業は、記念撮影フォトブース「写Goo!（シャグー）」や証明写真機「Ki-Re-i（キレイ）」を活用したサービスの展開に努めたが、北米向けの写真プリント用昇華型熱転写記録材（カラーインクリボンと受像紙）が円高の影響もあって減少し、前年を下回った",
+      "opinions": [
+        {
+          "target": "イメージングコミュニケーション事業",
+          "category": "business#general",
+          "polarity": "negative",
+          "from": 0,
+          "to": 17
+        },
+        {
+          "target": "カラーインクリボン",
+          "category": "product#amount",
+          "polarity": "negative",
+          "from": 102,
+          "to": 111
+        },
+        {
+          "target": "受像紙",
+          "category": "product#amount",
+          "polarity": "negative",
+          "from": 112,
+          "to": 115
+        }
+      ]
+    },
+    {
+      "sentence_id": 22,
+      "sentence": "その結果、部門全体の売上高は8,012億円（前期比2.5％減）、営業利益は188億円（前期比35.7％減）となった",
+      "opinions": [
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "negative",
+          "from": 10,
+          "to": 13
+        },
+        {
+          "target": "営業利益",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 32,
+          "to": 36
+        }
+      ]
+    },
+    {
+      "sentence_id": 23,
+      "sentence": "(生活・産業部門)",
+      "opinions": []
+    },
+    {
+      "sentence_id": 24,
+      "sentence": "包装関連事業は、紙のパッケージが減少したが、紙カップやプラスチック成型品のほか、フィルムパッケージやペットボトル用無菌充填システムの販売が増加し、前年を上回った",
+      "opinions": [
+        {
+          "target": "包装関連事業",
+          "category": "business#general",
+          "polarity": "positive",
+          "from": 0,
+          "to": 6
+        },
+        {
+          "target": "パッケージ",
+          "category": "product#amount",
+          "polarity": "negative",
+          "from": 10,
+          "to": 15
+        },
+        {
+          "target": "紙カップ",
+          "category": "product#amount",
+          "polarity": "positive",
+          "from": 22,
+          "to": 26
+        },
+        {
+          "target": "プラスチック成型品",
+          "category": "product#amount",
+          "polarity": "positive",
+          "from": 27,
+          "to": 36
+        },
+        {
+          "target": "フィルムパッケージ",
+          "category": "product#amount",
+          "polarity": "positive",
+          "from": 40,
+          "to": 49
+        },
+        {
+          "target": "無菌充填システム",
+          "category": "product#amount",
+          "polarity": "positive",
+          "from": 57,
+          "to": 65
+        }
+      ]
+    },
+    {
+      "sentence_id": 25,
+      "sentence": "生活空間関連事業は、ＤＮＰ独自のＥＢ（Electron Beam）コーティング技術を活かした環境配慮製品や自動車関連製品の拡販に注力した結果、前年並みを確保した",
+      "opinions": [
+        {
+          "target": "生活空間関連事業",
+          "category": "business#general",
+          "polarity": "neutral",
+          "from": 0,
+          "to": 8
+        }
+      ]
+    },
+    {
+      "sentence_id": 26,
+      "sentence": "産業資材関連事業は、太陽電池用部材が海外向け・国内向けともに前年を下回った",
+      "opinions": [
+        {
+          "target": "海外向け",
+          "category": "product#amount",
+          "polarity": "negative",
+          "from": 18,
+          "to": 22
+        },
+        {
+          "target": "国内向け",
+          "category": "product#amount",
+          "polarity": "negative",
+          "from": 23,
+          "to": 27
+        }
+      ]
+    },
+    {
+      "sentence_id": 27,
+      "sentence": "リチウムイオン電池用部材は車載用が順調に推移したが、モバイル用が減少し、全体として前年を下回った",
+      "opinions": [
+        {
+          "target": "部材",
+          "category": "product#general",
+          "polarity": "negative",
+          "from": 10,
+          "to": 12
+        },
+        {
+          "target": "車載用",
+          "category": "product#general",
+          "polarity": "positive",
+          "from": 13,
+          "to": 16
+        },
+        {
+          "target": "モバイル用",
+          "category": "product#amount",
+          "polarity": "negative",
+          "from": 26,
+          "to": 31
+        }
+      ]
+    },
+    {
+      "sentence_id": 28,
+      "sentence": "その結果、部門全体の売上高は3,881億円（前期比1.4％増）、営業利益は144億円（前期比14.6％増）となった",
+      "opinions": [
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 10,
+          "to": 13
+        },
+        {
+          "target": "営業利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 32,
+          "to": 36
+        }
+      ]
+    },
+    {
+      "sentence_id": 29,
+      "sentence": "(エレクトロニクス部門)",
+      "opinions": []
+    },
+    {
+      "sentence_id": 30,
+      "sentence": "ディスプレイ関連製品事業は、次世代ディスプレイとして注目されている有機ＥＬディスプレイの製造に使用するメタルマスクが堅調に推移したが、液晶ディスプレイ用カラーフィルターは、スマートフォンやタブレット端末向けの中小型品及びテレビ向けの大型品ともに減少し、前年を下回った",
+      "opinions": [
+        {
+          "target": "ディスプレイ関連製品事業",
+          "category": "business#general",
+          "polarity": "negative",
+          "from": 0,
+          "to": 12
+        },
+        {
+          "target": "メタルマスク",
+          "category": "product#general",
+          "polarity": "positive",
+          "from": 51,
+          "to": 57
+        },
+        {
+          "target": "カラーフィルター",
+          "category": "product#general",
+          "polarity": "negative",
+          "from": 76,
+          "to": 84
+        },
+        {
+          "target": "中小型品",
+          "category": "product#amount",
+          "polarity": "negative",
+          "from": 104,
+          "to": 108
+        },
+        {
+          "target": "大型品",
+          "category": "product#amount",
+          "polarity": "negative",
+          "from": 116,
+          "to": 119
+        }
+      ]
+    },
+    {
+      "sentence_id": 31,
+      "sentence": "また、光学フィルム関連は、主力の偏光板向けが減少したものの、全体では前年並みを確保した",
+      "opinions": [
+        {
+          "target": "光学フィルム関連",
+          "category": "business#general",
+          "polarity": "positive",
+          "from": 3,
+          "to": 11
+        },
+        {
+          "target": "偏光板向け",
+          "category": "product#amount",
+          "polarity": "negative",
+          "from": 16,
+          "to": 21
+        }
+      ]
+    },
+    {
+      "sentence_id": 32,
+      "sentence": "電子デバイス事業は、半導体製品用フォトマスクが海外向け及び国内向けともに伸び悩み、前年を下回った",
+      "opinions": [
+        {
+          "target": "電子デバイス事業",
+          "category": "business#general",
+          "polarity": "negative",
+          "from": 0,
+          "to": 8
+        },
+        {
+          "target": "海外向け",
+          "category": "product#general",
+          "polarity": "negative",
+          "from": 23,
+          "to": 27
+        },
+        {
+          "target": "国内向け",
+          "category": "product#general",
+          "polarity": "negative",
+          "from": 29,
+          "to": 33
+        }
+      ]
+    },
+    {
+      "sentence_id": 33,
+      "sentence": "その結果、部門全体の売上高は1,694億円（前期比15.0％減）、営業利益は164億円（前期比19.6％減）となった",
+      "opinions": [
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "negative",
+          "from": 10,
+          "to": 13
+        },
+        {
+          "target": "営業利益",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 33,
+          "to": 37
+        }
+      ]
+    },
+    {
+      "sentence_id": 34,
+      "sentence": "〔清涼飲料事業〕",
+      "opinions": []
+    },
+    {
+      "sentence_id": 35,
+      "sentence": "(清涼飲料部門)",
+      "opinions": []
+    },
+    {
+      "sentence_id": 36,
+      "sentence": "清涼飲料業界では、メーカー間の価格競争等による激しいシェア争いや、メーカーのナショナルブランドと流通小売のプライベートブランドとの競争激化などにより、厳しい市場環境が続いた",
+      "opinions": [
+        {
+          "target": "清涼飲料業界",
+          "category": "market#general",
+          "polarity": "negative",
+          "from": 0,
+          "to": 6
+        },
+        {
+          "target": "シェア争い",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 26,
+          "to": 31
+        }
+      ]
+    },
+    {
+      "sentence_id": 37,
+      "sentence": "そのなかで、新製品発売により主力ブランド商品の販売を強化したほか、エリアマーケティングや運用ノウハウを活かした自動販売機ビジネス、コンビニエンスストアなど量販店向けの販売に注力し、既存市場におけるシェア拡大や収益性改善、新規顧客の開拓に努めた",
+      "opinions": []
+    },
+    {
+      "sentence_id": 38,
+      "sentence": "その結果、軽量ペットボトルを使ったミネラルウォーター「い・ろ・は・す」や主力ブランド「綾鷹」などの無糖茶飲料は増加したが、北海道地域以外のグループボトラーへの販売減少に加え、「コカ・コーラ」が減少し、部門全体の売上高は566億円（前期比2.5％減）、営業利益は24億円（前期比145.1％増）となった",
+      "opinions": [
+        {
+          "target": "い・ろ・は・す",
+          "category": "product#amount",
+          "polarity": "positive",
+          "from": 27,
+          "to": 34
+        },
+        {
+          "target": "綾鷹",
+          "category": "product#amount",
+          "polarity": "positive",
+          "from": 43,
+          "to": 45
+        },
+        {
+          "target": "グループボトラー",
+          "category": "product#amount",
+          "polarity": "negative",
+          "from": 69,
+          "to": 77
+        },
+        {
+          "target": "コカ・コーラ",
+          "category": "product#amount",
+          "polarity": "negative",
+          "from": 88,
+          "to": 94
+        },
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "negative",
+          "from": 105,
+          "to": 108
+        },
+        {
+          "target": "営業利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 125,
+          "to": 129
+        }
+      ]
+    }
+  ]
+}

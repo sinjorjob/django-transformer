@@ -1,0 +1,286 @@
+{
+  "header": {
+    "document_id": "E01635",
+    "document_name": "株式会社宇野澤組鐵工所",
+    "doc_text": "有価証券報告書",
+    "edi_id": "E01635",
+    "security_code": "63960",
+    "category33": "機械",
+    "category17": "機械",
+    "scale": ""
+  },
+  "sentences": [
+    {
+      "sentence_id": 0,
+      "sentence": "当事業年度（当期）におけるわが国経済は、企業収益に改善傾向がみられるなど、緩やかな回復基調で推移しております",
+      "opinions": [
+        {
+          "target": "わが国経済",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 13,
+          "to": 18
+        },
+        {
+          "target": "企業収益",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 20,
+          "to": 24
+        }
+      ]
+    },
+    {
+      "sentence_id": 1,
+      "sentence": "一方家計部門でも雇用環境の改善持続などを背景に個人消費に回復の兆しが見られるものの、依然として実質所得の改善が鈍く、力強さを欠いております",
+      "opinions": [
+        {
+          "target": "雇用環境",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 8,
+          "to": 12
+        },
+        {
+          "target": "実質所得",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 47,
+          "to": 51
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "sentence": "海外の政治情勢に不透明感を残していることも併せて、国内外の経済先行きに対する警戒感から、依然として国内企業での設備投資は維持・更新投資に抑えるやや慎重な姿勢が続いております",
+      "opinions": [
+        {
+          "target": "政治情勢",
+          "category": "NULL#general",
+          "polarity": "neutral",
+          "from": 3,
+          "to": 7
+        },
+        {
+          "target": "設備投資",
+          "category": "NULL#general",
+          "polarity": "neutral",
+          "from": 55,
+          "to": 59
+        }
+      ]
+    },
+    {
+      "sentence_id": 3,
+      "sentence": "このような経営環境のもと、ＦＰＤ（フラットパネルディスプレイ）関連向け真空ポンプやメンテナンス部門を中心に売上を伸ばし、当社の業績は売上高5,278百万円(前年同期比16.8％増)となりました",
+      "opinions": [
+        {
+          "target": "真空ポンプ",
+          "category": "product#sales",
+          "polarity": "positive",
+          "from": 35,
+          "to": 40
+        },
+        {
+          "target": "メンテナンス部門",
+          "category": "business#sales",
+          "polarity": "positive",
+          "from": 41,
+          "to": 49
+        },
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 66,
+          "to": 69
+        }
+      ]
+    },
+    {
+      "sentence_id": 4,
+      "sentence": "損益面におきましては、原価低減等の生産性向上策および固定費の抑制に努めた結果、営業利益90百万円(前年同期比102.3％増)、経常利益84百万円(前年同期比116.5％増)、当期純利益112百万円(前年同期比634.4％増)となりました",
+      "opinions": [
+        {
+          "target": "営業利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 39,
+          "to": 43
+        },
+        {
+          "target": "経常利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 63,
+          "to": 67
+        },
+        {
+          "target": "当期純利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 87,
+          "to": 92
+        }
+      ]
+    },
+    {
+      "sentence_id": 5,
+      "sentence": "セグメント別の概況は以下の通りです",
+      "opinions": []
+    },
+    {
+      "sentence_id": 6,
+      "sentence": "①製造事業",
+      "opinions": []
+    },
+    {
+      "sentence_id": 7,
+      "sentence": "当期におきましては、引き続き真空ポンプ・送風機ともに順調に出荷が進んだことに加え、部品・修理も伸長し、売上高は前年同期比728百万円（18.4%）増加の4,690百万円となり、損益面におきましては、26百万円改善、セグメント損失335百万円となりました",
+      "opinions": [
+        {
+          "target": "真空ポンプ",
+          "category": "product#amount",
+          "polarity": "positive",
+          "from": 14,
+          "to": 19
+        },
+        {
+          "target": "送風機",
+          "category": "product#amount",
+          "polarity": "positive",
+          "from": 20,
+          "to": 23
+        },
+        {
+          "target": "部品",
+          "category": "product#general",
+          "polarity": "positive",
+          "from": 41,
+          "to": 43
+        },
+        {
+          "target": "修理",
+          "category": "product#general",
+          "polarity": "positive",
+          "from": 44,
+          "to": 46
+        },
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 51,
+          "to": 54
+        },
+        {
+          "target": "セグメント損失",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 107,
+          "to": 114
+        }
+      ]
+    },
+    {
+      "sentence_id": 8,
+      "sentence": "売上高を製品別に示しますと、真空ポンプは2,776百万円(前年同期比22.1%増)、送風機・圧縮機は682百万円(前年同期比24.9％増)、部品および修理は1,226百万円(前年同期比9.2％増)の結果となりました",
+      "opinions": [
+        {
+          "target": "真空ポンプ",
+          "category": "product#sales",
+          "polarity": "positive",
+          "from": 14,
+          "to": 19
+        },
+        {
+          "target": "送風機",
+          "category": "product#sales",
+          "polarity": "positive",
+          "from": 42,
+          "to": 45
+        },
+        {
+          "target": "圧縮機",
+          "category": "product#sales",
+          "polarity": "positive",
+          "from": 46,
+          "to": 49
+        },
+        {
+          "target": "部品",
+          "category": "product#sales",
+          "polarity": "positive",
+          "from": 70,
+          "to": 72
+        },
+        {
+          "target": "修理",
+          "category": "product#sales",
+          "polarity": "positive",
+          "from": 75,
+          "to": 77
+        }
+      ]
+    },
+    {
+      "sentence_id": 9,
+      "sentence": "また、輸出関係におきましては、真空ポンプと送風機が売上を伸ばし819百万円(前年同期比61.8％増)となりました",
+      "opinions": [
+        {
+          "target": "輸出関係",
+          "category": "business#sales",
+          "polarity": "positive",
+          "from": 3,
+          "to": 7
+        },
+        {
+          "target": "真空ポンプ",
+          "category": "product#sales",
+          "polarity": "positive",
+          "from": 15,
+          "to": 20
+        },
+        {
+          "target": "送風機",
+          "category": "product#sales",
+          "polarity": "positive",
+          "from": 21,
+          "to": 24
+        }
+      ]
+    },
+    {
+      "sentence_id": 10,
+      "sentence": "②不動産事業",
+      "opinions": []
+    },
+    {
+      "sentence_id": 11,
+      "sentence": "10～20年単位の大型改修工事に伴う費用増はあったものの、オフィス市況の改善による増収効果により、売上高588百万円(前年同期比5.8％増)、セグメント利益425百万円(前年同期比4.7％増)の計上となりました",
+      "opinions": [
+        {
+          "target": "オフィス市況",
+          "category": "market#general",
+          "polarity": "positive",
+          "from": 29,
+          "to": 35
+        },
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 49,
+          "to": 52
+        },
+        {
+          "target": "セグメント利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 71,
+          "to": 78
+        }
+      ]
+    }
+  ]
+}

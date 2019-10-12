@@ -1,0 +1,316 @@
+{
+  "header": {
+    "document_id": "E01933",
+    "document_name": "松尾電機株式会社",
+    "doc_text": "有価証券報告書",
+    "edi_id": "E01933",
+    "security_code": "69690",
+    "category33": "電気機器",
+    "category17": "電機・精密",
+    "scale": ""
+  },
+  "sentences": [
+    {
+      "sentence_id": 0,
+      "sentence": "当連結会計年度のエレクトロニクス業界の状況につきましては、普及拡大が一段落するスマートフォンや製品単価の低下等による薄型テレビの市場の縮小が影響し、電子部品・デバイスの世界生産も減少しました",
+      "opinions": [
+        {
+          "target": "普及拡大",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 29,
+          "to": 33
+        },
+        {
+          "target": "製品単価",
+          "category": "NULL#price",
+          "polarity": "negative",
+          "from": 47,
+          "to": 51
+        },
+        {
+          "target": "市場",
+          "category": "market#general",
+          "polarity": "negative",
+          "from": 64,
+          "to": 66
+        },
+        {
+          "target": "世界生産",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 84,
+          "to": 88
+        }
+      ]
+    },
+    {
+      "sentence_id": 1,
+      "sentence": "当社グループの主力であるタンタルコンデンサ業界も、自動車の電装化率の向上に伴う車載用電子機器の増加があるものの、セラミックコンデンサへの置き換え等の影響により、前年同期に比べて世界消費は減少傾向となっています",
+      "opinions": [
+        {
+          "target": "電子機器",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 42,
+          "to": 46
+        },
+        {
+          "target": "世界消費",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 88,
+          "to": 92
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "sentence": "このような環境のもとで、当社グループは、当連結会計年度ベースでは、車載用レーダー装置等のカーエレクトロニクス向け及び家庭用火災報知器向けの二酸化マンガンタンタルコンデンサ並びに車載用回路保護素子は増加したものの、リチウムイオン電池向けの高電流ヒューズ及びスマートフォン向けの導電性高分子タンタルコンデンサの減少を補うことができませんでした",
+      "opinions": [
+        {
+          "target": "二酸化マンガンタンタルコンデンサ",
+          "category": "product#amount",
+          "polarity": "positive",
+          "from": 69,
+          "to": 85
+        },
+        {
+          "target": "回路保護素子",
+          "category": "product#amount",
+          "polarity": "positive",
+          "from": 91,
+          "to": 97
+        },
+        {
+          "target": "高電流ヒューズ",
+          "category": "product#amount",
+          "polarity": "negative",
+          "from": 118,
+          "to": 125
+        },
+        {
+          "target": "導電性高分子タンタルコンデンサ",
+          "category": "product#amount",
+          "polarity": "negative",
+          "from": 137,
+          "to": 152
+        }
+      ]
+    },
+    {
+      "sentence_id": 3,
+      "sentence": "また、地域別では、国内売上高は増加しましたが、海外売上高は、東アジア地区を中心に減少しました",
+      "opinions": [
+        {
+          "target": "国内売上高",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 9,
+          "to": 14
+        },
+        {
+          "target": "海外売上高",
+          "category": "NULL#sales",
+          "polarity": "negative",
+          "from": 23,
+          "to": 28
+        }
+      ]
+    },
+    {
+      "sentence_id": 4,
+      "sentence": "この結果、当社グループの業績は、売上高につきましては、前年同期比4.3％減少して44億８千４百万円となり、損益につきましては、売上高の減少及び販売価格の下落により、営業損失３億２千２百万円、経常損失３億６百万円となりました",
+      "opinions": [
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "negative",
+          "from": 16,
+          "to": 19
+        },
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "negative",
+          "from": 63,
+          "to": 66
+        },
+        {
+          "target": "販売価格",
+          "category": "NULL#price",
+          "polarity": "negative",
+          "from": 71,
+          "to": 75
+        },
+        {
+          "target": "営業損失",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 82,
+          "to": 86
+        },
+        {
+          "target": "経常損失",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 95,
+          "to": 99
+        }
+      ]
+    },
+    {
+      "sentence_id": 5,
+      "sentence": "なお、特別利益として、保有する有価証券の売却による投資有価証券売却益２億１千６百万円、特別損失として、コンデンサ製品の取引に関する当局への制裁金及び当局等の調査対応のための弁護士報酬等に伴う独占禁止法等関連損失６億９千１百万円、一部の回路保護素子製品の生産拠点集約化に伴う事業拠点再構築費用２億１千５百万円並びに「固定資産の減損に係る会計基準」に基づく減損損失１億１千１百万円等の計上により、親会社株主に帰属する当期純損失12億９百万円を計上しました",
+      "opinions": [
+        {
+          "target": "当期純損失",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 206,
+          "to": 211
+        }
+      ]
+    },
+    {
+      "sentence_id": 6,
+      "sentence": "「第２ 事業の状況」に記載されている売上高、受注高等の金額には消費税等は含まれていません",
+      "opinions": []
+    },
+    {
+      "sentence_id": 7,
+      "sentence": "セグメントの業績は次のとおりです",
+      "opinions": []
+    },
+    {
+      "sentence_id": 8,
+      "sentence": "①タンタルコンデンサ事業",
+      "opinions": []
+    },
+    {
+      "sentence_id": 9,
+      "sentence": "タンタルコンデンサ事業につきましては、車載用レーダー装置等のカーエレクトロニクス向け及び家庭用火災報知器向けの需要は増加しましたが、スマートフォン向けの需要が減少しました",
+      "opinions": [
+        {
+          "target": "カーエレクトロニクス向け",
+          "category": "product#amount",
+          "polarity": "positive",
+          "from": 30,
+          "to": 42
+        },
+        {
+          "target": "火災報知器向け",
+          "category": "product#amount",
+          "polarity": "positive",
+          "from": 47,
+          "to": 54
+        },
+        {
+          "target": "スマートフォン向け",
+          "category": "product#amount",
+          "polarity": "negative",
+          "from": 66,
+          "to": 75
+        }
+      ]
+    },
+    {
+      "sentence_id": 10,
+      "sentence": "この結果、当連結会計年度のタンタルコンデンサ事業の売上高は37億５千１百万円と前年同期比3.5％減少し、総売上高に占める比率は83.6％と前年同期比0.6ポイント上昇しました",
+      "opinions": [
+        {
+          "target": "タンタルコンデンサ事業",
+          "category": "business#sales",
+          "polarity": "negative",
+          "from": 13,
+          "to": 24
+        }
+      ]
+    },
+    {
+      "sentence_id": 11,
+      "sentence": "セグメント利益は、１億３千万円（前年同期比28.5％減少）となりました",
+      "opinions": [
+        {
+          "target": "セグメント利益",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 0,
+          "to": 7
+        }
+      ]
+    },
+    {
+      "sentence_id": 12,
+      "sentence": "回路保護素子事業につきましては、車載用回路保護素子は増加したものの、リチウムイオン電池向けの高電流ヒューズの売上高が減少しました",
+      "opinions": [
+        {
+          "target": "回路保護素子",
+          "category": "product#sales",
+          "polarity": "positive",
+          "from": 19,
+          "to": 25
+        },
+        {
+          "target": "高電流ヒューズ",
+          "category": "product#sales",
+          "polarity": "positive",
+          "from": 46,
+          "to": 53
+        }
+      ]
+    },
+    {
+      "sentence_id": 13,
+      "sentence": "この結果、当連結会計年度の回路保護素子事業の売上高は５億８千万円と前年同期比7.9％減少し、総売上高に占める比率は13.0％と前年同期比0.5ポイント低下しました",
+      "opinions": [
+        {
+          "target": "回路保護素子事業",
+          "category": "business#sales",
+          "polarity": "negative",
+          "from": 13,
+          "to": 21
+        }
+      ]
+    },
+    {
+      "sentence_id": 14,
+      "sentence": "セグメント利益は、１千６百万円（前年同期比10.6％増加）となりました",
+      "opinions": [
+        {
+          "target": "セグメント利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 0,
+          "to": 7
+        }
+      ]
+    },
+    {
+      "sentence_id": 15,
+      "sentence": "その他の売上高は、１億５千２百万円と前年同期比7.9％減少し、総売上高に占める比率は3.4％と前年同期比0.1ポイント低下しました",
+      "opinions": [
+        {
+          "target": "その他",
+          "category": "business#sales",
+          "polarity": "negative",
+          "from": 0,
+          "to": 3
+        }
+      ]
+    },
+    {
+      "sentence_id": 16,
+      "sentence": "セグメント損失は、１千９百万円（前年同期比０百万円悪化）となりました",
+      "opinions": [
+        {
+          "target": "セグメント損失",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 0,
+          "to": 7
+        }
+      ]
+    }
+  ]
+}

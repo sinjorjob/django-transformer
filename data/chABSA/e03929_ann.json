@@ -1,0 +1,377 @@
+{
+  "header": {
+    "document_id": "E03929",
+    "document_name": "株式会社大京",
+    "doc_text": "有価証券報告書",
+    "edi_id": "E03929",
+    "security_code": "88400",
+    "category33": "不動産業",
+    "category17": "不動産",
+    "scale": "6"
+  },
+  "sentences": [
+    {
+      "sentence_id": 0,
+      "sentence": "当連結会計年度におけるわが国経済は、景気の一部に改善の遅れも見られましたが、雇用・所得環境の改善が続くなか、政府の景気対策の効果もあり、緩やかな回復基調が継続しました",
+      "opinions": [
+        {
+          "target": "わが国経済",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 11,
+          "to": 16
+        },
+        {
+          "target": "一部",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 21,
+          "to": 23
+        },
+        {
+          "target": "雇用",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 38,
+          "to": 40
+        },
+        {
+          "target": "所得環境",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 41,
+          "to": 45
+        }
+      ]
+    },
+    {
+      "sentence_id": 1,
+      "sentence": "不動産管理市場におきましては、マンション管理における大手寡占化の傾向が継続し、加えて、コスト意識の高まりや、お客さまニーズの高度化・多様化によるサービスの強化・拡充がみられました",
+      "opinions": [
+        {
+          "target": "大手寡占化",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 26,
+          "to": 31
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "sentence": "不動産流通市場におきましては、新築マンションの供給戸数の減少や価格の高止まり、加えて、中古住宅マーケットにおける良質なストックの積み上がり等の影響により、成約件数は前年を上回る推移となりました",
+      "opinions": [
+        {
+          "target": "供給戸数",
+          "category": "NULL#amount",
+          "polarity": "negative",
+          "from": 23,
+          "to": 27
+        },
+        {
+          "target": "価格",
+          "category": "NULL#price",
+          "polarity": "positive",
+          "from": 31,
+          "to": 33
+        },
+        {
+          "target": "成約件数",
+          "category": "NULL#amount",
+          "polarity": "positive",
+          "from": 77,
+          "to": 81
+        }
+      ]
+    },
+    {
+      "sentence_id": 3,
+      "sentence": "新築マンション市場におきましては、地価や建築費の影響により、都市圏を中心に販売価格が高止まりの傾向にあるものの、住宅需要は低金利や住宅取得優遇策等に支えられ、堅調に推移しました",
+      "opinions": [
+        {
+          "target": "販売価格",
+          "category": "NULL#price",
+          "polarity": "positive",
+          "from": 37,
+          "to": 41
+        },
+        {
+          "target": "住宅需要",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 56,
+          "to": 60
+        }
+      ]
+    },
+    {
+      "sentence_id": 4,
+      "sentence": "このような事業環境のもと、当社グループにおきましては、当連結会計年度を初年度とする、中期経営計画「Make NEW VALUE 2021　～不動産ソリューションによる新・価値創造～」を策定いたしました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 5,
+      "sentence": "「日本のまちに、活力を",
+      "opinions": []
+    },
+    {
+      "sentence_id": 6,
+      "sentence": "」をキーワードに、高経年化した不動産ストックの増加、人口動態の変化や価値観の多様化に対し、大規模修繕工事事業の拡大、リノベーション事業の強化、再開発事業の推進、および新たなご提案やサービスの提供等に取り組んでまいりました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 7,
+      "sentence": "また、AIやIoTの活用による無人化、機械化や建物・設備の長寿命化等をテーマとした研究開発を推進いたしました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 8,
+      "sentence": "これらの結果、当連結会計年度の業績は、営業収入が前期比94億92百万円減の3,253億60百万円（前期比2.8％減）、営業利益は同比22億4百万円増の205億23百万円（同比12.0％増）、経常利益は同比28億74百万円増の199億67百万円（同比16.8％増）、親会社株主に帰属する当期純利益は同比14億16百万円増の140億44百万円（同比11.2％増）となりました",
+      "opinions": [
+        {
+          "target": "営業収入",
+          "category": "NULL#sales",
+          "polarity": "negative",
+          "from": 19,
+          "to": 23
+        },
+        {
+          "target": "営業利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 59,
+          "to": 63
+        },
+        {
+          "target": "経常利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 95,
+          "to": 99
+        },
+        {
+          "target": "当期純利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 142,
+          "to": 147
+        }
+      ]
+    },
+    {
+      "sentence_id": 9,
+      "sentence": "セグメントごとの業績は次のとおりであります",
+      "opinions": []
+    },
+    {
+      "sentence_id": 10,
+      "sentence": "各セグメントの金額はセグメント間取引を含んでおります",
+      "opinions": []
+    },
+    {
+      "sentence_id": 11,
+      "sentence": "（注）当連結会計年度より事業セグメントの記載順序を変更しております",
+      "opinions": []
+    },
+    {
+      "sentence_id": 12,
+      "sentence": "請負工事収入が前期比6億90百万円減の689億18百万円となったものの、管理受託収入が同比9億86百万円増の850億78百万円となったことなどにより、不動産管理事業の営業収入は同比5億18百万円増の1,633億39百万円となりました",
+      "opinions": [
+        {
+          "target": "請負工事収入",
+          "category": "NULL#sales",
+          "polarity": "negative",
+          "from": 0,
+          "to": 6
+        },
+        {
+          "target": "管理受託収入",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 36,
+          "to": 42
+        },
+        {
+          "target": "不動産管理事業",
+          "category": "business#sales",
+          "polarity": "positive",
+          "from": 75,
+          "to": 82
+        }
+      ]
+    },
+    {
+      "sentence_id": 13,
+      "sentence": "営業利益は、営業収入の増収に加え、利益率が上昇したことなどにより前期比10億20百万円増の106億84百万円となりました",
+      "opinions": [
+        {
+          "target": "営業利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 0,
+          "to": 4
+        },
+        {
+          "target": "営業収入",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 6,
+          "to": 10
+        },
+        {
+          "target": "利益率",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 17,
+          "to": 20
+        }
+      ]
+    },
+    {
+      "sentence_id": 14,
+      "sentence": "なお、当連結会計年度末におけるマンション管理受託戸数は531,957戸（前期末比1,862戸増）、請負工事受注残高は283億39百万円（同比32億89百万円増）となりました",
+      "opinions": [
+        {
+          "target": "マンション管理受託戸数",
+          "category": "NULL#amount",
+          "polarity": "positive",
+          "from": 15,
+          "to": 26
+        },
+        {
+          "target": "請負工事受注残高",
+          "category": "NULL#amount",
+          "polarity": "positive",
+          "from": 49,
+          "to": 57
+        }
+      ]
+    },
+    {
+      "sentence_id": 15,
+      "sentence": "不動産販売収入が前期比67億44百万円増の368億2百万円となったことなどにより、不動産流通事業の営業収入は同比73億45百万円増の622億49百万円となりました",
+      "opinions": [
+        {
+          "target": "不動産販売収入",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 0,
+          "to": 7
+        },
+        {
+          "target": "不動産流通事業",
+          "category": "business#sales",
+          "polarity": "positive",
+          "from": 41,
+          "to": 48
+        }
+      ]
+    },
+    {
+      "sentence_id": 16,
+      "sentence": "営業利益は、店舗網拡大に向けた人員補強により営業費用が増加したものの、不動産販売収入の増収などにより前期比2億16百万円増の34億49百万円となりました",
+      "opinions": [
+        {
+          "target": "営業利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 0,
+          "to": 4
+        },
+        {
+          "target": "営業費用",
+          "category": "NULL#cost",
+          "polarity": "negative",
+          "from": 22,
+          "to": 26
+        },
+        {
+          "target": "不動産販売収入",
+          "category": "NULL#sales",
+          "polarity": "negative",
+          "from": 35,
+          "to": 42
+        }
+      ]
+    },
+    {
+      "sentence_id": 17,
+      "sentence": "マンション販売において竣工戸数が前期に比べて少ない計画であったことから、売上戸数が2,565戸（前期比415戸減）、売上高が939億69百万円（同比141億5百万円減）となったことなどにより、不動産開発事業の営業収入は前期比175億26百万円減の1,046億84百万円となりました",
+      "opinions": [
+        {
+          "target": "売上戸数",
+          "category": "NULL#amount",
+          "polarity": "negative",
+          "from": 36,
+          "to": 40
+        },
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "negative",
+          "from": 58,
+          "to": 61
+        },
+        {
+          "target": "不動産開発事業",
+          "category": "business#sales",
+          "polarity": "negative",
+          "from": 96,
+          "to": 103
+        }
+      ]
+    },
+    {
+      "sentence_id": 18,
+      "sentence": "営業利益は、マンション売上高が減少したものの、マンション利益率の上昇や販売費の減少などにより、前期比3億20百万円増の89億87百万円となりました",
+      "opinions": [
+        {
+          "target": "営業利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 0,
+          "to": 4
+        },
+        {
+          "target": "マンション売上高",
+          "category": "NULL#sales",
+          "polarity": "negative",
+          "from": 6,
+          "to": 14
+        },
+        {
+          "target": "マンション利益率",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 23,
+          "to": 31
+        },
+        {
+          "target": "販売費",
+          "category": "NULL#cost",
+          "polarity": "positive",
+          "from": 35,
+          "to": 38
+        }
+      ]
+    },
+    {
+      "sentence_id": 19,
+      "sentence": "なお、当連結会計年度末におけるマンション契約残高は1,124戸、394億78百万円（前期末比396戸減、158億87百万円減）となりました",
+      "opinions": [
+        {
+          "target": "マンション契約残高",
+          "category": "NULL#amount",
+          "polarity": "positive",
+          "from": 15,
+          "to": 24
+        }
+      ]
+    },
+    {
+      "sentence_id": 20,
+      "sentence": "＜主な売上計上物件（マンション分譲）＞",
+      "opinions": []
+    }
+  ]
+}

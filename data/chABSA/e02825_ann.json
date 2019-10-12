@@ -1,0 +1,357 @@
+{
+  "header": {
+    "document_id": "E02825",
+    "document_name": "株式会社ヤギ",
+    "doc_text": "訂正有価証券報告書",
+    "edi_id": "E02825",
+    "security_code": "74600",
+    "category33": "卸売業",
+    "category17": "商社・卸売",
+    "scale": ""
+  },
+  "sentences": [
+    {
+      "sentence_id": 0,
+      "sentence": "当連結会計年度におけるわが国経済は、政府・日銀による経済・金融政策を背景とした緩やかな回復基調にある一方で、米国新政権による経済政策への思惑や中国をはじめとする新興国の景気減速など不安定な世界情勢を反映し、個人消費は伸び悩みました",
+      "opinions": [
+        {
+          "target": "わが国経済",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 11,
+          "to": 16
+        },
+        {
+          "target": "新興国",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 80,
+          "to": 83
+        },
+        {
+          "target": "個人消費",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 103,
+          "to": 107
+        }
+      ]
+    },
+    {
+      "sentence_id": 1,
+      "sentence": "とりわけ、繊維・ファッション業界を取り巻く環境は厳しく、消費者の節約志向や低価格帯品へのシフトに加えて、天候不順や新興国の景気減速に伴うインバウンド需要の下振れも重なり、一部の高付加価値品を除いて総じて販売不振の傾向が強まりました",
+      "opinions": [
+        {
+          "target": "繊維・ファッション業界",
+          "category": "market#general",
+          "polarity": "negative",
+          "from": 5,
+          "to": 16
+        },
+        {
+          "target": "新興国",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 57,
+          "to": 60
+        },
+        {
+          "target": "インバウンド需要",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 68,
+          "to": 76
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "sentence": "このような状況の下、当社グループは、中期経営計画「Value Innovation 123」の最終年度にあたり、重点施策である「中核事業の高収益化」「海外事業の拡大・新規事業の強化」「経営管理体制の高度化」の実行に向けて、差別化商材の供給力強化や優良取引先との取り組み深耕、国内外のグループ経営基盤の強化を推進いたしました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 3,
+      "sentence": "経営環境が厳しさを増すなか、欧州の素材・縫製を活用した商材の国内提案や、欧米での顧客獲得に向けた海外の展示会への参加など、市場開拓に向けて積極的な活動を展開しました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 4,
+      "sentence": "この結果、当連結会計年度の売上高は112,854,233千円（前期比2.5％減）、営業利益は2,752,018千円（前期比2.3％減）、経常利益は2,658,071千円（前期比10.9％減）、親会社株主に帰属する当期純利益は1,576,653千円（前期比20.2％減）となりました",
+      "opinions": [
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "negative",
+          "from": 13,
+          "to": 16
+        },
+        {
+          "target": "営業利益",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 41,
+          "to": 45
+        },
+        {
+          "target": "経常利益",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 68,
+          "to": 72
+        },
+        {
+          "target": "当期純利益",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 106,
+          "to": 111
+        }
+      ]
+    },
+    {
+      "sentence_id": 5,
+      "sentence": "当連結会計年度における分野別の概況は次のとおりであります",
+      "opinions": []
+    },
+    {
+      "sentence_id": 6,
+      "sentence": "［繊維セグメント］",
+      "opinions": []
+    },
+    {
+      "sentence_id": 7,
+      "sentence": "当連結会計年度における繊維セグメントの部門別の経営成績等は次のとおりであります",
+      "opinions": []
+    },
+    {
+      "sentence_id": 8,
+      "sentence": "＜原料分野＞",
+      "opinions": []
+    },
+    {
+      "sentence_id": 9,
+      "sentence": "原料分野は、天然繊維原料につきましては、国内消費活動の不振や輸入品の増加を要因とする国内産地でのテキスタイル減産の流れを受けて、厳しい事業環境にありました",
+      "opinions": [
+        {
+          "target": "天然繊維原料",
+          "category": "product#general",
+          "polarity": "negative",
+          "from": 6,
+          "to": 12
+        },
+        {
+          "target": "国内消費活動",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 20,
+          "to": 26
+        },
+        {
+          "target": "テキスタイル",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 48,
+          "to": 54
+        }
+      ]
+    },
+    {
+      "sentence_id": 10,
+      "sentence": "合成繊維原料も、車両部材向け原料など一部の高付加価値品を除いて、需要が伸び悩みました",
+      "opinions": [
+        {
+          "target": "合成繊維原料",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 0,
+          "to": 6
+        }
+      ]
+    },
+    {
+      "sentence_id": 11,
+      "sentence": "国内における衣料品需要の減速基調に加えて、期初の円高による輸出減退も響き、資材用途など非衣料品向けを含めて全体的に好材料に乏しい状況となりました",
+      "opinions": [
+        {
+          "target": "衣料品需要",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 6,
+          "to": 11
+        }
+      ]
+    },
+    {
+      "sentence_id": 12,
+      "sentence": "このような状況の下、当社グループは、優良取引先との取り組み深耕や、生産集約による加工効率の向上を推進することにより、経費削減による収益基盤の構築に努めました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 13,
+      "sentence": "この結果、原料分野の売上高は18,253,629千円（前期比14.5％減）となりました",
+      "opinions": [
+        {
+          "target": "原料分野",
+          "category": "business#sales",
+          "polarity": "negative",
+          "from": 5,
+          "to": 9
+        }
+      ]
+    },
+    {
+      "sentence_id": 14,
+      "sentence": "＜テキスタイル分野＞",
+      "opinions": []
+    },
+    {
+      "sentence_id": 15,
+      "sentence": "テキスタイル分野は、国内衣料品需要の低迷や期初の円高による輸入増がマイナス材料となり、主力のニット生地や綿織物の販売は苦戦を強いられました",
+      "opinions": [
+        {
+          "target": "国内衣料品需要",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 10,
+          "to": 17
+        },
+        {
+          "target": "ニット生地",
+          "category": "product#amount",
+          "polarity": "negative",
+          "from": 46,
+          "to": 51
+        },
+        {
+          "target": "綿織物",
+          "category": "product#amount",
+          "polarity": "negative",
+          "from": 52,
+          "to": 55
+        }
+      ]
+    },
+    {
+      "sentence_id": 16,
+      "sentence": "一方で、特殊な機械や素材を使い付加価値の高い加工を施したニット生地の需要は底堅く推移するなど、差別化商材が収益を牽引しました",
+      "opinions": [
+        {
+          "target": "需要",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 34,
+          "to": 36
+        },
+        {
+          "target": "差別化商材",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 47,
+          "to": 52
+        }
+      ]
+    },
+    {
+      "sentence_id": 17,
+      "sentence": "このような状況の下、当社グループは、販売戦略の要である「テキスタイル・プロジェクト」において、在庫の適正化や素材企画力を活かした売れ筋商品の開発、グループ会社との合同展示会開催などによる販売強化に努めたものの、川下にあたるアパレル市況の低迷により、業績改善には至りませんでした",
+      "opinions": [
+        {
+          "target": "アパレル市況",
+          "category": "market#general",
+          "polarity": "negative",
+          "from": 111,
+          "to": 117
+        }
+      ]
+    },
+    {
+      "sentence_id": 18,
+      "sentence": "この結果、テキスタイル分野の売上高は14,151,085千円（前期比1.7％減）となりました",
+      "opinions": [
+        {
+          "target": "テキスタイル分野",
+          "category": "business#sales",
+          "polarity": "negative",
+          "from": 5,
+          "to": 13
+        }
+      ]
+    },
+    {
+      "sentence_id": 19,
+      "sentence": "＜繊維二次製品分野＞",
+      "opinions": []
+    },
+    {
+      "sentence_id": 20,
+      "sentence": "繊維二次製品分野は、景況感の悪さに天候不順が加わり、百貨店や大手量販店での復調の兆しも見られず、一部の専門店や専門量販向けを除き、総じて厳しい状況が続きました",
+      "opinions": [
+        {
+          "target": "繊維二次製品分野",
+          "category": "business#general",
+          "polarity": "negative",
+          "from": 0,
+          "to": 8
+        },
+        {
+          "target": "景況感",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 10,
+          "to": 13
+        }
+      ]
+    },
+    {
+      "sentence_id": 21,
+      "sentence": "秋物に続いてレディスのアウターをはじめとする防寒衣料、さらには春物の初期需要も弱含みで推移するなど、年度を通して低迷を抜け出すことができませんでした",
+      "opinions": [
+        {
+          "target": "防寒衣料",
+          "category": "product#general",
+          "polarity": "negative",
+          "from": 22,
+          "to": 26
+        },
+        {
+          "target": "初期需要",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 34,
+          "to": 38
+        }
+      ]
+    },
+    {
+      "sentence_id": 22,
+      "sentence": "このような状況の下、当社グループは、企画段階から請け負い、製造し供給するODM生産を推進したほか、分野を横断した取り組みによる新規オリジナル商材の開発を加速し、市場で存在感を高めるための競争力強化に努めました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 23,
+      "sentence": "この結果、繊維二次製品分野の売上高は75,735,508千円（前期比1.8％増）となりました",
+      "opinions": [
+        {
+          "target": "繊維二次製品分野",
+          "category": "business#sales",
+          "polarity": "positive",
+          "from": 5,
+          "to": 13
+        }
+      ]
+    },
+    {
+      "sentence_id": 24,
+      "sentence": "［不動産セグメント］\n　当連結会計年度における不動産セグメントの売上高は、415,387千円（前期比4.9％増）となりました",
+      "opinions": [
+        {
+          "target": "不動産セグメント",
+          "category": "business#sales",
+          "polarity": "positive",
+          "from": 23,
+          "to": 31
+        }
+      ]
+    }
+  ]
+}

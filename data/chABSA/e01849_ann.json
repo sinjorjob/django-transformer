@@ -1,0 +1,744 @@
+{
+  "header": {
+    "document_id": "E01849",
+    "document_name": "アイホン株式会社",
+    "doc_text": "有価証券報告書",
+    "edi_id": "E01849",
+    "security_code": "67180",
+    "category33": "電気機器",
+    "category17": "電機・精密",
+    "scale": "7"
+  },
+  "sentences": [
+    {
+      "sentence_id": 0,
+      "sentence": "当連結会計年度におけるわが国の経済は、政府の経済政策の効果を背景に、企業収益の回復や雇用情勢の改善に伴い個人消費が持ち直すなど緩やかな景気回復基調が続きました",
+      "opinions": [
+        {
+          "target": "経済",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 15,
+          "to": 17
+        },
+        {
+          "target": "企業収益",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 34,
+          "to": 38
+        },
+        {
+          "target": "雇用情勢",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 42,
+          "to": 46
+        },
+        {
+          "target": "個人消費",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 52,
+          "to": 56
+        }
+      ]
+    },
+    {
+      "sentence_id": 1,
+      "sentence": "当社グループを取り巻く環境につきましては、日本国内におきまして、新築住宅着工戸数は底堅く推移いたしました",
+      "opinions": [
+        {
+          "target": "新築住宅着工戸数",
+          "category": "NULL#amount",
+          "polarity": "positive",
+          "from": 32,
+          "to": 40
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "sentence": "またインターホン設備等の更新需要も増加いたしました",
+      "opinions": [
+        {
+          "target": "更新需要",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 12,
+          "to": 16
+        }
+      ]
+    },
+    {
+      "sentence_id": 3,
+      "sentence": "海外市場におきましては、米国では業務市場を中心に引き続きセキュリティニーズが高く、好調に推移いたしました",
+      "opinions": [
+        {
+          "target": "米国",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 12,
+          "to": 14
+        },
+        {
+          "target": "セキュリティニーズ",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 28,
+          "to": 37
+        }
+      ]
+    },
+    {
+      "sentence_id": 4,
+      "sentence": "このような状況の中で、当社グループはお客様のニーズに応えるべく、引き続き新製品の開発と積極的な営業活動を展開して業績の向上に努めてまいりました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 5,
+      "sentence": "当連結会計年度の経営成績は、売上高438億５千４百万円（前連結会計年度比2.8％増）となりました",
+      "opinions": [
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 14,
+          "to": 17
+        }
+      ]
+    },
+    {
+      "sentence_id": 6,
+      "sentence": "利益面につきましては、研究開発費を増加させたことにより、営業利益は27億７千５百万円（同8.9％減）、経常利益は27億９千万円（同18.6％減）となりました",
+      "opinions": [
+        {
+          "target": "研究開発費",
+          "category": "NULL#cost",
+          "polarity": "negative",
+          "from": 11,
+          "to": 16
+        },
+        {
+          "target": "営業利益",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 28,
+          "to": 32
+        },
+        {
+          "target": "経常利益",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 51,
+          "to": 55
+        }
+      ]
+    },
+    {
+      "sentence_id": 7,
+      "sentence": "また、前連結会計年度に発生いたしました特別利益（固定資産の売却益）の減少等により、親会社株主に帰属する当期純利益は20億７千３百万円（同37.2％減）となりました",
+      "opinions": [
+        {
+          "target": "特別利益",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 19,
+          "to": 23
+        },
+        {
+          "target": "当期純利益",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 51,
+          "to": 56
+        }
+      ]
+    },
+    {
+      "sentence_id": 8,
+      "sentence": "セグメントの業績は、次のとおりであります",
+      "opinions": []
+    },
+    {
+      "sentence_id": 9,
+      "sentence": "《日本セグメント》",
+      "opinions": []
+    },
+    {
+      "sentence_id": 10,
+      "sentence": "国内の住宅市場につきましては、戸建住宅におきまして当社の納入時期にあたる住宅着工戸数が前期を上回り、テレビドアホンの主力モデルの販売台数は増加いたしました",
+      "opinions": [
+        {
+          "target": "住宅着工戸数",
+          "category": "NULL#amount",
+          "polarity": "positive",
+          "from": 36,
+          "to": 42
+        },
+        {
+          "target": "主力モデル",
+          "category": "product#amount",
+          "polarity": "positive",
+          "from": 58,
+          "to": 63
+        }
+      ]
+    },
+    {
+      "sentence_id": 11,
+      "sentence": "しかし、他社との価格競争の厳しさが増したことで販売単価が下落し、売上は減少いたしました",
+      "opinions": [
+        {
+          "target": "価格競争",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 8,
+          "to": 12
+        },
+        {
+          "target": "販売単価",
+          "category": "NULL#price",
+          "polarity": "negative",
+          "from": 23,
+          "to": 27
+        },
+        {
+          "target": "売上",
+          "category": "NULL#sales",
+          "polarity": "negative",
+          "from": 32,
+          "to": 34
+        }
+      ]
+    },
+    {
+      "sentence_id": 12,
+      "sentence": "集合住宅につきましては、新築では当社の納入時期にあたる住宅着工戸数が主に賃貸住宅の増加によって前期を上回る状況の中、発売以来好評をいただいている小規模マンション・アパート向けシステムの積極的な営業活動により、販売が好調に推移いたしました",
+      "opinions": [
+        {
+          "target": "新築",
+          "category": "product#amount",
+          "polarity": "positive",
+          "from": 12,
+          "to": 14
+        },
+        {
+          "target": "住宅着工戸数",
+          "category": "NULL#amount",
+          "polarity": "positive",
+          "from": 27,
+          "to": 33
+        },
+        {
+          "target": "賃貸住宅",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 36,
+          "to": 40
+        }
+      ]
+    },
+    {
+      "sentence_id": 13,
+      "sentence": "また既設物件のリニューアルにおきましても分譲物件を中心に継続的な提案活動を行ってきたことにより受注が順調に推移するとともに、専任の営業担当を置き受注活動を強化した賃貸住宅への小規模マンション・アパート向けシステムの販売が好調に推移いたしました",
+      "opinions": [
+        {
+          "target": "リニューアル",
+          "category": "product#amount",
+          "polarity": "positive",
+          "from": 7,
+          "to": 13
+        },
+        {
+          "target": "システム",
+          "category": "product#amount",
+          "polarity": "positive",
+          "from": 102,
+          "to": 106
+        }
+      ]
+    },
+    {
+      "sentence_id": 14,
+      "sentence": "この結果、集合住宅の売上が戸建住宅の売上減少分をカバーし、住宅市場全体の売上は増加いたしました",
+      "opinions": [
+        {
+          "target": "集合住宅",
+          "category": "product#sales",
+          "polarity": "positive",
+          "from": 5,
+          "to": 9
+        },
+        {
+          "target": "戸建住宅",
+          "category": "product#sales",
+          "polarity": "negative",
+          "from": 13,
+          "to": 17
+        },
+        {
+          "target": "住宅市場",
+          "category": "business#sales",
+          "polarity": "positive",
+          "from": 29,
+          "to": 33
+        }
+      ]
+    },
+    {
+      "sentence_id": 15,
+      "sentence": "ケア市場につきましては、新築では当社の納入時期にあたる病院着工件数は前期から減少いたしましたが、病院及び高齢者施設並びに高齢者住宅への積極的な営業活動を推進し、販売は前期並みとなりました",
+      "opinions": [
+        {
+          "target": "ケア市場",
+          "category": "business#amount",
+          "polarity": "neutral",
+          "from": 0,
+          "to": 4
+        },
+        {
+          "target": "病院着工件数",
+          "category": "NULL#amount",
+          "polarity": "negative",
+          "from": 27,
+          "to": 33
+        }
+      ]
+    },
+    {
+      "sentence_id": 16,
+      "sentence": "一方、リニューアルにおきましては新型ナースコールシステムを中心としたリニューアル提案活動を病院や高齢者施設に対して積極的に行ってきたことにより、その機能性等を高く評価いただき、販売は増加いたしました",
+      "opinions": [
+        {
+          "target": "リニューアル",
+          "category": "product#amount",
+          "polarity": "positive",
+          "from": 3,
+          "to": 9
+        }
+      ]
+    },
+    {
+      "sentence_id": 17,
+      "sentence": "この結果、ケア市場全体といたしましては、リニューアルにおける販売の増加により、売上は増加いたしました",
+      "opinions": [
+        {
+          "target": "ケア市場",
+          "category": "business#sales",
+          "polarity": "positive",
+          "from": 5,
+          "to": 9
+        },
+        {
+          "target": "リニューアル",
+          "category": "product#amount",
+          "polarity": "positive",
+          "from": 20,
+          "to": 26
+        }
+      ]
+    },
+    {
+      "sentence_id": 18,
+      "sentence": "これらの結果、売上高は398億２百万円（前連結会計年度比3.5％増）、営業利益は23億５千２百万円（同5.3％増）となりました",
+      "opinions": [
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 7,
+          "to": 10
+        },
+        {
+          "target": "営業利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 35,
+          "to": 39
+        }
+      ]
+    },
+    {
+      "sentence_id": 19,
+      "sentence": "《北米セグメント》",
+      "opinions": []
+    },
+    {
+      "sentence_id": 20,
+      "sentence": "アメリカの販売子会社であるアイホンコーポレーションにおきましては、業務市場におきまして官公庁施設に対するテレビドアホン等の納入が継続し、販売が増加いたしました",
+      "opinions": [
+        {
+          "target": "アイホンコーポレーション",
+          "category": "company#amount",
+          "polarity": "positive",
+          "from": 13,
+          "to": 25
+        },
+        {
+          "target": "テレビドアホン",
+          "category": "product#amount",
+          "polarity": "positive",
+          "from": 52,
+          "to": 59
+        }
+      ]
+    },
+    {
+      "sentence_id": 21,
+      "sentence": "また、オフィスや大規模施設等への提案活動が功を奏し、ＩＰネットワーク対応インターホンシステムを中心とした販売が好調に伸張いたしました",
+      "opinions": [
+        {
+          "target": "ＩＰネットワーク対応インターホンシステム",
+          "category": "product#amount",
+          "polarity": "positive",
+          "from": 26,
+          "to": 46
+        }
+      ]
+    },
+    {
+      "sentence_id": 22,
+      "sentence": "また住宅市場では、セキュリティニーズの高まりと積極的な営業活動が、大型プロジェクト物件の受注や新型集合住宅向けシステムの好調な販売につながり、売上の増加に寄与しました",
+      "opinions": [
+        {
+          "target": "住宅市場",
+          "category": "business#sales",
+          "polarity": "positive",
+          "from": 2,
+          "to": 6
+        },
+        {
+          "target": "セキュリティニーズ",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 9,
+          "to": 18
+        },
+        {
+          "target": "システム",
+          "category": "product#amount",
+          "polarity": "positive",
+          "from": 55,
+          "to": 59
+        }
+      ]
+    },
+    {
+      "sentence_id": 23,
+      "sentence": "これらの結果、現地通貨ベースにおける売上は増加いたしました",
+      "opinions": [
+        {
+          "target": "売上",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 18,
+          "to": 20
+        }
+      ]
+    },
+    {
+      "sentence_id": 24,
+      "sentence": "また、円換算した売上高は68億３千３百万円（前連結会計年度比3.4％増）、営業利益は１億６千７百万円（同31.7％増）となりました",
+      "opinions": [
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 8,
+          "to": 11
+        },
+        {
+          "target": "営業利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 37,
+          "to": 41
+        }
+      ]
+    },
+    {
+      "sentence_id": 25,
+      "sentence": "《欧州セグメント》",
+      "opinions": []
+    },
+    {
+      "sentence_id": 26,
+      "sentence": "フランスの販売子会社であるアイホンＳ.Ａ.Ｓ.におきましては、緩やかな回復基調は見られるものの低調な推移が続く欧州経済の中、戸建住宅向けテレビドアホンの販売が、積極的な営業活動により前期から引き続き好調に推移いたしました",
+      "opinions": [
+        {
+          "target": "欧州経済",
+          "category": "NULL#general",
+          "polarity": "neutral",
+          "from": 55,
+          "to": 59
+        },
+        {
+          "target": "テレビドアホン",
+          "category": "product#general",
+          "polarity": "positive",
+          "from": 68,
+          "to": 75
+        }
+      ]
+    },
+    {
+      "sentence_id": 27,
+      "sentence": "また集合住宅では１月に市場導入し、高い評価を得ている新型集合住宅向けシステムの販売が好調に推移いたしました",
+      "opinions": [
+        {
+          "target": "システム",
+          "category": "product#amount",
+          "polarity": "positive",
+          "from": 34,
+          "to": 38
+        }
+      ]
+    },
+    {
+      "sentence_id": 28,
+      "sentence": "また業務市場におきましてもセキュリティニーズを背景としたＩＰネットワーク対応インターホンシステムやテレビドアホン等の積極的な営業活動により、オフィスやショッピングモール、また公共施設を中心に販売が好調に推移いたしました",
+      "opinions": [
+        {
+          "target": "オフィス",
+          "category": "product#amount",
+          "polarity": "positive",
+          "from": 70,
+          "to": 74
+        },
+        {
+          "target": "ショッピングモール",
+          "category": "product#amount",
+          "polarity": "positive",
+          "from": 75,
+          "to": 84
+        },
+        {
+          "target": "公共施設",
+          "category": "product#amount",
+          "polarity": "positive",
+          "from": 87,
+          "to": 91
+        }
+      ]
+    },
+    {
+      "sentence_id": 29,
+      "sentence": "イギリスの販売子会社であるアイホンＵＫにおきましては、集合住宅市場及び業務市場向けの販売が前期を上回りました",
+      "opinions": [
+        {
+          "target": "集合住宅市場",
+          "category": "product#amount",
+          "polarity": "positive",
+          "from": 27,
+          "to": 33
+        },
+        {
+          "target": "業務市場向け",
+          "category": "product#amount",
+          "polarity": "positive",
+          "from": 35,
+          "to": 41
+        }
+      ]
+    },
+    {
+      "sentence_id": 30,
+      "sentence": "これらの結果、現地通貨ベースにおける売上は増加いたしました",
+      "opinions": [
+        {
+          "target": "売上",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 18,
+          "to": 20
+        }
+      ]
+    },
+    {
+      "sentence_id": 31,
+      "sentence": "しかし、為替の影響により、円換算した売上高は34億７百万円（前連結会計年度比6.4％減）、営業利益は６千万円（同27.7％減）となりました",
+      "opinions": [
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "negative",
+          "from": 18,
+          "to": 21
+        },
+        {
+          "target": "営業利益",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 45,
+          "to": 49
+        }
+      ]
+    },
+    {
+      "sentence_id": 32,
+      "sentence": "《タイセグメント》",
+      "opinions": []
+    },
+    {
+      "sentence_id": 33,
+      "sentence": "生産子会社であるアイホンコミュニケーションズ（タイランド）は、当社グループ向けに製品等を生産・出荷しております",
+      "opinions": []
+    },
+    {
+      "sentence_id": 34,
+      "sentence": "当連結会計年度におきましては、為替の影響等により売上高は72億７千万円（前連結会計年度比6.3％減）、営業利益２億１千万円（同14.9％減）となりました",
+      "opinions": [
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "negative",
+          "from": 24,
+          "to": 27
+        },
+        {
+          "target": "営業利益",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 51,
+          "to": 55
+        }
+      ]
+    },
+    {
+      "sentence_id": 35,
+      "sentence": "《ベトナムセグメント》",
+      "opinions": []
+    },
+    {
+      "sentence_id": 36,
+      "sentence": "生産子会社であるアイホンコミュニケーションズ（ベトナム）は、当社グループ向けに製品等を生産・出荷しております",
+      "opinions": []
+    },
+    {
+      "sentence_id": 37,
+      "sentence": "当連結会計年度におきましては、売上高は25億２千万円（前連結会計年度比22.7％増）、営業利益は９千５百万円（同2.8％増）となりました",
+      "opinions": [
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 15,
+          "to": 18
+        },
+        {
+          "target": "営業利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 43,
+          "to": 47
+        }
+      ]
+    },
+    {
+      "sentence_id": 38,
+      "sentence": "《その他》",
+      "opinions": []
+    },
+    {
+      "sentence_id": 39,
+      "sentence": "オーストラリアの販売子会社であるアイホンＰＴＹにつきましては、大型物件を対象とした積極的な受注活動が功を奏し集合住宅向けシステムの受注が好調に推移し、販売は増加いたしました",
+      "opinions": [
+        {
+          "target": "アイホンＰＴＹ",
+          "category": "company#amount",
+          "polarity": "positive",
+          "from": 16,
+          "to": 23
+        },
+        {
+          "target": "システム",
+          "category": "product#amount",
+          "polarity": "positive",
+          "from": 60,
+          "to": 64
+        }
+      ]
+    },
+    {
+      "sentence_id": 40,
+      "sentence": "シンガポールの販売子会社であるアイホンＰＴＥ.につきましては、シンガポールにおける新築物件数が大幅に減少しており、リニューアル物件受注活動や業務市場での積極的な営業活動を行ってまいりましたが、着工戸数の減少に伴う集合住宅市場の販売の落ち込みが大きく影響し、販売は減少しました",
+      "opinions": [
+        {
+          "target": "アイホンＰＴＥ.",
+          "category": "company#amount",
+          "polarity": "negative",
+          "from": 15,
+          "to": 23
+        },
+        {
+          "target": "新築物件数",
+          "category": "NULL#amount",
+          "polarity": "negative",
+          "from": 41,
+          "to": 46
+        },
+        {
+          "target": "着工戸数",
+          "category": "NULL#amount",
+          "polarity": "negative",
+          "from": 96,
+          "to": 100
+        },
+        {
+          "target": "集合住宅市場",
+          "category": "market#general",
+          "polarity": "negative",
+          "from": 106,
+          "to": 112
+        }
+      ]
+    },
+    {
+      "sentence_id": 41,
+      "sentence": "中国の販売子会社である愛峰（上海）貿易有限公司につきましては、病院及び高齢者施設に対する積極的な営業により、販売は増加いたしました",
+      "opinions": [
+        {
+          "target": "愛峰（上海）貿易有限公司",
+          "category": "company#amount",
+          "polarity": "positive",
+          "from": 11,
+          "to": 23
+        }
+      ]
+    },
+    {
+      "sentence_id": 42,
+      "sentence": "また業務市場におきましても高速道路等でのＩＰネットワーク対応インターホンシステムへの取替え活動が功を奏し、販売増加に寄与いたしました",
+      "opinions": [
+        {
+          "target": "業務市場",
+          "category": "business#amount",
+          "polarity": "positive",
+          "from": 2,
+          "to": 6
+        }
+      ]
+    },
+    {
+      "sentence_id": 43,
+      "sentence": "これらの結果、売上高は10億６千４百万円（前連結会計年度比3.2％減）、営業利益は１千万円（前連結会計年度は営業損失５百万円）となりました",
+      "opinions": [
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "negative",
+          "from": 7,
+          "to": 10
+        },
+        {
+          "target": "営業利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 36,
+          "to": 40
+        }
+      ]
+    }
+  ]
+}

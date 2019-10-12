@@ -1,0 +1,441 @@
+{
+  "header": {
+    "document_id": "E02732",
+    "document_name": "ＪＫホールディングス株式会社",
+    "doc_text": "有価証券報告書",
+    "edi_id": "E02732",
+    "security_code": "98960",
+    "category33": "卸売業",
+    "category17": "商社・卸売",
+    "scale": "7"
+  },
+  "sentences": [
+    {
+      "sentence_id": 0,
+      "sentence": "当連結会計年度におけるわが国経済は、企業収益や雇用情勢の改善を背景に総じて緩やかな回復基調を辿りましたが、国内にあっては個人消費の低迷が続き、国外にあっては英国のＥＵ離脱、米国の新政権への移行、中東や北朝鮮などの地政学リスクの高まりなど不透明感が払拭できない状況が続いております",
+      "opinions": [
+        {
+          "target": "わが国経済",
+          "category": "NULL#general",
+          "polarity": "neutral",
+          "from": 11,
+          "to": 16
+        },
+        {
+          "target": "企業収益",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 18,
+          "to": 22
+        },
+        {
+          "target": "雇用情勢",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 23,
+          "to": 27
+        },
+        {
+          "target": "個人消費",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 60,
+          "to": 64
+        }
+      ]
+    },
+    {
+      "sentence_id": 1,
+      "sentence": "住宅業界におきましては、前年度比11.4％の増加となった貸家が牽引し、新設住宅着工戸数は974.1千戸（前年度比5.8％増）と２年連続で前年度を上回りました",
+      "opinions": [
+        {
+          "target": "住宅業界",
+          "category": "market#general",
+          "polarity": "positive",
+          "from": 0,
+          "to": 4
+        },
+        {
+          "target": "貸家",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 28,
+          "to": 30
+        },
+        {
+          "target": "新設住宅着工戸数",
+          "category": "NULL#amount",
+          "polarity": "positive",
+          "from": 35,
+          "to": 43
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "sentence": "当社グループの主たるマーケットである持ち家着工戸数も291.7千戸（同2.6％増）と伸び、また主力商品である合板の市況も年度後半には底入れするなど、まずまずの経営環境となりました",
+      "opinions": [
+        {
+          "target": "持ち家着工戸数",
+          "category": "NULL#amount",
+          "polarity": "positive",
+          "from": 18,
+          "to": 25
+        },
+        {
+          "target": "市況",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 57,
+          "to": 59
+        }
+      ]
+    },
+    {
+      "sentence_id": 3,
+      "sentence": "このような状況の中で当社グループは、新たに策定した中期経営計画の初年度として、合板を始めとする建材全般の販売強化と採算面の改善にグループを挙げて取り組みました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 4,
+      "sentence": "８月と３月には、全国の取引先販売店を対象とした恒例の「ジャパン建材フェア」を東京ビッグサイトで開催したほか、地域毎の展示会や住宅機器メーカーのショールームを活用した地方での展示会を開催し、「快適で豊かな住環境の創造」に繋がる各種商材の提案などを幅広く行いました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 5,
+      "sentence": "主力商品の合板に関しましては、取扱品目を拡充し積極的な販売に努めたほか、木材製品の販売を強化いたしました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 6,
+      "sentence": "また、リフォーム市場や非住宅市場等への取り組みを一段と推進するとともに、請負工事の受注拡大に向けた体制の整備を進めました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 7,
+      "sentence": "この結果、当連結会計年度の業績は以下のとおりとなりました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 8,
+      "sentence": "売上高につきましては、前期比96億38百万円増の3,399億18百万円（前期比2.9％増）となりました",
+      "opinions": [
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 0,
+          "to": 3
+        }
+      ]
+    },
+    {
+      "sentence_id": 9,
+      "sentence": "利益面では、売上高の増加に伴い、営業利益は前期比５億５百万円増の45億93百万円（同12.4％増）、経常利益は前期比４億81百万円増の43億69百万円（同12.4％増）となりました",
+      "opinions": [
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 6,
+          "to": 9
+        },
+        {
+          "target": "営業利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 16,
+          "to": 20
+        },
+        {
+          "target": "経常利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 50,
+          "to": 54
+        }
+      ]
+    },
+    {
+      "sentence_id": 10,
+      "sentence": "親会社株主に帰属する当期純利益につきましては、トップ建材株式会社の子会社化に伴う負ののれんの発生益１億75百万円や設備投資の補助金１億７百万円が特別利益に計上された一方、繰延税金資産の取り崩しに伴う法人税等調整額の増加97百万円などがあり、前期比４億46百万円増の27億90百万円（同19.1％増）となりました",
+      "opinions": [
+        {
+          "target": "当期純利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 10,
+          "to": 15
+        },
+        {
+          "target": "法人税等調整額",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 99,
+          "to": 106
+        }
+      ]
+    },
+    {
+      "sentence_id": 11,
+      "sentence": "セグメントの業績は次のとおりであります",
+      "opinions": []
+    },
+    {
+      "sentence_id": 12,
+      "sentence": "①　総合建材卸売事業",
+      "opinions": []
+    },
+    {
+      "sentence_id": 13,
+      "sentence": "建材、住宅機器等の住設建材群は、総じて市場の伸びと同程度の拡大を図ることができ、当社グループの主力取扱商品であります合板の市況回復を受け、特に利益面で貢献いたしました",
+      "opinions": [
+        {
+          "target": "住設建材群",
+          "category": "product#profit",
+          "polarity": "positive",
+          "from": 9,
+          "to": 14
+        },
+        {
+          "target": "市場",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 19,
+          "to": 21
+        },
+        {
+          "target": "合板",
+          "category": "product#general",
+          "polarity": "positive",
+          "from": 58,
+          "to": 60
+        }
+      ]
+    },
+    {
+      "sentence_id": 14,
+      "sentence": "この結果、当事業の売上高は3,004億88百万円（前期比1.8％増）、営業利益は37億85百万円（同5.7％増）となりました",
+      "opinions": [
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 9,
+          "to": 12
+        },
+        {
+          "target": "営業利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 35,
+          "to": 39
+        }
+      ]
+    },
+    {
+      "sentence_id": 15,
+      "sentence": "②　合板製造・木材加工事業",
+      "opinions": []
+    },
+    {
+      "sentence_id": 16,
+      "sentence": "合板製造事業におきましては、主力商品であるＬＶＬが賃貸住宅向けや非住宅向けを中心に引き続き好調を維持し、増収増益で推移しております",
+      "opinions": [
+        {
+          "target": "合板製造事業",
+          "category": "business#sales",
+          "polarity": "positive",
+          "from": 0,
+          "to": 6
+        },
+        {
+          "target": "合板製造事業",
+          "category": "business#profit",
+          "polarity": "positive",
+          "from": 0,
+          "to": 6
+        },
+        {
+          "target": "ＬＶＬ",
+          "category": "product#general",
+          "polarity": "positive",
+          "from": 21,
+          "to": 24
+        }
+      ]
+    },
+    {
+      "sentence_id": 17,
+      "sentence": "木材加工事業につきましても、総じて増収増益基調で推移しております",
+      "opinions": [
+        {
+          "target": "木材加工事業",
+          "category": "business#sales",
+          "polarity": "positive",
+          "from": 0,
+          "to": 6
+        },
+        {
+          "target": "木材加工事業",
+          "category": "business#profit",
+          "polarity": "positive",
+          "from": 0,
+          "to": 6
+        }
+      ]
+    },
+    {
+      "sentence_id": 18,
+      "sentence": "この結果、当事業の売上高は103億41百万円（前期比7.1％増）、営業利益は３億47百万円（前期は39百万円の損失）となりました",
+      "opinions": [
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 9,
+          "to": 12
+        },
+        {
+          "target": "営業利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 33,
+          "to": 37
+        }
+      ]
+    },
+    {
+      "sentence_id": 19,
+      "sentence": "③　総合建材小売事業",
+      "opinions": []
+    },
+    {
+      "sentence_id": 20,
+      "sentence": "総合建材小売事業につきましては、統合等により規模が拡大した会社の寄与もあり売上高は増加したものの、利益面では苦戦をいたしました",
+      "opinions": [
+        {
+          "target": "総合建材小売事業",
+          "category": "business#sales",
+          "polarity": "positive",
+          "from": 0,
+          "to": 8
+        },
+        {
+          "target": "総合建材小売事業",
+          "category": "business#profit",
+          "polarity": "negative",
+          "from": 0,
+          "to": 8
+        }
+      ]
+    },
+    {
+      "sentence_id": 21,
+      "sentence": "この結果、当事業の売上高は264億35百万円（前期比13.0％増）、営業利益２億21百万円（同4.5％減）となりました",
+      "opinions": [
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 9,
+          "to": 12
+        },
+        {
+          "target": "営業利益",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 34,
+          "to": 38
+        }
+      ]
+    },
+    {
+      "sentence_id": 22,
+      "sentence": "④　その他",
+      "opinions": []
+    },
+    {
+      "sentence_id": 23,
+      "sentence": "その他には、建材小売店の経営指導を中心にフランチャイズ事業を展開している株式会社ハウス・デポ・ジャパンのほか、物流関係の子会社等４社、建設工事業の子会社３社、及び純粋持株会社でありますＪＫホールディングス株式会社の一部事業を区分しております",
+      "opinions": []
+    },
+    {
+      "sentence_id": 24,
+      "sentence": "株式会社ハウス・デポ・ジャパンにつきましては、加盟店が340社と当期中に７社増加いたしました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 25,
+      "sentence": "建設工事業の子会社のうちＪＫホーム株式会社は、過年度の戸建分譲プロジェクト案件が完売になったほか、新築、リフォームともに新規受注が大きく好転し、売上高が期を上回りました",
+      "opinions": [
+        {
+          "target": "ＪＫホーム株式会社",
+          "category": "company#amount",
+          "polarity": "positive",
+          "from": 12,
+          "to": 21
+        },
+        {
+          "target": "ＪＫホーム株式会社",
+          "category": "company#sales",
+          "polarity": "positive",
+          "from": 12,
+          "to": 21
+        }
+      ]
+    },
+    {
+      "sentence_id": 26,
+      "sentence": "また、昨年11月１日、サイディングのプレカット等を手掛ける株式会社ＭＪテックが新たに子会社となりました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 27,
+      "sentence": "一方、ＪＫホールディングス株式会社は、不動産賃貸収入等の安定収入に加え、子会社からの配当増により売上が増加した一方で、販管費の増加により、利益面では前期を下回りました",
+      "opinions": [
+        {
+          "target": "ＪＫホールディングス株式会社",
+          "category": "company#profit",
+          "polarity": "negative",
+          "from": 3,
+          "to": 17
+        },
+        {
+          "target": "売上",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 48,
+          "to": 50
+        },
+        {
+          "target": "販管費",
+          "category": "NULL#cost",
+          "polarity": "negative",
+          "from": 59,
+          "to": 62
+        }
+      ]
+    },
+    {
+      "sentence_id": 28,
+      "sentence": "この結果、当事業の売上高は26億52百万円（前期比23.2％増）、営業利益１億22百万円（同52.5%減）となりました",
+      "opinions": [
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 9,
+          "to": 12
+        },
+        {
+          "target": "営業利益",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 33,
+          "to": 37
+        }
+      ]
+    }
+  ]
+}

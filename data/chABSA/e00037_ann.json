@@ -1,0 +1,359 @@
+{
+  "header": {
+    "document_id": "E00037",
+    "document_name": "三井松島産業株式会社",
+    "doc_text": "有価証券報告書",
+    "edi_id": "E00037",
+    "security_code": "15180",
+    "category33": "鉱業",
+    "category17": "エネルギー資源",
+    "scale": "7"
+  },
+  "sentences": [
+    {
+      "sentence_id": 0,
+      "sentence": "当連結会計年度における世界経済は、米国経済の持ち直しなどにより、全体としては緩やかな回復基調が続きましたが、中国及び資源国をはじめとした新興国の経済成長の鈍化、英国のＥＵ離脱問題、米国新政権の政策運営への不安感などにより、依然として先行き不透明な状況が継続いたしました",
+      "opinions": [
+        {
+          "target": "世界経済",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 11,
+          "to": 15
+        },
+        {
+          "target": "米国経済",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 17,
+          "to": 21
+        },
+        {
+          "target": "経済成長",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 72,
+          "to": 76
+        },
+        {
+          "target": "政策運営",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 96,
+          "to": 100
+        }
+      ]
+    },
+    {
+      "sentence_id": 1,
+      "sentence": "一方、わが国経済も、企業収益や雇用・所得環境の改善などにより、緩やかな回復基調が続きましたが、海外経済の不確実性や金融資本市場の不透明さを背景に、先行きに対する不安感が残ったまま推移いたしました",
+      "opinions": [
+        {
+          "target": "わが国経済",
+          "category": "NULL#general",
+          "polarity": "neutral",
+          "from": 3,
+          "to": 8
+        },
+        {
+          "target": "企業収益",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 10,
+          "to": 14
+        },
+        {
+          "target": "雇用",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 15,
+          "to": 17
+        },
+        {
+          "target": "所得環境",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 18,
+          "to": 22
+        },
+        {
+          "target": "海外経済",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 47,
+          "to": 51
+        },
+        {
+          "target": "金融資本市場",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 57,
+          "to": 63
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "sentence": "このような経済情勢の中、当社グループにおきましては、エネルギー事業の石炭販売分野における石炭価格の下落及び石炭販売数量の減少などにより、売上高は530億86百万円と前年同期比54億77百万円（9.4%）の減収となりましたが、営業利益は生活関連事業において前第３四半期連結会計期間に新たに加わった衣料品分野の業績及び飲食用資材分野における原材料価格の下落などにより、10億27百万円と前年同期比19百万円（2.0%）の増益となりました",
+      "opinions": [
+        {
+          "target": "当社グループ",
+          "category": "NULL#sales",
+          "polarity": "negative",
+          "from": 12,
+          "to": 18
+        },
+        {
+          "target": "当社グループ",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 12,
+          "to": 18
+        },
+        {
+          "target": "石炭販売分野",
+          "category": "business#price",
+          "polarity": "negative",
+          "from": 34,
+          "to": 40
+        },
+        {
+          "target": "石炭販売分野",
+          "category": "business#amount",
+          "polarity": "negative",
+          "from": 34,
+          "to": 40
+        },
+        {
+          "target": "衣料品分野",
+          "category": "business#general",
+          "polarity": "positive",
+          "from": 147,
+          "to": 152
+        },
+        {
+          "target": "飲食用資材分野",
+          "category": "business#cost",
+          "polarity": "positive",
+          "from": 157,
+          "to": 164
+        }
+      ]
+    },
+    {
+      "sentence_id": 3,
+      "sentence": "経常利益は、営業外収益に受取利息１億82百万円を計上したものの、営業外費用に為替差損１億53百万円及び支払利息１億64百万円を計上したことなどにより、９億59百万円と前年同期比４億20百万円（30.5%）の減益となりました",
+      "opinions": [
+        {
+          "target": "経常利益",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 0,
+          "to": 4
+        },
+        {
+          "target": "営業外収益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 6,
+          "to": 11
+        },
+        {
+          "target": "営業外費用",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 32,
+          "to": 37
+        }
+      ]
+    },
+    {
+      "sentence_id": 4,
+      "sentence": "親会社株主に帰属する当期純利益は、特別損失に災害による損失（平成28年熊本地震）２億37百万円を計上したものの、特別利益に投資有価証券売却益２億円及び固定資産売却益１億25百万円を計上したこと並びに税金費用が減少したことなどにより13億23百万円となり、前年同期比１億88百万円（12.5%）の減益となりました",
+      "opinions": [
+        {
+          "target": "当期純利益",
+          "category": "NULL#sales",
+          "polarity": "negative",
+          "from": 10,
+          "to": 15
+        },
+        {
+          "target": "特別損失",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 17,
+          "to": 21
+        },
+        {
+          "target": "特別利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 56,
+          "to": 60
+        },
+        {
+          "target": "税金費用",
+          "category": "NULL#cost",
+          "polarity": "positive",
+          "from": 99,
+          "to": 103
+        }
+      ]
+    },
+    {
+      "sentence_id": 5,
+      "sentence": "セグメントの業績は、次のとおりであります",
+      "opinions": []
+    },
+    {
+      "sentence_id": 6,
+      "sentence": "なお、売上高については、セグメント間取引消去前の金額によっております",
+      "opinions": []
+    },
+    {
+      "sentence_id": 7,
+      "sentence": "当連結会計年度より、報告セグメントの区分方法を変更しております",
+      "opinions": []
+    },
+    {
+      "sentence_id": 8,
+      "sentence": "なお、業績における前年同期比較については、前年同期の数値を変更後の区分方法により組み替えて比較しております",
+      "opinions": []
+    },
+    {
+      "sentence_id": 9,
+      "sentence": "変更の詳細は、「第５　経理の状況　１　連結財務諸表等　注記事項（セグメント情報等）　セグメント情報」の「１．報告セグメントの概要」をご参照下さい",
+      "opinions": []
+    },
+    {
+      "sentence_id": 10,
+      "sentence": "①エネルギー事業",
+      "opinions": []
+    },
+    {
+      "sentence_id": 11,
+      "sentence": "当セグメントには、石炭販売分野、石炭生産分野及び再生可能エネルギー分野が含まれております",
+      "opinions": []
+    },
+    {
+      "sentence_id": 12,
+      "sentence": "売上高は、石炭販売分野における石炭価格の下落及び販売数量の減少などにより356億19百万円と前年同期比77億76百万円（17.9%）の減収となり、セグメント利益は、石炭生産分野における石炭価格の下落などにより10億23百万円と前年同期比３億55百万円（25.8%）の減益となりました",
+      "opinions": [
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "negative",
+          "from": 0,
+          "to": 3
+        },
+        {
+          "target": "石炭販売分野",
+          "category": "business#price",
+          "polarity": "negative",
+          "from": 5,
+          "to": 11
+        },
+        {
+          "target": "石炭販売分野",
+          "category": "business#amount",
+          "polarity": "negative",
+          "from": 5,
+          "to": 11
+        },
+        {
+          "target": "セグメント利益",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 73,
+          "to": 80
+        },
+        {
+          "target": "石炭生産分野",
+          "category": "business#price",
+          "polarity": "negative",
+          "from": 82,
+          "to": 88
+        }
+      ]
+    },
+    {
+      "sentence_id": 13,
+      "sentence": "②生活関連事業",
+      "opinions": []
+    },
+    {
+      "sentence_id": 14,
+      "sentence": "当セグメントには、電子部品分野、飲食用資材分野、衣料品分野、施設運営受託分野及び介護分野が含まれております",
+      "opinions": []
+    },
+    {
+      "sentence_id": 15,
+      "sentence": "売上高は、衣料品分野の花菱縫製㈱を前第３四半期連結会計期間において子会社化したこと及び電子部品分野のクリーンサアフェイス技術㈱を当第４四半期連結会計期間において子会社化したことに伴い、152億40百万円と前年同期比24億65百万円（19.3%）の増収となりました",
+      "opinions": [
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 0,
+          "to": 3
+        }
+      ]
+    },
+    {
+      "sentence_id": 16,
+      "sentence": "セグメント利益は、のれん償却費３億33百万円を計上したものの、上記要因に伴う営業利益の増加に加え、飲食用資材分野における原材料価格の下落などにより、９億45百万円と前年同期比２億41百万円（34.3%）の増益となりました",
+      "opinions": [
+        {
+          "target": "セグメント利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 0,
+          "to": 7
+        },
+        {
+          "target": "飲食用資材分野",
+          "category": "business#cost",
+          "polarity": "positive",
+          "from": 49,
+          "to": 56
+        }
+      ]
+    },
+    {
+      "sentence_id": 17,
+      "sentence": "なお、飲食用資材分野の日本ストロー㈱において、「平成28年熊本地震」により同社熊本工場の一部に被害を受けておりましたが、懸命な復旧作業に努めた結果、現在では通常生産を行っております",
+      "opinions": []
+    },
+    {
+      "sentence_id": 18,
+      "sentence": "③その他の事業",
+      "opinions": []
+    },
+    {
+      "sentence_id": 19,
+      "sentence": "当区分には、不動産事業及び港湾事業等が含まれております",
+      "opinions": []
+    },
+    {
+      "sentence_id": 20,
+      "sentence": "売上高は、21億３百万円と前年同期比１億52百万円（6.8%）の減収となりましたが、セグメント利益は１億50百万円と前年同期比21百万円（17.0%）の増益となりました",
+      "opinions": [
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "negative",
+          "from": 0,
+          "to": 3
+        },
+        {
+          "target": "セグメント利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 42,
+          "to": 49
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,387 @@
+{
+  "header": {
+    "document_id": "E03584",
+    "document_name": "株式会社中国銀行",
+    "doc_text": "有価証券報告書",
+    "edi_id": "E03584",
+    "security_code": "83820",
+    "category33": "銀行業",
+    "category17": "銀行",
+    "scale": "4"
+  },
+  "sentences": [
+    {
+      "sentence_id": 0,
+      "sentence": "当連結会計年度（平成28年４月１日～平成29年３月31日）における我が国の経済は、前半は新興国経済減速の影響から輸出や生産が伸び悩み、景気回復に鈍さが見られました",
+      "opinions": [
+        {
+          "target": "新興国経済",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 44,
+          "to": 49
+        },
+        {
+          "target": "輸出",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 56,
+          "to": 58
+        },
+        {
+          "target": "生産",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 59,
+          "to": 61
+        },
+        {
+          "target": "景気回復",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 67,
+          "to": 71
+        }
+      ]
+    },
+    {
+      "sentence_id": 1,
+      "sentence": "後半は個人消費の回復に懸念が残るものの、海外経済の改善を背景として、生産・輸出・設備投資を中心に景気は緩やかな回復基調を辿りました",
+      "opinions": [
+        {
+          "target": "個人消費",
+          "category": "NULL#general",
+          "polarity": "neutral",
+          "from": 3,
+          "to": 7
+        },
+        {
+          "target": "海外経済",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 20,
+          "to": 24
+        },
+        {
+          "target": "生産",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 34,
+          "to": 36
+        },
+        {
+          "target": "輸出",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 37,
+          "to": 39
+        },
+        {
+          "target": "設備投資",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 40,
+          "to": 44
+        },
+        {
+          "target": "景気",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 48,
+          "to": 50
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "sentence": "地元経済においては、三菱自工水島製作所の生産停止の影響や船舶受注の息切れ等の影響は残るものの、民間設備投資や住宅建築で持ち直しの動きが続くなど、底固く推移しました",
+      "opinions": [
+        {
+          "target": "地元経済",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 0,
+          "to": 4
+        },
+        {
+          "target": "船舶受注",
+          "category": "NULL#amount",
+          "polarity": "negative",
+          "from": 28,
+          "to": 32
+        },
+        {
+          "target": "民間設備投資",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 47,
+          "to": 53
+        },
+        {
+          "target": "住宅建築",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 54,
+          "to": 58
+        }
+      ]
+    },
+    {
+      "sentence_id": 3,
+      "sentence": "金融面では、昨年11月に米大統領選挙でトランプ大統領が勝利して以降、米金利が上昇するなかで、日銀の超緩和的な金融政策により国内の金利上昇は限定的となっています",
+      "opinions": []
+    },
+    {
+      "sentence_id": 4,
+      "sentence": "今後の金融・財政政策がお客さまへ与える影響を引続き注視するとともに、積極的な資金供給を通じて、地元経済の活性化に取組む方針であります",
+      "opinions": []
+    },
+    {
+      "sentence_id": 5,
+      "sentence": "このような事業環境の中、当行では平成26年度からスタートした期間３年間の中期経営計画『ちゅうぎん　Ｈｅａｒｔ　２０１４』で策定した各施策を着実に実施してまいりました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 6,
+      "sentence": "平成28年度における主な活動成果は次のとおりです",
+      "opinions": []
+    },
+    {
+      "sentence_id": 7,
+      "sentence": "連結経常収益は、有価証券売却益の増加を主因に前年同期比136億87百万円（10.5％）増収の1,428億67百万円となりました",
+      "opinions": [
+        {
+          "target": "連結経常収益",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 0,
+          "to": 6
+        },
+        {
+          "target": "有価証券売却益",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 8,
+          "to": 15
+        }
+      ]
+    },
+    {
+      "sentence_id": 8,
+      "sentence": "また、連結経常利益については、有価証券売却損の増加や貸倒引当金戻入益の減少により、前年同期比118億35百万円（27.2％）減益の316億５百万円となりました",
+      "opinions": [
+        {
+          "target": "連結経常利益",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 3,
+          "to": 9
+        },
+        {
+          "target": "有価証券売却損",
+          "category": "NULL#sales",
+          "polarity": "negative",
+          "from": 15,
+          "to": 22
+        },
+        {
+          "target": "貸倒引当金戻入益",
+          "category": "NULL#sales",
+          "polarity": "negative",
+          "from": 26,
+          "to": 34
+        }
+      ]
+    },
+    {
+      "sentence_id": 9,
+      "sentence": "この結果、親会社株主に帰属する当期純利益は、前年同期比69億29百万円（25.4％）減益の203億23百万円となりました",
+      "opinions": [
+        {
+          "target": "当期純利益",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 15,
+          "to": 20
+        }
+      ]
+    },
+    {
+      "sentence_id": 10,
+      "sentence": "リスク管理債権額につきましては、再生支援活動を通じたランクアップや直接償却ならびに債権売却によるオフバランス化を実施する等減少に努めました結果、前年同期比25億円減少し、３月末残高は816億円になりました",
+      "opinions": [
+        {
+          "target": "リスク管理債権額",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 0,
+          "to": 8
+        }
+      ]
+    },
+    {
+      "sentence_id": 11,
+      "sentence": "また、リスク管理債権比率（貸出金残高に占める比率）は、貸出金残高の増加の効果もあり、前年同期比0.23ポイント低下し、３月末1.86％となりました",
+      "opinions": [
+        {
+          "target": "リスク管理債権比率",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 3,
+          "to": 12
+        },
+        {
+          "target": "貸出金残高",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 27,
+          "to": 32
+        }
+      ]
+    },
+    {
+      "sentence_id": 12,
+      "sentence": "なお、当行は部分直接償却を実施しておりませんが、仮に部分直接償却を実施した場合の単体リスク管理債権比率は前年同期比0.21ポイント低下の1.54％となります",
+      "opinions": [
+        {
+          "target": "単体リスク管理債権比率",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 40,
+          "to": 51
+        }
+      ]
+    },
+    {
+      "sentence_id": 13,
+      "sentence": "また、再生法開示債権額（単体・総与信ベース）では、前年同期比31億円減少し、３月末残高は812億円になり、総与信比率では0.24ポイント低下の1.80％となりました",
+      "opinions": [
+        {
+          "target": "再生法開示債権額",
+          "category": "NULL#general",
+          "polarity": "neutral",
+          "from": 3,
+          "to": 11
+        }
+      ]
+    },
+    {
+      "sentence_id": 14,
+      "sentence": "部分直接償却を実施した場合の再生法開示債権比率は0.22ポイント低下の1.52％となります",
+      "opinions": [
+        {
+          "target": "再生法開示債権比率",
+          "category": "NULL#general",
+          "polarity": "neutral",
+          "from": 14,
+          "to": 23
+        }
+      ]
+    },
+    {
+      "sentence_id": 15,
+      "sentence": "セグメントごとの業績は下記のとおりです",
+      "opinions": []
+    },
+    {
+      "sentence_id": 16,
+      "sentence": "〔銀行業〕",
+      "opinions": []
+    },
+    {
+      "sentence_id": 17,
+      "sentence": "経常収益は前年同期比118億円（10.4％）増収の1,250億36百万円、経常利益は前年同期比116億67百万円（28.7％）減益の289億68百万円となりました",
+      "opinions": [
+        {
+          "target": "経常収益",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 0,
+          "to": 4
+        },
+        {
+          "target": "経常利益",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 37,
+          "to": 41
+        }
+      ]
+    },
+    {
+      "sentence_id": 18,
+      "sentence": "〔リース業〕",
+      "opinions": []
+    },
+    {
+      "sentence_id": 19,
+      "sentence": "経常収益は前年同期比22億65百万円（17.6％）増収の151億20百万円、経常利益は前年同期比２億６百万円（23.3％）増益の10億89百万円となりました",
+      "opinions": [
+        {
+          "target": "経常収益",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 0,
+          "to": 4
+        },
+        {
+          "target": "経常利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 38,
+          "to": 42
+        }
+      ]
+    },
+    {
+      "sentence_id": 20,
+      "sentence": "〔証券業〕",
+      "opinions": []
+    },
+    {
+      "sentence_id": 21,
+      "sentence": "経常収益は前年同期比77百万円（2.1％）増収の35億94百万円、経常利益は前年同期比１億26百万円（24.3％）減益の３億92百万円となりました",
+      "opinions": [
+        {
+          "target": "経常収益",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 0,
+          "to": 4
+        },
+        {
+          "target": "経常利益",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 33,
+          "to": 37
+        }
+      ]
+    },
+    {
+      "sentence_id": 22,
+      "sentence": "〔その他〕",
+      "opinions": []
+    },
+    {
+      "sentence_id": 23,
+      "sentence": "経常収益は前年同期比２億４百万円（4.0％）増収の51億91百万円、経常利益は前年同期比３億77百万円（18.7％）減益の16億33百万円となりました",
+      "opinions": [
+        {
+          "target": "経常収益",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 0,
+          "to": 4
+        },
+        {
+          "target": "経常利益",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 34,
+          "to": 38
+        }
+      ]
+    }
+  ]
+}

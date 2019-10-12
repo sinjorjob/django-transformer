@@ -1,0 +1,211 @@
+{
+  "header": {
+    "document_id": "E05110",
+    "document_name": "株式会社ＪＩＥＣ",
+    "doc_text": "有価証券報告書",
+    "edi_id": "E05110",
+    "security_code": "42910",
+    "category33": "情報・通信業",
+    "category17": "情報通信・サービスその他",
+    "scale": ""
+  },
+  "sentences": [
+    {
+      "sentence_id": 0,
+      "sentence": "当事業年度におけるわが国経済は、企業収益や雇用情勢は改善傾向で推移し、個人消費や設備投資は持ち直しの動きがみられ、緩やかな回復基調が継続しております",
+      "opinions": [
+        {
+          "target": "わが国経済",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 9,
+          "to": 14
+        },
+        {
+          "target": "企業収益",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 16,
+          "to": 20
+        },
+        {
+          "target": "雇用情勢",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 21,
+          "to": 25
+        },
+        {
+          "target": "個人消費",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 35,
+          "to": 39
+        },
+        {
+          "target": "設備投資",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 40,
+          "to": 44
+        }
+      ]
+    },
+    {
+      "sentence_id": 1,
+      "sentence": "また、米国では引き続き景気回復傾向にあり、欧州・アジア地区でも総じて持ち直しの動きがみられております",
+      "opinions": [
+        {
+          "target": "米国",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 3,
+          "to": 5
+        },
+        {
+          "target": "欧州",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 21,
+          "to": 23
+        },
+        {
+          "target": "アジア地区",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 24,
+          "to": 29
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "sentence": "今後の先行きについては、景気拡大への期待感も高まる一方で、米国新政権の政策動向、中国の不動産・金融市場の動向、欧州の政治・経済における不透明感等から、為替・金利動向や企業収益への影響に留意する必要があります",
+      "opinions": [
+        {
+          "target": "先行き",
+          "category": "NULL#general",
+          "polarity": "neutral",
+          "from": 3,
+          "to": 6
+        },
+        {
+          "target": "政策動向",
+          "category": "NULL#general",
+          "polarity": "neutral",
+          "from": 35,
+          "to": 39
+        },
+        {
+          "target": "不動産・金融市場",
+          "category": "NULL#general",
+          "polarity": "neutral",
+          "from": 43,
+          "to": 51
+        },
+        {
+          "target": "政治・経済",
+          "category": "NULL#general",
+          "polarity": "neutral",
+          "from": 58,
+          "to": 63
+        }
+      ]
+    },
+    {
+      "sentence_id": 3,
+      "sentence": "当業界においては、「大手金融機関におけるグローバル展開」や「事業領域の拡大に向けたＩＴ投資」は継続しており、製造業においても大企業を中心に設備投資動向は堅調に推移しております",
+      "opinions": [
+        {
+          "target": "設備投資動向",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 69,
+          "to": 75
+        }
+      ]
+    },
+    {
+      "sentence_id": 4,
+      "sentence": "このような業界動向のなかで、ＩоＴ（モノのインターネット化）、フィンテック（金融サービスのＩＴイノベーション）、人工知能、ビッグデータ等の技術要素が注目されており、これらを取り込みつつ、企業活動の高度化、生産性の向上、信頼性の確保に資するシステムやサービスの提供が求められております",
+      "opinions": []
+    },
+    {
+      "sentence_id": 5,
+      "sentence": "当社を取り巻く事業環境は、総じて堅調に推移しているものの、既存事業の需要規模は、顧客固有の要因や経済動向による変動幅が大きく、加えて顧客の要求水準は多様化と高度化が一層進んでおります",
+      "opinions": [
+        {
+          "target": "事業環境",
+          "category": "NULL#general",
+          "polarity": "neutral",
+          "from": 7,
+          "to": 11
+        }
+      ]
+    },
+    {
+      "sentence_id": 6,
+      "sentence": "このような環境のもと、中長期的な成長発展を図るべく、顧客との取引拡大に向けたアカウントプランを徹底すると同時に、社員個々のスキルとキャリア開発を積極的に推進してまいりました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 7,
+      "sentence": "また、お客様の満足度に繋がる高い業務品質を実現する施策を展開し、人材の厚みの確保及びステークホルダーに対する信頼性の向上に注力してまいりました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 8,
+      "sentence": "これらの結果、当事業年度の業績は、基盤系が堅調に推移する一方、一部の顧客で投資案件の先送りや縮小がみられたことから、ほぼ前年並みの売上高14,507百万円(前年同期比△0.6％)、営業利益1,332百万円(前年同期比＋0.4％)となりました",
+      "opinions": [
+        {
+          "target": "基盤系",
+          "category": "business#general",
+          "polarity": "positive",
+          "from": 17,
+          "to": 20
+        },
+        {
+          "target": "投資案件",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 37,
+          "to": 41
+        },
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "negative",
+          "from": 65,
+          "to": 68
+        },
+        {
+          "target": "営業利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 90,
+          "to": 94
+        }
+      ]
+    },
+    {
+      "sentence_id": 9,
+      "sentence": "また、経常利益は1,338百万円(前年同期比＋0.1％)、当期純利益は916百万円(前年同期比＋6.5％)となりました",
+      "opinions": [
+        {
+          "target": "経常利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 3,
+          "to": 7
+        },
+        {
+          "target": "当期純利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 29,
+          "to": 34
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,686 @@
+{
+  "header": {
+    "document_id": "E02643",
+    "document_name": "伊藤忠エネクス株式会社",
+    "doc_text": "有価証券報告書",
+    "edi_id": "E02643",
+    "security_code": "81330",
+    "category33": "卸売業",
+    "category17": "商社・卸売",
+    "scale": "6"
+  },
+  "sentences": [
+    {
+      "sentence_id": 0,
+      "sentence": "当社グループの消費税等に係る会計処理は税抜方式を採用しておりますので、この項に記載の売上収益、仕入実績等の金額には消費税等は含んでおりません",
+      "opinions": []
+    },
+    {
+      "sentence_id": 1,
+      "sentence": "当連結会計年度における日本経済は、企業収益や雇用環境の改善等により緩やかな回復基調で推移しました",
+      "opinions": [
+        {
+          "target": "日本経済",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 11,
+          "to": 15
+        },
+        {
+          "target": "企業収益",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 17,
+          "to": 21
+        },
+        {
+          "target": "雇用環境",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 22,
+          "to": 26
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "sentence": "一方、中国をはじめとした新興国経済の減速や英国の欧州連合（ＥＵ）離脱問題、また米国の政権交代など、世界経済の先行きは不透明な状況が継続しました",
+      "opinions": [
+        {
+          "target": "新興国経済",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 12,
+          "to": 17
+        },
+        {
+          "target": "先行き",
+          "category": "NULL#general",
+          "polarity": "neutral",
+          "from": 54,
+          "to": 57
+        }
+      ]
+    },
+    {
+      "sentence_id": 3,
+      "sentence": "石油製品流通業界におきましては、需要減少が継続しており、また原油価格の先行きも不透明な状況が継続しております",
+      "opinions": [
+        {
+          "target": "先行き",
+          "category": "NULL#general",
+          "polarity": "neutral",
+          "from": 35,
+          "to": 38
+        }
+      ]
+    },
+    {
+      "sentence_id": 4,
+      "sentence": "電力市場におきましては、スポットの平均価格は年末まで前期を下回る傾向で推移しましたが、原油や液化天然ガス（ＬＮＧ）、石炭等原料費の上昇を受け、電力価格は上昇しました",
+      "opinions": [
+        {
+          "target": "平均価格",
+          "category": "NULL#price",
+          "polarity": "negative",
+          "from": 17,
+          "to": 21
+        },
+        {
+          "target": "原料費",
+          "category": "NULL#cost",
+          "polarity": "negative",
+          "from": 61,
+          "to": 64
+        },
+        {
+          "target": "電力価格",
+          "category": "NULL#price",
+          "polarity": "positive",
+          "from": 71,
+          "to": 75
+        }
+      ]
+    },
+    {
+      "sentence_id": 5,
+      "sentence": "このような環境のもと、当社グループは2015年４月に２ヵ年の中期経営計画『Moving2016「動く！」～明日（あした）にタネを蒔け！～』を公表し、以下３つの基本方針に基づき、事業を推進しました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 6,
+      "sentence": "＜１＞収益力の増強",
+      "opinions": []
+    },
+    {
+      "sentence_id": 7,
+      "sentence": "＜２＞長期成長戦略のためのタネ蒔き",
+      "opinions": []
+    },
+    {
+      "sentence_id": 8,
+      "sentence": "＜３＞組織力と基礎体力の増強",
+      "opinions": []
+    },
+    {
+      "sentence_id": 9,
+      "sentence": "その取組みの一環として、2016年４月に事業部門の組織改編を行い、ホームライフ部門、電力・ユーティリティ部門からなる「電力・ガス事業グループ」と、カーライフ部門、エネルギーイノベーション部門（旧エネルギートレード事業）からなる「エネルギー・流通事業グループ」の２事業グループ４部門の体制としました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 10,
+      "sentence": "恒常化する石油需要の減退とそれに伴う業界再編、さらには電力・ガス小売りの全面自由化による経営環境の変化を踏まえ、関連する事業分野を大きく集約することにより、戦略構築と事業展開の一体化・迅速化を推進しました",
+      "opinions": [
+        {
+          "target": "石油需要",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 5,
+          "to": 9
+        }
+      ]
+    },
+    {
+      "sentence_id": 11,
+      "sentence": "また、2016年４月にスタートした電力小売りの全面自由化（低圧自由化）にあたり、当社グループが展開する家庭向け電力販売のサービス名称を「ｅコトでんき！（※１）」とし、ＬＰガス販売を行うグループ会社等を通じ、小売り販売を開始しました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 12,
+      "sentence": "一方、高圧分野におきましても、新たな需要家の獲得を進め、電力販売量を大きく拡大させました",
+      "opinions": [
+        {
+          "target": "電力販売量",
+          "category": "NULL#amount",
+          "polarity": "positive",
+          "from": 28,
+          "to": 33
+        }
+      ]
+    },
+    {
+      "sentence_id": 13,
+      "sentence": "さらに、これまで国内中心であった当社グループの事業領域を広げるべく、2016年５月にフィリピンにおけるＬＰガス販売事業に出資・参画、また2016年９月にはインドネシアに工業ガスの充填基地を新設しました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 14,
+      "sentence": "石油・ガス・電気、この３つのエネルギーを中心に、その周辺の商品やサービスの開拓を進め、お客様に新たな価値のご提案を行ってまいりました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 15,
+      "sentence": "このような活動の結果、売上収益は6,950億６千万円（前期比4.0％の減少）、営業活動に係る利益は196億７千８百万円（前期比20.1％の増加）、当社株主に帰属する当期純利益は104億５百万円（前期比39.3％の増加）となりました",
+      "opinions": [
+        {
+          "target": "売上収益",
+          "category": "NULL#sales",
+          "polarity": "negative",
+          "from": 11,
+          "to": 15
+        },
+        {
+          "target": "営業活動に係る利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 39,
+          "to": 48
+        },
+        {
+          "target": "当期純利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 82,
+          "to": 87
+        }
+      ]
+    },
+    {
+      "sentence_id": 16,
+      "sentence": "（※１）株式会社エコアのみ、電力販売のサービス名称を「エコアのｅでんき」としております",
+      "opinions": []
+    },
+    {
+      "sentence_id": 17,
+      "sentence": "＜１＞電力・ガス事業グループ",
+      "opinions": []
+    },
+    {
+      "sentence_id": 18,
+      "sentence": "①　ホームライフ部門",
+      "opinions": []
+    },
+    {
+      "sentence_id": 19,
+      "sentence": "当連結会計年度におけるホームライフ部門は、ＬＰガス販売事業において、2016年11月末のＯＰＥＣ（石油輸出国機構）による減産合意後に原油価格が上昇し、その影響を受けＬＰガス輸入価格は前年より高値で推移しました",
+      "opinions": [
+        {
+          "target": "原油価格",
+          "category": "NULL#price",
+          "polarity": "positive",
+          "from": 66,
+          "to": 70
+        },
+        {
+          "target": "ＬＰガス輸入価格",
+          "category": "NULL#price",
+          "polarity": "positive",
+          "from": 82,
+          "to": 90
+        }
+      ]
+    },
+    {
+      "sentence_id": 20,
+      "sentence": "また、家庭用ＬＰガス損益は、第４四半期累計で顧客軒数が約7,000軒増加したことが貢献し、前期を上回った一方で、産業用太陽光発電システム等の需要減等により機器販売は前期を下回りました",
+      "opinions": [
+        {
+          "target": "顧客軒数",
+          "category": "NULL#amount",
+          "polarity": "positive",
+          "from": 22,
+          "to": 26
+        },
+        {
+          "target": "産業用太陽光発電システム",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 56,
+          "to": 68
+        },
+        {
+          "target": "機器販売",
+          "category": "business#sales",
+          "polarity": "negative",
+          "from": 77,
+          "to": 81
+        }
+      ]
+    },
+    {
+      "sentence_id": 21,
+      "sentence": "2016年４月より、電力小売りの全面自由化への対応として開始した家庭向け電力販売は、ＬＰガスとのセット販売を推進した結果、第４四半期累計で約32,000軒を獲得しました",
+      "opinions": [
+        {
+          "target": "電力販売",
+          "category": "business#amount",
+          "polarity": "positive",
+          "from": 36,
+          "to": 40
+        }
+      ]
+    },
+    {
+      "sentence_id": 22,
+      "sentence": "海外事業では、2016年５月よりフィリピンでＬＰガス販売事業（Isla Petroleum & Gas Corporation）に出資・参画、2017年１月より現地での実務経験者を増員し、日系企業向けの販売を強化しました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 23,
+      "sentence": "日本で蓄積したＬＰガス販売のノウハウを活かし、フィリピンにおいてもＬＰガス販売事業を拡充してまいります",
+      "opinions": []
+    },
+    {
+      "sentence_id": 24,
+      "sentence": "2016年９月にはインドネシアのカラワン工業団地に工業ガスの製造販売会社PT.ITC ENEX INDONESIAの本社及び充填施設を竣工しました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 25,
+      "sentence": "販売体制を整え、取扱商材を増やすことで、販売拡大を目指してまいります",
+      "opinions": []
+    },
+    {
+      "sentence_id": 26,
+      "sentence": "ガス周辺ビジネスでは、2016年５月に容器耐圧検査会社の株式会社Ｊシリンダーサービスにおいて新工場が稼働を開始し、容器検査の体制を整備しました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 27,
+      "sentence": "顧客の新規獲得及び生産性の向上を目指してまいります",
+      "opinions": []
+    },
+    {
+      "sentence_id": 28,
+      "sentence": "このような活動の結果、売上収益は864億８千４百万円（前期比5.0％の減少）、営業活動に係る利益は48億３千１百万円（前期比43.4％の増加）、当社株主に帰属する当期純利益は28億２千３百万円（前期比258.4％の増加）となりました",
+      "opinions": [
+        {
+          "target": "売上収益",
+          "category": "NULL#sales",
+          "polarity": "negative",
+          "from": 11,
+          "to": 15
+        },
+        {
+          "target": "営業活動に係る利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 39,
+          "to": 48
+        },
+        {
+          "target": "当期純利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 81,
+          "to": 86
+        }
+      ]
+    },
+    {
+      "sentence_id": 29,
+      "sentence": "②　電力・ユーティリティ部門",
+      "opinions": []
+    },
+    {
+      "sentence_id": 30,
+      "sentence": "当連結会計年度における電力・ユーティリティ部門は、2016年４月より始まった電力小売全面自由化に伴い、家庭向けの電力需要の増加並びに法人向けの電力販売を推進した結果、当社及び王子・伊藤忠エネクス電力販売株式会社を中心とする電力販売分野の電力販売量は、前期を大きく上回りました",
+      "opinions": [
+        {
+          "target": "電力需要",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 56,
+          "to": 60
+        },
+        {
+          "target": "電力販売分野",
+          "category": "business#amount",
+          "polarity": "positive",
+          "from": 111,
+          "to": 117
+        }
+      ]
+    },
+    {
+      "sentence_id": 31,
+      "sentence": "発電分野においては、風力発電量が風況の良化により前期を上回りました",
+      "opinions": [
+        {
+          "target": "発電分野",
+          "category": "business#amount",
+          "polarity": "positive",
+          "from": 0,
+          "to": 4
+        },
+        {
+          "target": "風力発電量",
+          "category": "NULL#amount",
+          "polarity": "positive",
+          "from": 10,
+          "to": 15
+        }
+      ]
+    },
+    {
+      "sentence_id": 32,
+      "sentence": "一方、火力発電では電力スポット価格の動向を踏まえ発電量調整を行った結果、総発電量は前期を下回りました",
+      "opinions": [
+        {
+          "target": "火力発電",
+          "category": "business#amount",
+          "polarity": "negative",
+          "from": 3,
+          "to": 7
+        }
+      ]
+    },
+    {
+      "sentence_id": 33,
+      "sentence": "損益面におきましては、石炭価格高騰による利幅減少があったものの、風況の良化に加え、エネクス電力株式会社にて保有する一部の風力発電設備を、事業資産の入替えを目的として売却した結果、売却益計上により、前期を大きく上回りました",
+      "opinions": [
+        {
+          "target": "損益面",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 0,
+          "to": 3
+        },
+        {
+          "target": "風況",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 32,
+          "to": 34
+        }
+      ]
+    },
+    {
+      "sentence_id": 34,
+      "sentence": "熱供給事業(※２)におきましては、前期比にて夏季平均気温が上回り、秋冬にかけての平均気温が下回ったこと等を受け、熱需要は前期を上回りました",
+      "opinions": [
+        {
+          "target": "熱需要",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 56,
+          "to": 59
+        }
+      ]
+    },
+    {
+      "sentence_id": 35,
+      "sentence": "損益面では、電気料金の低減等により前期を上回りました",
+      "opinions": [
+        {
+          "target": "損益面",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 0,
+          "to": 3
+        },
+        {
+          "target": "電気料金",
+          "category": "NULL#price",
+          "polarity": "negative",
+          "from": 6,
+          "to": 10
+        }
+      ]
+    },
+    {
+      "sentence_id": 36,
+      "sentence": "電力販売分野におきましては、既存の自由化領域（高圧：法人向け）ではエリアに強い顧客基盤を持つ企業との提携により販売を強化、また自由化された領域（低圧：家庭用等）では、当社他部門との連携を推進しております",
+      "opinions": []
+    },
+    {
+      "sentence_id": 37,
+      "sentence": "さらに異業種への販路拡大を目的に、生活関連支援事業会社である株式会社エネクスライフサービスを設立しました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 38,
+      "sentence": "2017年１月より当社グループ会社である日産大阪販売株式会社と提携し「車と電気のコラボレーション事業(※３)」を実施する等、今後も電気を通じた新たな価値提案を行ってまいります",
+      "opinions": []
+    },
+    {
+      "sentence_id": 39,
+      "sentence": "このような活動の結果、売上収益は628億２千７百万円（前期比48.0％の増加）、営業活動に係る利益は66億４千万円（前期比49.6％の増加）、当社株主に帰属する当期純利益は34億７百万円（前期比52.1％の増加）となりました",
+      "opinions": [
+        {
+          "target": "売上収益",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 11,
+          "to": 15
+        },
+        {
+          "target": "営業活動に係る利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 40,
+          "to": 49
+        },
+        {
+          "target": "当期純利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 80,
+          "to": 85
+        }
+      ]
+    },
+    {
+      "sentence_id": 40,
+      "sentence": "（※２）熱供給事業とは、熱源プラントから複数の建物、オフィスビル等に、冷房・暖房等に使用する冷水・温水を導管で供給する事業です",
+      "opinions": []
+    },
+    {
+      "sentence_id": 41,
+      "sentence": "（※３）車と電気のコラボレーション事業とは、日産大阪販売株式会社が車を販売したお客様向けに、特別な電力プランをご提供し、お客様と日産大阪販売株式会社との関係をより強固にする事業です",
+      "opinions": []
+    },
+    {
+      "sentence_id": 42,
+      "sentence": "＜２＞エネルギー・流通事業グループ",
+      "opinions": []
+    },
+    {
+      "sentence_id": 43,
+      "sentence": "①　カーライフ部門",
+      "opinions": []
+    },
+    {
+      "sentence_id": 44,
+      "sentence": "当連結会計年度におけるカーライフ部門は、継続する国内燃料油需要の減少を受け、販売数量は前期を下回りました",
+      "opinions": [
+        {
+          "target": "カーライフ部門",
+          "category": "business#amount",
+          "polarity": "negative",
+          "from": 11,
+          "to": 18
+        },
+        {
+          "target": "国内燃料油需要",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 24,
+          "to": 31
+        }
+      ]
+    },
+    {
+      "sentence_id": 45,
+      "sentence": "一方、損益面におきましては、日産大阪販売株式会社の寄与により、営業活動に係る利益において前期を若干下回る程度に留まりました",
+      "opinions": [
+        {
+          "target": "営業活動に係る利益",
+          "category": "NULL#profit",
+          "polarity": "neutral",
+          "from": 31,
+          "to": 40
+        }
+      ]
+    },
+    {
+      "sentence_id": 46,
+      "sentence": "リテール戦略におきましては、2016年度上期より継続して系列ＣＳ（※４）における新型ＰＯＳの導入を促進し、異業種を跨いだ「楽天ポイントカード」加盟店同士の相互送客を実現しております",
+      "opinions": []
+    },
+    {
+      "sentence_id": 47,
+      "sentence": "さらにＷｅｂサービスの進行に合わせ楽天株式会社の展開する「楽天車検」加盟店を積極的に増やし、共同キャンペーンを実施することでＥＣサイトからの車検顧客送客も実施しております",
+      "opinions": []
+    },
+    {
+      "sentence_id": 48,
+      "sentence": "車関連事業におきましては、新サービスブランド「カーライフスタジアム（カースタ）」を立ち上げ、2017年４月より「カースタ」ブランドの最初の事業としてエネクスオート株式会社においてカースタレンタカーの展開を開始しました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 49,
+      "sentence": "車両・接客品質を向上させ、レンタカーネットワークとしての機能の拡充を図るとともに、Ｗｅｂを活用したプロモーションを行ってまいります",
+      "opinions": []
+    },
+    {
+      "sentence_id": 50,
+      "sentence": "日産大阪販売株式会社におきましては、三菱自動車工業株式会社の不正問題の影響により、販売台数は前期を下回りましたが、損益面におきましては、新型自動車（ノート、セレナ等）のリリースにより、前期を大きく上回る結果となりました",
+      "opinions": [
+        {
+          "target": "日産大阪販売株式会社",
+          "category": "company#amount",
+          "polarity": "negative",
+          "from": 0,
+          "to": 10
+        },
+        {
+          "target": "日産大阪販売株式会社",
+          "category": "company#profit",
+          "polarity": "positive",
+          "from": 0,
+          "to": 10
+        }
+      ]
+    },
+    {
+      "sentence_id": 51,
+      "sentence": "なお、当連結会計年度における当社グループＣＳ数につきましては、不採算ＣＳや施設老朽化ＣＳの運営撤退等により、総数は1,888ヵ所（前期末より85ヵ所純減)となりました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 52,
+      "sentence": "このような活動の結果、売上収益は4,696億３千４百万円（前期比4.8％の減少）、営業活動に係る利益は41億６千９百万円（前期比0.6％の減少）、当社株主に帰属する当期純利益は15億７千６百万円（前期比21.7％の減少）となりました",
+      "opinions": [
+        {
+          "target": "売上収益",
+          "category": "NULL#sales",
+          "polarity": "negative",
+          "from": 11,
+          "to": 15
+        },
+        {
+          "target": "営業活動に係る利益",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 41,
+          "to": 50
+        },
+        {
+          "target": "当期純利益",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 82,
+          "to": 87
+        }
+      ]
+    },
+    {
+      "sentence_id": 53,
+      "sentence": "（※４）ＣＳとは、カーライフ・ステーションの略であり、当社が提案する複合サービス給油所です",
+      "opinions": []
+    },
+    {
+      "sentence_id": 54,
+      "sentence": "②　エネルギーイノベーション部門",
+      "opinions": []
+    },
+    {
+      "sentence_id": 55,
+      "sentence": "当連結会計年度におけるエネルギーイノベーション部門は、エネルギー利用の効率化などによる構造的な国内石油製品需要の減少に加え、ＯＰＥＣを中心とした産油国の需給調整の変化に伴って原油価格が変動し、国内石油製品市況にも影響した環境下ではありましたが、既存取引の拡大及び新規取引の獲得や事業ポートフォリオの拡充により、前期の損益を上回る結果となりました",
+      "opinions": [
+        {
+          "target": "エネルギーイノベーション部門",
+          "category": "business#profit",
+          "polarity": "positive",
+          "from": 11,
+          "to": 25
+        },
+        {
+          "target": "国内石油製品需要",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 47,
+          "to": 55
+        }
+      ]
+    },
+    {
+      "sentence_id": 56,
+      "sentence": "当部門では重点施策として、「適切かつ機能的な資産の充実と運用管理」と「新規事業化案件の積極的な推進」を行い、産業用燃料販売事業では、2016年２月に設立した小倉興産ロジサービス株式会社において、小口需要家への販売展開で物流機能の強化を進めております",
+      "opinions": []
+    },
+    {
+      "sentence_id": 57,
+      "sentence": "また、各営業部におきましては既存事業に加え、法人向け電力販売などの多様な商材の提案を包括的に行うことで、収益力の向上に努めております",
+      "opinions": []
+    },
+    {
+      "sentence_id": 58,
+      "sentence": "さらに事業化案件の取組みとして、船舶から回収される廃油を再利用する事業や、火力発電所から排出される石炭灰を建材の原料などに利用する事業も、それぞれ新事業化に向けて着実に進行しております",
+      "opinions": []
+    },
+    {
+      "sentence_id": 59,
+      "sentence": "引き続き、外部環境の変化に柔軟に対応しながらお客様のニーズに合わせた提案を行い、グループ会社と一体となった事業展開を進めてまいります",
+      "opinions": []
+    },
+    {
+      "sentence_id": 60,
+      "sentence": "このような活動の結果、売上収益は761億１千５百万円（前期比21.5％の減少）、営業活動に係る利益は39億２千４百万円（前期比4.0％の増加）、当社株主に帰属する当期純利益は26億４千４百万円（前期比5.2％の増加）となりました",
+      "opinions": [
+        {
+          "target": "売上収益",
+          "category": "NULL#sales",
+          "polarity": "negative",
+          "from": 11,
+          "to": 15
+        },
+        {
+          "target": "営業活動に係る利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 40,
+          "to": 49
+        },
+        {
+          "target": "当期純利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 81,
+          "to": 86
+        }
+      ]
+    }
+  ]
+}

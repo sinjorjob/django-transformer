@@ -1,0 +1,182 @@
+{
+  "header": {
+    "document_id": "E02150",
+    "document_name": "日産車体株式会社",
+    "doc_text": "有価証券報告書",
+    "edi_id": "E02150",
+    "security_code": "72220",
+    "category33": "輸送用機器",
+    "category17": "自動車・輸送機",
+    "scale": "4"
+  },
+  "sentences": [
+    {
+      "sentence_id": 0,
+      "sentence": "当連結会計年度のわが国経済は、経済政策及び金融緩和等の効果が継続したことにより、緩やかな回復傾向で推移したものの、為替相場や株価の変動、中国を始めとするアジア新興国の景気下振れが懸念されるなど、先行き不透明な状況が続いた",
+      "opinions": [
+        {
+          "target": "わが国経済",
+          "category": "NULL#general",
+          "polarity": "neutral",
+          "from": 8,
+          "to": 13
+        }
+      ]
+    },
+    {
+      "sentence_id": 1,
+      "sentence": "このような経済情勢の下、当社が日産自動車株式会社から受注している乗用車は、北米向け「クエスト」、輸出向け「パトロール（Ｙ６１）」等の減少があるものの、昨年6月に生産を開始した北米向け「アルマーダ」の増加などにより、前連結会計年度に比べ売上台数は17.2％増の120,272台、売上高は23.3％増の3,655億円となった",
+      "opinions": [
+        {
+          "target": "クエスト",
+          "category": "product#amount",
+          "polarity": "negative",
+          "from": 42,
+          "to": 46
+        },
+        {
+          "target": "パトロール（Ｙ６１）",
+          "category": "product#amount",
+          "polarity": "negative",
+          "from": 53,
+          "to": 63
+        },
+        {
+          "target": "アルマーダ",
+          "category": "product#amount",
+          "polarity": "positive",
+          "from": 92,
+          "to": 97
+        },
+        {
+          "target": "売上台数",
+          "category": "NULL#amount",
+          "polarity": "positive",
+          "from": 117,
+          "to": 121
+        },
+        {
+          "target": "売上高",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 138,
+          "to": 141
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "sentence": "商用車は、輸出向け「パトロールピックアップ」の減少などにより、前連結会計年度に比べ売上台数は横ばいの86,729台、売上高は3.2％減の1,259億円となった",
+      "opinions": [
+        {
+          "target": "商用車",
+          "category": "product#amount",
+          "polarity": "neutral",
+          "from": 0,
+          "to": 3
+        },
+        {
+          "target": "商用車",
+          "category": "product#sales",
+          "polarity": "negative",
+          "from": 0,
+          "to": 3
+        },
+        {
+          "target": "パトロールピックアップ",
+          "category": "product#amount",
+          "polarity": "negative",
+          "from": 10,
+          "to": 21
+        }
+      ]
+    },
+    {
+      "sentence_id": 3,
+      "sentence": "小型バスは、「シビリアン」の減少などにより、前連結会計年度に比べ売上台数は6.3％減の23,330台、売上高は11.2％減の447億円となった",
+      "opinions": [
+        {
+          "target": "小型バス",
+          "category": "product#amount",
+          "polarity": "negative",
+          "from": 0,
+          "to": 4
+        },
+        {
+          "target": "小型バス",
+          "category": "product#sales",
+          "polarity": "negative",
+          "from": 0,
+          "to": 4
+        },
+        {
+          "target": "シビリアン",
+          "category": "product#amount",
+          "polarity": "negative",
+          "from": 7,
+          "to": 12
+        }
+      ]
+    },
+    {
+      "sentence_id": 4,
+      "sentence": "以上の結果、前連結会計年度に比べ自動車の総売上台数は7.8％増の230,331台となり、自動車部分品などの売上高を加えた総売上高は11.1％増の5,658億円となった",
+      "opinions": [
+        {
+          "target": "売上台数",
+          "category": "NULL#amount",
+          "polarity": "positive",
+          "from": 21,
+          "to": 25
+        },
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 61,
+          "to": 64
+        }
+      ]
+    },
+    {
+      "sentence_id": 5,
+      "sentence": "損益面では、売上台数の増加等により、前連結会計年度に比べ営業利益は6.2％増の121億円、経常利益は6.2％増の127億円となった",
+      "opinions": [
+        {
+          "target": "売上台数",
+          "category": "NULL#amount",
+          "polarity": "positive",
+          "from": 6,
+          "to": 10
+        },
+        {
+          "target": "営業利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 28,
+          "to": 32
+        },
+        {
+          "target": "経常利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 45,
+          "to": 49
+        }
+      ]
+    },
+    {
+      "sentence_id": 6,
+      "sentence": "また、親会社株主に帰属する当期純利益は、退職特別加算金10億円の特別損失計上や平成28年度税制改正の影響などにより、前連結会計年度に比べ3.6％増の82億円となった",
+      "opinions": [
+        {
+          "target": "当期純利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 13,
+          "to": 18
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,215 @@
+{
+  "header": {
+    "document_id": "E33009",
+    "document_name": "フルテック株式会社",
+    "doc_text": "有価証券報告書",
+    "edi_id": "E33009",
+    "security_code": "65460",
+    "category33": "サービス業",
+    "category17": "情報通信・サービスその他",
+    "scale": ""
+  },
+  "sentences": [
+    {
+      "sentence_id": 0,
+      "sentence": "当連結会計年度の業績は、売上高は10,420百万円（前年同期比0.2％減）、営業利益は587百万円（前年同期比27.2％減）、経常利益は658百万円（前年同期比19.1％減）、親会社株主に帰属する当期純利益は334百万円（前年同期比21.3％減）となりました",
+      "opinions": [
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "negative",
+          "from": 12,
+          "to": 15
+        },
+        {
+          "target": "営業利益",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 38,
+          "to": 42
+        },
+        {
+          "target": "経常利益",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 63,
+          "to": 67
+        },
+        {
+          "target": "当期純利益",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 98,
+          "to": 103
+        }
+      ]
+    },
+    {
+      "sentence_id": 1,
+      "sentence": "セグメントの業績を示すと、次のとおりであります",
+      "opinions": []
+    },
+    {
+      "sentence_id": 2,
+      "sentence": "①自動ドア関連",
+      "opinions": []
+    },
+    {
+      "sentence_id": 3,
+      "sentence": "新規の自動ドアの売上台数は僅かに減少したものの、シートシャッターの大型物件に加え、取替の売上台数が増加しました",
+      "opinions": [
+        {
+          "target": "自動ドア",
+          "category": "product#amount",
+          "polarity": "negative",
+          "from": 3,
+          "to": 7
+        },
+        {
+          "target": "大型物件",
+          "category": "product#amount",
+          "polarity": "positive",
+          "from": 33,
+          "to": 37
+        },
+        {
+          "target": "取替",
+          "category": "product#amount",
+          "polarity": "positive",
+          "from": 41,
+          "to": 43
+        }
+      ]
+    },
+    {
+      "sentence_id": 4,
+      "sentence": "加えて、保守契約が堅調に増加し、売上高は6,952百万円（前年同期比1.2％増）となりました",
+      "opinions": [
+        {
+          "target": "保守契約",
+          "category": "product#general",
+          "polarity": "positive",
+          "from": 4,
+          "to": 8
+        },
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 16,
+          "to": 19
+        }
+      ]
+    },
+    {
+      "sentence_id": 5,
+      "sentence": "利益につきましては、取替工事の増加及び保守契約による安定的な利益の確保により、セグメント利益（営業利益）は1,687百万円（前年同期比2.4％増）となりました",
+      "opinions": [
+        {
+          "target": "取替工事",
+          "category": "product#amount",
+          "polarity": "positive",
+          "from": 10,
+          "to": 14
+        },
+        {
+          "target": "セグメント利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 39,
+          "to": 46
+        }
+      ]
+    },
+    {
+      "sentence_id": 6,
+      "sentence": "②建具関連",
+      "opinions": []
+    },
+    {
+      "sentence_id": 7,
+      "sentence": "前年の東北及び首都圏における大型施設と同規模の売上物件がなく、売上高は2,745百万円（前年同期比4.0％減）となりました",
+      "opinions": [
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "negative",
+          "from": 31,
+          "to": 34
+        }
+      ]
+    },
+    {
+      "sentence_id": 8,
+      "sentence": "利益につきましては、前年計上された高採算の特殊大型物件の反動や、工期の長い物件に係る労務費・経費の負担が増加し、セグメント損失（営業損失）は98百万円（前連結会計年度は214百万円のセグメント利益（営業利益））となりました",
+      "opinions": [
+        {
+          "target": "労務費",
+          "category": "NULL#cost",
+          "polarity": "negative",
+          "from": 42,
+          "to": 45
+        },
+        {
+          "target": "経費",
+          "category": "NULL#cost",
+          "polarity": "negative",
+          "from": 46,
+          "to": 48
+        },
+        {
+          "target": "セグメント損失",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 56,
+          "to": 63
+        }
+      ]
+    },
+    {
+      "sentence_id": 9,
+      "sentence": "③その他",
+      "opinions": []
+    },
+    {
+      "sentence_id": 10,
+      "sentence": "その他のセグメントでは駐輪システムが堅調に推移し、売上高は721百万円（前年同期比0.8％増）となりました",
+      "opinions": [
+        {
+          "target": "その他",
+          "category": "business#sales",
+          "polarity": "positive",
+          "from": 0,
+          "to": 3
+        },
+        {
+          "target": "駐輪システム",
+          "category": "product#general",
+          "polarity": "positive",
+          "from": 11,
+          "to": 17
+        }
+      ]
+    },
+    {
+      "sentence_id": 11,
+      "sentence": "セグメント利益（営業利益）につきましては、経費の微増により59百万円（前年同期比15.5％減）となりました",
+      "opinions": [
+        {
+          "target": "セグメント利益",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 0,
+          "to": 7
+        },
+        {
+          "target": "経費",
+          "category": "NULL#cost",
+          "polarity": "negative",
+          "from": 21,
+          "to": 23
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,303 @@
+{
+  "header": {
+    "document_id": "E05011",
+    "document_name": "株式会社クリップコーポレーション",
+    "doc_text": "有価証券報告書",
+    "edi_id": "E05011",
+    "security_code": "47050",
+    "category33": "サービス業",
+    "category17": "情報通信・サービスその他",
+    "scale": ""
+  },
+  "sentences": [
+    {
+      "sentence_id": 0,
+      "sentence": "当連結会計年度における我が国経済は、海外の景気回復と年後半の円安により、外需主導による緩やかな景気回復となりました",
+      "opinions": [
+        {
+          "target": "我が国経済",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 11,
+          "to": 16
+        },
+        {
+          "target": "海外",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 18,
+          "to": 20
+        }
+      ]
+    },
+    {
+      "sentence_id": 1,
+      "sentence": "企業活動は活発となり雇用環境は改善しておりますが、設備投資及び個人消費に関しましては一進一退の状況が続いております",
+      "opinions": [
+        {
+          "target": "企業活動",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 0,
+          "to": 4
+        },
+        {
+          "target": "雇用環境",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 10,
+          "to": 14
+        },
+        {
+          "target": "設備投資",
+          "category": "NULL#general",
+          "polarity": "neutral",
+          "from": 25,
+          "to": 29
+        },
+        {
+          "target": "個人消費",
+          "category": "NULL#general",
+          "polarity": "neutral",
+          "from": 31,
+          "to": 35
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "sentence": "学習塾業界におきましては、少子化の影響で市場の停滞が続くなか、顧客の学習塾選別の目がさらに厳しくなっており、資本・業務提携等の動きが続いております",
+      "opinions": [
+        {
+          "target": "市場",
+          "category": "market#general",
+          "polarity": "negative",
+          "from": 20,
+          "to": 22
+        }
+      ]
+    },
+    {
+      "sentence_id": 3,
+      "sentence": "大学入試制度改革や教材の電子化等が進んでおり、新たな入試ノウハウや教材化等の対応を迫られております",
+      "opinions": []
+    },
+    {
+      "sentence_id": 4,
+      "sentence": "こうしたなか、当社グループにおきましては、「体験と学習」の実践の場として農業体験等を積極的に進めることと並行して既存教室の生産効率の見直しを徹底してまいりました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 5,
+      "sentence": "さらに当連結会計年度は、中古ゴルフクラブの販売等新規事業を展開するとともに、インターネットを活用した会員数増加のための仕組みづくりに取り組んでおります",
+      "opinions": []
+    },
+    {
+      "sentence_id": 6,
+      "sentence": "この結果、売上高34億53百万円（前期比4.3％減）となりました",
+      "opinions": [
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "negative",
+          "from": 5,
+          "to": 8
+        }
+      ]
+    },
+    {
+      "sentence_id": 7,
+      "sentence": "利益面につきましては、営業利益１億80百万円（前期比48.1％減）、経常利益１億84百万円（前期比47.7％減）、親会社株主に帰属する当期純利益62百万円（前期比68.3％減）となりました",
+      "opinions": [
+        {
+          "target": "営業利益",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 11,
+          "to": 15
+        },
+        {
+          "target": "経常利益",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 34,
+          "to": 38
+        },
+        {
+          "target": "当期純利益",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 67,
+          "to": 72
+        }
+      ]
+    },
+    {
+      "sentence_id": 8,
+      "sentence": "セグメントの業績を示すと、次のとおりであります",
+      "opinions": []
+    },
+    {
+      "sentence_id": 9,
+      "sentence": "①教育事業",
+      "opinions": []
+    },
+    {
+      "sentence_id": 10,
+      "sentence": "学習塾につきましては、採算性重視の観点から教室の統廃合を実施するとともに、教材の電子化を進め、「体験と学習」の実践として農業体験等を実施してまいりましたが、子会社である株式会社螢雪ゼミナールを含む当期の平均生徒数は6,261名（前期比0.6％減）となりました",
+      "opinions": [
+        {
+          "target": "株式会社螢雪ゼミナール",
+          "category": "company#amount",
+          "polarity": "negative",
+          "from": 84,
+          "to": 95
+        }
+      ]
+    },
+    {
+      "sentence_id": 11,
+      "sentence": "この結果、売上高は23億11百万円(前期比0.4％減)となり、セグメント利益は、２億27百万円(前期比13.7％減)となりました",
+      "opinions": [
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "negative",
+          "from": 5,
+          "to": 8
+        },
+        {
+          "target": "セグメント利益",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 31,
+          "to": 38
+        }
+      ]
+    },
+    {
+      "sentence_id": 12,
+      "sentence": "②スポーツ事業",
+      "opinions": []
+    },
+    {
+      "sentence_id": 13,
+      "sentence": "サッカースクールにつきましては、従来より実施しておりますスクールの統廃合を進めるとともに、当期は新規スクールの開設を推し進めてまいりましたが、子会社である株式会社日本体験センターを含む当期の平均生徒数は9,732名（前期比22.8％減）となり、売上高７億25百万円(前期比23.1％減)、セグメント利益は、90百万円（前期比53.3％減）となりました",
+      "opinions": [
+        {
+          "target": "株式会社日本体験センター",
+          "category": "company#amount",
+          "polarity": "negative",
+          "from": 77,
+          "to": 89
+        },
+        {
+          "target": "株式会社日本体験センター",
+          "category": "company#sales",
+          "polarity": "negative",
+          "from": 77,
+          "to": 89
+        },
+        {
+          "target": "株式会社日本体験センター",
+          "category": "company#profit",
+          "polarity": "negative",
+          "from": 77,
+          "to": 89
+        }
+      ]
+    },
+    {
+      "sentence_id": 14,
+      "sentence": "③飲食事業",
+      "opinions": []
+    },
+    {
+      "sentence_id": 15,
+      "sentence": "添加物・保存料を使用しない弁当の宅配事業を展開しており、当期の売上高２億41百万円(前期比1.9％増)、セグメント損失は50百万円（前期セグメント損失47百万円）となりました",
+      "opinions": [
+        {
+          "target": "宅配事業",
+          "category": "business#sales",
+          "polarity": "positive",
+          "from": 16,
+          "to": 20
+        },
+        {
+          "target": "宅配事業",
+          "category": "business#profit",
+          "polarity": "negative",
+          "from": 16,
+          "to": 20
+        }
+      ]
+    },
+    {
+      "sentence_id": 16,
+      "sentence": "④その他",
+      "opinions": []
+    },
+    {
+      "sentence_id": 17,
+      "sentence": "バスケット教室事業・農業事業・中古ゴルフクラブ販売事業及び焼肉店事業等を行っており、当期の売上高１億78百万円（前期比40.3％増）、セグメント損失は88百万円（前期セグメント損失63百万円）となりました",
+      "opinions": [
+        {
+          "target": "バスケット教室事業",
+          "category": "business#sales",
+          "polarity": "positive",
+          "from": 0,
+          "to": 9
+        },
+        {
+          "target": "バスケット教室事業",
+          "category": "business#profit",
+          "polarity": "negative",
+          "from": 0,
+          "to": 9
+        },
+        {
+          "target": "農業事業",
+          "category": "business#sales",
+          "polarity": "positive",
+          "from": 10,
+          "to": 14
+        },
+        {
+          "target": "農業事業",
+          "category": "business#profit",
+          "polarity": "negative",
+          "from": 10,
+          "to": 14
+        },
+        {
+          "target": "中古ゴルフクラブ販売事業",
+          "category": "business#sales",
+          "polarity": "positive",
+          "from": 15,
+          "to": 27
+        },
+        {
+          "target": "中古ゴルフクラブ販売事業",
+          "category": "business#profit",
+          "polarity": "negative",
+          "from": 15,
+          "to": 27
+        },
+        {
+          "target": "焼肉店事業",
+          "category": "business#sales",
+          "polarity": "positive",
+          "from": 29,
+          "to": 34
+        },
+        {
+          "target": "焼肉店事業",
+          "category": "business#profit",
+          "polarity": "negative",
+          "from": 29,
+          "to": 34
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,610 @@
+{
+  "header": {
+    "document_id": "E00033",
+    "document_name": "常磐興産株式会社",
+    "doc_text": "有価証券報告書",
+    "edi_id": "E00033",
+    "security_code": "96750",
+    "category33": "サービス業",
+    "category17": "情報通信・サービスその他",
+    "scale": "7"
+  },
+  "sentences": [
+    {
+      "sentence_id": 0,
+      "sentence": "当連結会計年度における我が国経済は、雇用・所得環境の改善が続き、企業収益も底堅さを示すとともに設備投資や個人消費も持ち直すなど緩やかな回復基調にありますものの、英国のＥＵ離脱、米国新大統領の政策の不確実性による影響が懸念される等、先行き不透明な状況で推移いたしました",
+      "opinions": [
+        {
+          "target": "我が国経済",
+          "category": "NULL#general",
+          "polarity": "neutral",
+          "from": 11,
+          "to": 16
+        },
+        {
+          "target": "雇用",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 18,
+          "to": 20
+        },
+        {
+          "target": "所得環境",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 21,
+          "to": 25
+        },
+        {
+          "target": "企業収益",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 32,
+          "to": 36
+        },
+        {
+          "target": "設備投資",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 47,
+          "to": 51
+        },
+        {
+          "target": "個人消費",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 52,
+          "to": 56
+        },
+        {
+          "target": "政策",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 95,
+          "to": 97
+        }
+      ]
+    },
+    {
+      "sentence_id": 1,
+      "sentence": "このような状況において、スパリゾートハワイアンズにつきましては、日帰り・宿泊ともに利用者数は減少",
+      "opinions": [
+        {
+          "target": "スパリゾートハワイアンズ",
+          "category": "business#amount",
+          "polarity": "negative",
+          "from": 12,
+          "to": 24
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "sentence": "いたしました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 3,
+      "sentence": "燃料商事事業につきましては、石炭部門が堅調に推移し増収となりましたものの、製造関連事業及び運輸業に",
+      "opinions": [
+        {
+          "target": "石炭部門",
+          "category": "business#sales",
+          "polarity": "positive",
+          "from": 14,
+          "to": 18
+        }
+      ]
+    },
+    {
+      "sentence_id": 4,
+      "sentence": "つきましては、それぞれ減収となりました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 5,
+      "sentence": "この結果、当連結会計年度の売上高は、石炭部門における販売数量の増加により361億77百万円（前期比４億９百万円、1.1％増）となりましたものの、スパリゾートハワイアンズの日帰り及び宿泊の利用者数減少や利用単価の",
+      "opinions": [
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 13,
+          "to": 16
+        },
+        {
+          "target": "石炭部門",
+          "category": "business#amount",
+          "polarity": "positive",
+          "from": 18,
+          "to": 22
+        },
+        {
+          "target": "スパリゾートハワイアンズ",
+          "category": "business#amount",
+          "polarity": "negative",
+          "from": 72,
+          "to": 84
+        }
+      ]
+    },
+    {
+      "sentence_id": 6,
+      "sentence": "下落等により営業利益は11億１百万円（前期比７億20百万円、39.5％減）、経常利益は７億89百万円（前期比７億30百万円、48.1％減）、親会社株主に帰属する当期純利益は、固定資産（投資不動産）にかかる減損損失10億39百万円を計上したものの、繰延税金資産の計上及び減損損失等に伴う繰延税金負債取崩しによる法人税等調整額（△は",
+      "opinions": [
+        {
+          "target": "営業利益",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 6,
+          "to": 10
+        },
+        {
+          "target": "経常利益",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 38,
+          "to": 42
+        },
+        {
+          "target": "減損損失",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 102,
+          "to": 106
+        }
+      ]
+    },
+    {
+      "sentence_id": 7,
+      "sentence": "利益）△８億90百万円の計上等により５億48百万円（前期比８億円、59.3％減）となりました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 8,
+      "sentence": "セグメント別の業績は、次のとおりであります",
+      "opinions": []
+    },
+    {
+      "sentence_id": 9,
+      "sentence": "なお、当連結会計年度より、セグメント「卸売業」の名称を「燃料商事事業」に変更しております",
+      "opinions": []
+    },
+    {
+      "sentence_id": 10,
+      "sentence": "[観光事業]",
+      "opinions": []
+    },
+    {
+      "sentence_id": 11,
+      "sentence": "スパリゾートハワイアンズにつきましては、春休みに「チームラボアイランド－学ぶ未来の遊園地－in",
+      "opinions": []
+    },
+    {
+      "sentence_id": 12,
+      "sentence": "ハワイアンズ」、ゴールデンウィークにリアル恐竜ライブショー「ディノアライブ in ハワイアンズ」、夏休みに「ファインディングドリー公開記念プールランド in ハワイアンズ」・「恐竜アドベンチャーワールド in",
+      "opinions": []
+    },
+    {
+      "sentence_id": 13,
+      "sentence": "ハワイアンズ」、11月に「洋ラン展 in スパリゾートハワイアンズ」、冬休みに「妖怪ウォッチライブ in",
+      "opinions": []
+    },
+    {
+      "sentence_id": 14,
+      "sentence": "ハワイアンズ」、年末には６年ぶりとなるカウントダウンイベント「よしもと presents 『常夏カウントダウン 16→17 ～ハワイアンズでええやんズ～』」等多彩なイベントを実施いたしました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 15,
+      "sentence": "また、７月には国内",
+      "opinions": []
+    },
+    {
+      "sentence_id": 16,
+      "sentence": "唯一のファイヤーナイフダンスチーム『Siva Ola（シバオラ）』による単独ショー『Amata“Siva Ola”』を",
+      "opinions": []
+    },
+    {
+      "sentence_id": 17,
+      "sentence": "スタートさせるとともに、８月に昼のポリネシアン・サンライトカーニバルを『Aloha RapaNui』に、３月に",
+      "opinions": []
+    },
+    {
+      "sentence_id": 18,
+      "sentence": "夜のポリネシアン・グランドステージを『Ha‵aheoあなたの笑顔があるから』にそれぞれ全面リニューアル",
+      "opinions": []
+    },
+    {
+      "sentence_id": 19,
+      "sentence": "いたしました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 20,
+      "sentence": "日帰り部門につきましては、流れるアクアリウムプール「フィッシュゴーランド」の話題性が一巡したことや",
+      "opinions": []
+    },
+    {
+      "sentence_id": 21,
+      "sentence": "各イベントが昨年の50周年記念事業及び太平洋・島サミット開催の話題性による集客効果には及ばず、利用人員は1,411千人（前期比61千人、4.2％減）となりました",
+      "opinions": [
+        {
+          "target": "利用人員",
+          "category": "NULL#amount",
+          "polarity": "negative",
+          "from": 47,
+          "to": 51
+        }
+      ]
+    },
+    {
+      "sentence_id": 22,
+      "sentence": "宿泊部門につきましては、お客様満足の向上を図るべく４月にリニューアルオープンしたホテルハワイアンズ",
+      "opinions": []
+    },
+    {
+      "sentence_id": 23,
+      "sentence": "レストラン「the Pacific」のオープン記念特別商品と映画「フラガール」公開10周年を記念した商品、",
+      "opinions": []
+    },
+    {
+      "sentence_id": 24,
+      "sentence": "パフォーマンスグループAAAの西島隆弘さんとコラボレーションした宿泊プランを販売いたしましたが、貸切バス",
+      "opinions": []
+    },
+    {
+      "sentence_id": 25,
+      "sentence": "価格高騰による団体旅行の減少に加え、11月に発生した福島県沖地震の影響によるキャンセルの発生及びその後の",
+      "opinions": [
+        {
+          "target": "団体旅行",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 7,
+          "to": 11
+        }
+      ]
+    },
+    {
+      "sentence_id": 26,
+      "sentence": "予約減少もあり、利用人員は469千人（前期比11千人、2.4％減）となりました",
+      "opinions": [
+        {
+          "target": "利用人員",
+          "category": "NULL#amount",
+          "polarity": "negative",
+          "from": 8,
+          "to": 12
+        }
+      ]
+    },
+    {
+      "sentence_id": 27,
+      "sentence": "スパリゾートハワイアンズ・ゴルフコースは、11月の地震や降雪等の天候不順の影響もあり首都圏における宿泊",
+      "opinions": []
+    },
+    {
+      "sentence_id": 28,
+      "sentence": "ゴルフパック利用が減少したものの、地元圏の集客は堅調に推移し、利用人員は58千人（前期比０千人、1.1％減）となりました",
+      "opinions": [
+        {
+          "target": "ゴルフパック利用",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 0,
+          "to": 8
+        },
+        {
+          "target": "集客",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 21,
+          "to": 23
+        },
+        {
+          "target": "利用人員",
+          "category": "NULL#amount",
+          "polarity": "negative",
+          "from": 31,
+          "to": 35
+        }
+      ]
+    },
+    {
+      "sentence_id": 29,
+      "sentence": "この結果、日帰り・宿泊両部門の利用者数の減少等により、当部門の売上高は、126億71百万円（前期比７億91百万円、5.9％減）となり、消費単価の下落や人件費の増加等により、営業利益は15億99百万円（前期比５億32百万円、25.0％減）となりました",
+      "opinions": [
+        {
+          "target": "日帰り",
+          "category": "business#sales",
+          "polarity": "negative",
+          "from": 5,
+          "to": 8
+        },
+        {
+          "target": "日帰り",
+          "category": "business#price",
+          "polarity": "negative",
+          "from": 5,
+          "to": 8
+        },
+        {
+          "target": "日帰り",
+          "category": "business#cost",
+          "polarity": "negative",
+          "from": 5,
+          "to": 8
+        },
+        {
+          "target": "日帰り",
+          "category": "business#profit",
+          "polarity": "negative",
+          "from": 5,
+          "to": 8
+        },
+        {
+          "target": "日帰り",
+          "category": "business#amount",
+          "polarity": "negative",
+          "from": 5,
+          "to": 8
+        },
+        {
+          "target": "宿泊両部門",
+          "category": "business#amount",
+          "polarity": "negative",
+          "from": 9,
+          "to": 14
+        },
+        {
+          "target": "宿泊両部門",
+          "category": "business#sales",
+          "polarity": "negative",
+          "from": 9,
+          "to": 14
+        },
+        {
+          "target": "宿泊両部門",
+          "category": "business#price",
+          "polarity": "negative",
+          "from": 9,
+          "to": 14
+        },
+        {
+          "target": "宿泊両部門",
+          "category": "business#cost",
+          "polarity": "negative",
+          "from": 9,
+          "to": 14
+        },
+        {
+          "target": "宿泊両部門",
+          "category": "business#profit",
+          "polarity": "negative",
+          "from": 9,
+          "to": 14
+        }
+      ]
+    },
+    {
+      "sentence_id": 30,
+      "sentence": "[燃料商事事業]",
+      "opinions": []
+    },
+    {
+      "sentence_id": 31,
+      "sentence": "石炭部門につきましては、主力納入先である電力会社向け販売数量の増加により堅調に進みましたが、石油",
+      "opinions": [
+        {
+          "target": "石炭部門",
+          "category": "business#general",
+          "polarity": "positive",
+          "from": 0,
+          "to": 4
+        },
+        {
+          "target": "販売数量",
+          "category": "NULL#amount",
+          "polarity": "positive",
+          "from": 26,
+          "to": 30
+        }
+      ]
+    },
+    {
+      "sentence_id": 32,
+      "sentence": "卸売部門につきましては、電力会社向け販売数量は増加したものの販売価格が下落するなど弱含みにて推移",
+      "opinions": [
+        {
+          "target": "卸売部門",
+          "category": "business#general",
+          "polarity": "negative",
+          "from": 0,
+          "to": 4
+        },
+        {
+          "target": "電力会社向け",
+          "category": "product#amount",
+          "polarity": "positive",
+          "from": 12,
+          "to": 18
+        },
+        {
+          "target": "電力会社向け",
+          "category": "product#price",
+          "polarity": "negative",
+          "from": 12,
+          "to": 18
+        }
+      ]
+    },
+    {
+      "sentence_id": 33,
+      "sentence": "いたしました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 34,
+      "sentence": "発電事業に関しましては、ほぼ計画どおり順調に進捗いたしました",
+      "opinions": [
+        {
+          "target": "発電事業",
+          "category": "business#general",
+          "polarity": "positive",
+          "from": 0,
+          "to": 4
+        }
+      ]
+    },
+    {
+      "sentence_id": 35,
+      "sentence": "この結果、当部門の売上高は、202億37百万円（前期比15億83百万円、8.5％増）、営業利益は１億６百万円（前期比18百万円、20.9％増）となりました",
+      "opinions": [
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 9,
+          "to": 12
+        },
+        {
+          "target": "営業利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 43,
+          "to": 47
+        }
+      ]
+    },
+    {
+      "sentence_id": 36,
+      "sentence": "[製造関連事業]",
+      "opinions": []
+    },
+    {
+      "sentence_id": 37,
+      "sentence": "国内、中国及び北米の需要減に伴い、船舶用及び産業用モーターの販売数量の減少により減収となりました",
+      "opinions": [
+        {
+          "target": "国内",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 0,
+          "to": 2
+        },
+        {
+          "target": "中国",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 3,
+          "to": 5
+        },
+        {
+          "target": "北米",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 7,
+          "to": 9
+        },
+        {
+          "target": "モーター",
+          "category": "product#amount",
+          "polarity": "negative",
+          "from": 25,
+          "to": 29
+        }
+      ]
+    },
+    {
+      "sentence_id": 38,
+      "sentence": "この結果、当部門の売上高は15億７百万円（前期比２億71百万円、15.3％減）、売上減及び円高の影響等により",
+      "opinions": [
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "negative",
+          "from": 9,
+          "to": 12
+        }
+      ]
+    },
+    {
+      "sentence_id": 39,
+      "sentence": "営業利益は１億２百万円（前期比１億23百万円、54.7％減）となりました",
+      "opinions": [
+        {
+          "target": "営業利益",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 0,
+          "to": 4
+        }
+      ]
+    },
+    {
+      "sentence_id": 40,
+      "sentence": "[運輸業]",
+      "opinions": []
+    },
+    {
+      "sentence_id": 41,
+      "sentence": "港湾運送部門につきましては、輸送量は増加したもののセメント関連の輸送単価が下落し、また石油小売部門",
+      "opinions": [
+        {
+          "target": "港湾運送部門",
+          "category": "business#amount",
+          "polarity": "positive",
+          "from": 0,
+          "to": 6
+        },
+        {
+          "target": "セメント関連",
+          "category": "product#price",
+          "polarity": "negative",
+          "from": 25,
+          "to": 31
+        }
+      ]
+    },
+    {
+      "sentence_id": 42,
+      "sentence": "につきましては、販売数量が減少するとともに販売単価も下落する等厳しい状況のなかで大幅な減益となりました",
+      "opinions": [
+        {
+          "target": "販売単価",
+          "category": "NULL#price",
+          "polarity": "negative",
+          "from": 21,
+          "to": 25
+        }
+      ]
+    },
+    {
+      "sentence_id": 43,
+      "sentence": "この結果、当部門の売上高は、17億61百万円（前期比１億10百万円、5.9％減）、販売単価の下落等により営業",
+      "opinions": [
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "negative",
+          "from": 9,
+          "to": 12
+        }
+      ]
+    },
+    {
+      "sentence_id": 44,
+      "sentence": "利益は20百万円(前期比61百万円、74.8％減)となりました",
+      "opinions": [
+        {
+          "target": "利益",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 0,
+          "to": 2
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,333 @@
+{
+  "header": {
+    "document_id": "E01743",
+    "document_name": "シンフォニアテクノロジー株式会社",
+    "doc_text": "有価証券報告書",
+    "edi_id": "E01743",
+    "security_code": "65070",
+    "category33": "電気機器",
+    "category17": "電機・精密",
+    "scale": "6"
+  },
+  "sentences": [
+    {
+      "sentence_id": 0,
+      "sentence": "当連結会計年度における当社グループを取り巻く経営環境は、米国は個人消費の持ち直しなどにより回復基調となり、中国や東南アジア諸国では景気鈍化の影響が見られたものの、年度後半には一部に復調の兆しが見られました",
+      "opinions": [
+        {
+          "target": "経営環境",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 22,
+          "to": 26
+        },
+        {
+          "target": "米国",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 28,
+          "to": 30
+        },
+        {
+          "target": "個人消費",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 31,
+          "to": 35
+        },
+        {
+          "target": "中国",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 53,
+          "to": 55
+        },
+        {
+          "target": "東南アジア諸国",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 56,
+          "to": 63
+        }
+      ]
+    },
+    {
+      "sentence_id": 1,
+      "sentence": "国内においては、民間設備投資がおおむね回復基調で推移し、輸出の持ち直しなどによる企業収益の改善も見られましたが、公共投資は年度後半に力強さを欠き、総じて緩やかな回復にとどまりました",
+      "opinions": [
+        {
+          "target": "国内",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 0,
+          "to": 2
+        },
+        {
+          "target": "民間設備投資",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 8,
+          "to": 14
+        },
+        {
+          "target": "輸出",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 28,
+          "to": 30
+        },
+        {
+          "target": "企業収益",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 40,
+          "to": 44
+        },
+        {
+          "target": "公共投資",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 56,
+          "to": 60
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "sentence": "このような景況の下で当社グループといたしましては、顧客のニーズを捉えた製品開発や既存製品の差別化による受注の拡大を、重点テーマに掲げて活動してまいりました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 3,
+      "sentence": "また、社外コンサルタントの活用によるコストダウンの推進や、生産・試験工程の自動化による生産効率の改善にも取り組み、収益力の向上に努めました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 4,
+      "sentence": "さらに、医療や農水産業といった新分野への取組についても、実証試験や改良を重ねるなど販売開始に向けた新たなステージの研究開発を進めました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 5,
+      "sentence": "その結果、受注高は932億24百万円（前連結会計年度比16.4％増）、売上高は842億28百万円（同5.2％増）となりました",
+      "opinions": [
+        {
+          "target": "受注高",
+          "category": "NULL#amount",
+          "polarity": "positive",
+          "from": 5,
+          "to": 8
+        },
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 35,
+          "to": 38
+        }
+      ]
+    },
+    {
+      "sentence_id": 6,
+      "sentence": "損益面につきましては、営業利益は52億21百万円（同18.4％増）、経常利益は54億42百万円（同28.6％増）となり、親会社株主に帰属する当期純利益は39億77百万円（同39.5％増）となりました",
+      "opinions": [
+        {
+          "target": "営業利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 11,
+          "to": 15
+        },
+        {
+          "target": "経常利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 34,
+          "to": 38
+        },
+        {
+          "target": "当期純利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 70,
+          "to": 75
+        }
+      ]
+    },
+    {
+      "sentence_id": 7,
+      "sentence": "セグメント別の状況は次のとおりであります",
+      "opinions": []
+    },
+    {
+      "sentence_id": 8,
+      "sentence": "［モーション機器事業］",
+      "opinions": []
+    },
+    {
+      "sentence_id": 9,
+      "sentence": "航空宇宙部門において大型案件が獲得できたことやプリンタ部門ではアミューズメント向けの新製品投入、大型搬送システム部門において空港支援車両の更新需要を獲得できたこと等により、事業全体では、受注高は382億11百万円（前連結会計年度比26.3％増）、売上高は339億９百万円（同15.3％増）となりました",
+      "opinions": [
+        {
+          "target": "航空宇宙部門",
+          "category": "business#general",
+          "polarity": "positive",
+          "from": 0,
+          "to": 6
+        },
+        {
+          "target": "大型搬送システム部門",
+          "category": "business#general",
+          "polarity": "positive",
+          "from": 48,
+          "to": 58
+        },
+        {
+          "target": "受注高",
+          "category": "NULL#amount",
+          "polarity": "positive",
+          "from": 93,
+          "to": 96
+        },
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 123,
+          "to": 126
+        }
+      ]
+    },
+    {
+      "sentence_id": 10,
+      "sentence": "また、損益面につきましては、営業利益は11億87百万円（同83.3％増）となりました",
+      "opinions": [
+        {
+          "target": "営業利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 14,
+          "to": 18
+        }
+      ]
+    },
+    {
+      "sentence_id": 11,
+      "sentence": "［パワーエレクトロニクス機器事業］",
+      "opinions": []
+    },
+    {
+      "sentence_id": 12,
+      "sentence": "クリーン搬送機器部門において半導体業界の堅調な設備投資を背景に半導体製造装置用機器が増加したこと、産業インフラ部門において大型案件が獲得できたこと、社会インフラシステム部門において官公庁向け電気設備更新が堅調に推移したこと等により、事業全体では、受注高は354億90百万円（前連結会計年度比7.6％増）、売上高は322億88百万円（同2.6％増）となりました",
+      "opinions": [
+        {
+          "target": "設備投資",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 23,
+          "to": 27
+        },
+        {
+          "target": "機器",
+          "category": "product#amount",
+          "polarity": "positive",
+          "from": 39,
+          "to": 41
+        },
+        {
+          "target": "産業インフラ部門",
+          "category": "business#general",
+          "polarity": "positive",
+          "from": 49,
+          "to": 57
+        },
+        {
+          "target": "電気設備更新",
+          "category": "product#general",
+          "polarity": "positive",
+          "from": 95,
+          "to": 101
+        },
+        {
+          "target": "受注高",
+          "category": "NULL#amount",
+          "polarity": "positive",
+          "from": 123,
+          "to": 126
+        },
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 152,
+          "to": 155
+        }
+      ]
+    },
+    {
+      "sentence_id": 13,
+      "sentence": "また、損益面につきましては、営業利益は28億75百万円（同11.1％増）となりました",
+      "opinions": [
+        {
+          "target": "営業利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 14,
+          "to": 18
+        }
+      ]
+    },
+    {
+      "sentence_id": 14,
+      "sentence": "［サポート＆エンジニアリング事業］",
+      "opinions": []
+    },
+    {
+      "sentence_id": 15,
+      "sentence": "設備工事等が増加したことにより、受注高は195億21百万円（前連結会計年度比15.8％増）となりましたが、太陽光発電パネル設置工事等が減少したことにより、売上高は180億30百万円（同6.2％減）となりました",
+      "opinions": [
+        {
+          "target": "設備工事",
+          "category": "product#amount",
+          "polarity": "positive",
+          "from": 0,
+          "to": 4
+        },
+        {
+          "target": "受注高",
+          "category": "NULL#amount",
+          "polarity": "positive",
+          "from": 16,
+          "to": 19
+        },
+        {
+          "target": "太陽光発電パネル設置工事",
+          "category": "product#amount",
+          "polarity": "negative",
+          "from": 53,
+          "to": 65
+        },
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "negative",
+          "from": 77,
+          "to": 80
+        }
+      ]
+    },
+    {
+      "sentence_id": 16,
+      "sentence": "また、損益面につきましては、営業利益は11億45百万円（同5.2％減）となりました",
+      "opinions": [
+        {
+          "target": "営業利益",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 14,
+          "to": 18
+        }
+      ]
+    }
+  ]
+}

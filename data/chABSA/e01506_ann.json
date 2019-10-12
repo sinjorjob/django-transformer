@@ -1,0 +1,181 @@
+{
+  "header": {
+    "document_id": "E01506",
+    "document_name": "株式会社ディスコ",
+    "doc_text": "有価証券報告書",
+    "edi_id": "E01506",
+    "security_code": "61460",
+    "category33": "機械",
+    "category17": "機械",
+    "scale": "4"
+  },
+  "sentences": [
+    {
+      "sentence_id": 0,
+      "sentence": "当連結会計年度（以下、当期）においては、データセンタ向けサーバやスマートフォンの高機能化に伴い、メモリ向けを中心に半導体メーカ各社は設備投資を積極的に行いました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 1,
+      "sentence": "精密切断装置（ダイサ）・精密研削装置（グラインダ）ともにメモリ向けが堅調に推移した一方、前期好調だった電子部品向けや光半導体向けが減少したことにより、精密加工装置の売上高は約４％減少しました",
+      "opinions": [
+        {
+          "target": "メモリ向け",
+          "category": "product#general",
+          "polarity": "positive",
+          "from": 28,
+          "to": 33
+        },
+        {
+          "target": "電子部品向け",
+          "category": "product#general",
+          "polarity": "negative",
+          "from": 51,
+          "to": 57
+        },
+        {
+          "target": "光半導体向け",
+          "category": "product#general",
+          "polarity": "negative",
+          "from": 58,
+          "to": 64
+        },
+        {
+          "target": "精密加工装置",
+          "category": "product#sales",
+          "polarity": "negative",
+          "from": 75,
+          "to": 81
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "sentence": "消耗品である精密加工ツールは、メモリの薄化需要の高まりと顧客の高い設備稼働率に比例して、グラインディングホイールを中心に出荷数量が大幅に増加しました",
+      "opinions": [
+        {
+          "target": "薄化需要",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 19,
+          "to": 23
+        },
+        {
+          "target": "設備稼働率",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 33,
+          "to": 38
+        },
+        {
+          "target": "グラインディングホイール",
+          "category": "product#amount",
+          "polarity": "positive",
+          "from": 44,
+          "to": 56
+        }
+      ]
+    },
+    {
+      "sentence_id": 3,
+      "sentence": "その結果、精密加工ツールの売上高は過去最高となりました",
+      "opinions": [
+        {
+          "target": "精密加工ツール",
+          "category": "product#sales",
+          "polarity": "positive",
+          "from": 5,
+          "to": 12
+        }
+      ]
+    },
+    {
+      "sentence_id": 4,
+      "sentence": "これらの結果、為替による売上高の減少影響があったものの、連結売上高は４期連続で過去最高を更新しました",
+      "opinions": [
+        {
+          "target": "連結売上高",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 28,
+          "to": 33
+        }
+      ]
+    },
+    {
+      "sentence_id": 5,
+      "sentence": "利益については、為替による粗利益の減少、研究開発費・人件費などの販売管理費の増加があったものの、売上高の増加および製品構成の良化等により、営業利益は微増となりました",
+      "opinions": [
+        {
+          "target": "粗利益",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 13,
+          "to": 16
+        },
+        {
+          "target": "販売管理費",
+          "category": "NULL#cost",
+          "polarity": "negative",
+          "from": 32,
+          "to": 37
+        },
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 48,
+          "to": 51
+        },
+        {
+          "target": "製品構成",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 57,
+          "to": 61
+        },
+        {
+          "target": "営業利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 69,
+          "to": 73
+        }
+      ]
+    },
+    {
+      "sentence_id": 6,
+      "sentence": "以上の結果、当期の業績は売上高1,342億４百万円（前期比5.0％増）、営業利益313億41百万円（同3.3％増）、経常利益317億26百万円（同3.4％増）、親会社株主に帰属する当期純利益242億３百万円（同4.8％増）となり、各利益とも過去最高を更新しました",
+      "opinions": [
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 12,
+          "to": 15
+        },
+        {
+          "target": "営業利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 36,
+          "to": 40
+        },
+        {
+          "target": "経常利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 58,
+          "to": 62
+        },
+        {
+          "target": "当期純利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 90,
+          "to": 95
+        }
+      ]
+    }
+  ]
+}

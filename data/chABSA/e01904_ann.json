@@ -1,0 +1,559 @@
+{
+  "header": {
+    "document_id": "E01904",
+    "document_name": "ニチコン株式会社",
+    "doc_text": "有価証券報告書",
+    "edi_id": "E01904",
+    "security_code": "69960",
+    "category33": "電気機器",
+    "category17": "電機・精密",
+    "scale": "6"
+  },
+  "sentences": [
+    {
+      "sentence_id": 0,
+      "sentence": "当連結会計年度におけるわが国経済は、年央は為替が円高で推移したものの、堅調な輸出に支えられ、緩やかな回復基調が続きました",
+      "opinions": [
+        {
+          "target": "わが国経済",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 11,
+          "to": 16
+        },
+        {
+          "target": "輸出",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 38,
+          "to": 40
+        }
+      ]
+    },
+    {
+      "sentence_id": 1,
+      "sentence": "海外においては、米国経済は、好調な企業業績に加えて、個人消費も底堅く推移し、緩やかな拡大基調が続きました",
+      "opinions": [
+        {
+          "target": "米国経済",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 8,
+          "to": 12
+        },
+        {
+          "target": "企業業績",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 17,
+          "to": 21
+        },
+        {
+          "target": "個人消費",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 26,
+          "to": 30
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "sentence": "欧州経済は、英国のEU離脱採択の影響は限定的であったことなどにより、景気は回復基調となりました",
+      "opinions": [
+        {
+          "target": "景気",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 34,
+          "to": 36
+        }
+      ]
+    },
+    {
+      "sentence_id": 3,
+      "sentence": "一方、中国や新興国経済は、力強さを欠く状況が継続しました",
+      "opinions": [
+        {
+          "target": "中国",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 3,
+          "to": 5
+        },
+        {
+          "target": "新興国経済",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 6,
+          "to": 11
+        }
+      ]
+    },
+    {
+      "sentence_id": 4,
+      "sentence": "当社グループが関連する市場においては、中国経済減速の影響などによりインバータ機器向けの売上に伸び悩みが見られましたが、電装化の進展により自動車関連機器向けの需要が伸長しました",
+      "opinions": [
+        {
+          "target": "売上",
+          "category": "NULL#sales",
+          "polarity": "negative",
+          "from": 43,
+          "to": 45
+        },
+        {
+          "target": "需要",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 78,
+          "to": 80
+        }
+      ]
+    },
+    {
+      "sentence_id": 5,
+      "sentence": "また、エネルギー、環境関連分野への関心の高まりを受け、環境関連市場は引き続き堅調に推移しました",
+      "opinions": [
+        {
+          "target": "環境関連市場",
+          "category": "market#general",
+          "polarity": "positive",
+          "from": 27,
+          "to": 33
+        }
+      ]
+    },
+    {
+      "sentence_id": 6,
+      "sentence": "このような状況において当社は、IoTやAIなど、新たなキーテクノロジーによって多様化する重点４市場「エネルギー・環境・医療機器」「自動車・車両関連機器」「白物家電・産業用インバータ機器」「情報通信機器」に引き続き注力しました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 7,
+      "sentence": "コンデンサ事業におきましては、高い成長が期待できる自動車・産業機器向けに、自動車市場で求められる耐振動化、高温度化、低ESR化に対応した新製品とハイブリッドアルミ電解コンデンサの開発を行い、産業機器向けには、機器の小型化に貢献する業界最小サイズの新製品や業界最高の高耐電圧化を実現した新製品を開発・導入しました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 8,
+      "sentence": "また、NECST(Nichicon Energy Control System Technology)事業を当社の経営の新たな柱にすべく注力しました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 9,
+      "sentence": "来る蓄電新時代に向け、NECST事業の主力製品である家庭用蓄電システム「ホーム・パワー・ステーション」については、蓄電技術のリーディングカンパニーとして電力の地産地消に最適なハイブリッド蓄電システムを市場投入する一方で大容量でコストパフォーマンスに優れた単機能蓄電システムをラインアップに加え、幅広いニーズに対応しました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 10,
+      "sentence": "EV関連についてはEV普及期に向けて、V2Hシステム「EVパワー・ステーション」にアドバンスモデルを加えるとともに充電インフラに貢献する急速充電器のラインアップの強化を行いました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 11,
+      "sentence": "これらの結果、当連結会計年度の売上高は100,401百万円と前期比8.6％の減収となりました",
+      "opinions": [
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "negative",
+          "from": 15,
+          "to": 18
+        }
+      ]
+    },
+    {
+      "sentence_id": 12,
+      "sentence": "また、利益につきましては、営業利益は3,019百万円と前年同期比36.8％の減益、経常利益は為替差益が930百万円発生し4,750百万円と前期比9.5％の増益、親会社株主に帰属する当期純利益は2,623百万円(前連結会計年度は591百万円の親会社株主に帰属する当期純損失)となりました",
+      "opinions": [
+        {
+          "target": "営業利益",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 13,
+          "to": 17
+        },
+        {
+          "target": "経常利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 41,
+          "to": 45
+        },
+        {
+          "target": "当期純利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 90,
+          "to": 95
+        }
+      ]
+    },
+    {
+      "sentence_id": 13,
+      "sentence": "製品区分別売上高につきましては、電子機器用は、自動車向けコンデンサは堅調であったものの、家電機器・インバータ向けなどの売上が減少したことなどにより65,662百万円と前期比5.8％の減収となりました",
+      "opinions": [
+        {
+          "target": "電子機器用",
+          "category": "product#sales",
+          "polarity": "negative",
+          "from": 16,
+          "to": 21
+        },
+        {
+          "target": "コンデンサ",
+          "category": "product#sales",
+          "polarity": "positive",
+          "from": 28,
+          "to": 33
+        },
+        {
+          "target": "家電機器・インバータ向け",
+          "category": "product#sales",
+          "polarity": "negative",
+          "from": 44,
+          "to": 56
+        }
+      ]
+    },
+    {
+      "sentence_id": 14,
+      "sentence": "電力・機器用及び応用機器は、装置品の売上が堅調に推移したものの、主として電力・機器用コンデンサの売上が減少したことなどにより11,434百万円と前期比3.5％の減収となりました",
+      "opinions": [
+        {
+          "target": "電力・機器用",
+          "category": "product#sales",
+          "polarity": "negative",
+          "from": 0,
+          "to": 6
+        },
+        {
+          "target": "応用機器",
+          "category": "product#sales",
+          "polarity": "negative",
+          "from": 8,
+          "to": 12
+        },
+        {
+          "target": "装置品",
+          "category": "product#sales",
+          "polarity": "positive",
+          "from": 14,
+          "to": 17
+        },
+        {
+          "target": "コンデンサ",
+          "category": "product#sales",
+          "polarity": "negative",
+          "from": 42,
+          "to": 47
+        }
+      ]
+    },
+    {
+      "sentence_id": 15,
+      "sentence": "回路製品は、各種電源および家庭用蓄電システムの売上が減少したことなどにより22,544百万円と前期比17.8％の減収となりました",
+      "opinions": [
+        {
+          "target": "回路製品",
+          "category": "product#sales",
+          "polarity": "negative",
+          "from": 0,
+          "to": 4
+        },
+        {
+          "target": "各種電源",
+          "category": "product#sales",
+          "polarity": "negative",
+          "from": 6,
+          "to": 10
+        },
+        {
+          "target": "蓄電システム",
+          "category": "product#sales",
+          "polarity": "negative",
+          "from": 16,
+          "to": 22
+        }
+      ]
+    },
+    {
+      "sentence_id": 16,
+      "sentence": "海外売上高につきましては、アジアにおいて家電機器向けなどの売上が減少したことなどにより前期比9.3％の減収となりました",
+      "opinions": [
+        {
+          "target": "海外売上高",
+          "category": "NULL#sales",
+          "polarity": "negative",
+          "from": 0,
+          "to": 5
+        },
+        {
+          "target": "家電機器向け",
+          "category": "product#sales",
+          "polarity": "negative",
+          "from": 20,
+          "to": 26
+        }
+      ]
+    },
+    {
+      "sentence_id": 17,
+      "sentence": "また、国内市場については、自動車関連機器向けの売上が堅調に推移しましたが、家庭用蓄電システムなどの回路製品が減少したことにより前期比7.6％の減収となりました",
+      "opinions": [
+        {
+          "target": "国内市場",
+          "category": "business#sales",
+          "polarity": "negative",
+          "from": 3,
+          "to": 7
+        },
+        {
+          "target": "自動車関連機器向け",
+          "category": "product#sales",
+          "polarity": "positive",
+          "from": 13,
+          "to": 22
+        },
+        {
+          "target": "回路製品",
+          "category": "product#sales",
+          "polarity": "negative",
+          "from": 49,
+          "to": 53
+        }
+      ]
+    },
+    {
+      "sentence_id": 18,
+      "sentence": "これらの結果、連結売上高に占める海外売上高の割合は、前期比0.5ポイント下降し57.4％となりました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 19,
+      "sentence": "設備投資につきましては、新規事業の成長を見据えた技術・開発投資および当社のコア事業の強化のための戦略的投資に加え、東京地区の拠点統合に伴う不動産の取得などにより7,486百万円の設備投資を実施しました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 20,
+      "sentence": "所在地別業績は、次のとおりです",
+      "opinions": []
+    },
+    {
+      "sentence_id": 21,
+      "sentence": "①日　本",
+      "opinions": []
+    },
+    {
+      "sentence_id": 22,
+      "sentence": "国内においては、自動車関連機器向けの売上が堅調に推移しましたが、家庭用蓄電システムなどの回路製品が減少したことににより、売上高は44,135百万円と前期比7.0％の減収となりました",
+      "opinions": [
+        {
+          "target": "国内",
+          "category": "business#sales",
+          "polarity": "negative",
+          "from": 0,
+          "to": 2
+        },
+        {
+          "target": "自動車関連機器向け",
+          "category": "product#sales",
+          "polarity": "positive",
+          "from": 8,
+          "to": 17
+        },
+        {
+          "target": "回路製品",
+          "category": "product#sales",
+          "polarity": "negative",
+          "from": 44,
+          "to": 48
+        }
+      ]
+    },
+    {
+      "sentence_id": 23,
+      "sentence": "営業損失につきましては、売上高の減収に加え、積極的な研究開発などにより売上高販売管理費比率が増加したことから157百万円(前連結会計年度は1,816百万円の営業利益)となりました",
+      "opinions": [
+        {
+          "target": "営業損失",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 0,
+          "to": 4
+        },
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "negative",
+          "from": 12,
+          "to": 15
+        },
+        {
+          "target": "売上高販売管理費比率",
+          "category": "NULL#cost",
+          "polarity": "negative",
+          "from": 35,
+          "to": 45
+        }
+      ]
+    },
+    {
+      "sentence_id": 24,
+      "sentence": "②米　国",
+      "opinions": []
+    },
+    {
+      "sentence_id": 25,
+      "sentence": "米国地域においては、自動車および情報通信向け需要が比較的堅調に推移しましたが、円高の影響により円換算後の売上高は6,888百万円と前期比5.9％の減収となりました",
+      "opinions": [
+        {
+          "target": "米国地域",
+          "category": "business#sales",
+          "polarity": "negative",
+          "from": 0,
+          "to": 4
+        },
+        {
+          "target": "需要",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 22,
+          "to": 24
+        }
+      ]
+    },
+    {
+      "sentence_id": 26,
+      "sentence": "営業損失は、販売管理費の削減などにより92百万円(前連結会計年度は193百万円の営業損失)となりました",
+      "opinions": [
+        {
+          "target": "営業損失",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 0,
+          "to": 4
+        },
+        {
+          "target": "販売管理費",
+          "category": "NULL#cost",
+          "polarity": "positive",
+          "from": 6,
+          "to": 11
+        }
+      ]
+    },
+    {
+      "sentence_id": 27,
+      "sentence": "③アジア",
+      "opinions": []
+    },
+    {
+      "sentence_id": 28,
+      "sentence": "アジア地域においては、家電機器向け需要が低調となったことなどにより、売上高は41,776百万円と前期比10.2％の減収となりました",
+      "opinions": [
+        {
+          "target": "アジア地域",
+          "category": "business#sales",
+          "polarity": "negative",
+          "from": 0,
+          "to": 5
+        },
+        {
+          "target": "家電機器向け",
+          "category": "product#amount",
+          "polarity": "negative",
+          "from": 11,
+          "to": 17
+        }
+      ]
+    },
+    {
+      "sentence_id": 29,
+      "sentence": "営業利益につきましては、売上高の減収などにより2,950百万円と前期比1.9％の減益となりました",
+      "opinions": [
+        {
+          "target": "営業利益",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 0,
+          "to": 4
+        },
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "negative",
+          "from": 12,
+          "to": 15
+        }
+      ]
+    },
+    {
+      "sentence_id": 30,
+      "sentence": "④欧州他",
+      "opinions": []
+    },
+    {
+      "sentence_id": 31,
+      "sentence": "欧州その他の地域においては、自動車向け受注が堅調に推移しましたが、円高の影響により円換算後の売上高は7,600百万円と前期比10.5％の減収となりました",
+      "opinions": [
+        {
+          "target": "欧州その他",
+          "category": "business#sales",
+          "polarity": "negative",
+          "from": 0,
+          "to": 5
+        },
+        {
+          "target": "自動車向け",
+          "category": "product#amount",
+          "polarity": "positive",
+          "from": 14,
+          "to": 19
+        }
+      ]
+    },
+    {
+      "sentence_id": 32,
+      "sentence": "営業利益につきましては、コスト削減を継続的に推進したことなどにより195百万円と前期比109.0％の増益となりました",
+      "opinions": [
+        {
+          "target": "営業利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 0,
+          "to": 4
+        }
+      ]
+    },
+    {
+      "sentence_id": 33,
+      "sentence": "・所在地別業績",
+      "opinions": []
+    },
+    {
+      "sentence_id": 34,
+      "sentence": "前連結会計年度（自　平成27年４月１日　至　平成28年３月31日）",
+      "opinions": []
+    },
+    {
+      "sentence_id": 35,
+      "sentence": "当連結会計年度（自　平成28年４月１日　至　平成29年３月31日）",
+      "opinions": []
+    },
+    {
+      "sentence_id": 36,
+      "sentence": "・海外売上高",
+      "opinions": []
+    },
+    {
+      "sentence_id": 37,
+      "sentence": "前連結会計年度（自　平成27年４月１日　至　平成28年３月31日）",
+      "opinions": []
+    },
+    {
+      "sentence_id": 38,
+      "sentence": "当連結会計年度（自　平成28年４月１日　至　平成29年３月31日）",
+      "opinions": []
+    }
+  ]
+}

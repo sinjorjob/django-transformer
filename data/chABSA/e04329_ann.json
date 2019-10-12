@@ -1,0 +1,371 @@
+{
+  "header": {
+    "document_id": "E04329",
+    "document_name": "東海運株式会社",
+    "doc_text": "有価証券報告書",
+    "edi_id": "E04329",
+    "security_code": "93800",
+    "category33": "倉庫・運輸関連業",
+    "category17": "運輸・物流",
+    "scale": "7"
+  },
+  "sentences": [
+    {
+      "sentence_id": 0,
+      "sentence": "当連結会計年度（平成28年４月1日～平成29年３月31日）のわが国経済は、企業業績や雇用・所得環境の改善が続いているものの、個人消費は足踏み傾向が続き、また、海外における不確実性の高まりや金融資本市場の変動による影響から不安定な状況で推移しました",
+      "opinions": [
+        {
+          "target": "わが国経済",
+          "category": "NULL#general",
+          "polarity": "neutral",
+          "from": 30,
+          "to": 35
+        },
+        {
+          "target": "企業業績",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 37,
+          "to": 41
+        },
+        {
+          "target": "雇用",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 42,
+          "to": 44
+        },
+        {
+          "target": "所得環境",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 45,
+          "to": 49
+        },
+        {
+          "target": "個人消費",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 62,
+          "to": 66
+        },
+        {
+          "target": "海外",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 79,
+          "to": 81
+        }
+      ]
+    },
+    {
+      "sentence_id": 1,
+      "sentence": "物流業界におきましては、設備投資の伸び悩み等から生産関連貨物が減少した一方、消費関連貨物は個人消費に停滞感が残るものの小幅な伸びとなり、建設関連貨物は住宅投資が増加したものの公共投資が低迷したことから横ばいで推移しました",
+      "opinions": [
+        {
+          "target": "設備投資",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 12,
+          "to": 16
+        },
+        {
+          "target": "生産関連貨物",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 24,
+          "to": 30
+        },
+        {
+          "target": "消費関連貨物",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 38,
+          "to": 44
+        },
+        {
+          "target": "個人消費",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 45,
+          "to": 49
+        },
+        {
+          "target": "建設関連貨物",
+          "category": "NULL#general",
+          "polarity": "neutral",
+          "from": 68,
+          "to": 74
+        },
+        {
+          "target": "住宅投資",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 75,
+          "to": 79
+        },
+        {
+          "target": "公共投資",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 87,
+          "to": 91
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "sentence": "また、国際貨物輸送におきましては、輸出は、中国経済が最悪期を脱したため、通期では横ばいとなりました",
+      "opinions": [
+        {
+          "target": "輸出",
+          "category": "NULL#general",
+          "polarity": "neutral",
+          "from": 17,
+          "to": 19
+        }
+      ]
+    },
+    {
+      "sentence_id": 3,
+      "sentence": "輸入は、消費マインドに力強さを欠き低調な荷動きとなりました",
+      "opinions": [
+        {
+          "target": "消費マインド",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 4,
+          "to": 10
+        },
+        {
+          "target": "荷動き",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 20,
+          "to": 23
+        }
+      ]
+    },
+    {
+      "sentence_id": 4,
+      "sentence": "このような経営環境の下、当社グループは、「すべてのステークホルダーの満足度向上」を掲げた「16中期経営計画」の最終年度を迎え、(1)事業基盤の再構築、(2)新規事業の創出、(3)人財の育成という３つの重点方針に基づき、企業価値の向上を目指した施策に取り組んでまいりました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 5,
+      "sentence": "これらの結果、当連結会計年度の営業収益は、380億3千5百万円と前連結会計年度に比べ7億4千万円（1.9％）の減収となり、営業利益は7億1千9百万円と前連結会計年度に比べ3千3百万円（4.5％）の減益となり、経常利益は7億6千1百万円と前連結会計年度に比べ2千万円（2.7％）の減益となりました",
+      "opinions": [
+        {
+          "target": "営業収益",
+          "category": "NULL#sales",
+          "polarity": "negative",
+          "from": 15,
+          "to": 19
+        },
+        {
+          "target": "営業利益",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 61,
+          "to": 65
+        },
+        {
+          "target": "経常利益",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 104,
+          "to": 108
+        }
+      ]
+    },
+    {
+      "sentence_id": 6,
+      "sentence": "また、親会社株主に帰属する当期純利益は、5億5百万円と前連結会計年度に比べ2億9千3百万円（36.8％）の減益となりました",
+      "opinions": [
+        {
+          "target": "当期純利益",
+          "category": "NULL#sales",
+          "polarity": "negative",
+          "from": 13,
+          "to": 18
+        }
+      ]
+    },
+    {
+      "sentence_id": 7,
+      "sentence": "セグメントの業績を示すと、次のとおりであります",
+      "opinions": []
+    },
+    {
+      "sentence_id": 8,
+      "sentence": "物流事業におきましては、国際貨物について、モンゴル向けの貨物が増加したものの、中央アジア・ロシア向けの油井管の取扱量や中国・東南アジアからの海上コンテナの取扱量が減少しました",
+      "opinions": [
+        {
+          "target": "貨物",
+          "category": "product#amount",
+          "polarity": "positive",
+          "from": 28,
+          "to": 30
+        },
+        {
+          "target": "油井管",
+          "category": "product#amount",
+          "polarity": "negative",
+          "from": 51,
+          "to": 54
+        },
+        {
+          "target": "海上コンテナ",
+          "category": "product#amount",
+          "polarity": "negative",
+          "from": 70,
+          "to": 76
+        }
+      ]
+    },
+    {
+      "sentence_id": 9,
+      "sentence": "国内貨物におきましては、輸出入関連作業が増加したほか、セメント関連製品及び建材輸送関連貨物の輸送量が堅調に推移したものの、一部倉庫の稼働率が低迷しました",
+      "opinions": [
+        {
+          "target": "輸出入関連作業",
+          "category": "product#amount",
+          "polarity": "positive",
+          "from": 12,
+          "to": 19
+        },
+        {
+          "target": "セメント関連製品",
+          "category": "product#amount",
+          "polarity": "positive",
+          "from": 27,
+          "to": 35
+        },
+        {
+          "target": "建材輸送関連貨物",
+          "category": "product#amount",
+          "polarity": "positive",
+          "from": 37,
+          "to": 45
+        },
+        {
+          "target": "稼働率",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 66,
+          "to": 69
+        }
+      ]
+    },
+    {
+      "sentence_id": 10,
+      "sentence": "これらの結果、物流事業全体の営業収益は、273億8千9百万円と前連結会計年度に比べ9千万円（0.3％）の減収となり、セグメント利益は、15億8千万円と前連結会計年度に比べ1億2百万円（6.1％）の減益となりました",
+      "opinions": [
+        {
+          "target": "物流事業",
+          "category": "business#sales",
+          "polarity": "negative",
+          "from": 7,
+          "to": 11
+        },
+        {
+          "target": "物流事業",
+          "category": "business#profit",
+          "polarity": "negative",
+          "from": 7,
+          "to": 11
+        }
+      ]
+    },
+    {
+      "sentence_id": 11,
+      "sentence": "海運事業におきましては、船舶の大型化等、収益改善に取り組んだものの、国内における建設発生土及びセメント等の取扱量が減少しました",
+      "opinions": [
+        {
+          "target": "海運事業",
+          "category": "business#amount",
+          "polarity": "negative",
+          "from": 0,
+          "to": 4
+        },
+        {
+          "target": "建設発生土",
+          "category": "product#amount",
+          "polarity": "negative",
+          "from": 40,
+          "to": 45
+        },
+        {
+          "target": "セメント",
+          "category": "product#amount",
+          "polarity": "negative",
+          "from": 47,
+          "to": 51
+        }
+      ]
+    },
+    {
+      "sentence_id": 12,
+      "sentence": "これらの結果、海運事業全体の営業収益は、102億3千9百万円と前連結会計年度に比べ6億5千2百万円（6.0％）の減収となり、セグメント利益は、5億2千4百万円と前連結会計年度に比べ3千7百万円（7.7％）の増益となりました",
+      "opinions": [
+        {
+          "target": "海運事業",
+          "category": "business#sales",
+          "polarity": "negative",
+          "from": 7,
+          "to": 11
+        },
+        {
+          "target": "海運事業",
+          "category": "business#profit",
+          "polarity": "positive",
+          "from": 7,
+          "to": 11
+        }
+      ]
+    },
+    {
+      "sentence_id": 13,
+      "sentence": "不動産事業におきましては、修繕費が減少し、賃料の改定にも取り組みました",
+      "opinions": [
+        {
+          "target": "不動産事業",
+          "category": "business#cost",
+          "polarity": "positive",
+          "from": 0,
+          "to": 5
+        }
+      ]
+    },
+    {
+      "sentence_id": 14,
+      "sentence": "これらの結果、不動産事業全体の営業収益は、4億6百万円と前連結会計年度に比べ2百万円（0.5％）の増収となり、セグメント利益は、3億3千1百万円と前連結会計年度に比べ3千4百万円（11.5％）の増益となりました",
+      "opinions": [
+        {
+          "target": "不動産事業",
+          "category": "business#sales",
+          "polarity": "positive",
+          "from": 7,
+          "to": 12
+        },
+        {
+          "target": "不動産事業",
+          "category": "business#profit",
+          "polarity": "positive",
+          "from": 7,
+          "to": 12
+        }
+      ]
+    },
+    {
+      "sentence_id": 15,
+      "sentence": "上記セグメント利益は、セグメント間取引消去前の金額で記載しており、連結損益計算書の営業利益と調整を行っております",
+      "opinions": []
+    },
+    {
+      "sentence_id": 16,
+      "sentence": "なお、上記金額には、消費税等は含まれておりません",
+      "opinions": []
+    }
+  ]
+}

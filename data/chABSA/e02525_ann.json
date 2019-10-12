@@ -1,0 +1,577 @@
+{
+  "header": {
+    "document_id": "E02525",
+    "document_name": "ユアサ商事株式会社",
+    "doc_text": "有価証券報告書",
+    "edi_id": "E02525",
+    "security_code": "80740",
+    "category33": "卸売業",
+    "category17": "商社・卸売",
+    "scale": "6"
+  },
+  "sentences": [
+    {
+      "sentence_id": 0,
+      "sentence": "当連結会計年度におけるわが国経済は、政府や日銀による経済政策や金融政策を背景に緩やかな景気の回復基調が続き、企業収益の改善などにより、設備投資の新規・更新需要は堅調に推移しました",
+      "opinions": [
+        {
+          "target": "景気",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 43,
+          "to": 45
+        },
+        {
+          "target": "企業収益",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 54,
+          "to": 58
+        },
+        {
+          "target": "新規・更新需要",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 72,
+          "to": 79
+        }
+      ]
+    },
+    {
+      "sentence_id": 1,
+      "sentence": "また、建設・住宅分野では政府による住宅取得促進政策の効果などを背景に持家・貸家などを中心に新設住宅着工戸数に緩やかな回復の動きがみられました",
+      "opinions": [
+        {
+          "target": "新設住宅着工戸数",
+          "category": "NULL#amount",
+          "polarity": "positive",
+          "from": 45,
+          "to": 53
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "sentence": "海外では、米国経済の緩やかな回復が続き、中国をはじめとしたアジア新興国経済における生産財需要は一部に持ち直しの動きがみられましたが、新興国の景気減速懸念や諸外国の政策動向による影響など不透明感が一層高まりました",
+      "opinions": [
+        {
+          "target": "海外",
+          "category": "NULL#general",
+          "polarity": "neutral",
+          "from": 0,
+          "to": 2
+        },
+        {
+          "target": "米国経済",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 5,
+          "to": 9
+        },
+        {
+          "target": "生産財需要",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 41,
+          "to": 46
+        },
+        {
+          "target": "新興国",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 66,
+          "to": 69
+        }
+      ]
+    },
+    {
+      "sentence_id": 3,
+      "sentence": "このような状況の中、３カ年の中期経営計画「ＹＵＡＳＡ ＬＥＧＡＣＹ ３５０」の最終年度を迎え、アジア最大級の「産業とくらしの流通プラットフォーム」の構築を目指し、「グローバル強化」「国内成長分野の開拓」「プラットフォーム機能強化」に引き続きグループ一丸となって取り組むとともに、海外事業、環境エネルギー事業、国土強靭化対応事業の強化や経営基盤強化などの諸施策を推進いたしました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 4,
+      "sentence": "海外事業では、米国における工作機械の商圏拡大による北米、中米での生産財販売体制の整備、生産の自動化などの提案力強化に取り組みました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 5,
+      "sentence": "また、アジアを中心とした海外では、環境エネルギー事業の拡大に向け、タイにエンジニアリング事業強化を目的とした新たな現地法人を設立し創エネ・省エネ支援事業を推進するとともに、マレーシアの現地法人を中心として建設機械の販売に注力いたしました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 6,
+      "sentence": "環境エネルギー事業では、「創エネ+蓄エネ+省エネ」ノウハウを活用した、ＺＥＨ（ネット・ゼロ・エネルギー・ハウス）のパッケージ提案を進め、新エネルギー・省エネ機器の拡販に注力いたしました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 7,
+      "sentence": "国土強靭化対応事業では、防災倉庫の拡販や「大規模地震対応模擬訓練」などを通じ、ハードとソフトの両面で、備蓄品のパッケージ提案を進めるなど、防災・減災・ＢＣＰ（事業継続計画）に必要な商材開発やノウハウの提供に引き続き注力いたしました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 8,
+      "sentence": "プラットフォーム機能強化として「ユアサ商事関東物流センター」の活用による物流サービスの向上と業務運営の効率化を進めました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 9,
+      "sentence": "また、事業領域の拡大に向け、ロボ（ＡＩ）＆ＩｏＴ事業推進のため、ロボットエンジニアリング会社を設立しました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 10,
+      "sentence": "さらに、コア事業の強化に向け、Ｍ＆Ａにより新たに３社を完全子会社化し、収益力拡大とエンジニアリング機能強化によるグループ経営基盤と競争力の強化に取り組みました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 11,
+      "sentence": "この結果、当連結会計年度の売上高は、前連結会計年度比1.0％増の4,463億35百万円となりました",
+      "opinions": [
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 13,
+          "to": 16
+        }
+      ]
+    },
+    {
+      "sentence_id": 12,
+      "sentence": "利益面につきましては、営業利益が109億23百万円（前連結会計年度比5.5％増）、経常利益は117億４百万円（前連結会計年度比6.0％増）、親会社株主に帰属する当期純利益は77億77百万円（前連結会計年度比8.2％増）となりました",
+      "opinions": [
+        {
+          "target": "営業利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 11,
+          "to": 15
+        },
+        {
+          "target": "経常利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 41,
+          "to": 45
+        },
+        {
+          "target": "当期純利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 80,
+          "to": 85
+        }
+      ]
+    },
+    {
+      "sentence_id": 13,
+      "sentence": "自己資本当期純利益率（ＲОＥ）は12.9％（前連結会計年度は13.2％）、総資産経常利益率（ＲОＡ）は5.6％（前連結会計年度は5.4％）となりました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 14,
+      "sentence": "セグメント別の状況は以下のとおりです",
+      "opinions": []
+    },
+    {
+      "sentence_id": 15,
+      "sentence": "(産業機器部門)",
+      "opinions": []
+    },
+    {
+      "sentence_id": 16,
+      "sentence": "産業機器部門につきましては、自動車関連産業や航空機関連産業、半導体関連産業を中心に国内の工場稼働率に緩やかな回復傾向がみられ、切削工具、測定器具、制御機器などの需要が堅調に推移しました",
+      "opinions": [
+        {
+          "target": "工場稼働率",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 44,
+          "to": 49
+        },
+        {
+          "target": "需要",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 80,
+          "to": 82
+        }
+      ]
+    },
+    {
+      "sentence_id": 17,
+      "sentence": "このような状況の中、コンプレッサや制御関連機器などの環境・省エネ、安全に配慮した取扱商品の拡充、マテハン関連機器、ロボット装置、工作機械周辺機器の販売強化とともに、在庫の充実など物流サービスの向上によるトレードビジネスの強化に取り組みました結果、売上高は646億55百万円（前連結会計年度比2.4％増）となりました",
+      "opinions": [
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 123,
+          "to": 126
+        }
+      ]
+    },
+    {
+      "sentence_id": 18,
+      "sentence": "(工業機械部門)",
+      "opinions": []
+    },
+    {
+      "sentence_id": 19,
+      "sentence": "工業機械部門につきましては、国内において、ものづくり補助金などの政府による設備投資促進政策により、期末にかけ受注環境に持ち直しの傾向が続いたものの、来期の補助金を見据えた買い控えもみられました",
+      "opinions": [
+        {
+          "target": "受注環境",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 54,
+          "to": 58
+        }
+      ]
+    },
+    {
+      "sentence_id": 20,
+      "sentence": "海外では、米国の新たな政策の影響が懸念されるものの、メキシコ市場では設備投資需要は堅調に推移し、中国や東南アジア諸国においても一部に回復の動きがみられました",
+      "opinions": [
+        {
+          "target": "設備投資需要",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 34,
+          "to": 40
+        },
+        {
+          "target": "中国",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 48,
+          "to": 50
+        },
+        {
+          "target": "東南アジア諸国",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 51,
+          "to": 58
+        }
+      ]
+    },
+    {
+      "sentence_id": 21,
+      "sentence": "このような状況の中、好調な半導体関連産業向けや、堅調な自動車関連産業・航空機関連産業向けの工作機械販売に注力するとともに、工場における「自動化」「環境・省エネ・省コスト」の提案営業力の強化や、北米を中心に海外市場の営業基盤強化などに取り組みました結果、売上高1,101億16百万円（前連結会計年度比5.7％減）となりました",
+      "opinions": [
+        {
+          "target": "半導体関連産業向け",
+          "category": "product#general",
+          "polarity": "positive",
+          "from": 13,
+          "to": 22
+        },
+        {
+          "target": "工作機械販売",
+          "category": "business#general",
+          "polarity": "positive",
+          "from": 45,
+          "to": 51
+        },
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "negative",
+          "from": 126,
+          "to": 129
+        }
+      ]
+    },
+    {
+      "sentence_id": 22,
+      "sentence": "(住設・管材・空調部門)",
+      "opinions": []
+    },
+    {
+      "sentence_id": 23,
+      "sentence": "住設・管材・空調部門につきましては、新設住宅着工戸数が緩やかに回復する中、マンションや戸建住宅のリフォーム需要も底堅く、住宅設備機器や管材・空調商品の販売は堅調に推移しました",
+      "opinions": [
+        {
+          "target": "新設住宅着工戸数",
+          "category": "NULL#amount",
+          "polarity": "positive",
+          "from": 18,
+          "to": 26
+        },
+        {
+          "target": "リフォーム需要",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 48,
+          "to": 55
+        },
+        {
+          "target": "住宅設備機器",
+          "category": "product#amount",
+          "polarity": "positive",
+          "from": 60,
+          "to": 66
+        },
+        {
+          "target": "管材・空調商品",
+          "category": "product#amount",
+          "polarity": "positive",
+          "from": 67,
+          "to": 74
+        }
+      ]
+    },
+    {
+      "sentence_id": 24,
+      "sentence": "一方、新エネルギー関連商品においては、太陽光発電システムの販売価格が引き続き下落したものの、蓄電池・パワーコンディショナ等、周辺機器の拡販に努めました",
+      "opinions": [
+        {
+          "target": "太陽光発電システム",
+          "category": "product#price",
+          "polarity": "negative",
+          "from": 19,
+          "to": 28
+        }
+      ]
+    },
+    {
+      "sentence_id": 25,
+      "sentence": "このような状況の中、ＺＥＨ（ネット・ゼロ・エネルギー・ハウス）のパッケージ提案に努めるとともに、空調機器など省エネ性能の高効率機種の販売に注力いたしました結果、売上高は1,390億58百万円（前連結会計年度比8.7％増）となりました",
+      "opinions": [
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 80,
+          "to": 83
+        }
+      ]
+    },
+    {
+      "sentence_id": 26,
+      "sentence": "(建築・エクステリア部門)",
+      "opinions": []
+    },
+    {
+      "sentence_id": 27,
+      "sentence": "建築・エクステリア部門につきましては、新設住宅着工戸数の緩やかな回復により、住宅エクステリア関連製品や都市部を中心にビル・マンション向けの金属建材製品は底堅く推移しました",
+      "opinions": [
+        {
+          "target": "新設住宅着工戸数",
+          "category": "NULL#amount",
+          "polarity": "positive",
+          "from": 19,
+          "to": 27
+        },
+        {
+          "target": "住宅エクステリア関連製品",
+          "category": "product#general",
+          "polarity": "positive",
+          "from": 38,
+          "to": 50
+        },
+        {
+          "target": "金属建材製品",
+          "category": "product#general",
+          "polarity": "positive",
+          "from": 69,
+          "to": 75
+        }
+      ]
+    },
+    {
+      "sentence_id": 28,
+      "sentence": "一方、公共事業は引き続き減少傾向にあり、鋼製フェンス・防護柵など土木・道路関連資材は足踏み状態で推移しました",
+      "opinions": [
+        {
+          "target": "公共事業",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 3,
+          "to": 7
+        },
+        {
+          "target": "土木・道路関連資材",
+          "category": "product#amount",
+          "polarity": "neutral",
+          "from": 32,
+          "to": 41
+        }
+      ]
+    },
+    {
+      "sentence_id": 29,
+      "sentence": "このような状況の中、戸建住宅向け機能門柱や金属パネルなどの建築商材並びに防災倉庫や耐震・免震材などのレジリエンス製品の拡販に努めました結果、売上高490億２百万円（前連結会計年度比2.7％増）となりました",
+      "opinions": [
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 70,
+          "to": 73
+        }
+      ]
+    },
+    {
+      "sentence_id": 30,
+      "sentence": "(建設機械部門)",
+      "opinions": []
+    },
+    {
+      "sentence_id": 31,
+      "sentence": "建設機械部門につきましては、公共事業の減少などによりレンタル業者の機械稼働率が低下し、油圧ショベルなどの新規設備投資が低調に推移しましたが、期の後半にかけ、政府の経済政策の効果などを背景に需要に回復の動きがみられました",
+      "opinions": [
+        {
+          "target": "公共事業",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 14,
+          "to": 18
+        },
+        {
+          "target": "機械稼働率",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 33,
+          "to": 38
+        },
+        {
+          "target": "新規設備投資",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 52,
+          "to": 58
+        },
+        {
+          "target": "需要",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 94,
+          "to": 96
+        }
+      ]
+    },
+    {
+      "sentence_id": 32,
+      "sentence": "また、海外向け中古建設機械オークション事業は、中古機械の流通量の減少などがみられましたが、商品の拡充に注力いたしました",
+      "opinions": [
+        {
+          "target": "流通量",
+          "category": "NULL#amount",
+          "polarity": "negative",
+          "from": 28,
+          "to": 31
+        }
+      ]
+    },
+    {
+      "sentence_id": 33,
+      "sentence": "このような状況の中、国内では国土強靭化に対応した取扱商品の拡充や、ミニショベル・ローラーなどの土木・舗装機械、屋内作業向け高所作業車、小型機器などの拡販に努めるとともに、海外では、東南アジア向けに高所作業車などの建設機械の販売に注力いたしました結果、売上高は351億56百万円（前連結会計年度比1.1％増）となりました",
+      "opinions": [
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 125,
+          "to": 128
+        }
+      ]
+    },
+    {
+      "sentence_id": 34,
+      "sentence": "(エネルギー部門)",
+      "opinions": []
+    },
+    {
+      "sentence_id": 35,
+      "sentence": "エネルギー部門につきましては、ガソリン価格等に一部回復傾向はみられたものの、依然として石油製品の価格は低水準で推移しました",
+      "opinions": [
+        {
+          "target": "ガソリン価格",
+          "category": "NULL#price",
+          "polarity": "positive",
+          "from": 15,
+          "to": 21
+        },
+        {
+          "target": "価格",
+          "category": "NULL#price",
+          "polarity": "negative",
+          "from": 48,
+          "to": 50
+        }
+      ]
+    },
+    {
+      "sentence_id": 36,
+      "sentence": "このような状況の中、一般石油製品・潤滑油の新規開拓・拡販や新商材の販売に努めました結果、売上高は263億３百万円（前連結会計年度比7.7％減）となりました",
+      "opinions": [
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "negative",
+          "from": 44,
+          "to": 47
+        }
+      ]
+    },
+    {
+      "sentence_id": 37,
+      "sentence": "(その他)",
+      "opinions": []
+    },
+    {
+      "sentence_id": 38,
+      "sentence": "その他の部門につきましては、消費財事業では、主力のコタツなどの冬物季節家電の販売が低迷するなか、調理家電や照明機器などプライベートブランド商品の拡販に注力いたしました",
+      "opinions": [
+        {
+          "target": "冬物季節家電",
+          "category": "product#amount",
+          "polarity": "negative",
+          "from": 31,
+          "to": 37
+        }
+      ]
+    },
+    {
+      "sentence_id": 39,
+      "sentence": "木材事業では、為替の変動に伴う競争の激化から、輸入木材は厳しい販売状況が続きました",
+      "opinions": [
+        {
+          "target": "競争",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 15,
+          "to": 17
+        },
+        {
+          "target": "輸入木材",
+          "category": "product#amount",
+          "polarity": "negative",
+          "from": 23,
+          "to": 27
+        }
+      ]
+    },
+    {
+      "sentence_id": 40,
+      "sentence": "このような状況の中、非住宅用向けにインドネシアからの合板の輸入販売やベトナム・中国からは木質梱包材の輸入販売に注力いたしました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 41,
+      "sentence": "この結果、その他の部門の売上高は220億42百万円（前連結会計年度比5.2％減）となりました",
+      "opinions": [
+        {
+          "target": "部門",
+          "category": "business#sales",
+          "polarity": "negative",
+          "from": 9,
+          "to": 11
+        }
+      ]
+    }
+  ]
+}

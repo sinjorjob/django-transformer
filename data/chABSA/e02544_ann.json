@@ -1,0 +1,234 @@
+{
+  "header": {
+    "document_id": "E02544",
+    "document_name": "日産東京販売ホールディングス株式会社",
+    "doc_text": "有価証券報告書",
+    "edi_id": "E02544",
+    "security_code": "82910",
+    "category33": "小売業",
+    "category17": "小売",
+    "scale": "7"
+  },
+  "sentences": [
+    {
+      "sentence_id": 0,
+      "sentence": "当社グループの当連結会計年度の業績は、売上高は149,525百万円（前連結会計年度比3,717百万円増、2.5％増）、営業利益は5,029百万円（前連結会計年度比809百万円増、19.2％増）、経常利益は4,475百万円（前連結会計年度比873百万円増、24.3％増）、親会社株主に帰属する当期純利益は3,990百万円（前連結会計年度比598百万円増、17.6％増）となり、昨年に引き続き増収増益となりました",
+      "opinions": [
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 19,
+          "to": 22
+        },
+        {
+          "target": "営業利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 59,
+          "to": 63
+        },
+        {
+          "target": "経常利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 97,
+          "to": 101
+        },
+        {
+          "target": "当期純利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 145,
+          "to": 150
+        }
+      ]
+    },
+    {
+      "sentence_id": 1,
+      "sentence": "当社グループは、自動車関連事業及び情報システム関連事業を主な事業として展開しており、当連結会計年度の報告セグメントごとの業績は次のとおりであります",
+      "opinions": []
+    },
+    {
+      "sentence_id": 2,
+      "sentence": "当連結会計年度における全国の新車販売台数は、登録車の販売が好調に推移した結果、前年同期比2.8％増と好調に推移いたしました",
+      "opinions": [
+        {
+          "target": "新車販売台数",
+          "category": "NULL#amount",
+          "polarity": "positive",
+          "from": 14,
+          "to": 20
+        },
+        {
+          "target": "登録車",
+          "category": "product#general",
+          "polarity": "positive",
+          "from": 22,
+          "to": 25
+        }
+      ]
+    },
+    {
+      "sentence_id": 3,
+      "sentence": "当社グループのマーケットである東京都内の新車販売台数につきましても、同2.3％増となっております",
+      "opinions": [
+        {
+          "target": "新車販売台数",
+          "category": "NULL#amount",
+          "polarity": "positive",
+          "from": 20,
+          "to": 26
+        }
+      ]
+    },
+    {
+      "sentence_id": 4,
+      "sentence": "当社グループの新車販売台数は、軽自動車の「デイズ」「デイズルークス」（ＯＥＭ車）の販売停止の影響やカナダ子会社を事業譲渡したことなどにより、30,608台（前年同期比1,819台減、5.6％減）となりました",
+      "opinions": [
+        {
+          "target": "新車販売台数",
+          "category": "NULL#amount",
+          "polarity": "negative",
+          "from": 7,
+          "to": 13
+        }
+      ]
+    },
+    {
+      "sentence_id": 5,
+      "sentence": "上半期は「デイズ」「デイズルークス」（ＯＥＭ車）の販売停止などにより苦戦いたしましたが、「お客さまとのお取引機会の最大化」の取り組み、「お客さまのニーズにあわせた提案型営業による付加価値販売」の定着によりその影響を最小限に留め、例年並みの営業利益を確保いたしました",
+      "opinions": [
+        {
+          "target": "営業利益",
+          "category": "NULL#profit",
+          "polarity": "neutral",
+          "from": 119,
+          "to": 123
+        }
+      ]
+    },
+    {
+      "sentence_id": 6,
+      "sentence": "下半期につきましては、セレナ・ノートの新型車効果により当該車種の販売台数が大きく伸張した結果、カナダ子会社の事業譲渡による台数減をカバーし、新車販売台数が前年同期比1,306台増、7.6％増となり、売上高・売上利益ともに大幅に向上いたしました",
+      "opinions": [
+        {
+          "target": "セレナ",
+          "category": "product#amount",
+          "polarity": "positive",
+          "from": 11,
+          "to": 14
+        },
+        {
+          "target": "ノート",
+          "category": "product#amount",
+          "polarity": "positive",
+          "from": 15,
+          "to": 18
+        },
+        {
+          "target": "新車販売台数",
+          "category": "NULL#amount",
+          "polarity": "positive",
+          "from": 70,
+          "to": 76
+        },
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 99,
+          "to": 102
+        },
+        {
+          "target": "売上利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 103,
+          "to": 107
+        }
+      ]
+    },
+    {
+      "sentence_id": 7,
+      "sentence": "これらの結果、自動車関連事業の当連結会計年度の業績は、売上高は140,140百万円（前連結会計年度比894百万円増、0.6％増）、セグメント利益（営業利益）は5,371百万円（前連結会計年度比773百万円増、16.8％増）と増収増益となりました",
+      "opinions": [
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 27,
+          "to": 30
+        },
+        {
+          "target": "セグメント利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 65,
+          "to": 72
+        }
+      ]
+    },
+    {
+      "sentence_id": 8,
+      "sentence": "データセンターなどの第三世代ビジネス（クラウド・ビッグデータなど）は堅調に推移するとともに、大規模なパソコン代替案件などハードウェアビジネスが伸長したことにより、売上高は8,974百万円（前連結会計年度比2,869百万円増、47.0％増）、セグメント利益（営業利益）は371百万円（前連結会計年度比158百万円増、74.4％増）と増収増益となりました",
+      "opinions": [
+        {
+          "target": "第三世代ビジネス",
+          "category": "business#general",
+          "polarity": "positive",
+          "from": 10,
+          "to": 18
+        },
+        {
+          "target": "第三世代ビジネス",
+          "category": "business#sales",
+          "polarity": "positive",
+          "from": 10,
+          "to": 18
+        },
+        {
+          "target": "第三世代ビジネス",
+          "category": "business#profit",
+          "polarity": "positive",
+          "from": 10,
+          "to": 18
+        },
+        {
+          "target": "ハードウェアビジネス",
+          "category": "business#general",
+          "polarity": "positive",
+          "from": 60,
+          "to": 70
+        }
+      ]
+    },
+    {
+      "sentence_id": 9,
+      "sentence": "その他の事業である不動産事業につきましては、外部顧客への賃貸契約が減少した結果、売上高は410百万円（前連結会計年度比47百万円減、10.3％減）、セグメント利益（営業利益）は125百万円（前連結会計年度比11百万円減、8.6％減）となりました",
+      "opinions": [
+        {
+          "target": "不動産事業",
+          "category": "business#sales",
+          "polarity": "negative",
+          "from": 9,
+          "to": 14
+        },
+        {
+          "target": "不動産事業",
+          "category": "business#profit",
+          "polarity": "negative",
+          "from": 9,
+          "to": 14
+        },
+        {
+          "target": "賃貸契約",
+          "category": "product#amount",
+          "polarity": "negative",
+          "from": 28,
+          "to": 32
+        }
+      ]
+    }
+  ]
+}

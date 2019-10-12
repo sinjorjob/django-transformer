@@ -1,0 +1,324 @@
+{
+  "header": {
+    "document_id": "E04191",
+    "document_name": "ニッコンホールディングス株式会社",
+    "doc_text": "有価証券報告書",
+    "edi_id": "E04191",
+    "security_code": "90720",
+    "category33": "陸運業",
+    "category17": "運輸・物流",
+    "scale": "4"
+  },
+  "sentences": [
+    {
+      "sentence_id": 0,
+      "sentence": "当連結会計年度におけるわが国経済は、政府による経済政策や日銀による金融政策により、景気は緩やかな回復基調で推移いたしましたが、個人消費の伸び悩みや海外情勢の不透明感などにより、依然として予断を許さない状況にあります",
+      "opinions": [
+        {
+          "target": "わが国経済",
+          "category": "NULL#general",
+          "polarity": "neutral",
+          "from": 11,
+          "to": 16
+        },
+        {
+          "target": "景気",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 41,
+          "to": 43
+        },
+        {
+          "target": "個人消費",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 63,
+          "to": 67
+        },
+        {
+          "target": "海外情勢",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 73,
+          "to": 77
+        }
+      ]
+    },
+    {
+      "sentence_id": 1,
+      "sentence": "物流業界におきましては、燃料価格が緩やかな上昇に転じたことに加え、ドライバー不足や競争の激化などにより厳しい経営環境で推移いたしました",
+      "opinions": [
+        {
+          "target": "物流業界",
+          "category": "market#general",
+          "polarity": "negative",
+          "from": 0,
+          "to": 4
+        },
+        {
+          "target": "燃料価格",
+          "category": "NULL#cost",
+          "polarity": "negative",
+          "from": 12,
+          "to": 16
+        },
+        {
+          "target": "競争",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 41,
+          "to": 43
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "sentence": "このような状況下にあって、当社グループは国内においては新潟県見附市、長野県松本市、三重県鈴鹿市、埼玉県小川町、熊本県菊陽町、石川県白山市、群馬県太田市、奈良県大和郡山市、北海道北広島市に倉庫及び作業場を新増設し、また海外においてはタイ国に倉庫を新設するなど業容の拡大に向け積極的な設備投資と営業活動を推進してまいりました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 3,
+      "sentence": "その結果、売上高は前年同期比3.0％増の1,793億12百万円となりました",
+      "opinions": [
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 5,
+          "to": 8
+        }
+      ]
+    },
+    {
+      "sentence_id": 4,
+      "sentence": "営業利益につきましては、業務の効率化などにより前年同期比3.5％増の181億30百万円となりました",
+      "opinions": [
+        {
+          "target": "営業利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 0,
+          "to": 4
+        },
+        {
+          "target": "業務",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 12,
+          "to": 14
+        }
+      ]
+    },
+    {
+      "sentence_id": 5,
+      "sentence": "経常利益につきましては、営業利益の増加に加え為替差損の減少などもあり前年同期比6.2％増の195億74百万円となりました",
+      "opinions": [
+        {
+          "target": "経常利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 0,
+          "to": 4
+        },
+        {
+          "target": "営業利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 12,
+          "to": 16
+        },
+        {
+          "target": "為替差損",
+          "category": "NULL#cost",
+          "polarity": "positive",
+          "from": 22,
+          "to": 26
+        }
+      ]
+    },
+    {
+      "sentence_id": 6,
+      "sentence": "親会社株主に帰属する当期純利益につきましては、前年同期比13.4％増の134億68百万円となりました",
+      "opinions": [
+        {
+          "target": "当期純利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 10,
+          "to": 15
+        }
+      ]
+    },
+    {
+      "sentence_id": 7,
+      "sentence": "セグメント別の業績は次のとおりであります",
+      "opinions": []
+    },
+    {
+      "sentence_id": 8,
+      "sentence": "①　運送事業",
+      "opinions": []
+    },
+    {
+      "sentence_id": 9,
+      "sentence": "貨物取扱量の増加により、売上高は前年同期比0.7％増の854億９百万円となりました",
+      "opinions": [
+        {
+          "target": "貨物取扱量",
+          "category": "NULL#amount",
+          "polarity": "positive",
+          "from": 0,
+          "to": 5
+        },
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 12,
+          "to": 15
+        }
+      ]
+    },
+    {
+      "sentence_id": 10,
+      "sentence": "営業利益は、減価償却費の増加などにより前年同期比10.3％減の43億27百万円となりました",
+      "opinions": [
+        {
+          "target": "営業利益",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 0,
+          "to": 4
+        },
+        {
+          "target": "減価償却費",
+          "category": "NULL#cost",
+          "polarity": "negative",
+          "from": 6,
+          "to": 11
+        }
+      ]
+    },
+    {
+      "sentence_id": 11,
+      "sentence": "②　倉庫事業",
+      "opinions": []
+    },
+    {
+      "sentence_id": 12,
+      "sentence": "積極的な設備投資を行ってまいりましたが、売上高は前年同期比0.9％増の264億95百万円にとどまりました",
+      "opinions": [
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 20,
+          "to": 23
+        }
+      ]
+    },
+    {
+      "sentence_id": 13,
+      "sentence": "営業利益は、減価償却費の増加などがありましたが、前年同期比0.1％増の58億42百万円となりました",
+      "opinions": [
+        {
+          "target": "営業利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 0,
+          "to": 4
+        },
+        {
+          "target": "減価償却費",
+          "category": "NULL#cost",
+          "polarity": "negative",
+          "from": 6,
+          "to": 11
+        }
+      ]
+    },
+    {
+      "sentence_id": 14,
+      "sentence": "③　梱包事業",
+      "opinions": []
+    },
+    {
+      "sentence_id": 15,
+      "sentence": "業務量の増加により、売上高は前年同期比7.1％増の421億32百万円となりました",
+      "opinions": [
+        {
+          "target": "業務量",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 0,
+          "to": 3
+        },
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 10,
+          "to": 13
+        }
+      ]
+    },
+    {
+      "sentence_id": 16,
+      "sentence": "営業利益は、増収効果や業務の効率化などにより前年同期比21.9％増の37億68百万円となりました",
+      "opinions": [
+        {
+          "target": "営業利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 0,
+          "to": 4
+        },
+        {
+          "target": "業務",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 11,
+          "to": 13
+        }
+      ]
+    },
+    {
+      "sentence_id": 17,
+      "sentence": "④　テスト事業",
+      "opinions": []
+    },
+    {
+      "sentence_id": 18,
+      "sentence": "業務量の増加により、売上高は前年同期比8.8％増の198億11百万円となりました",
+      "opinions": [
+        {
+          "target": "業務量",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 0,
+          "to": 3
+        },
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 10,
+          "to": 13
+        }
+      ]
+    },
+    {
+      "sentence_id": 19,
+      "sentence": "営業利益は、増収効果などにより前年同期比15.6％増の35億11百万円となりました",
+      "opinions": [
+        {
+          "target": "営業利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 0,
+          "to": 4
+        }
+      ]
+    }
+  ]
+}

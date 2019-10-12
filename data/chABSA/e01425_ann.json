@@ -1,0 +1,291 @@
+{
+  "header": {
+    "document_id": "E01425",
+    "document_name": "株式会社大谷工業",
+    "doc_text": "有価証券報告書",
+    "edi_id": "E01425",
+    "security_code": "59390",
+    "category33": "金属製品",
+    "category17": "建設・資材",
+    "scale": ""
+  },
+  "sentences": [
+    {
+      "sentence_id": 0,
+      "sentence": "当事業年度における我が国の経済は、雇用・所得環境の改善が続く中で、各種政策の効果もあり緩やかに回復していくことが期待されています",
+      "opinions": [
+        {
+          "target": "雇用",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 17,
+          "to": 19
+        },
+        {
+          "target": "所得環境",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 20,
+          "to": 24
+        }
+      ]
+    },
+    {
+      "sentence_id": 1,
+      "sentence": "しかし、アメリカの金融政策正常化の影響や、アジア・ヨーロッパの地政学的リスクや政策に関する不確実性の影響等に留意が必要です",
+      "opinions": []
+    },
+    {
+      "sentence_id": 2,
+      "sentence": "当社の主要な取引先である電力業界は、電力小売自由化によって業種や業態の垣根を越えたさまざまな企業が市場に参入し競争が本格化、さらに平成32年には発送電分離が迫るなど、大きな転換期に差し掛かっております",
+      "opinions": []
+    },
+    {
+      "sentence_id": 3,
+      "sentence": "通信業界は全般的に設備抑制傾向が続いており、工事量の減少と受注競争が激しさを増しております",
+      "opinions": [
+        {
+          "target": "工事量",
+          "category": "NULL#amount",
+          "polarity": "negative",
+          "from": 22,
+          "to": 25
+        },
+        {
+          "target": "受注競争",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 29,
+          "to": 33
+        }
+      ]
+    },
+    {
+      "sentence_id": 4,
+      "sentence": "建設業界においては、東京オリンピックに向けたインフラ整備や大規模都市開発の動きがより活発になり今後も繁忙が見込まれております",
+      "opinions": [
+        {
+          "target": "建設業界",
+          "category": "market#general",
+          "polarity": "positive",
+          "from": 0,
+          "to": 4
+        },
+        {
+          "target": "動き",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 37,
+          "to": 39
+        }
+      ]
+    },
+    {
+      "sentence_id": 5,
+      "sentence": "当社はこのような状況の中、各部門で一体となって拡販に努めましたが、売上高は5,631百万円と前期比74百万円（1.3％）の減少となりました",
+      "opinions": [
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "negative",
+          "from": 33,
+          "to": 36
+        }
+      ]
+    },
+    {
+      "sentence_id": 6,
+      "sentence": "利益面では売上総利益が1,302百万と前期比12百万円（1.0％）の増加、営業利益は333百万円と前期比16百万円（4.8％）の減少、経常利益は342百万円と前期比19百万円（5.3％）の減少となりました",
+      "opinions": [
+        {
+          "target": "売上総利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 5,
+          "to": 10
+        },
+        {
+          "target": "営業利益",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 37,
+          "to": 41
+        },
+        {
+          "target": "経常利益",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 67,
+          "to": 71
+        }
+      ]
+    },
+    {
+      "sentence_id": 7,
+      "sentence": "また、当期純利益は247百万円と前期比7百万円（3.0％）の増加となりました",
+      "opinions": [
+        {
+          "target": "当期純利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 3,
+          "to": 8
+        }
+      ]
+    },
+    {
+      "sentence_id": 8,
+      "sentence": "セグメントの業績は、次のとおりであります",
+      "opinions": []
+    },
+    {
+      "sentence_id": 9,
+      "sentence": "① 電力通信部門",
+      "opinions": []
+    },
+    {
+      "sentence_id": 10,
+      "sentence": "電力通信部門においては、４月度より開始した電力小売自由化による契約変更に伴う工事が集中したことで、通常の計画工事の進捗が遅れ当社関連商品も伸び悩む結果となりました",
+      "opinions": [
+        {
+          "target": "進捗",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 57,
+          "to": 59
+        },
+        {
+          "target": "当社関連商品",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 62,
+          "to": 68
+        }
+      ]
+    },
+    {
+      "sentence_id": 11,
+      "sentence": "通信業界においても電力と共用のコンクリートポールの建替工事が思うように進まず、架線金物の需要は低調に推移いたしました",
+      "opinions": [
+        {
+          "target": "建替工事",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 25,
+          "to": 29
+        },
+        {
+          "target": "需要",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 44,
+          "to": 46
+        }
+      ]
+    },
+    {
+      "sentence_id": 12,
+      "sentence": "また、鉄塔・鉄構他については鉄塔の新設・改造工事やボルトの取替工事などが減少したことにより売上高が減少しております",
+      "opinions": [
+        {
+          "target": "取替工事",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 29,
+          "to": 33
+        },
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "negative",
+          "from": 45,
+          "to": 48
+        }
+      ]
+    },
+    {
+      "sentence_id": 13,
+      "sentence": "この結果、売上高は4,087百万円と前期比139百万円（3.3％）の減少となりましたが、採算管理の徹底によりセグメント利益は567百万円と前期比7百万円（1.3％）の増加となりました",
+      "opinions": [
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "negative",
+          "from": 5,
+          "to": 8
+        },
+        {
+          "target": "セグメント利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 54,
+          "to": 61
+        }
+      ]
+    },
+    {
+      "sentence_id": 14,
+      "sentence": "② 建材部門",
+      "opinions": []
+    },
+    {
+      "sentence_id": 15,
+      "sentence": "建材部門においては、関東地区で東京オリンピックに向けたインフラ整備や都市開発が活発になってきましたが、工期遅れや設計見直しなどから需要は足踏みを続け、全体的に動きの鈍い状況が続いております",
+      "opinions": [
+        {
+          "target": "建材部門",
+          "category": "business#general",
+          "polarity": "negative",
+          "from": 0,
+          "to": 4
+        },
+        {
+          "target": "インフラ整備",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 27,
+          "to": 33
+        },
+        {
+          "target": "都市開発",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 34,
+          "to": 38
+        },
+        {
+          "target": "需要",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 65,
+          "to": 67
+        }
+      ]
+    },
+    {
+      "sentence_id": 16,
+      "sentence": "一方、九州、東海地区で拡販に努めカバーすることができました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 17,
+      "sentence": "この結果売上高は1,543百万円と前期比65百万円（4.4％）の増加、セグメント利益は129百万円と前期比18百万円（12.4％）の減少となりました",
+      "opinions": [
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 4,
+          "to": 7
+        },
+        {
+          "target": "セグメント利益",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 35,
+          "to": 42
+        }
+      ]
+    }
+  ]
+}

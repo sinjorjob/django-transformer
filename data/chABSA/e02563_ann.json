@@ -1,0 +1,668 @@
+{
+  "header": {
+    "document_id": "E02563",
+    "document_name": "明和産業株式会社",
+    "doc_text": "有価証券報告書",
+    "edi_id": "E02563",
+    "security_code": "81030",
+    "category33": "卸売業",
+    "category17": "商社・卸売",
+    "scale": "7"
+  },
+  "sentences": [
+    {
+      "sentence_id": 0,
+      "sentence": "当連結会計年度における世界経済は、米国ならびに欧州の景気は緩やかな拡大が続き、中国においても景気に回復の動きがみられました",
+      "opinions": [
+        {
+          "target": "景気",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 26,
+          "to": 28
+        },
+        {
+          "target": "景気",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 46,
+          "to": 48
+        }
+      ]
+    },
+    {
+      "sentence_id": 1,
+      "sentence": "また、我が国経済においても企業収益の改善や生産活動の増加等により景気は緩やかに回復しました",
+      "opinions": [
+        {
+          "target": "企業収益",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 13,
+          "to": 17
+        },
+        {
+          "target": "生産活動",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 21,
+          "to": 25
+        },
+        {
+          "target": "景気",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 32,
+          "to": 34
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "sentence": "当社グループの事業領域を取りまく環境は、国内市場は依然として市況が停滞しているものの、重点戦略国である中国は内需の増加等により持ち直しの傾向がみられました",
+      "opinions": [
+        {
+          "target": "市況",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 30,
+          "to": 32
+        },
+        {
+          "target": "中国",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 51,
+          "to": 53
+        },
+        {
+          "target": "内需",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 54,
+          "to": 56
+        }
+      ]
+    },
+    {
+      "sentence_id": 3,
+      "sentence": "一方で、米国の新政権による政策転換や欧州諸国の選挙など、欧米の政治動向に伴う影響、中国景気の再減速への懸念等もあり、先行きは不透明な状況が続いております",
+      "opinions": [
+        {
+          "target": "先行き",
+          "category": "NULL#general",
+          "polarity": "neutral",
+          "from": 58,
+          "to": 61
+        }
+      ]
+    },
+    {
+      "sentence_id": 4,
+      "sentence": "このような状況の下、当社グループは中期経営計画に基づき、引き続き潤滑油、電池関連部材、環境関連商材等の市場拡大に努め、アジア経済圏における商圏拡大に取り組んでまいりました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 5,
+      "sentence": "以上の結果、当連結会計年度の業績につきましては、化学品関連事業は、国内の需要が低迷した商品の影響もあり前年度を若干下回りましたが、石油製品関連事業は、国内取引は低調に推移したものの中国取引の回復により堅調に推移しました",
+      "opinions": [
+        {
+          "target": "化学品関連事業",
+          "category": "business#general",
+          "polarity": "negative",
+          "from": 24,
+          "to": 31
+        },
+        {
+          "target": "需要",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 36,
+          "to": 38
+        },
+        {
+          "target": "石油製品関連事業",
+          "category": "business#general",
+          "polarity": "positive",
+          "from": 65,
+          "to": 73
+        },
+        {
+          "target": "国内取引",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 75,
+          "to": 79
+        },
+        {
+          "target": "中国取引",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 90,
+          "to": 94
+        }
+      ]
+    },
+    {
+      "sentence_id": 6,
+      "sentence": "また、機能材料関連事業は、輸入取引の減少や市況の低迷等により低調に推移し、合成樹脂・建材関連事業は、輸出取引は回復したものの国内需要の低迷等により前年度を下回りました",
+      "opinions": [
+        {
+          "target": "機能材料関連事業",
+          "category": "business#general",
+          "polarity": "negative",
+          "from": 3,
+          "to": 11
+        },
+        {
+          "target": "輸入取引",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 13,
+          "to": 17
+        },
+        {
+          "target": "市況",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 21,
+          "to": 23
+        },
+        {
+          "target": "合成樹脂・建材関連事業",
+          "category": "business#general",
+          "polarity": "negative",
+          "from": 37,
+          "to": 48
+        },
+        {
+          "target": "輸出取引",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 50,
+          "to": 54
+        },
+        {
+          "target": "国内需要",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 62,
+          "to": 66
+        }
+      ]
+    },
+    {
+      "sentence_id": 7,
+      "sentence": "その結果、売上高は、1,347億６千４百万円（前年度比0.2％減）と若干の減収になりました",
+      "opinions": [
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "negative",
+          "from": 5,
+          "to": 8
+        }
+      ]
+    },
+    {
+      "sentence_id": 8,
+      "sentence": "また、利益面については、営業利益は、売上総利益率の向上等により22億８千万円（同7.9％増）となり、経常利益は、持分法による投資利益や受取配当金の増加等の影響もあり30億４千９百万円（同14.0％増）となりました",
+      "opinions": [
+        {
+          "target": "売上総利益率",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 18,
+          "to": 24
+        },
+        {
+          "target": "経常利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 50,
+          "to": 54
+        },
+        {
+          "target": "投資利益",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 62,
+          "to": 66
+        },
+        {
+          "target": "受取配当金",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 67,
+          "to": 72
+        }
+      ]
+    },
+    {
+      "sentence_id": 9,
+      "sentence": "これらの結果、親会社株主に帰属する当期純利益は、22億９千７百万円（同11.6％増）と増益になりました",
+      "opinions": [
+        {
+          "target": "当期純利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 17,
+          "to": 22
+        }
+      ]
+    },
+    {
+      "sentence_id": 10,
+      "sentence": "これをセグメント別に見ますと以下の通りとなっております",
+      "opinions": []
+    },
+    {
+      "sentence_id": 11,
+      "sentence": "なお、当連結会計年度より、当社グループの化学品・石油製品事業について専門性強化を図るため、当社は、化学品・石油製品本部を分割し、化学品本部と石油製品本部に組織変更を行いました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 12,
+      "sentence": "当社グループは、従来報告セグメントを「化学品・石油製品関連事業」「機能材料関連事業」「合成樹脂・建材関連事業」に区分しておりましたが、上記組織構造の変更に伴い業績管理区分を変更したことにより、「化学品関連事業」「石油製品関連事業」「機能材料関連事業」「合成樹脂・建材関連事業」といたしました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 13,
+      "sentence": "なお、前連結会計年度のセグメント情報については、変更後の区分方法により作成したものを記載しております",
+      "opinions": []
+    },
+    {
+      "sentence_id": 14,
+      "sentence": "①化学品関連事業",
+      "opinions": []
+    },
+    {
+      "sentence_id": 15,
+      "sentence": "有機中間原料は、トナー、電材関連原料及び潤滑油関連原料は堅調に推移したものの、医薬中間原料及び建築資材原料が低調に推移しました",
+      "opinions": [
+        {
+          "target": "トナー",
+          "category": "product#general",
+          "polarity": "positive",
+          "from": 8,
+          "to": 11
+        },
+        {
+          "target": "電材関連原料",
+          "category": "product#general",
+          "polarity": "positive",
+          "from": 12,
+          "to": 18
+        },
+        {
+          "target": "潤滑油関連原料",
+          "category": "product#general",
+          "polarity": "positive",
+          "from": 20,
+          "to": 27
+        },
+        {
+          "target": "医薬中間原料",
+          "category": "product#general",
+          "polarity": "negative",
+          "from": 39,
+          "to": 45
+        },
+        {
+          "target": "建築資材原料",
+          "category": "product#general",
+          "polarity": "negative",
+          "from": 47,
+          "to": 53
+        }
+      ]
+    },
+    {
+      "sentence_id": 16,
+      "sentence": "また製紙薬剤関連原料は前年度実績を下回りましたものの、炭素製品は堅調に推移し、インキ用原料は前年度並みとなりました",
+      "opinions": [
+        {
+          "target": "製紙薬剤関連原料",
+          "category": "product#general",
+          "polarity": "negative",
+          "from": 2,
+          "to": 10
+        },
+        {
+          "target": "炭素製品",
+          "category": "product#general",
+          "polarity": "positive",
+          "from": 27,
+          "to": 31
+        },
+        {
+          "target": "インキ用原料",
+          "category": "product#general",
+          "polarity": "neutral",
+          "from": 39,
+          "to": 45
+        }
+      ]
+    },
+    {
+      "sentence_id": 17,
+      "sentence": "一方、無機薬品関連は堅調に推移しました",
+      "opinions": [
+        {
+          "target": "無機薬品関連",
+          "category": "product#general",
+          "polarity": "positive",
+          "from": 3,
+          "to": 9
+        }
+      ]
+    },
+    {
+      "sentence_id": 18,
+      "sentence": "その結果、売上高は336億４千万円（前年度比0.5％減）となりました",
+      "opinions": [
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "negative",
+          "from": 5,
+          "to": 8
+        }
+      ]
+    },
+    {
+      "sentence_id": 19,
+      "sentence": "また、セグメント利益につきましては、４億１千５百万円（同3.2％減）となりました",
+      "opinions": [
+        {
+          "target": "セグメント利益",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 3,
+          "to": 10
+        }
+      ]
+    },
+    {
+      "sentence_id": 20,
+      "sentence": "②石油製品関連事業",
+      "opinions": []
+    },
+    {
+      "sentence_id": 21,
+      "sentence": "石油製品は、国内取引は低調に推移しましたが、貿易取引は中国への輸出が回復し堅調に推移しました",
+      "opinions": [
+        {
+          "target": "石油製品",
+          "category": "product#general",
+          "polarity": "positive",
+          "from": 0,
+          "to": 4
+        },
+        {
+          "target": "国内取引",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 6,
+          "to": 10
+        },
+        {
+          "target": "輸出",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 31,
+          "to": 33
+        }
+      ]
+    },
+    {
+      "sentence_id": 22,
+      "sentence": "また、中国国内取引は建機、農機及び空調機等の主要対面業界に回復の兆しが見られ堅調に推移しました",
+      "opinions": [
+        {
+          "target": "建機",
+          "category": "product#general",
+          "polarity": "positive",
+          "from": 10,
+          "to": 12
+        },
+        {
+          "target": "農機",
+          "category": "product#general",
+          "polarity": "positive",
+          "from": 13,
+          "to": 15
+        },
+        {
+          "target": "空調機",
+          "category": "product#general",
+          "polarity": "positive",
+          "from": 17,
+          "to": 20
+        }
+      ]
+    },
+    {
+      "sentence_id": 23,
+      "sentence": "その結果、売上高は363億５千万円（前年度比13.3％増）となりました",
+      "opinions": [
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 5,
+          "to": 8
+        }
+      ]
+    },
+    {
+      "sentence_id": 24,
+      "sentence": "また、セグメント利益につきましては、９億６千４百万円（同37.4％増）となりました",
+      "opinions": [
+        {
+          "target": "セグメント利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 3,
+          "to": 10
+        }
+      ]
+    },
+    {
+      "sentence_id": 25,
+      "sentence": "③機能材料関連事業",
+      "opinions": []
+    },
+    {
+      "sentence_id": 26,
+      "sentence": "電池関連部材は、自動車向けの電池材料等が前年度実績を下回りましたが、ほぼ堅調に推移しました",
+      "opinions": [
+        {
+          "target": "電池関連部材",
+          "category": "business#general",
+          "polarity": "positive",
+          "from": 0,
+          "to": 6
+        },
+        {
+          "target": "電池材料",
+          "category": "product#general",
+          "polarity": "negative",
+          "from": 14,
+          "to": 18
+        }
+      ]
+    },
+    {
+      "sentence_id": 27,
+      "sentence": "また、難燃剤は主力製品の市況が回復し堅調に推移しました",
+      "opinions": [
+        {
+          "target": "難燃剤",
+          "category": "product#general",
+          "polarity": "positive",
+          "from": 3,
+          "to": 6
+        },
+        {
+          "target": "市況",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 12,
+          "to": 14
+        }
+      ]
+    },
+    {
+      "sentence_id": 28,
+      "sentence": "一方、レアアースは、相場低迷及び取扱量の減少により低調に推移しました",
+      "opinions": [
+        {
+          "target": "レアアース",
+          "category": "product#general",
+          "polarity": "negative",
+          "from": 3,
+          "to": 8
+        },
+        {
+          "target": "レアアース",
+          "category": "product#amount",
+          "polarity": "negative",
+          "from": 3,
+          "to": 8
+        }
+      ]
+    },
+    {
+      "sentence_id": 29,
+      "sentence": "その結果、売上高は132億７千２百万円（前年度比19.8％減）となりました",
+      "opinions": [
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "negative",
+          "from": 5,
+          "to": 8
+        }
+      ]
+    },
+    {
+      "sentence_id": 30,
+      "sentence": "また、セグメント利益につきましては、市況回復等による利益率の改善で３億１千６百万円（同23.9％増）となりました",
+      "opinions": [
+        {
+          "target": "セグメント利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 3,
+          "to": 10
+        },
+        {
+          "target": "利益率",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 26,
+          "to": 29
+        }
+      ]
+    },
+    {
+      "sentence_id": 31,
+      "sentence": "④合成樹脂・建材関連事業",
+      "opinions": []
+    },
+    {
+      "sentence_id": 32,
+      "sentence": "合成樹脂は、フィルム関連、アミューズメント関連及びフォーム製品関連の国内取引が低調に推移しました",
+      "opinions": [
+        {
+          "target": "フィルム関連",
+          "category": "product#general",
+          "polarity": "negative",
+          "from": 6,
+          "to": 12
+        },
+        {
+          "target": "アミューズメント関連",
+          "category": "product#general",
+          "polarity": "negative",
+          "from": 13,
+          "to": 23
+        },
+        {
+          "target": "フォーム製品関連",
+          "category": "product#general",
+          "polarity": "negative",
+          "from": 25,
+          "to": 33
+        }
+      ]
+    },
+    {
+      "sentence_id": 33,
+      "sentence": "また、建材は断熱材及び防水資材が前年度並みに推移しました",
+      "opinions": [
+        {
+          "target": "断熱材",
+          "category": "product#general",
+          "polarity": "neutral",
+          "from": 6,
+          "to": 9
+        },
+        {
+          "target": "防水資材",
+          "category": "product#general",
+          "polarity": "neutral",
+          "from": 11,
+          "to": 15
+        }
+      ]
+    },
+    {
+      "sentence_id": 34,
+      "sentence": "一方、金属製品はタービンロータ等の輸出取引が回復しました",
+      "opinions": [
+        {
+          "target": "金属製品",
+          "category": "product#amount",
+          "polarity": "positive",
+          "from": 3,
+          "to": 7
+        },
+        {
+          "target": "タービンロータ",
+          "category": "product#amount",
+          "polarity": "positive",
+          "from": 8,
+          "to": 15
+        }
+      ]
+    },
+    {
+      "sentence_id": 35,
+      "sentence": "その結果、売上高は506億５千３百万円（前年度比1.8％減）となりました",
+      "opinions": [
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "negative",
+          "from": 5,
+          "to": 8
+        }
+      ]
+    },
+    {
+      "sentence_id": 36,
+      "sentence": "また、セグメント利益につきましては、４億９千７百万円（同11.7％減）となりました",
+      "opinions": [
+        {
+          "target": "セグメント利益",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 3,
+          "to": 10
+        }
+      ]
+    }
+  ]
+}

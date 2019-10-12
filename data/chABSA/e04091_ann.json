@@ -1,0 +1,385 @@
+{
+  "header": {
+    "document_id": "E04091",
+    "document_name": "京成電鉄株式会社",
+    "doc_text": "有価証券報告書",
+    "edi_id": "E04091",
+    "security_code": "90090",
+    "category33": "陸運業",
+    "category17": "運輸・物流",
+    "scale": "4"
+  },
+  "sentences": [
+    {
+      "sentence_id": 0,
+      "sentence": "当連結会計年度におけるわが国経済は、経済対策等を背景に雇用情勢が改善するなど、緩やかな回復基調にあるが、海外経済の不確実性に加え、個人消費や企業収益の改善に足踏みが見られるなど、先行き不透明な状況で推移した",
+      "opinions": [
+        {
+          "target": "わが国経済",
+          "category": "NULL#general",
+          "polarity": "neutral",
+          "from": 11,
+          "to": 16
+        },
+        {
+          "target": "雇用情勢",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 27,
+          "to": 31
+        },
+        {
+          "target": "海外経済",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 52,
+          "to": 56
+        },
+        {
+          "target": "個人消費",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 65,
+          "to": 69
+        },
+        {
+          "target": "企業収益",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 70,
+          "to": 74
+        }
+      ]
+    },
+    {
+      "sentence_id": 1,
+      "sentence": "このような状況の中で、当社グループは、全事業にわたり積極的な営業活動を展開するとともに、より一層の経費削減に取り組むなど、業績の向上に努めたほか、「ＢＭＫ（ベストマナー向上）推進運動」にも引き続き取り組み、お客様サービスの向上を図った",
+      "opinions": []
+    },
+    {
+      "sentence_id": 2,
+      "sentence": "その結果、全事業営業収益は2,458億３千７百万円（前期比2.1％減）となったが、全事業営業利益は300億４千８百万円（前期比6.4％増）となった",
+      "opinions": [
+        {
+          "target": "全事業営業収益",
+          "category": "NULL#sales",
+          "polarity": "negative",
+          "from": 5,
+          "to": 12
+        },
+        {
+          "target": "全事業営業利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 41,
+          "to": 48
+        }
+      ]
+    },
+    {
+      "sentence_id": 3,
+      "sentence": "経常利益は470億６千４百万円（前期比10.6％増）となり、親会社株主に帰属する当期純利益は357億１千１百万円（前期比15.2％増）となった",
+      "opinions": [
+        {
+          "target": "経常利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 0,
+          "to": 4
+        },
+        {
+          "target": "当期純利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 40,
+          "to": 45
+        }
+      ]
+    },
+    {
+      "sentence_id": 4,
+      "sentence": "(運輸業)",
+      "opinions": []
+    },
+    {
+      "sentence_id": 5,
+      "sentence": "鉄道事業では、安全輸送確保の取り組みとして、高架橋の耐震補強工事等を実施したほか、昨年12月にデジタルＡＴＳの全線における設置が完了した",
+      "opinions": []
+    },
+    {
+      "sentence_id": 6,
+      "sentence": "大規模工事については、押上線連続立体化工事において、本年３月に墨田区内の事業が完了したほか、葛飾区内の仮下り線工事を推進した",
+      "opinions": []
+    },
+    {
+      "sentence_id": 7,
+      "sentence": "また、本年３月に千住大橋駅の駅舎改良工事が完了した",
+      "opinions": []
+    },
+    {
+      "sentence_id": 8,
+      "sentence": "営業面では、昨年11月にダイヤ改正を行い、スカイライナー及びアクセス特急を増発したほか、千葉線・千原線において、一部列車を除き４両編成を６両編成とすることにより、輸送力の増強を図った",
+      "opinions": []
+    },
+    {
+      "sentence_id": 9,
+      "sentence": "また、訪日外国人の利便性向上に向け、「スカイライナー＆京成インフォメーションセンター」を成田空港駅構内にオープンしたことに加え、自動券売機の多言語化を京成線全駅で行った",
+      "opinions": []
+    },
+    {
+      "sentence_id": 10,
+      "sentence": "このほか、「京成スカイライナー＆東京サブウェイチケット」の海外旅行会社における販売を拡大するとともに、スカイライナーと帝都タクシーがセットで利用できる企画乗車券「京成スカイライナー＆帝都タクシー」を発売するなど、各種営業施策を実施した",
+      "opinions": []
+    },
+    {
+      "sentence_id": 11,
+      "sentence": "バス事業では、一般乗合バス路線において、既存路線の増便や系統新設等を実施した",
+      "opinions": []
+    },
+    {
+      "sentence_id": 12,
+      "sentence": "高速バス路線においては、成田空港・芝山町と大崎駅を結ぶ「成田シャトル」等の運行を開始したほか、需要に合わせた「東京シャトル」のダイヤ改正等を実施した",
+      "opinions": []
+    },
+    {
+      "sentence_id": 13,
+      "sentence": "また、訪日外国人向けに京成バス株式会社において、スマートフォンを活用した通訳サービスを導入した",
+      "opinions": []
+    },
+    {
+      "sentence_id": 14,
+      "sentence": "タクシー事業では、電話回線混雑時でもスムーズな配車を可能にする自動音声配車システムを拡大し、お客様サービスの向上を図った",
+      "opinions": []
+    },
+    {
+      "sentence_id": 15,
+      "sentence": "また、葛飾区のタクシー会社より事業を譲受し、昨年８月から帝都葛飾交通株式会社として営業を開始した",
+      "opinions": []
+    },
+    {
+      "sentence_id": 16,
+      "sentence": "以上の結果、訪日外国人増加の影響等により、営業収益は1,443億２千２百万円（前期比3.1％増）となり、営業利益は212億８千７百万円（前期比15.9％増）となった",
+      "opinions": [
+        {
+          "target": "営業収益",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 21,
+          "to": 25
+        },
+        {
+          "target": "営業利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 52,
+          "to": 56
+        }
+      ]
+    },
+    {
+      "sentence_id": 17,
+      "sentence": "(業種別営業成績表)",
+      "opinions": []
+    },
+    {
+      "sentence_id": 18,
+      "sentence": "提出会社の鉄道事業運輸成績表",
+      "opinions": []
+    },
+    {
+      "sentence_id": 19,
+      "sentence": "(流通業)",
+      "opinions": []
+    },
+    {
+      "sentence_id": 20,
+      "sentence": "百貨店業では、新規ブランドを導入したほか、新店開店10周年を記念した各種イベントを開催するなど、販売の強化に努めた",
+      "opinions": []
+    },
+    {
+      "sentence_id": 21,
+      "sentence": "ストア業では、リブレ京成江戸川駅前店の改装工事を実施したほか、京成津田沼駅及び青砥駅構内にコンビニエンスストアの新店舗をオープンするなど、収益の拡大に努めた",
+      "opinions": []
+    },
+    {
+      "sentence_id": 22,
+      "sentence": "ショッピングセンター業では、ユアエルム八千代台店が新規出店テナントを加えてリニューアルオープンし、集客を図った",
+      "opinions": []
+    },
+    {
+      "sentence_id": 23,
+      "sentence": "しかしながら、営業収益は684億１千５百万円（前期比1.9％減）となり、営業利益は９億２千１百万円（前期比20.9％減）となった",
+      "opinions": [
+        {
+          "target": "営業収益",
+          "category": "NULL#sales",
+          "polarity": "negative",
+          "from": 7,
+          "to": 11
+        },
+        {
+          "target": "営業利益",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 36,
+          "to": 40
+        }
+      ]
+    },
+    {
+      "sentence_id": 24,
+      "sentence": "(業種別営業成績表)",
+      "opinions": []
+    },
+    {
+      "sentence_id": 25,
+      "sentence": "(不動産業)",
+      "opinions": []
+    },
+    {
+      "sentence_id": 26,
+      "sentence": "不動産販売業では、「サングランデ　ザ・レジデンス千葉」及び「サングランデ松戸」の中高層住宅を販売した",
+      "opinions": []
+    },
+    {
+      "sentence_id": 27,
+      "sentence": "また、中高層住宅予定地として習志野市鷺沼台土地を取得した",
+      "opinions": []
+    },
+    {
+      "sentence_id": 28,
+      "sentence": "不動産賃貸業では、江東区潮見のビジネスホテル、土浦市生田町及び曳舟高架下の商業施設のほか、船橋高架下において、保育施設が稼働した",
+      "opinions": []
+    },
+    {
+      "sentence_id": 29,
+      "sentence": "また、四街道市大日の商業施設や墨田区業平の賃貸施設等を取得した",
+      "opinions": []
+    },
+    {
+      "sentence_id": 30,
+      "sentence": "しかしながら、営業収益は174億５千７百万円（前期比21.0％減）となり、営業利益は56億２千１百万円（前期比16.3％減）となった",
+      "opinions": [
+        {
+          "target": "営業収益",
+          "category": "NULL#sales",
+          "polarity": "negative",
+          "from": 7,
+          "to": 11
+        },
+        {
+          "target": "営業利益",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 37,
+          "to": 41
+        }
+      ]
+    },
+    {
+      "sentence_id": 31,
+      "sentence": "(業種別営業成績表)",
+      "opinions": []
+    },
+    {
+      "sentence_id": 32,
+      "sentence": "(レジャー・サービス業)",
+      "opinions": []
+    },
+    {
+      "sentence_id": 33,
+      "sentence": "ホテル業では、京成ホテルミラマーレにおいて、各種宿泊プランを企画するなど、新規顧客の獲得に努めた",
+      "opinions": []
+    },
+    {
+      "sentence_id": 34,
+      "sentence": "旅行業では、新しい商品の企画・催行により、営業力の強化を図った",
+      "opinions": []
+    },
+    {
+      "sentence_id": 35,
+      "sentence": "以上の結果、営業収益は101億６千６百万円（前期比0.5％増）となり、営業利益は３億２百万円（前期比7.5％増）となった",
+      "opinions": [
+        {
+          "target": "営業収益",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 6,
+          "to": 10
+        },
+        {
+          "target": "営業利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 35,
+          "to": 39
+        }
+      ]
+    },
+    {
+      "sentence_id": 36,
+      "sentence": "(業種別営業成績表)",
+      "opinions": []
+    },
+    {
+      "sentence_id": 37,
+      "sentence": "(建設業)",
+      "opinions": []
+    },
+    {
+      "sentence_id": 38,
+      "sentence": "建設業では、鉄道施設改良工事や分譲マンションの新築工事等を行ったほか、新規受注先の拡大に努めた",
+      "opinions": []
+    },
+    {
+      "sentence_id": 39,
+      "sentence": "以上の結果、営業収益は216億７千３百万円（前期比13.3％減）となったが、営業利益は15億円（前期比21.2％増）となった",
+      "opinions": [
+        {
+          "target": "営業収益",
+          "category": "NULL#sales",
+          "polarity": "negative",
+          "from": 6,
+          "to": 10
+        },
+        {
+          "target": "営業利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 38,
+          "to": 42
+        }
+      ]
+    },
+    {
+      "sentence_id": 40,
+      "sentence": "(その他の事業)",
+      "opinions": []
+    },
+    {
+      "sentence_id": 41,
+      "sentence": "その他の事業の営業収益は50億６千４百万円（前期比1.5％増）となったが、営業利益は２億６千６百万円（前期比24.8％減）となった",
+      "opinions": [
+        {
+          "target": "営業収益",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 7,
+          "to": 11
+        },
+        {
+          "target": "営業利益",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 37,
+          "to": 41
+        }
+      ]
+    },
+    {
+      "sentence_id": 42,
+      "sentence": "(業種別営業成績表)",
+      "opinions": []
+    }
+  ]
+}

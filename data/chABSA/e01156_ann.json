@@ -1,0 +1,526 @@
+{
+  "header": {
+    "document_id": "E01156",
+    "document_name": "リソルホールディングス株式会社",
+    "doc_text": "有価証券報告書",
+    "edi_id": "E01156",
+    "security_code": "52610",
+    "category33": "サービス業",
+    "category17": "情報通信・サービスその他",
+    "scale": "7"
+  },
+  "sentences": [
+    {
+      "sentence_id": 0,
+      "sentence": "事業の経過及び成果",
+      "opinions": []
+    },
+    {
+      "sentence_id": 1,
+      "sentence": "当連結会計年度におけるわが国経済は、政府や日銀による経済・金融対策などにより、企業収益や雇用情勢の改善等から緩やかな回復基調にあるものの、個人消費の低迷とともに、中国をはじめとするアジアなどの新興国の経済成長の減速や、ＥＵやアメリカ新政権の動向による企業業績への影響が懸念されるなど、依然として先行きの不透明な状況が続いております",
+      "opinions": [
+        {
+          "target": "企業収益",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 39,
+          "to": 43
+        },
+        {
+          "target": "雇用情勢",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 44,
+          "to": 48
+        },
+        {
+          "target": "個人消費",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 69,
+          "to": 73
+        },
+        {
+          "target": "経済成長",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 100,
+          "to": 104
+        },
+        {
+          "target": "先行き",
+          "category": "NULL#general",
+          "polarity": "neutral",
+          "from": 147,
+          "to": 150
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "sentence": "このような経営環境下、当社グループにおきましては、純粋持株会社体制に移行し、グループ長期経営目標を掲げ、「人にやさしい」「社会にやさしい」「地球にやさしい」の３つの“やさしい”の実現に向け具体的に進化を開始いたしました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 3,
+      "sentence": "短期的には運営力・商品力の向上に注力、中長期的には再生可能エネルギー事業や地方創生推進（ＣＣＲＣ）事業の具体化に取組みました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 4,
+      "sentence": "運営面では、「顧客満足度の向上」を目指し品質改善に注力するとともに、「お客様に喜んで頂く、たくさんのお客様に何度も喜んで頂く」ために、“いきがい、絆、健康、くつろぎ”をテーマにした商品の提供を強化してまいりました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 5,
+      "sentence": "開発面では、東京、横浜、京都の新築ホテルの賃貸借予約契約を締結し、収益基盤の拡大を図りました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 6,
+      "sentence": "また、広島県のゴルフ場隣接地で出力規模約２メガワットの太陽光発電事業を開始",
+      "opinions": []
+    },
+    {
+      "sentence_id": 7,
+      "sentence": "今後、福島県のゴルフ場において、約35メガワットという大型開発も予定しています",
+      "opinions": []
+    },
+    {
+      "sentence_id": 8,
+      "sentence": "地方創生推進（ＣＣＲＣ）事業では、千葉大学及び千葉県長柄町と「リソル生命の森」で推進している「大学連携型CCRC」においてマーケティング調査等に着手しております",
+      "opinions": []
+    },
+    {
+      "sentence_id": 9,
+      "sentence": "また、千葉大学予防医学センター近藤教授の監修による、健康寿命を延伸し、豊かな人生を実現するための「リソルウェルネスプログラム」を開発し、「ウェルネスエイジクラブ」の募集を行いました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 10,
+      "sentence": "以上の結果、ホテルの収益改善や、当社連結子会社にて、投資再生不動産（ホテル、ゴルフ場）の売却等により売上高は22,277百万円（前期比5.9％増）、営業利益1,818百万円（前期比36.3％増）、経常利益は1,640百万円（前期比36.6％増）、親会社株主に帰属する当期純利益は1,318百万円（前期比29.8％増）となりました",
+      "opinions": [
+        {
+          "target": "ホテル",
+          "category": "product#general",
+          "polarity": "positive",
+          "from": 6,
+          "to": 9
+        },
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 50,
+          "to": 53
+        },
+        {
+          "target": "営業利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 74,
+          "to": 78
+        },
+        {
+          "target": "経常利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 98,
+          "to": 102
+        },
+        {
+          "target": "当期純利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 133,
+          "to": 138
+        }
+      ]
+    },
+    {
+      "sentence_id": 11,
+      "sentence": "事業のセグメント別の主な状況は、以下のとおりでございます",
+      "opinions": []
+    },
+    {
+      "sentence_id": 12,
+      "sentence": "＜ホテル運営事業部門＞",
+      "opinions": []
+    },
+    {
+      "sentence_id": 13,
+      "sentence": "①ホテル運営事業",
+      "opinions": []
+    },
+    {
+      "sentence_id": 14,
+      "sentence": "ホテル運営事業では、「ホテルリソル函館」が北海道新幹線の開通効果により、首都圏や東北地区からのお客様を中心に宿泊客数を大幅に増やし、業績が好調に推移いたしました",
+      "opinions": [
+        {
+          "target": "ホテル運営事業",
+          "category": "business#amount",
+          "polarity": "positive",
+          "from": 0,
+          "to": 7
+        },
+        {
+          "target": "ホテル運営事業",
+          "category": "business#general",
+          "polarity": "positive",
+          "from": 0,
+          "to": 7
+        }
+      ]
+    },
+    {
+      "sentence_id": 15,
+      "sentence": "また、爆買いブームが沈静化する中、インバウンド集客を団体から個人へ切り替え好調を維持",
+      "opinions": [
+        {
+          "target": "爆買いブーム",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 3,
+          "to": 9
+        }
+      ]
+    },
+    {
+      "sentence_id": 16,
+      "sentence": "「プリシアリゾートヨロン」では、施設の美化工事を積極的に行い、お客様評価の高まりと相まって、宿泊者数が前年を大きく上回り、長期滞在の複合大型リゾートへの進化を着々と続けております",
+      "opinions": [
+        {
+          "target": "プリシアリゾートヨロン",
+          "category": "product#amount",
+          "polarity": "positive",
+          "from": 1,
+          "to": 12
+        },
+        {
+          "target": "お客様評価",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 31,
+          "to": 36
+        }
+      ]
+    },
+    {
+      "sentence_id": 17,
+      "sentence": "ビジネス・観光需要の取り込み、インバウンドの集客強化に加え、ハード・ソフトの積極的な品質改善などによりホテル全体の稼働率・単価が順調に推移し、前期を大幅に上回る収益を確保することができました",
+      "opinions": [
+        {
+          "target": "ホテル",
+          "category": "product#price",
+          "polarity": "positive",
+          "from": 51,
+          "to": 54
+        },
+        {
+          "target": "ホテル",
+          "category": "product#sales",
+          "polarity": "positive",
+          "from": 51,
+          "to": 54
+        },
+        {
+          "target": "ホテル",
+          "category": "product#general",
+          "polarity": "positive",
+          "from": 51,
+          "to": 54
+        }
+      ]
+    },
+    {
+      "sentence_id": 18,
+      "sentence": "②Ｒ＆Ｓ運営事業",
+      "opinions": []
+    },
+    {
+      "sentence_id": 19,
+      "sentence": "「Ｒ＆Ｓホテル」「ペット＆スパホテル那須ワン」では、ハード・ソフトの改善活動の推進に努めた結果、お客様の口コミ評価が上昇いたしました",
+      "opinions": [
+        {
+          "target": "口コミ評価",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 52,
+          "to": 57
+        }
+      ]
+    },
+    {
+      "sentence_id": 20,
+      "sentence": "また、運営現場の効率化により、業務時間の大幅な短縮を図るなど運営コスト削減に努めた結果、収益を大きく改善することができました",
+      "opinions": [
+        {
+          "target": "収益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 44,
+          "to": 46
+        }
+      ]
+    },
+    {
+      "sentence_id": 21,
+      "sentence": "以上の結果、ホテル運営事業部門における売上高は8,230百万円（前期比1.2％増）、営業利益は1,207百万円（前期比40.0％増）となりました",
+      "opinions": [
+        {
+          "target": "ホテル運営事業部門",
+          "category": "business#sales",
+          "polarity": "positive",
+          "from": 6,
+          "to": 15
+        },
+        {
+          "target": "ホテル運営事業部門",
+          "category": "business#profit",
+          "polarity": "positive",
+          "from": 6,
+          "to": 15
+        }
+      ]
+    },
+    {
+      "sentence_id": 22,
+      "sentence": "＜ゴルフ運営事業部門＞",
+      "opinions": []
+    },
+    {
+      "sentence_id": 23,
+      "sentence": "ゴルフ運営事業では、「健康・絆」の企画商品、健康イベント企画を拡充し、入場者数は前期を上回りました",
+      "opinions": [
+        {
+          "target": "ゴルフ運営事業",
+          "category": "business#amount",
+          "polarity": "positive",
+          "from": 0,
+          "to": 7
+        }
+      ]
+    },
+    {
+      "sentence_id": 24,
+      "sentence": "特に「地球にやさしい」健康イベントのひとつとして、ゴルファーの合計歩数に応じて植樹する「いっぽから、いっぽん」キャンペーンを実施、延べ2万3千人の方が参加され、総歩数は3億4千万歩を達成いたしました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 25,
+      "sentence": "このキャンペーンによる寄付で300本を植樹する予定です",
+      "opinions": []
+    },
+    {
+      "sentence_id": 26,
+      "sentence": "新しい取り組みとしては、本年3月からゴルフスタイルの新提案として、ゴルフプレーに特化した「Enjoy！Golf」を開始いたしました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 27,
+      "sentence": "クラブハウスもリニューアルし、初心者でもゴルフを始めやすく、また、何回も楽しめるように、居心地の良い空間とシンプルなサービスを提供いたします",
+      "opinions": []
+    },
+    {
+      "sentence_id": 28,
+      "sentence": "さらに、地域の方に向けてレストランを中心としたプランを告知いたしました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 29,
+      "sentence": "ゴルフをされたことがない方にとって、緑豊かで広大な大自然を眺められるゴルフ場の印象は良く、いっそう多くのお客様にご来場いただきました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 30,
+      "sentence": "以上の施策を展開いたしましたが、一方で、同業他社同様、天候の影響や他社ゴルフ場との価格競争の激化、夏場の長雨等によりコースのメンテナンスコストの増加等により、営業利益は前期を下回りました",
+      "opinions": [
+        {
+          "target": "価格競争",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 41,
+          "to": 45
+        },
+        {
+          "target": "メンテナンスコスト",
+          "category": "NULL#cost",
+          "polarity": "negative",
+          "from": 62,
+          "to": 71
+        },
+        {
+          "target": "営業利益",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 79,
+          "to": 83
+        }
+      ]
+    },
+    {
+      "sentence_id": 31,
+      "sentence": "以上の結果、ゴルフ運営事業部門における売上高は9,164百万円（前期比1.0％減）、営業利益は591百万円（前期比33.0％減）となりました",
+      "opinions": [
+        {
+          "target": "ゴルフ運営事業部門",
+          "category": "business#sales",
+          "polarity": "negative",
+          "from": 6,
+          "to": 15
+        },
+        {
+          "target": "ゴルフ運営事業部門",
+          "category": "business#profit",
+          "polarity": "negative",
+          "from": 6,
+          "to": 15
+        }
+      ]
+    },
+    {
+      "sentence_id": 32,
+      "sentence": "＜開発事業部門＞",
+      "opinions": []
+    },
+    {
+      "sentence_id": 33,
+      "sentence": "開発事業では、東京、横浜、京都（2ヶ所）の新築ホテル計4件の賃貸借予約契約を締結、また、投資再生不動産としてバリューアップした販売用不動産（ホテル1件、ゴルフ場1件）の売却を行いました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 34,
+      "sentence": "再生可能エネルギー事業では、「瀬戸内ゴルフリゾート」の隣接地で、昨年5月に出力規模約2メガワットの売電を開始、福島県のゴルフ場においては約35メガワットの大型の開発を進めております",
+      "opinions": []
+    },
+    {
+      "sentence_id": 35,
+      "sentence": "地方創生推進（ＣＣＲＣ）事業では、シニア層の「都市から地方への移住」をテーマに、千葉大学及び千葉県長柄町と「リソル生命の森」で推進している「大学連携型CCRC」において、2025年までに同施設内で1,000名を超える定住者が暮らすコミュニティの開発を目指し、昨年度からマーケティング調査及びグランドデザインの策定に着手しております",
+      "opinions": []
+    },
+    {
+      "sentence_id": 36,
+      "sentence": "以上の結果、開発事業部門における売上高は2,196百万円（前期比152.0％増）、営業利益は1,260百万円（前期比114.4％増）となりました",
+      "opinions": [
+        {
+          "target": "開発事業部門",
+          "category": "business#sales",
+          "polarity": "positive",
+          "from": 6,
+          "to": 12
+        },
+        {
+          "target": "開発事業部門",
+          "category": "business#profit",
+          "polarity": "positive",
+          "from": 6,
+          "to": 12
+        }
+      ]
+    },
+    {
+      "sentence_id": 37,
+      "sentence": "＜福利厚生事業部門＞",
+      "opinions": []
+    },
+    {
+      "sentence_id": 38,
+      "sentence": "福利厚生事業では、働く人々の「健康」と「幸せ」を実現するため、企業理念に掲げる“いきがい・絆・健康・くつろぎ”の観点から、多彩なメニュー・サービスの拡充を図りました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 39,
+      "sentence": "特に、厚生労働省から「宿泊型新保健指導試行事業」の実施団体に採択された「リソル生命の森」とのシナジーを発揮し、新保健指導プログラム「スマートライフステイ」や「チームビルディング研修」をはじめとした魅力あるプログラムを提供いたしました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 40,
+      "sentence": "さらに、企業における「健康経営®」や「働き方改革」を支援するセミナーを開催し、ご好評いただいております",
+      "opinions": []
+    },
+    {
+      "sentence_id": 41,
+      "sentence": "以上の差別化戦略を推進いたしましたが、商品開発途上であり、福利厚生事業部門における売上高は1,772百万円（前期比0.9％減）、営業損失は12百万円（前年同期は営業利益2百万円）となりました",
+      "opinions": [
+        {
+          "target": "福利厚生事業部門",
+          "category": "business#sales",
+          "polarity": "negative",
+          "from": 29,
+          "to": 37
+        },
+        {
+          "target": "福利厚生事業部門",
+          "category": "business#profit",
+          "polarity": "negative",
+          "from": 29,
+          "to": 37
+        }
+      ]
+    },
+    {
+      "sentence_id": 42,
+      "sentence": "＜リゾート関連事業部門＞",
+      "opinions": []
+    },
+    {
+      "sentence_id": 43,
+      "sentence": "リゾート会員権は、仲介が順調に推移いたしましたが、ゴルフ会員権では、ゴルフ人口の減少や相場低迷により取引件数、単価ともに減少傾向であるため、安定した需要と採算の見込める法人取引中心の営業へ切り替えを図りました",
+      "opinions": [
+        {
+          "target": "仲介",
+          "category": "product#general",
+          "polarity": "positive",
+          "from": 9,
+          "to": 11
+        },
+        {
+          "target": "ゴルフ会員権",
+          "category": "product#amount",
+          "polarity": "negative",
+          "from": 25,
+          "to": 31
+        },
+        {
+          "target": "ゴルフ会員権",
+          "category": "product#price",
+          "polarity": "negative",
+          "from": 25,
+          "to": 31
+        },
+        {
+          "target": "ゴルフ人口",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 34,
+          "to": 39
+        }
+      ]
+    },
+    {
+      "sentence_id": 44,
+      "sentence": "また、別荘や保養所等のリゾート不動産の仲介・転売では、人気のエリアの絞込みと優良物件を厳選し、仕入強化を図るとともに、箱根、那須等の保養所を販売いたしました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 45,
+      "sentence": "以上の結果、リゾート関連事業部門における売上高は913百万円（前期比6.5％減）、営業利益は48百万円（前期比85.8％増）となりました",
+      "opinions": [
+        {
+          "target": "リゾート関連事業部門",
+          "category": "business#sales",
+          "polarity": "negative",
+          "from": 6,
+          "to": 16
+        },
+        {
+          "target": "リゾート関連事業部門",
+          "category": "business#profit",
+          "polarity": "positive",
+          "from": 6,
+          "to": 16
+        }
+      ]
+    }
+  ]
+}

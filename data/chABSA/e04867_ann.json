@@ -1,0 +1,357 @@
+{
+  "header": {
+    "document_id": "E04867",
+    "document_name": "株式会社ナガワ",
+    "doc_text": "有価証券報告書",
+    "edi_id": "E04867",
+    "security_code": "96630",
+    "category33": "サービス業",
+    "category17": "情報通信・サービスその他",
+    "scale": "7"
+  },
+  "sentences": [
+    {
+      "sentence_id": 0,
+      "sentence": "当連結会計年度におけるわが国の経済は、政府の経済政策や金融緩和政策等を背景として、企業収益や雇用環境の改善により全体として緩やかな景気回復基調で推移したものの、海外経済の経済減速、消費動向の低迷等により景気の弱さがみられました",
+      "opinions": [
+        {
+          "target": "企業収益",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 41,
+          "to": 45
+        },
+        {
+          "target": "雇用環境",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 46,
+          "to": 50
+        },
+        {
+          "target": "海外経済",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 80,
+          "to": 84
+        },
+        {
+          "target": "消費動向",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 90,
+          "to": 94
+        },
+        {
+          "target": "景気",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 101,
+          "to": 103
+        }
+      ]
+    },
+    {
+      "sentence_id": 1,
+      "sentence": "ユニットハウス、モジュール・システム建築及び建設機械レンタル業界におきましては、民間設備投資の持ち直しの動きに足踏みがみられるものの、建築工事費予定額は緩やかに増加しております",
+      "opinions": [
+        {
+          "target": "民間設備投資",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 40,
+          "to": 46
+        },
+        {
+          "target": "建築工事費予定額",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 67,
+          "to": 75
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "sentence": "また、公共投資は公共工事請負金額が減少傾向にあるものの、熊本地震復旧や予算の前倒し執行、補正予算による押し上げ効果が期待されております",
+      "opinions": [
+        {
+          "target": "公共工事請負金額",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 8,
+          "to": 16
+        }
+      ]
+    },
+    {
+      "sentence_id": 3,
+      "sentence": "このような情勢のなか、当社グループは、モジュール・システム建築の技術・ノウハウを活用し、工場、倉庫、店舗等の受注を拡大していく一方、ユニットハウスにおいては各工場の生産・整備の効率化に努め、拡大するレンタル需要に対応してまいりました",
+      "opinions": [
+        {
+          "target": "レンタル需要",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 99,
+          "to": 105
+        }
+      ]
+    },
+    {
+      "sentence_id": 4,
+      "sentence": "また、４月に発生した熊本地震の被災地域での応急仮設住宅建設に取り組むとともに、北海道・東北地方における台風被害の復旧・復興にも尽力してまいりました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 5,
+      "sentence": "この結果、当連結会計年度における売上高は270億５千７百万円（前年同期比2.8％増）、営業利益は40億６千３百万円（前年同期比2.0％増）、経常利益は43億６千５百万円（前年同期比10.4％増）、親会社株主に帰属する当期純利益は28億３千３百万円（前年同期比24.9％増）となりました",
+      "opinions": [
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 16,
+          "to": 19
+        },
+        {
+          "target": "営業利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 43,
+          "to": 47
+        },
+        {
+          "target": "経常利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 70,
+          "to": 74
+        },
+        {
+          "target": "当期純利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 108,
+          "to": 113
+        }
+      ]
+    },
+    {
+      "sentence_id": 6,
+      "sentence": "なお、海外子会社 NAGAWA DO BRASIL INDÚSTRIA DE CONSTRUÇÕES MODULARES LTDA. は平成29年２月にその貸付債権を株式化した上で、第三者に譲渡したため、当社の連結対象外となっております",
+      "opinions": []
+    },
+    {
+      "sentence_id": 7,
+      "sentence": "セグメント別の概要は次のとおりであります",
+      "opinions": []
+    },
+    {
+      "sentence_id": 8,
+      "sentence": "（ユニットハウス事業）",
+      "opinions": []
+    },
+    {
+      "sentence_id": 9,
+      "sentence": "ユニットハウス事業におきましては、販売は特注ハウスの品揃えの充実や展示場運営の強化に努め、レンタルは全国的にバランスの取れたレンタル資産配分と備品や付帯工事をセットにした提案営業を継続してまいりました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 10,
+      "sentence": "また、東日本大震災の復興に伴う公共工事が土木を中心に落ち着きを見せるなか、５月に開催された伊勢志摩サミット等の大型イベントや熊本地震の応急仮設住宅建設に取り組むほか、被災地域の復興需要に優先的に対応してまいりました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 11,
+      "sentence": "この結果、当事業のセグメント売上高は226億６千６百万円（前年同期比4.6％増）となりました",
+      "opinions": [
+        {
+          "target": "セグメント売上高",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 9,
+          "to": 17
+        }
+      ]
+    },
+    {
+      "sentence_id": 12,
+      "sentence": "しかしながら、営業利益は人件費等の上昇や50周年記念事業費の一時的な増加により、38億６千万円（前年同期比2.9％減）となりました",
+      "opinions": [
+        {
+          "target": "営業利益",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 7,
+          "to": 11
+        },
+        {
+          "target": "人件費",
+          "category": "NULL#cost",
+          "polarity": "negative",
+          "from": 12,
+          "to": 15
+        },
+        {
+          "target": "50周年記念事業費",
+          "category": "NULL#cost",
+          "polarity": "negative",
+          "from": 20,
+          "to": 29
+        }
+      ]
+    },
+    {
+      "sentence_id": 13,
+      "sentence": "（モジュール・システム建築事業）",
+      "opinions": []
+    },
+    {
+      "sentence_id": 14,
+      "sentence": "モジュール・システム建築事業におきましては、従来の小規模建築に強みのあるユニットハウス建築とのシナジー効果等により、民間向けの店舗や大型倉庫の受注高に堅調な動きがみられる一方、慢性的に建設労働者が不足し、加えて熾烈な受注・価格競争が続くなどの状況で推移しました",
+      "opinions": [
+        {
+          "target": "店舗",
+          "category": "product#amount",
+          "polarity": "positive",
+          "from": 63,
+          "to": 65
+        },
+        {
+          "target": "大型倉庫",
+          "category": "product#amount",
+          "polarity": "positive",
+          "from": 66,
+          "to": 70
+        },
+        {
+          "target": "建設労働者",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 92,
+          "to": 97
+        },
+        {
+          "target": "受注・価格競争",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 108,
+          "to": 115
+        }
+      ]
+    },
+    {
+      "sentence_id": 15,
+      "sentence": "また、海外におきましては、受注拡大を図るため営業体制の強化に注力してまいりました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 16,
+      "sentence": "この結果、整備新幹線延伸関連の官公庁案件や郵便局等、公共性の強い長期大型案件が堅調に推移したものの、当事業のセグメント売上高は30億５千２百万円（前年同期比3.8％減）となりました",
+      "opinions": [
+        {
+          "target": "官公庁案件",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 15,
+          "to": 20
+        },
+        {
+          "target": "郵便局",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 21,
+          "to": 24
+        },
+        {
+          "target": "長期大型案件",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 32,
+          "to": 38
+        },
+        {
+          "target": "セグメント売上高",
+          "category": "NULL#sales",
+          "polarity": "negative",
+          "from": 54,
+          "to": 62
+        }
+      ]
+    },
+    {
+      "sentence_id": 17,
+      "sentence": "また、営業利益は１億９千６百万円（前年同期比6.1％減）となりました",
+      "opinions": [
+        {
+          "target": "営業利益",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 3,
+          "to": 7
+        }
+      ]
+    },
+    {
+      "sentence_id": 18,
+      "sentence": "（建設機械レンタル事業）",
+      "opinions": []
+    },
+    {
+      "sentence_id": 19,
+      "sentence": "建設機械レンタル事業におきましては、営業エリアである北海道南部建設市場の公共工事請負金額に減少傾向が見られるなか、地域に密着した営業活動の強化と貸与資産管理の緻密化による資産効率の向上や、固定費の圧縮に努めてまいりました",
+      "opinions": [
+        {
+          "target": "公共工事請負金額",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 36,
+          "to": 44
+        }
+      ]
+    },
+    {
+      "sentence_id": 20,
+      "sentence": "また、経営資源の集中と効率化を図るため、株式会社建販を吸収合併（平成28年７月１日付）いたしました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 21,
+      "sentence": "なお、カーコンビニ倶楽部の営業は、平成28年３月で終了しております",
+      "opinions": []
+    },
+    {
+      "sentence_id": 22,
+      "sentence": "この結果、建設機械のレンタル売上高は、上記施策により増収を確保いたしましたが、前期発生した大口建機販売が一巡したため、当事業のセグメント売上高は13億３千８百万円（前年同期比9.7％減）となりました",
+      "opinions": [
+        {
+          "target": "レンタル売上高",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 10,
+          "to": 17
+        },
+        {
+          "target": "セグメント売上高",
+          "category": "NULL#sales",
+          "polarity": "negative",
+          "from": 63,
+          "to": 71
+        }
+      ]
+    },
+    {
+      "sentence_id": 23,
+      "sentence": "なお、営業利益は貸与機械の更新のため中古販売を前倒しで実施したことにより、３億円（前年同期比240.1％増）となりました",
+      "opinions": [
+        {
+          "target": "営業利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 3,
+          "to": 7
+        }
+      ]
+    }
+  ]
+}

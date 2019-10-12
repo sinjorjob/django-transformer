@@ -1,0 +1,241 @@
+{
+  "header": {
+    "document_id": "E01987",
+    "document_name": "伊豆シャボテンリゾート株式会社",
+    "doc_text": "有価証券報告書",
+    "edi_id": "E01987",
+    "security_code": "68190",
+    "category33": "サービス業",
+    "category17": "情報通信・サービスその他",
+    "scale": ""
+  },
+  "sentences": [
+    {
+      "sentence_id": 0,
+      "sentence": "当連結会計年度におけるわが国経済は、雇用状況の改善が続き、緩やかな景気回復が続きました",
+      "opinions": [
+        {
+          "target": "わが国経済",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 11,
+          "to": 16
+        },
+        {
+          "target": "雇用状況",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 18,
+          "to": 22
+        }
+      ]
+    },
+    {
+      "sentence_id": 1,
+      "sentence": "英国のEU離脱問題や、アメリカ大統領選挙の影響もありましたが、日本へ訪れる外国人観光客数は史上最多を更新しております",
+      "opinions": [
+        {
+          "target": "外国人観光客数",
+          "category": "NULL#amount",
+          "polarity": "positive",
+          "from": 37,
+          "to": 44
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "sentence": "いっぽう、個人消費については前年同月を下回る動きが続くなど、先行きは不透明感が残る状況となっております",
+      "opinions": [
+        {
+          "target": "個人消費",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 5,
+          "to": 9
+        },
+        {
+          "target": "先行き",
+          "category": "NULL#general",
+          "polarity": "neutral",
+          "from": 30,
+          "to": 33
+        }
+      ]
+    },
+    {
+      "sentence_id": 3,
+      "sentence": "このような状況の中で、当社が展開するレジャー事業では、経営理念である「ステークホルダーと共に」及びブランドスローガンである「ご来園者の笑顔のために」のもとに、長きにわたって愛される施設作りを目指すべく継続して新たなアトラクションの設営など、ご来園者様の満足感を高める諸策を次々に打ち出しております",
+      "opinions": []
+    },
+    {
+      "sentence_id": 4,
+      "sentence": "エンターテイメント事業では、継続してＣＭ制作受注及びプロモーション受託に努めております",
+      "opinions": []
+    },
+    {
+      "sentence_id": 5,
+      "sentence": "投資事業においても引き続き過去に投資した債権の回収を図っております",
+      "opinions": []
+    },
+    {
+      "sentence_id": 6,
+      "sentence": "リスクマネジメントの観点から事業ポートフォリオの再構築についても適宜検討しております",
+      "opinions": []
+    },
+    {
+      "sentence_id": 7,
+      "sentence": "以上の結果、当連結会計年度の業績は、売上高29億64百万円（前年同期比6.3％増）、営業利益４億９百万円（前年同期比33.7％増）、経常利益４億44百万円（前連結会計年度は56百万円の経常利益）、親会社株主に帰属する当期純利益４億78百万円（前連結会計年度は26百万円の親会社株主に帰属する当期純利益）となりました",
+      "opinions": [
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 18,
+          "to": 21
+        },
+        {
+          "target": "営業利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 42,
+          "to": 46
+        },
+        {
+          "target": "経常利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 66,
+          "to": 70
+        },
+        {
+          "target": "当期純利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 108,
+          "to": 113
+        }
+      ]
+    },
+    {
+      "sentence_id": 8,
+      "sentence": "当連結会計年度の概況をセグメント別に示すと、次のとおりであります",
+      "opinions": []
+    },
+    {
+      "sentence_id": 9,
+      "sentence": "（レジャー事業）",
+      "opinions": []
+    },
+    {
+      "sentence_id": 10,
+      "sentence": "レジャー事業では、以下の売上向上施策を行いました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 11,
+      "sentence": "伊豆シャボテン動物公園では、元祖カピバラの露天風呂が引き続き来場されるお客様にご好評いただいております",
+      "opinions": []
+    },
+    {
+      "sentence_id": 12,
+      "sentence": "そして、毎年冬至前後に開催いたします「カピバラのゆず湯」が20周年を迎えることができ、多くのお客様に心待ちにして頂けるイベントとなりました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 13,
+      "sentence": "また、オグロマーモセットやショウガラゴといった新しい動物が仲間入りしております",
+      "opinions": []
+    },
+    {
+      "sentence_id": 14,
+      "sentence": "さらに、インドクジャクやマーラ、ラマなどの赤ちゃんが誕生しており、動物の繁殖にも引き続き力を注いでおります",
+      "opinions": []
+    },
+    {
+      "sentence_id": 15,
+      "sentence": "伊豆ぐらんぱる公園では、LEDイルミネーション「グランイルミ」が２ndシーズンとし、リニューアルオープンいたしました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 16,
+      "sentence": "体験型イルミネーションと題し、LEDの球数を400万球に倍増させ、「ジップライン～Julie～」や、ロングスライダーなど、アトラクションを楽しみながら多くのお客様にご覧いただくことができました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 17,
+      "sentence": "また、宝探しアトラクション「GOLD RUSH～ソテッチー海賊団の秘宝を探せ！～」や、縦横無尽に回るリングに搭乗する「トルネードスピン」、話題の先端技術であるVRを利用した「バーチャルライドMAGICa!!（マジか！！）」などの新規アトラクションも続々導入いたしました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 18,
+      "sentence": "以上の結果、レジャー事業では、売上高29億21百万円（前年同期比10.8％増）、営業利益３億13百万円（前年同期比16.8％増）となりました",
+      "opinions": [
+        {
+          "target": "レジャー事業",
+          "category": "business#sales",
+          "polarity": "positive",
+          "from": 6,
+          "to": 12
+        },
+        {
+          "target": "レジャー事業",
+          "category": "business#profit",
+          "polarity": "positive",
+          "from": 6,
+          "to": 12
+        }
+      ]
+    },
+    {
+      "sentence_id": 19,
+      "sentence": "（エンターテイメント事業）",
+      "opinions": []
+    },
+    {
+      "sentence_id": 20,
+      "sentence": "エンターテイメント事業では、ＣＭ制作による売上、プロモーション受託や当社が保有するコンテンツの二次使用による版権収入がありました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 21,
+      "sentence": "以上の結果、エンターテイメント事業では、売上高42百万円（前年同期比72.2％減）、営業損失18百万円（前連結会計年度は営業損失34百万円）となりました",
+      "opinions": [
+        {
+          "target": "エンターテイメント事業",
+          "category": "business#sales",
+          "polarity": "negative",
+          "from": 6,
+          "to": 17
+        },
+        {
+          "target": "エンターテイメント事業",
+          "category": "business#profit",
+          "polarity": "negative",
+          "from": 6,
+          "to": 17
+        }
+      ]
+    },
+    {
+      "sentence_id": 22,
+      "sentence": "（投資事業）",
+      "opinions": []
+    },
+    {
+      "sentence_id": 23,
+      "sentence": "投資事業による売上はありませんでした",
+      "opinions": []
+    },
+    {
+      "sentence_id": 24,
+      "sentence": "（その他事業）",
+      "opinions": []
+    },
+    {
+      "sentence_id": 25,
+      "sentence": "その他事業による売上はありませんでした",
+      "opinions": []
+    }
+  ]
+}

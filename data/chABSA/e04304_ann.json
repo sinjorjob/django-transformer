@@ -1,0 +1,236 @@
+{
+  "header": {
+    "document_id": "E04304",
+    "document_name": "株式会社中央倉庫",
+    "doc_text": "有価証券報告書",
+    "edi_id": "E04304",
+    "security_code": "93190",
+    "category33": "倉庫・運輸関連業",
+    "category17": "運輸・物流",
+    "scale": "7"
+  },
+  "sentences": [
+    {
+      "sentence_id": 0,
+      "sentence": "当連結会計年度におけるわが国経済は、雇用環境の改善等、緩やかな回復基調で推移しましたが、海外情勢の不安定さ等により、引き続き先行き不透明な状況となりました",
+      "opinions": [
+        {
+          "target": "わが国経済",
+          "category": "NULL#general",
+          "polarity": "neutral",
+          "from": 11,
+          "to": 16
+        },
+        {
+          "target": "雇用環境",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 18,
+          "to": 22
+        },
+        {
+          "target": "海外情勢",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 44,
+          "to": 48
+        }
+      ]
+    },
+    {
+      "sentence_id": 1,
+      "sentence": "物流業界におきましては、荷動きが回復傾向にあるものの力強さを欠く等、引き続き厳しい経営環境で推移しました",
+      "opinions": [
+        {
+          "target": "物流業界",
+          "category": "market#general",
+          "polarity": "negative",
+          "from": 0,
+          "to": 4
+        },
+        {
+          "target": "荷動き",
+          "category": "NULL#general",
+          "polarity": "neutral",
+          "from": 12,
+          "to": 15
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "sentence": "このような事業環境のもと、当社グループは、ソリューション営業力の強化に努め一貫物流への取り組みを積極的に進めております",
+      "opinions": []
+    },
+    {
+      "sentence_id": 3,
+      "sentence": "また、顧客ニーズへの的確な対応と業務の効率化を図るため、既存設備の改修を進めるとともに、平成29年１月に京都支店京都ＰＤセンターにおいて倉庫の一部改築工事に着手（完成予定平成30年５月）し、続けて、平成29年２月に滋賀県栗東市において栗東梱包場（仮称）の建築工事に着手（完成予定平成29年８月）しました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 4,
+      "sentence": "また、さらなる業務の品質向上を図るとともに、環境に配慮したグリーン経営の推進にも取り組み、経営の効率化に努めました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 5,
+      "sentence": "これらの結果、当連結会計年度の営業収益は24,707,752千円（前期比3.5％増）、営業利益は1,583,058千円（前期比2.5％増）、経常利益は1,743,068千円（前期比2.5％増）となり、親会社株主に帰属する当期純利益は、前期にあった固定資産譲渡による特別利益がなくなったことにより1,134,323千円（前期比16.8％減）となりました",
+      "opinions": [
+        {
+          "target": "営業収益",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 15,
+          "to": 19
+        },
+        {
+          "target": "営業利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 43,
+          "to": 47
+        },
+        {
+          "target": "経常利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 70,
+          "to": 74
+        },
+        {
+          "target": "当期純利益",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 110,
+          "to": 115
+        }
+      ]
+    },
+    {
+      "sentence_id": 6,
+      "sentence": "セグメントの業績は、次のとおりであります",
+      "opinions": []
+    },
+    {
+      "sentence_id": 7,
+      "sentence": "①　倉庫業",
+      "opinions": []
+    },
+    {
+      "sentence_id": 8,
+      "sentence": "倉庫業におきましては、入出庫高及び保管残高ともに前年同期に比し増加しました",
+      "opinions": [
+        {
+          "target": "倉庫業",
+          "category": "business#general",
+          "polarity": "positive",
+          "from": 0,
+          "to": 3
+        }
+      ]
+    },
+    {
+      "sentence_id": 9,
+      "sentence": "これらの結果、倉庫業の営業収益は5,944,066千円（前期比4.5％増）、セグメント利益（営業利益）は812,572千円（前期比0.8％増）となりました",
+      "opinions": [
+        {
+          "target": "倉庫業",
+          "category": "business#sales",
+          "polarity": "positive",
+          "from": 7,
+          "to": 10
+        },
+        {
+          "target": "倉庫業",
+          "category": "business#profit",
+          "polarity": "positive",
+          "from": 7,
+          "to": 10
+        }
+      ]
+    },
+    {
+      "sentence_id": 10,
+      "sentence": "②　運送業",
+      "opinions": []
+    },
+    {
+      "sentence_id": 11,
+      "sentence": "運送業におきましては、取扱数量は保管外貨物の取扱いに注力し、また保管貨物の荷動きも増えたことから、前期に比し増加しました",
+      "opinions": [
+        {
+          "target": "運送業",
+          "category": "business#amount",
+          "polarity": "positive",
+          "from": 0,
+          "to": 3
+        }
+      ]
+    },
+    {
+      "sentence_id": 12,
+      "sentence": "これらの結果、運送業の営業収益は12,631,955千円（前期比4.8％増）、セグメント利益（営業利益）は1,013,471千円（前期比6.2％増）となりました",
+      "opinions": [
+        {
+          "target": "運送業",
+          "category": "business#sales",
+          "polarity": "positive",
+          "from": 7,
+          "to": 10
+        },
+        {
+          "target": "運送業",
+          "category": "business#profit",
+          "polarity": "positive",
+          "from": 7,
+          "to": 10
+        }
+      ]
+    },
+    {
+      "sentence_id": 13,
+      "sentence": "③　国際貨物取扱業",
+      "opinions": []
+    },
+    {
+      "sentence_id": 14,
+      "sentence": "国際貨物取扱業におきましては、梱包業の取扱数量は減少しましたが、通関業の取扱数量は輸入・輸出ともに増加しました",
+      "opinions": [
+        {
+          "target": "梱包業",
+          "category": "business#amount",
+          "polarity": "negative",
+          "from": 15,
+          "to": 18
+        },
+        {
+          "target": "通関業",
+          "category": "business#amount",
+          "polarity": "positive",
+          "from": 32,
+          "to": 35
+        }
+      ]
+    },
+    {
+      "sentence_id": 15,
+      "sentence": "これらの結果、国際貨物取扱業の営業収益は6,260,681千円（前期比1.1％増）、セグメント利益（営業利益）は431,616千円（前期比13.6％増）となりました",
+      "opinions": [
+        {
+          "target": "国際貨物取扱業",
+          "category": "business#sales",
+          "polarity": "positive",
+          "from": 7,
+          "to": 14
+        },
+        {
+          "target": "国際貨物取扱業",
+          "category": "business#profit",
+          "polarity": "positive",
+          "from": 7,
+          "to": 14
+        }
+      ]
+    }
+  ]
+}

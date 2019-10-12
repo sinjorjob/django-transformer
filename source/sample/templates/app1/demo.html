@@ -1,0 +1,90 @@
+{% extends '../base.html' %}
+{% load bootstrap4 %}
+{% load widget_tweaks %}
+{% load static %}
+
+
+{% block title %}
+TransFormerを用いたネガポジ分類デモアプリ
+{% endblock %}
+
+{% block content %}
+<div class="container">
+  
+    <nav class="navbar navbar-dark bg-dark">
+  <a href="#" class="navbar-brand">
+  <h1>TransFormerを用いたネガポジ分類デモアプリ</h1>
+</a>
+</nav>
+    <form action="" method="post">{% csrf_token %}
+     <hr>
+  <p class="bg-primary text-white rounded p-3">
+      ・このデモアプリは自然言語処理による感情分析デモアプリです。<br>
+      ・学習データにはTISが無料で公開している機械学習で感情解析を行うためのデータセット「chABSA-dataset」を用いています。<br>
+      ・「chABSA-dataset」は上場企業の有価証券報告書(2016年度)をベースに作成されたデータセットで、各文に対してネガティブ・
+      ポジティブの感情分類データが含まれています。<br>
+      </p>
+     <div class="card bg-white">
+      <a class="text-primary" href="https://github.com/chakki-works/chABSA-dataset">学習に利用したchABSA-datasetデータはこちら</a>
+
+     </div><br>
+
+      <p class="bg-warning text-black rounded p-3">このデモプリは、chABSA-datasetのデータの本文がネガティブか、ポジティブ化を自動判定するものです。<br>
+      全データセットのうち、1970個を訓練データ数、843個をテストデータとしてモデルを構築しています。<br>
+      </p>
+        <div class="form-group row my-4">         
+            <label class="col-lg-2 col-form-label"><h4>{{form.messages.label}}</h4></label><br>
+    		<div class="col-lg-6">       
+                {{form.messages|add_class:"form-control"}}
+
+    		</div>
+
+         <div class="col-lg-2">       
+                <a href = "http://127.0.0.1:8000/demo/sentiment/">入力文クリア</a>
+               </div>
+        </div>
+        <div class="col-lg-2">       
+                <button type="submit" class="btn btn-primary">実行</button>
+            </div>
+     </form>
+     <hr>
+
+
+
+
+<div id="talkarea">
+
+{% if message %}
+<div class="card-body">
+    <div class="card mb-3">
+    <div class="card-header">
+    <div class="card-text">
+
+<div class="card" style="width: 65rem;">
+        <div class="card-header text-white bg-success mb-3">
+         <h4>推論結果</h4>
+        </div>
+        <div class="card-body">
+        
+          <p class="card-text"> <h4><b>インプット文章：<br></b>
+            <div class="alert alert-info text-black rounded p-3">
+              {{input_seq }}<br><br>
+          </div>
+            <hr>
+            <b>推論ラベルとAttentionによって重視された単語を可視化（<font color="red">濃い赤色ほど重要視</font>）<br><hr></b>
+            
+            {{ html_output | safe}}<br></h4></p>
+ 
+        </div>
+      </div>
+      <hr>
+
+        </div>
+
+{% endif %}
+</div>
+</div>
+</div>
+</div>
+</div>
+{% endblock %}

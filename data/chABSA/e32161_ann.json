@@ -1,0 +1,180 @@
+{
+  "header": {
+    "document_id": "E32161",
+    "document_name": "チエル株式会社",
+    "doc_text": "訂正有価証券報告書",
+    "edi_id": "E32161",
+    "security_code": "39330",
+    "category33": "情報・通信業",
+    "category17": "情報通信・サービスその他",
+    "scale": ""
+  },
+  "sentences": [
+    {
+      "sentence_id": 0,
+      "sentence": "当社グループは、当連結会計年度より連結財務諸表を作成しているため、前連結会計年度との対比の記載はしておりません",
+      "opinions": []
+    },
+    {
+      "sentence_id": 1,
+      "sentence": "当連結会計年度における我が国経済は、政府や日銀による経済・金融政策の効果等を背景に企業収益や雇用情勢の改善が見られ、景気は緩やかな回復基調が続きました",
+      "opinions": [
+        {
+          "target": "企業収益",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 41,
+          "to": 45
+        },
+        {
+          "target": "雇用情勢",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 46,
+          "to": 50
+        },
+        {
+          "target": "景気",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 58,
+          "to": 60
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "sentence": "現在、文教市場では、『第２期教育振興基本計画』(平成25年６月閣議決定)に基づき、いずれの学校種においても、教育の質的転換を図るべく能動的な学修 「アクティブ・ラーニング」による授業が強く求められ、着実に進められているところです",
+      "opinions": []
+    },
+    {
+      "sentence_id": 3,
+      "sentence": "とりわけ小中学校では、2020年の学習指導要領改訂期を目標に、協働学習には必須のタブレット端末等を活用した「一人１台の情報端末」時代の実現に向け、環境整備への機運が高まりつつあります",
+      "opinions": []
+    },
+    {
+      "sentence_id": 4,
+      "sentence": "このような市場動向のもと、当連結会計年度の当社グループ業績は、高校・大学市場向けが前年同期比で増加しました",
+      "opinions": [
+        {
+          "target": "高校・大学市場向け",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 31,
+          "to": 40
+        }
+      ]
+    },
+    {
+      "sentence_id": 5,
+      "sentence": "市場環境の移行期にあたる小学校中学校市場向けは弱含みで推移しました",
+      "opinions": [
+        {
+          "target": "小学校中学校市場向け",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 12,
+          "to": 22
+        }
+      ]
+    },
+    {
+      "sentence_id": 6,
+      "sentence": "高校・大学市場では、講義支援分野および運用管理システム分野の製品の受注額が前年同期比で増加しました",
+      "opinions": [
+        {
+          "target": "講義支援分野",
+          "category": "business#amount",
+          "polarity": "positive",
+          "from": 10,
+          "to": 16
+        },
+        {
+          "target": "運用管理システム分野",
+          "category": "business#amount",
+          "polarity": "positive",
+          "from": 19,
+          "to": 29
+        }
+      ]
+    },
+    {
+      "sentence_id": 7,
+      "sentence": "主な内訳として、首都圏の大学における大規模リプレイス、東京都立高校の3割にあたる50校への新製品「CaLaboLanguage」導入などがございました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 8,
+      "sentence": "また、教材クラウドサービス分野も堅調に伸び、「CHIeru.net」の延べユーザー数が300万人を突破致しました",
+      "opinions": [
+        {
+          "target": "教材クラウドサービス分野",
+          "category": "business#general",
+          "polarity": "positive",
+          "from": 3,
+          "to": 15
+        },
+        {
+          "target": "CHIeru.net",
+          "category": "product#amount",
+          "polarity": "positive",
+          "from": 23,
+          "to": 33
+        }
+      ]
+    },
+    {
+      "sentence_id": 9,
+      "sentence": "小学校・中学校市場では、PC教室を主体としたICTの利活用から普通教室におけるタブレット端末等の利活用へと広がる中で、2020年の新学習指導要領の実施まで時間的な猶予があることから、環境整備の進捗はやや足踏み傾向にあり、結果として、受注額は前年同期比で減少を示しました",
+      "opinions": [
+        {
+          "target": "進捗",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 96,
+          "to": 98
+        },
+        {
+          "target": "受注額",
+          "category": "NULL#amount",
+          "polarity": "negative",
+          "from": 116,
+          "to": 119
+        }
+      ]
+    },
+    {
+      "sentence_id": 10,
+      "sentence": "そのような中、主な内訳として、札幌市の小中学校100校への学校向けアプライアンスサーバー導入などがございました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 11,
+      "sentence": "その結果、当連結会計年度における高校・大学市場と小学校・中学校市場の受注金額構成比は76％：24％となりました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 12,
+      "sentence": "この他、無線LAN最適化ソリューション「Tbridge」のエンタープライズ向けへの提供が前年同期比で増加しております",
+      "opinions": [
+        {
+          "target": "Tbridge",
+          "category": "product#amount",
+          "polarity": "positive",
+          "from": 20,
+          "to": 27
+        }
+      ]
+    },
+    {
+      "sentence_id": 13,
+      "sentence": "以上の結果、当連結会計年度の売上高は1,947,463千円、営業利益206,481千円、経常利益は225,831千円、親会社株主に帰属する当期純利益は157,317千円となりました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 14,
+      "sentence": "なお、当社グループは、学校教育ICT事業の単一セグメントであるため、セグメントごとの記載はしておりません",
+      "opinions": []
+    }
+  ]
+}

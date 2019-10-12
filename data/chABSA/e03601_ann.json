@@ -1,0 +1,242 @@
+{
+  "header": {
+    "document_id": "E03601",
+    "document_name": "株式会社みちのく銀行",
+    "doc_text": "有価証券報告書",
+    "edi_id": "E03601",
+    "security_code": "83500",
+    "category33": "銀行業",
+    "category17": "銀行",
+    "scale": "7"
+  },
+  "sentences": [
+    {
+      "sentence_id": 0,
+      "sentence": "世界の金融・経済は、米国では良好な雇用環境による消費者マインドの改善などを背景に利上げを実施し、ユーロ圏も緩やかな成長が持続、中国の景気は拡大ペースが底堅く推移するなど、全体として景気は緩やかに回復しております",
+      "opinions": [
+        {
+          "target": "金融・経済",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 3,
+          "to": 8
+        },
+        {
+          "target": "雇用環境",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 17,
+          "to": 21
+        },
+        {
+          "target": "消費者マインド",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 24,
+          "to": 31
+        },
+        {
+          "target": "ユーロ圏",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 48,
+          "to": 52
+        },
+        {
+          "target": "景気",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 90,
+          "to": 92
+        }
+      ]
+    },
+    {
+      "sentence_id": 1,
+      "sentence": "わが国の経済は、堅調な雇用環境に支えられ、個人消費も底堅く推移し、企業業績も持ち直しの動きが見られるなど、景気は緩やかな持ち直しが続いております",
+      "opinions": [
+        {
+          "target": "雇用環境",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 11,
+          "to": 15
+        },
+        {
+          "target": "個人消費",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 21,
+          "to": 25
+        },
+        {
+          "target": "企業業績",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 33,
+          "to": 37
+        },
+        {
+          "target": "景気",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 53,
+          "to": 55
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "sentence": "当行の主要営業基盤である青森県及び函館地区における地元経済においても、非製造業を中心に改善が続き、個人消費も底堅く推移するなど、景気は緩やかな持ち直しが続いております",
+      "opinions": [
+        {
+          "target": "非製造業",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 35,
+          "to": 39
+        },
+        {
+          "target": "個人消費",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 49,
+          "to": 53
+        },
+        {
+          "target": "景気",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 64,
+          "to": 66
+        }
+      ]
+    },
+    {
+      "sentence_id": 3,
+      "sentence": "このような環境のもと、当連結会計年度の経常収益は、前連結会計年度比27億10百万円減少して479億29百万円となりました",
+      "opinions": [
+        {
+          "target": "経常収益",
+          "category": "NULL#sales",
+          "polarity": "negative",
+          "from": 19,
+          "to": 23
+        }
+      ]
+    },
+    {
+      "sentence_id": 4,
+      "sentence": "経常費用は、前連結会計年度比11億27百万円減少して424億７百万円となりました",
+      "opinions": [
+        {
+          "target": "経常費用",
+          "category": "NULL#cost",
+          "polarity": "positive",
+          "from": 0,
+          "to": 4
+        }
+      ]
+    },
+    {
+      "sentence_id": 5,
+      "sentence": "この結果、経常利益は前連結会計年度比15億83百万円減少して55億21百万円、親会社株主に帰属する当期純利益は前連結会計年度比11億５百万円減少して38億27百万円となりました",
+      "opinions": [
+        {
+          "target": "経常利益",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 5,
+          "to": 9
+        },
+        {
+          "target": "当期純利益",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 49,
+          "to": 54
+        }
+      ]
+    },
+    {
+      "sentence_id": 6,
+      "sentence": "セグメント情報ごとの業績を示すと次のとおりであります",
+      "opinions": []
+    },
+    {
+      "sentence_id": 7,
+      "sentence": "①　銀行業",
+      "opinions": []
+    },
+    {
+      "sentence_id": 8,
+      "sentence": "経常収益は前連結会計年度比27億90百万円減少し389億34百万円となり、セグメント利益は前連結会計年度比16億85百万円減少し49億64百万円となりました",
+      "opinions": [
+        {
+          "target": "経常収益",
+          "category": "NULL#sales",
+          "polarity": "negative",
+          "from": 0,
+          "to": 4
+        },
+        {
+          "target": "セグメント利益",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 37,
+          "to": 44
+        }
+      ]
+    },
+    {
+      "sentence_id": 9,
+      "sentence": "②　リース業",
+      "opinions": []
+    },
+    {
+      "sentence_id": 10,
+      "sentence": "経常収益は前連結会計年度比２億95百万円増加し87億84百万円となり、セグメント利益は前連結会計年度比１億54百万円増加し４億37百万円となりました",
+      "opinions": [
+        {
+          "target": "経常収益",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 0,
+          "to": 4
+        },
+        {
+          "target": "セグメント利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 35,
+          "to": 42
+        }
+      ]
+    },
+    {
+      "sentence_id": 11,
+      "sentence": "③　その他",
+      "opinions": []
+    },
+    {
+      "sentence_id": 12,
+      "sentence": "銀行業、リース業を除くその他の経常収益は前連結会計年度比１億95百万円減少し９億66百万円となり、セグメント利益は前連結会計年度比11百万円減少し５億13百万円となりました",
+      "opinions": [
+        {
+          "target": "その他",
+          "category": "business#sales",
+          "polarity": "negative",
+          "from": 11,
+          "to": 14
+        },
+        {
+          "target": "その他",
+          "category": "business#profit",
+          "polarity": "negative",
+          "from": 11,
+          "to": 14
+        }
+      ]
+    }
+  ]
+}

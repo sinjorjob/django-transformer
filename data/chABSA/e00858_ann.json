@@ -1,0 +1,868 @@
+{
+  "header": {
+    "document_id": "E00858",
+    "document_name": "株式会社ジェイエスピー",
+    "doc_text": "有価証券報告書",
+    "edi_id": "E00858",
+    "security_code": "79420",
+    "category33": "化学",
+    "category17": "素材・化学",
+    "scale": "6"
+  },
+  "sentences": [
+    {
+      "sentence_id": 0,
+      "sentence": "当連結会計年度における世界経済は、米国では、個人消費の回復が継続し、自動車・住宅関連は高い水準を維持しました",
+      "opinions": [
+        {
+          "target": "個人消費",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 22,
+          "to": 26
+        },
+        {
+          "target": "自動車・住宅関連",
+          "category": "market#general",
+          "polarity": "positive",
+          "from": 34,
+          "to": 42
+        }
+      ]
+    },
+    {
+      "sentence_id": 1,
+      "sentence": "ブラジルでは、レアル安は底を打ち反転上昇に向いましたが、国内需要の低迷が続き景気回復には至りませんでした",
+      "opinions": [
+        {
+          "target": "レアル安",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 7,
+          "to": 11
+        },
+        {
+          "target": "国内需要",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 28,
+          "to": 32
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "sentence": "欧州では、英国のＥＵ離脱問題の懸念がありますが、個人消費の好調は維持されました",
+      "opinions": [
+        {
+          "target": "個人消費",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 24,
+          "to": 28
+        }
+      ]
+    },
+    {
+      "sentence_id": 3,
+      "sentence": "アジアでは、中国における経済成長は鈍化しましたが、東南アジア・インドを中心に穏やかな景気回復が継続しました",
+      "opinions": [
+        {
+          "target": "経済成長",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 12,
+          "to": 16
+        },
+        {
+          "target": "東南アジア",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 25,
+          "to": 30
+        },
+        {
+          "target": "インド",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 31,
+          "to": 34
+        }
+      ]
+    },
+    {
+      "sentence_id": 4,
+      "sentence": "わが国経済は、第３四半期末からの円安への反転や原油価格の上昇を受け、第４四半期から原材料価格が上昇に転じましたが、前年度に比べ、為替は円高、原油価格は安定基調で推移し、素材・エネルギー価格の安定、雇用環境の改善、住宅投資等の回復など明るい兆しも見られました",
+      "opinions": [
+        {
+          "target": "原油価格",
+          "category": "NULL#cost",
+          "polarity": "negative",
+          "from": 23,
+          "to": 27
+        },
+        {
+          "target": "原材料価格",
+          "category": "NULL#cost",
+          "polarity": "negative",
+          "from": 41,
+          "to": 46
+        },
+        {
+          "target": "原油価格",
+          "category": "NULL#cost",
+          "polarity": "positive",
+          "from": 70,
+          "to": 74
+        },
+        {
+          "target": "素材・エネルギー価格",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 84,
+          "to": 94
+        },
+        {
+          "target": "雇用環境",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 98,
+          "to": 102
+        },
+        {
+          "target": "住宅投資",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 106,
+          "to": 110
+        }
+      ]
+    },
+    {
+      "sentence_id": 5,
+      "sentence": "国内発泡プラスチック業界におきましては、原燃料価格の安定や住宅着工件数の回復はありましたが、災害・天候不順の影響、個人消費回復の遅れもあり、本格的な需要回復には至りませんでした",
+      "opinions": [
+        {
+          "target": "原燃料価格",
+          "category": "NULL#cost",
+          "polarity": "positive",
+          "from": 20,
+          "to": 25
+        },
+        {
+          "target": "住宅着工件数",
+          "category": "NULL#amount",
+          "polarity": "positive",
+          "from": 29,
+          "to": 35
+        },
+        {
+          "target": "個人消費回復",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 57,
+          "to": 63
+        },
+        {
+          "target": "需要回復",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 74,
+          "to": 78
+        }
+      ]
+    },
+    {
+      "sentence_id": 6,
+      "sentence": "これらの状況を受けて、当社グループは新規需要の掘り起こしや付加価値の高い製品の開発・販売に注力すると共に、成長分野・地域への重点的な投資を実施しました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 7,
+      "sentence": "その結果、当社グループの業績は、売上高は、販売数量は増加したものの、主に製品価格改定の影響や円高による海外事業の外貨円換算額の減少により下回りました",
+      "opinions": [
+        {
+          "target": "当社グループ",
+          "category": "company#amount",
+          "polarity": "positive",
+          "from": 5,
+          "to": 11
+        },
+        {
+          "target": "当社グループ",
+          "category": "company#sales",
+          "polarity": "negative",
+          "from": 5,
+          "to": 11
+        },
+        {
+          "target": "外貨円換算額",
+          "category": "NULL#sales",
+          "polarity": "negative",
+          "from": 56,
+          "to": 62
+        }
+      ]
+    },
+    {
+      "sentence_id": 8,
+      "sentence": "営業利益は、海外事業の外貨円換算額の減少による影響はありましたが、原材料安が継続したことや付加価値の高い製品の販売が好調であったこともあり増加しました",
+      "opinions": [
+        {
+          "target": "営業利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 0,
+          "to": 4
+        },
+        {
+          "target": "外貨円換算額",
+          "category": "NULL#sales",
+          "polarity": "negative",
+          "from": 11,
+          "to": 17
+        },
+        {
+          "target": "原材料安",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 33,
+          "to": 37
+        },
+        {
+          "target": "販売",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 55,
+          "to": 57
+        }
+      ]
+    },
+    {
+      "sentence_id": 9,
+      "sentence": "これらの結果、当連結会計年度の売上高は、109,048百万円（前期比5.1％減）と減収になりましたが、営業利益は9,612百万円（同3.6％増）、経常利益は10,033百万円（同10.2％増）、親会社株主に帰属する当期純利益は7,301百万円（同23.5％増）と増益になり、いずれの利益も前連結会計年度に引続き最高益更新となりました",
+      "opinions": [
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "negative",
+          "from": 15,
+          "to": 18
+        },
+        {
+          "target": "営業利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 51,
+          "to": 55
+        },
+        {
+          "target": "経常利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 73,
+          "to": 77
+        },
+        {
+          "target": "当期純利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 107,
+          "to": 112
+        }
+      ]
+    },
+    {
+      "sentence_id": 10,
+      "sentence": "セグメントごとの業績を示すと、次のとおりであります",
+      "opinions": []
+    },
+    {
+      "sentence_id": 11,
+      "sentence": "（押出事業）",
+      "opinions": []
+    },
+    {
+      "sentence_id": 12,
+      "sentence": "液晶テレビ基板や家電輸送用に用いられる産業用包材の発泡ポリエチレンシート「ミラマット」は、高付加価値製品の販売が好調に推移したことから売上は増加しました",
+      "opinions": [
+        {
+          "target": "ミラマット",
+          "category": "product#sales",
+          "polarity": "positive",
+          "from": 37,
+          "to": 42
+        },
+        {
+          "target": "高付加価値製品",
+          "category": "product#amount",
+          "polarity": "positive",
+          "from": 45,
+          "to": 52
+        }
+      ]
+    },
+    {
+      "sentence_id": 13,
+      "sentence": "ポリエチレン気泡緩衝材「キャプロン」の売上は、需要の縮小により減少しました",
+      "opinions": [
+        {
+          "target": "キャプロン",
+          "category": "product#sales",
+          "polarity": "negative",
+          "from": 12,
+          "to": 17
+        },
+        {
+          "target": "キャプロン",
+          "category": "product#amount",
+          "polarity": "negative",
+          "from": 12,
+          "to": 17
+        }
+      ]
+    },
+    {
+      "sentence_id": 14,
+      "sentence": "食品容器用の発泡ポリスチレンシート「スチレンペーパー」は、電子レンジ対応容器や即席麺容器向け販売は好調でしたが、食品トレー向け販売の減少や製品価格低下の影響もあり、売上は減少しました",
+      "opinions": [
+        {
+          "target": "スチレンペーパー",
+          "category": "product#price",
+          "polarity": "negative",
+          "from": 18,
+          "to": 26
+        },
+        {
+          "target": "スチレンペーパー",
+          "category": "product#sales",
+          "polarity": "negative",
+          "from": 18,
+          "to": 26
+        },
+        {
+          "target": "電子レンジ対応容器",
+          "category": "product#amount",
+          "polarity": "positive",
+          "from": 29,
+          "to": 38
+        },
+        {
+          "target": "即席麺容器向け",
+          "category": "product#amount",
+          "polarity": "positive",
+          "from": 39,
+          "to": 46
+        },
+        {
+          "target": "食品トレー向け",
+          "category": "product#amount",
+          "polarity": "negative",
+          "from": 56,
+          "to": 63
+        }
+      ]
+    },
+    {
+      "sentence_id": 15,
+      "sentence": "広告宣伝用ディスプレイ材、折箱に用いられる発泡ポリスチレンボード「ミラボード」は、需要の縮小により売上は減少しました",
+      "opinions": [
+        {
+          "target": "ミラボード",
+          "category": "product#amount",
+          "polarity": "negative",
+          "from": 33,
+          "to": 38
+        },
+        {
+          "target": "ミラボード",
+          "category": "product#sales",
+          "polarity": "negative",
+          "from": 33,
+          "to": 38
+        }
+      ]
+    },
+    {
+      "sentence_id": 16,
+      "sentence": "建築・土木関連の発泡ポリスチレン押出ボード「ミラフォーム」は、建築分野では、割付断裁品、高断熱製品の販売が好調に推移し、土木分野では、東北復興需要があり売上は増加しました",
+      "opinions": [
+        {
+          "target": "ミラフォーム",
+          "category": "product#sales",
+          "polarity": "positive",
+          "from": 22,
+          "to": 28
+        },
+        {
+          "target": "割付断裁品",
+          "category": "product#amount",
+          "polarity": "positive",
+          "from": 38,
+          "to": 43
+        },
+        {
+          "target": "高断熱製品",
+          "category": "product#amount",
+          "polarity": "positive",
+          "from": 44,
+          "to": 49
+        }
+      ]
+    },
+    {
+      "sentence_id": 17,
+      "sentence": "押出事業全体としては、販売数量は増加しましたが、製品価格低下の影響により売上は減少しました",
+      "opinions": [
+        {
+          "target": "押出事業",
+          "category": "business#amount",
+          "polarity": "positive",
+          "from": 0,
+          "to": 4
+        },
+        {
+          "target": "押出事業",
+          "category": "business#price",
+          "polarity": "negative",
+          "from": 0,
+          "to": 4
+        },
+        {
+          "target": "押出事業",
+          "category": "business#sales",
+          "polarity": "negative",
+          "from": 0,
+          "to": 4
+        }
+      ]
+    },
+    {
+      "sentence_id": 18,
+      "sentence": "利益面では、付加価値の高い製品の販売が増加したことや製造コスト低下などにより増益となりました",
+      "opinions": [
+        {
+          "target": "利益面",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 0,
+          "to": 3
+        },
+        {
+          "target": "販売",
+          "category": "NULL#amount",
+          "polarity": "positive",
+          "from": 16,
+          "to": 18
+        }
+      ]
+    },
+    {
+      "sentence_id": 19,
+      "sentence": "これらの結果、押出事業の売上高は37,929百万円（前期比0.9％減）、営業利益は3,045百万円（同10.5％増）となりました",
+      "opinions": [
+        {
+          "target": "押出事業",
+          "category": "business#sales",
+          "polarity": "negative",
+          "from": 7,
+          "to": 11
+        },
+        {
+          "target": "押出事業",
+          "category": "business#profit",
+          "polarity": "positive",
+          "from": 7,
+          "to": 11
+        }
+      ]
+    },
+    {
+      "sentence_id": 20,
+      "sentence": "（ビーズ事業）",
+      "opinions": []
+    },
+    {
+      "sentence_id": 21,
+      "sentence": "世界各国で製造販売している発泡ポリプロピレン「ピーブロック」は、バンパーコア材・内装材・シートコア材等の自動車部品、住宅設備向け部材、ＩＴ製品輸送用通い函、家電製品用緩衝材、競技用グラウンド基礎緩衝材に使用されており、自動車の新規部品の採用拡大や新規分野への販売拡大により好調に推移しました",
+      "opinions": [
+        {
+          "target": "ピーブロック",
+          "category": "product#general",
+          "polarity": "positive",
+          "from": 23,
+          "to": 29
+        },
+        {
+          "target": "新規部品",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 113,
+          "to": 117
+        },
+        {
+          "target": "新規分野",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 123,
+          "to": 127
+        }
+      ]
+    },
+    {
+      "sentence_id": 22,
+      "sentence": "国内では、災害等による自動車生産台数減少の影響も第３四半期に入り収まり、自動車向け新規部品や住宅設備向け部材の販売増により売上は増加しました",
+      "opinions": [
+        {
+          "target": "国内",
+          "category": "business#sales",
+          "polarity": "positive",
+          "from": 0,
+          "to": 2
+        },
+        {
+          "target": "自動車生産台数減少",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 11,
+          "to": 20
+        },
+        {
+          "target": "新規部品",
+          "category": "product#amount",
+          "polarity": "positive",
+          "from": 41,
+          "to": 45
+        },
+        {
+          "target": "部材",
+          "category": "product#amount",
+          "polarity": "positive",
+          "from": 52,
+          "to": 54
+        }
+      ]
+    },
+    {
+      "sentence_id": 23,
+      "sentence": "北米では、自動車部品の需要増、新規分野の拡大により販売数量は増加しましたが、製品価格の低下や円高による外貨円換算額減少の影響もあり売上は減少しました",
+      "opinions": [
+        {
+          "target": "北米",
+          "category": "business#amount",
+          "polarity": "positive",
+          "from": 0,
+          "to": 2
+        },
+        {
+          "target": "北米",
+          "category": "business#price",
+          "polarity": "negative",
+          "from": 0,
+          "to": 2
+        },
+        {
+          "target": "北米",
+          "category": "business#sales",
+          "polarity": "negative",
+          "from": 0,
+          "to": 2
+        },
+        {
+          "target": "自動車部品",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 5,
+          "to": 10
+        },
+        {
+          "target": "新規分野",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 15,
+          "to": 19
+        }
+      ]
+    },
+    {
+      "sentence_id": 24,
+      "sentence": "南米では、ブラジル経済低迷による自動車販売台数の落ち込みに加え、円高による外貨円換算額減少の影響もあり売上は減少しました",
+      "opinions": [
+        {
+          "target": "南米",
+          "category": "business#sales",
+          "polarity": "negative",
+          "from": 0,
+          "to": 2
+        },
+        {
+          "target": "自動車販売台数",
+          "category": "NULL#amount",
+          "polarity": "negative",
+          "from": 16,
+          "to": 23
+        }
+      ]
+    },
+    {
+      "sentence_id": 25,
+      "sentence": "欧州では、自動車部品の需要増等により販売数量は大幅に増加しましたが、製品価格の低下や円高による外貨円換算額減少の影響もあり売上は減少しました",
+      "opinions": [
+        {
+          "target": "欧州",
+          "category": "business#price",
+          "polarity": "negative",
+          "from": 0,
+          "to": 2
+        },
+        {
+          "target": "欧州",
+          "category": "business#sales",
+          "polarity": "negative",
+          "from": 0,
+          "to": 2
+        },
+        {
+          "target": "欧州",
+          "category": "business#amount",
+          "polarity": "positive",
+          "from": 0,
+          "to": 2
+        },
+        {
+          "target": "自動車部品",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 5,
+          "to": 10
+        },
+        {
+          "target": "販売数量",
+          "category": "NULL#amount",
+          "polarity": "positive",
+          "from": 18,
+          "to": 22
+        }
+      ]
+    },
+    {
+      "sentence_id": 26,
+      "sentence": "アジアでは、中国・東南アジア・インドを中心とした自動車分野の需要増により販売数量は増加しましたが、製品価格の低下や円高による外貨円換算額減少の影響もあり売上は減少しました",
+      "opinions": [
+        {
+          "target": "アジア",
+          "category": "business#amount",
+          "polarity": "positive",
+          "from": 0,
+          "to": 3
+        },
+        {
+          "target": "アジア",
+          "category": "business#price",
+          "polarity": "negative",
+          "from": 0,
+          "to": 3
+        },
+        {
+          "target": "アジア",
+          "category": "business#sales",
+          "polarity": "negative",
+          "from": 0,
+          "to": 3
+        },
+        {
+          "target": "自動車分野",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 24,
+          "to": 29
+        }
+      ]
+    },
+    {
+      "sentence_id": 27,
+      "sentence": "発泡性ポリスチレン「スチロダイア」は、家電分野及び機能性製品は販売数量が増加し、建材・土木分野は前年度並みの販売数量となりましたが、天候不順による水産・農業分野の需要減少及び製品価格低下の影響により売上は減少しました",
+      "opinions": [
+        {
+          "target": "スチロダイア",
+          "category": "product#price",
+          "polarity": "negative",
+          "from": 10,
+          "to": 16
+        },
+        {
+          "target": "スチロダイア",
+          "category": "product#sales",
+          "polarity": "negative",
+          "from": 10,
+          "to": 16
+        },
+        {
+          "target": "家電分野",
+          "category": "product#amount",
+          "polarity": "positive",
+          "from": 19,
+          "to": 23
+        },
+        {
+          "target": "機能性製品",
+          "category": "product#amount",
+          "polarity": "positive",
+          "from": 25,
+          "to": 30
+        },
+        {
+          "target": "建材・土木分野",
+          "category": "product#amount",
+          "polarity": "neutral",
+          "from": 40,
+          "to": 47
+        },
+        {
+          "target": "水産・農業分野",
+          "category": "product#amount",
+          "polarity": "negative",
+          "from": 73,
+          "to": 80
+        }
+      ]
+    },
+    {
+      "sentence_id": 28,
+      "sentence": "ユニットバス天井材に使用されているハイブリッド成形品「スーパーブロー」の売上は減少しました",
+      "opinions": [
+        {
+          "target": "スーパーブロー",
+          "category": "product#sales",
+          "polarity": "negative",
+          "from": 27,
+          "to": 34
+        }
+      ]
+    },
+    {
+      "sentence_id": 29,
+      "sentence": "ビーズ事業全体としては、販売数量は増加しましたが、製品価格の低下や海外事業の外貨円換算額減少の影響により売上、利益とも減少しました",
+      "opinions": [
+        {
+          "target": "ビーズ事業",
+          "category": "business#amount",
+          "polarity": "positive",
+          "from": 0,
+          "to": 5
+        },
+        {
+          "target": "ビーズ事業",
+          "category": "business#price",
+          "polarity": "negative",
+          "from": 0,
+          "to": 5
+        },
+        {
+          "target": "ビーズ事業",
+          "category": "business#sales",
+          "polarity": "negative",
+          "from": 0,
+          "to": 5
+        },
+        {
+          "target": "ビーズ事業",
+          "category": "business#profit",
+          "polarity": "negative",
+          "from": 0,
+          "to": 5
+        },
+        {
+          "target": "海外事業",
+          "category": "business#sales",
+          "polarity": "negative",
+          "from": 33,
+          "to": 37
+        }
+      ]
+    },
+    {
+      "sentence_id": 30,
+      "sentence": "これらの結果、ビーズ事業の売上高は65,354百万円（前期比7.8％減）、営業利益は7,376百万円（同0.8％減）となりました",
+      "opinions": [
+        {
+          "target": "ビーズ事業",
+          "category": "business#sales",
+          "polarity": "negative",
+          "from": 7,
+          "to": 12
+        },
+        {
+          "target": "ビーズ事業",
+          "category": "business#profit",
+          "polarity": "negative",
+          "from": 7,
+          "to": 12
+        }
+      ]
+    },
+    {
+      "sentence_id": 31,
+      "sentence": "（その他）",
+      "opinions": []
+    },
+    {
+      "sentence_id": 32,
+      "sentence": "一般包材は、国内では、上期に災害の影響による自動車・光学製品向け梱包材需要の減少の影響を受け、売上は減少しました",
+      "opinions": [
+        {
+          "target": "一般包材",
+          "category": "product#sales",
+          "polarity": "negative",
+          "from": 0,
+          "to": 4
+        },
+        {
+          "target": "梱包材需要",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 32,
+          "to": 37
+        }
+      ]
+    },
+    {
+      "sentence_id": 33,
+      "sentence": "中国では、新製品・新用途の拡販が寄与し、売上は増加しました",
+      "opinions": [
+        {
+          "target": "中国",
+          "category": "business#sales",
+          "polarity": "positive",
+          "from": 0,
+          "to": 2
+        }
+      ]
+    },
+    {
+      "sentence_id": 34,
+      "sentence": "利益面では、国内の合理化や中国における新製品・新用途の拡販等により増益となりました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 35,
+      "sentence": "これらの結果、その他の売上高は5,764百万円（前期比0.3％増）、営業利益は148百万円（同745.2％増）となりました",
+      "opinions": [
+        {
+          "target": "その他",
+          "category": "business#sales",
+          "polarity": "positive",
+          "from": 7,
+          "to": 10
+        },
+        {
+          "target": "その他",
+          "category": "business#profit",
+          "polarity": "positive",
+          "from": 7,
+          "to": 10
+        }
+      ]
+    }
+  ]
+}

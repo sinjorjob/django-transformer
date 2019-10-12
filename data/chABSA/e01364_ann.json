@@ -1,0 +1,355 @@
+{
+  "header": {
+    "document_id": "E01364",
+    "document_name": "瀧上工業株式会社",
+    "doc_text": "有価証券報告書",
+    "edi_id": "E01364",
+    "security_code": "59180",
+    "category33": "金属製品",
+    "category17": "建設・資材",
+    "scale": ""
+  },
+  "sentences": [
+    {
+      "sentence_id": 0,
+      "sentence": "当連結会計年度におけるわが国経済は、急速な円高進行により企業収益の改善の勢いが一服し、緩やかな回復基調が続いておりましたが、昨年11月の米国の大統領選挙後にはドル高・円安基調に転じ、再び回復基調が鮮明となりました",
+      "opinions": [
+        {
+          "target": "わが国経済",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 11,
+          "to": 16
+        },
+        {
+          "target": "企業収益",
+          "category": "NULL#general",
+          "polarity": "neutral",
+          "from": 28,
+          "to": 32
+        }
+      ]
+    },
+    {
+      "sentence_id": 1,
+      "sentence": "しかし、米国の新政権の政策不安や欧州における英国のＥＵ離脱問題など、海外では国内景気を押し下げる要因となりうる不透明な状況が続いております",
+      "opinions": [
+        {
+          "target": "新政権",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 7,
+          "to": 10
+        },
+        {
+          "target": "海外",
+          "category": "NULL#general",
+          "polarity": "neutral",
+          "from": 34,
+          "to": 36
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "sentence": "当連結会計年度における連結損益は、完成工事高158億4千万円(前年同期比33億1千万円減・17.3％減)、営業利益5億4千万円(前年同期比13億7千万円減・71.6％減)、経常利益7億6千万円(前年同期比13億6千万円減・64.2％減)、親会社株主に帰属する当期純利益は、5億8千万円(前年同期比11億3千万円減・66.2％減)となりました",
+      "opinions": [
+        {
+          "target": "完成工事高",
+          "category": "NULL#sales",
+          "polarity": "negative",
+          "from": 17,
+          "to": 22
+        },
+        {
+          "target": "営業利益",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 53,
+          "to": 57
+        },
+        {
+          "target": "経常利益",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 86,
+          "to": 90
+        },
+        {
+          "target": "当期純利益",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 129,
+          "to": 134
+        }
+      ]
+    },
+    {
+      "sentence_id": 3,
+      "sentence": "なお、当連結会計年度より連結子会社の丸定産業株式会社に係る「賃貸収入（営業外収益）」は「完成工事高」に、「賃貸費用（営業外費用）」は「完成工事原価」に表示変更したため、前連結会計年度に係る数値を組替えて表示しております",
+      "opinions": []
+    },
+    {
+      "sentence_id": 4,
+      "sentence": "セグメントの業績の概況は、次のとおりであります",
+      "opinions": []
+    },
+    {
+      "sentence_id": 5,
+      "sentence": "また、各セグメントの業績数値につきましては、セグメント間の内部取引高を含めて表示しております",
+      "opinions": []
+    },
+    {
+      "sentence_id": 6,
+      "sentence": "鋼構造物製造事業におきましては、橋梁部門では、公共事業費が微増しているものの、鋼道路橋総発注量が増加することはなく、初めて年間20万トンを下回ることとなりました",
+      "opinions": [
+        {
+          "target": "橋梁部門",
+          "category": "business#amount",
+          "polarity": "negative",
+          "from": 16,
+          "to": 20
+        },
+        {
+          "target": "公共事業費",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 23,
+          "to": 28
+        },
+        {
+          "target": "発注量",
+          "category": "NULL#amount",
+          "polarity": "negative",
+          "from": 44,
+          "to": 47
+        }
+      ]
+    },
+    {
+      "sentence_id": 7,
+      "sentence": "加えて指名停止による大幅な受注減の影響により、橋梁部門受注高は49億5千万円(前年同期比122億6千万円減・71.2％減)となりました",
+      "opinions": [
+        {
+          "target": "橋梁部門受注高",
+          "category": "NULL#sales",
+          "polarity": "negative",
+          "from": 23,
+          "to": 30
+        }
+      ]
+    },
+    {
+      "sentence_id": 8,
+      "sentence": "鉄骨部門につきましては、採算性を重視した選別受注に努めた結果、ＩＰＰ火力発電所等の受注に結びつき、鉄骨部門受注高は13億7千万円(前年同期比8百万円減・0.6％減)となり、当連結会計年度における鋼構造物製造事業の総受注高は63億3千万円(前年同期比122億7千万円減・65.9％減)となりました",
+      "opinions": [
+        {
+          "target": "鉄骨部門",
+          "category": "business#sales",
+          "polarity": "negative",
+          "from": 0,
+          "to": 4
+        },
+        {
+          "target": "鋼構造物製造事業",
+          "category": "business#sales",
+          "polarity": "negative",
+          "from": 97,
+          "to": 105
+        }
+      ]
+    },
+    {
+      "sentence_id": 9,
+      "sentence": "主な受注工事は、橋梁部門につきましては、中部地方整備局の八坂インター橋ならびに泉ヶ谷高架橋、九州地方整備局の白川明午橋、静岡県の倉沢ＩＣ・Ｂランプ橋、鉄骨部門につきましては、知多信用金庫の本部ビル本店営業部棟及び㈱大林組の鹿島火力発電所２号機、また保全部門につきましては、岐阜県の金華橋修繕工事、中日本高速道路㈱の深沢橋応急復旧作業工事などであります",
+      "opinions": []
+    },
+    {
+      "sentence_id": 10,
+      "sentence": "損益につきましては、前連結会計年度からの豊富な繰越工事に支えられ、年間を通じて工場稼動は安定的に推移しましたが、指名停止の影響による受注量の大幅な減少により、翌年度以降の製作原価の上昇が見込まれることから、工事損失引当金を計上することとなり、完成工事高137億5千万円(前年同期比31億3千万円減・18.6％減)、営業利益5億6千万円(前年同期比12億9千万円減・69.7％減)となりました",
+      "opinions": [
+        {
+          "target": "工場稼動",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 39,
+          "to": 43
+        },
+        {
+          "target": "受注量",
+          "category": "NULL#amount",
+          "polarity": "negative",
+          "from": 66,
+          "to": 69
+        },
+        {
+          "target": "製作原価",
+          "category": "NULL#cost",
+          "polarity": "negative",
+          "from": 85,
+          "to": 89
+        },
+        {
+          "target": "完成工事高",
+          "category": "NULL#sales",
+          "polarity": "negative",
+          "from": 121,
+          "to": 126
+        },
+        {
+          "target": "営業利益",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 157,
+          "to": 161
+        }
+      ]
+    },
+    {
+      "sentence_id": 11,
+      "sentence": "当連結会計年度に売上計上いたしました主な工事は、橋梁部門につきましては、中部地方整備局の天龍峡大橋並びに赤坂北第一高架橋、東北地方整備局の天王橋、東日本高速道路㈱の稲荷木橋など、また鉄骨部門につきましては、中部電力㈱の西名古屋火力発電所7号他、保全部門につきましては、中日本高速道路㈱の名港西大橋補強工事などであります",
+      "opinions": []
+    },
+    {
+      "sentence_id": 12,
+      "sentence": "不動産賃貸事業につきましては、主力収益物件として８月に賃貸用オフィスビルを取得したことから、売上高5億6千万円(前年同期比8千万円増・17.2％増)、営業利益3億2千万円(前年同期比1千万円増・5.5％増)となりました",
+      "opinions": [
+        {
+          "target": "不動産賃貸事業",
+          "category": "business#sales",
+          "polarity": "positive",
+          "from": 0,
+          "to": 7
+        },
+        {
+          "target": "不動産賃貸事業",
+          "category": "business#profit",
+          "polarity": "positive",
+          "from": 0,
+          "to": 7
+        }
+      ]
+    },
+    {
+      "sentence_id": 13,
+      "sentence": "材料販売事業につきましては、厚板部門では、主に当社受注高の減少により、鋼板の販売数量と切板加工数量の減少を招く結果となりました",
+      "opinions": [
+        {
+          "target": "当社受注高",
+          "category": "NULL#sales",
+          "polarity": "negative",
+          "from": 23,
+          "to": 28
+        },
+        {
+          "target": "鋼板",
+          "category": "product#amount",
+          "polarity": "negative",
+          "from": 35,
+          "to": 37
+        },
+        {
+          "target": "切板加工数量",
+          "category": "NULL#amount",
+          "polarity": "negative",
+          "from": 43,
+          "to": 49
+        }
+      ]
+    },
+    {
+      "sentence_id": 14,
+      "sentence": "レベラー事業では、４月の熊本地震の影響が長期間に亘って影響し、薄板の加工数量の減少となりました",
+      "opinions": [
+        {
+          "target": "薄板",
+          "category": "product#amount",
+          "polarity": "negative",
+          "from": 31,
+          "to": 33
+        }
+      ]
+    },
+    {
+      "sentence_id": 15,
+      "sentence": "しかし、鉄筋・建材部門では、秋以降のスクラップ価格の値上がりでマーケットが上昇し、販売数量・販売金額ともに増加となりました",
+      "opinions": [
+        {
+          "target": "鉄筋・建材部門",
+          "category": "business#amount",
+          "polarity": "positive",
+          "from": 4,
+          "to": 11
+        },
+        {
+          "target": "鉄筋・建材部門",
+          "category": "business#sales",
+          "polarity": "positive",
+          "from": 4,
+          "to": 11
+        },
+        {
+          "target": "スクラップ価格",
+          "category": "NULL#price",
+          "polarity": "positive",
+          "from": 18,
+          "to": 25
+        },
+        {
+          "target": "マーケット",
+          "category": "market#general",
+          "polarity": "positive",
+          "from": 31,
+          "to": 36
+        }
+      ]
+    },
+    {
+      "sentence_id": 16,
+      "sentence": "その結果、材料販売事業は、売上高28億1千万円(前年同期比15億5千万円減・35.5％減)、営業損失1千万円(前年同期は7千万円の営業利益)となりました",
+      "opinions": [
+        {
+          "target": "材料販売事業",
+          "category": "business#sales",
+          "polarity": "negative",
+          "from": 5,
+          "to": 11
+        },
+        {
+          "target": "材料販売事業",
+          "category": "business#profit",
+          "polarity": "negative",
+          "from": 5,
+          "to": 11
+        }
+      ]
+    },
+    {
+      "sentence_id": 17,
+      "sentence": "運送事業につきましては、当社製品の輸送取引の減少傾向が継続したため、売上高4億円(前年同期比2億1千万円減・34.9％減)、営業損失1百万円(前年同期は2千万円の営業利益)となりました",
+      "opinions": [
+        {
+          "target": "運送事業",
+          "category": "business#sales",
+          "polarity": "negative",
+          "from": 0,
+          "to": 4
+        },
+        {
+          "target": "運送事業",
+          "category": "business#profit",
+          "polarity": "negative",
+          "from": 0,
+          "to": 4
+        },
+        {
+          "target": "輸送取引",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 17,
+          "to": 21
+        }
+      ]
+    }
+  ]
+}

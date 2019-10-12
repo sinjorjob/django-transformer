@@ -1,0 +1,422 @@
+{
+  "header": {
+    "document_id": "E01097",
+    "document_name": "住友理工株式会社",
+    "doc_text": "訂正有価証券報告書",
+    "edi_id": "E01097",
+    "security_code": "51910",
+    "category33": "ゴム製品",
+    "category17": "自動車・輸送機",
+    "scale": "6"
+  },
+  "sentences": [
+    {
+      "sentence_id": 0,
+      "sentence": "当連結会計年度の世界経済は、米国では新政権の経済政策による先行き不透明感がある中、堅調な個人消費に支えられ、景気は緩やかに拡大しました",
+      "opinions": [
+        {
+          "target": "先行き",
+          "category": "NULL#general",
+          "polarity": "neutral",
+          "from": 29,
+          "to": 32
+        },
+        {
+          "target": "個人消費",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 44,
+          "to": 48
+        },
+        {
+          "target": "景気",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 54,
+          "to": 56
+        }
+      ]
+    },
+    {
+      "sentence_id": 1,
+      "sentence": "欧州においても、英国のＥＵ離脱決定直後は景気の急速な冷え込みが懸念されましたが、緩やかな回復が続きました",
+      "opinions": [
+        {
+          "target": "欧州",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 0,
+          "to": 2
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "sentence": "また、中国では経済成長が減速基調であるものの、安定的な成長を続けています",
+      "opinions": [
+        {
+          "target": "中国",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 3,
+          "to": 5
+        },
+        {
+          "target": "経済成長",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 7,
+          "to": 11
+        }
+      ]
+    },
+    {
+      "sentence_id": 3,
+      "sentence": "国内経済は、雇用増加や所得改善もありましたが、個人消費は緩やかな回復に留まりました",
+      "opinions": [
+        {
+          "target": "個人消費",
+          "category": "NULL#general",
+          "polarity": "neutral",
+          "from": 23,
+          "to": 27
+        }
+      ]
+    },
+    {
+      "sentence_id": 4,
+      "sentence": "このような中、当社グループを取り巻く経営環境のうち、主要取引先である自動車業界においては、米国で原油安などを背景にピックアップトラックや多目的スポーツ車（ＳＵＶ）など一部車種が需要をけん引し、生産・販売ともに増加しました",
+      "opinions": [
+        {
+          "target": "生産",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 96,
+          "to": 98
+        },
+        {
+          "target": "販売",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 99,
+          "to": 101
+        }
+      ]
+    },
+    {
+      "sentence_id": 5,
+      "sentence": "欧州では回復基調が続き、さらに中国では小型車の減税措置の効果があったほか、ＳＵＶを中心に需要増加が続きました",
+      "opinions": [
+        {
+          "target": "欧州",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 0,
+          "to": 2
+        },
+        {
+          "target": "ＳＵＶ",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 37,
+          "to": 40
+        }
+      ]
+    },
+    {
+      "sentence_id": 6,
+      "sentence": "一方で、南米は経済低迷の長期化により、不振が続きました",
+      "opinions": [
+        {
+          "target": "南米",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 4,
+          "to": 6
+        }
+      ]
+    },
+    {
+      "sentence_id": 7,
+      "sentence": "国内は、軽自動車は増税などの影響から減少しているものの、新型車効果などにより販売台数は前年を上回りました",
+      "opinions": [
+        {
+          "target": "軽自動車",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 4,
+          "to": 8
+        },
+        {
+          "target": "販売台数",
+          "category": "NULL#amount",
+          "polarity": "positive",
+          "from": 38,
+          "to": 42
+        }
+      ]
+    },
+    {
+      "sentence_id": 8,
+      "sentence": "また、一般産業用品部門のうち、建機市場においては、内需が低迷しているものの、中国でのインフラ整備による公共投資の下支えにより、前連結会計年度に比べ回復傾向にあります",
+      "opinions": [
+        {
+          "target": "建機市場",
+          "category": "market#general",
+          "polarity": "positive",
+          "from": 15,
+          "to": 19
+        },
+        {
+          "target": "内需",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 25,
+          "to": 27
+        }
+      ]
+    },
+    {
+      "sentence_id": 9,
+      "sentence": "一方で、エレクトロニクス分野の主要取引先であるプリンター・複写機などの事務機器市場は、低迷が継続しました",
+      "opinions": [
+        {
+          "target": "事務機器市場",
+          "category": "market#general",
+          "polarity": "negative",
+          "from": 35,
+          "to": 41
+        }
+      ]
+    },
+    {
+      "sentence_id": 10,
+      "sentence": "以上の結果、売上高については、販売量は増加しましたが、海外事業における為替換算の影響が大きく、422,630百万円（前期比0.4％減）とほぼ横ばいとなりました",
+      "opinions": [
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "negative",
+          "from": 6,
+          "to": 9
+        },
+        {
+          "target": "販売量",
+          "category": "NULL#amount",
+          "polarity": "positive",
+          "from": 15,
+          "to": 18
+        }
+      ]
+    },
+    {
+      "sentence_id": 11,
+      "sentence": "営業利益は円高によるマイナス影響が大きかったものの、前期に実施した欧州での事業構造改善による影響があったほか、継続的なコスト削減活動（ＧＣＩ活動）などにより、13,600百万円（前期比5.7％増）となりました",
+      "opinions": [
+        {
+          "target": "営業利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 0,
+          "to": 4
+        }
+      ]
+    },
+    {
+      "sentence_id": 12,
+      "sentence": "また、税引前当期利益は13,300百万円（前期比11.8％増）、親会社の所有者に帰属する当期利益は5,195百万円（前期比79.1％増）となりました",
+      "opinions": [
+        {
+          "target": "税引前当期利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 3,
+          "to": 10
+        },
+        {
+          "target": "当期利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 44,
+          "to": 48
+        }
+      ]
+    },
+    {
+      "sentence_id": 13,
+      "sentence": "セグメントの業績を示すと次のとおりであります",
+      "opinions": []
+    },
+    {
+      "sentence_id": 14,
+      "sentence": "ａ．自動車用品",
+      "opinions": []
+    },
+    {
+      "sentence_id": 15,
+      "sentence": "国内市場は、自動車メーカーの新型車種の立ち上げや輸出増加に伴う生産台数増加により、生産・販売とも回復傾向にありました",
+      "opinions": [
+        {
+          "target": "生産",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 41,
+          "to": 43
+        },
+        {
+          "target": "販売",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 44,
+          "to": 46
+        }
+      ]
+    },
+    {
+      "sentence_id": 16,
+      "sentence": "海外市場は、小型車減税により需要が増加した中国をはじめ、需要が継続している北米や景気が回復傾向にある欧州およびアジア地域などで販売が堅調に推移しました",
+      "opinions": [
+        {
+          "target": "需要",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 14,
+          "to": 16
+        },
+        {
+          "target": "景気",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 40,
+          "to": 42
+        },
+        {
+          "target": "販売",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 63,
+          "to": 65
+        }
+      ]
+    },
+    {
+      "sentence_id": 17,
+      "sentence": "以上の結果、外部顧客への売上高は、海外における販売は増加したものの、為替換算の影響を受けたことにより、362,367百万円（前期比1.8％減）と減収となりました",
+      "opinions": [
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "negative",
+          "from": 12,
+          "to": 15
+        },
+        {
+          "target": "販売",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 23,
+          "to": 25
+        }
+      ]
+    },
+    {
+      "sentence_id": 18,
+      "sentence": "一方で、営業利益は、前期に実施した事業構造改善の影響のほか、海外における売上の増加が収益に寄与したこともあり、12,499百万円（前期比7.3％増）と増益となりました",
+      "opinions": [
+        {
+          "target": "営業利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 4,
+          "to": 8
+        },
+        {
+          "target": "売上",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 36,
+          "to": 38
+        }
+      ]
+    },
+    {
+      "sentence_id": 19,
+      "sentence": "ｂ．一般産業用品",
+      "opinions": []
+    },
+    {
+      "sentence_id": 20,
+      "sentence": "一般産業用品部門において、エレクトロニクス分野では、プリンター・複写機などの事務機器市場が低迷しているものの、インフラ分野では、中国における公共投資の復調から建機市場向けの建設・土木機械用高圧ホースの販売が増加したほか、鉄道車両用防振ゴムの販売も堅調に推移しました",
+      "opinions": [
+        {
+          "target": "事務機器市場",
+          "category": "market#general",
+          "polarity": "negative",
+          "from": 38,
+          "to": 44
+        },
+        {
+          "target": "公共投資",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 70,
+          "to": 74
+        },
+        {
+          "target": "高圧ホース",
+          "category": "product#sales",
+          "polarity": "positive",
+          "from": 94,
+          "to": 99
+        },
+        {
+          "target": "防振ゴム",
+          "category": "product#sales",
+          "polarity": "positive",
+          "from": 115,
+          "to": 119
+        }
+      ]
+    },
+    {
+      "sentence_id": 21,
+      "sentence": "また、住環境事業では、国内市場で地震対策用制震ダンパーの需要増加に伴い、売上が増加しました",
+      "opinions": [
+        {
+          "target": "住環境事業",
+          "category": "business#sales",
+          "polarity": "positive",
+          "from": 3,
+          "to": 8
+        },
+        {
+          "target": "制震ダンパー",
+          "category": "product#amount",
+          "polarity": "positive",
+          "from": 21,
+          "to": 27
+        }
+      ]
+    },
+    {
+      "sentence_id": 22,
+      "sentence": "以上の結果、外部顧客への売上高は、60,263百万円（前期比8.9％増）と増収となったものの、営業利益は、プリンター向け機能部品などエレクトロニクス分野での市場低迷や健康介護事業など新規事業の開発コストの負担などが収益を圧迫し、1,101百万円（前期比9.6％減）となりました",
+      "opinions": [
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 12,
+          "to": 15
+        },
+        {
+          "target": "営業利益",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 47,
+          "to": 51
+        }
+      ]
+    }
+  ]
+}

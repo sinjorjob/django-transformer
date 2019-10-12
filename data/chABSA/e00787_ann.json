@@ -1,0 +1,321 @@
+{
+  "header": {
+    "document_id": "E00787",
+    "document_name": "東邦アセチレン株式会社",
+    "doc_text": "有価証券報告書",
+    "edi_id": "E00787",
+    "security_code": "40930",
+    "category33": "化学",
+    "category17": "素材・化学",
+    "scale": "7"
+  },
+  "sentences": [
+    {
+      "sentence_id": 0,
+      "sentence": "当連結会計年度におけるわが国経済は、雇用情勢や所得環境の改善がみられるものの、中国経済をはじめとする新興国の減速懸念や英国のＥＵ離脱問題、米国の政権交代等により先行きは不透明な状況で推移いたしました",
+      "opinions": [
+        {
+          "target": "わが国経済",
+          "category": "NULL#general",
+          "polarity": "neutral",
+          "from": 11,
+          "to": 16
+        },
+        {
+          "target": "雇用情勢",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 18,
+          "to": 22
+        },
+        {
+          "target": "所得環境",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 23,
+          "to": 27
+        }
+      ]
+    },
+    {
+      "sentence_id": 1,
+      "sentence": "このような状況下、当社グループの連結業績の売上高は376億13百万円と前連結会計年度に比べ42億87百万円(12.9%)の増収、営業利益は21億43百万円と前連結会計年度に比べ４億21百万円(24.4%)の増益、経常利益は22億46百万円と前連結会計年度に比べ３億86百万円(20.7%)の増益、親会社株主に帰属する当期純利益は13億35百万円と前連結会計年度に比べ２億78百万円(26.4%)の増益となりました",
+      "opinions": [
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 21,
+          "to": 24
+        },
+        {
+          "target": "営業利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 64,
+          "to": 68
+        },
+        {
+          "target": "経常利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 106,
+          "to": 110
+        },
+        {
+          "target": "当期純利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 158,
+          "to": 163
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "sentence": "セグメント別業績の概況は、以下のとおりであります",
+      "opinions": []
+    },
+    {
+      "sentence_id": 3,
+      "sentence": "なお、当連結会計年度より、従来「その他事業」に含まれておりました「自動車機器関連事業」について、量的な重要性が増したため報告セグメントとして記載する方法に変更しております",
+      "opinions": []
+    },
+    {
+      "sentence_id": 4,
+      "sentence": "ガス関連事業",
+      "opinions": []
+    },
+    {
+      "sentence_id": 5,
+      "sentence": "ガス関連事業におきましては、溶解アセチレンは公共工事向けの、酸素は電炉・鉄鋼向けの、窒素は半導体・エレクトロニクス向けの、アルゴンは大型工事の終了に伴い需要が減少し、液化石油ガス及び石油類は冬場の寒さの影響により需要は増加したものの、輸入価格の下落による販売価格低下の影響を受け売上高は減少いたしました",
+      "opinions": [
+        {
+          "target": "ガス関連事業",
+          "category": "business#price",
+          "polarity": "negative",
+          "from": 0,
+          "to": 6
+        },
+        {
+          "target": "ガス関連事業",
+          "category": "business#sales",
+          "polarity": "negative",
+          "from": 0,
+          "to": 6
+        },
+        {
+          "target": "公共工事向け",
+          "category": "product#amount",
+          "polarity": "negative",
+          "from": 22,
+          "to": 28
+        },
+        {
+          "target": "電炉・鉄鋼向け",
+          "category": "product#amount",
+          "polarity": "negative",
+          "from": 33,
+          "to": 40
+        },
+        {
+          "target": "半導体・エレクトロニクス向け",
+          "category": "product#amount",
+          "polarity": "negative",
+          "from": 45,
+          "to": 59
+        },
+        {
+          "target": "アルゴン",
+          "category": "product#amount",
+          "polarity": "negative",
+          "from": 61,
+          "to": 65
+        },
+        {
+          "target": "液化石油ガス",
+          "category": "product#amount",
+          "polarity": "positive",
+          "from": 83,
+          "to": 89
+        },
+        {
+          "target": "石油類",
+          "category": "product#amount",
+          "polarity": "positive",
+          "from": 91,
+          "to": 94
+        },
+        {
+          "target": "輸入価格",
+          "category": "NULL#price",
+          "polarity": "negative",
+          "from": 117,
+          "to": 121
+        }
+      ]
+    },
+    {
+      "sentence_id": 6,
+      "sentence": "以上の結果、当部門の売上高は183億37百万円と前連結会計年度に比べ11百万円(0.1%)の減少、営業利益は19億43百万円と前連結会計年度に比べ24百万円(1.3%)の減少となりました",
+      "opinions": [
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "negative",
+          "from": 10,
+          "to": 13
+        },
+        {
+          "target": "営業利益",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 49,
+          "to": 53
+        }
+      ]
+    },
+    {
+      "sentence_id": 7,
+      "sentence": "器具器材関連事業",
+      "opinions": []
+    },
+    {
+      "sentence_id": 8,
+      "sentence": "器具器材関連事業におきましては、溶接材料及び溶接切断器具の需要が増加したこと等により売上高は増加いたしました",
+      "opinions": [
+        {
+          "target": "器具器材関連事業",
+          "category": "business#sales",
+          "polarity": "positive",
+          "from": 0,
+          "to": 8
+        },
+        {
+          "target": "溶接材料",
+          "category": "product#amount",
+          "polarity": "positive",
+          "from": 16,
+          "to": 20
+        },
+        {
+          "target": "溶接切断器具",
+          "category": "product#amount",
+          "polarity": "positive",
+          "from": 22,
+          "to": 28
+        }
+      ]
+    },
+    {
+      "sentence_id": 9,
+      "sentence": "以上の結果、当部門の売上高は108億20百万円と前連結会計年度に比べ２億88百万円(2.7%)の増加、営業利益は２億12百万円と前連結会計年度に比べ33百万円(19.0%)の増加となりました",
+      "opinions": [
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 10,
+          "to": 13
+        },
+        {
+          "target": "営業利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 51,
+          "to": 55
+        }
+      ]
+    },
+    {
+      "sentence_id": 10,
+      "sentence": "自動車機器関連事業",
+      "opinions": []
+    },
+    {
+      "sentence_id": 11,
+      "sentence": "自動車機器関連事業におきましては、自動車部品メーカーの設備投資需要が増加したことにより売上高は大幅に増加いたしました",
+      "opinions": [
+        {
+          "target": "自動車機器関連事業",
+          "category": "business#sales",
+          "polarity": "positive",
+          "from": 0,
+          "to": 9
+        },
+        {
+          "target": "設備投資需要",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 27,
+          "to": 33
+        }
+      ]
+    },
+    {
+      "sentence_id": 12,
+      "sentence": "以上の結果、当部門の売上高は66億68百万円と前連結会計年度に比べ41億95百万円(169.7%)の増加、営業利益は５億46百万円と前連結会計年度に比べ４億86百万円(812.1%)の増加となりました",
+      "opinions": [
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 10,
+          "to": 13
+        },
+        {
+          "target": "営業利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 53,
+          "to": 57
+        }
+      ]
+    },
+    {
+      "sentence_id": 13,
+      "sentence": "その他事業",
+      "opinions": []
+    },
+    {
+      "sentence_id": 14,
+      "sentence": "その他事業におきましては、製氷・冷凍機械等の受注が減少したこと等により、売上高は減少いたしました",
+      "opinions": [
+        {
+          "target": "その他事業",
+          "category": "business#sales",
+          "polarity": "negative",
+          "from": 0,
+          "to": 5
+        },
+        {
+          "target": "製氷・冷凍機械",
+          "category": "product#amount",
+          "polarity": "negative",
+          "from": 13,
+          "to": 20
+        }
+      ]
+    },
+    {
+      "sentence_id": 15,
+      "sentence": "以上の結果、当部門の売上高は17億86百万円と前連結会計年度に比べ１億85百万円(9.4%)の減少、営業利益は１億59百万円と前連結会計年度に比べ１億３百万円(39.2%)の減少となりました",
+      "opinions": [
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "negative",
+          "from": 10,
+          "to": 13
+        },
+        {
+          "target": "営業利益",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 50,
+          "to": 54
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,226 @@
+{
+  "header": {
+    "document_id": "E00194",
+    "document_name": "ダイダン株式会社",
+    "doc_text": "有価証券報告書",
+    "edi_id": "E00194",
+    "security_code": "19800",
+    "category33": "建設業",
+    "category17": "建設・資材",
+    "scale": "7"
+  },
+  "sentences": [
+    {
+      "sentence_id": 0,
+      "sentence": "当連結会計年度におけるわが国経済は、良好な雇用環境が継続したものの、個人消費は低調に推移しました",
+      "opinions": [
+        {
+          "target": "雇用環境",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 21,
+          "to": 25
+        },
+        {
+          "target": "個人消費",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 34,
+          "to": 38
+        }
+      ]
+    },
+    {
+      "sentence_id": 1,
+      "sentence": "また、日銀の金融政策決定から生じた不安定な金融市場により、為替相場及び株式相場等は先行き不透明な状態が続きました",
+      "opinions": [
+        {
+          "target": "金融市場",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 21,
+          "to": 25
+        },
+        {
+          "target": "為替相場",
+          "category": "NULL#general",
+          "polarity": "neutral",
+          "from": 29,
+          "to": 33
+        },
+        {
+          "target": "株式相場",
+          "category": "NULL#general",
+          "polarity": "neutral",
+          "from": 35,
+          "to": 39
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "sentence": "一方で、米国や中国をけん引役として、生産や輸出が持ち直し、企業業績が改善に向かうなど一部に明るい動きも見られました",
+      "opinions": [
+        {
+          "target": "生産",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 18,
+          "to": 20
+        },
+        {
+          "target": "輸出",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 21,
+          "to": 23
+        },
+        {
+          "target": "企業業績",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 29,
+          "to": 33
+        }
+      ]
+    },
+    {
+      "sentence_id": 3,
+      "sentence": "建設業界におきましては、公共投資が底堅く推移し、民間設備投資も企業収益の改善を受け、堅調に推移しました",
+      "opinions": [
+        {
+          "target": "公共投資",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 12,
+          "to": 16
+        },
+        {
+          "target": "民間設備投資",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 24,
+          "to": 30
+        },
+        {
+          "target": "企業収益",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 31,
+          "to": 35
+        }
+      ]
+    },
+    {
+      "sentence_id": 4,
+      "sentence": "このような状況のもと、中期経営計画「お客様に必要な環境を創造し提供するダイダン ～Always With You．～」に基づき、受注と利益の確保に取り組んでまいりました結果、当連結会計年度における業績は次のとおりとなりました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 5,
+      "sentence": "受注工事高は、前連結会計年度比503百万円増の144,007百万円となりました",
+      "opinions": [
+        {
+          "target": "受注工事高",
+          "category": "NULL#amount",
+          "polarity": "positive",
+          "from": 0,
+          "to": 5
+        }
+      ]
+    },
+    {
+      "sentence_id": 6,
+      "sentence": "完成工事高は、前連結会計年度比13,092百万円減の125,253百万円となりました",
+      "opinions": [
+        {
+          "target": "完成工事高",
+          "category": "NULL#sales",
+          "polarity": "negative",
+          "from": 0,
+          "to": 5
+        }
+      ]
+    },
+    {
+      "sentence_id": 7,
+      "sentence": "完成工事総利益は、完成工事高は減少したものの、完成工事総利益率の改善により、前連結会計年度比1,075百万円増の17,788百万円となりました",
+      "opinions": [
+        {
+          "target": "完成工事総利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 0,
+          "to": 7
+        },
+        {
+          "target": "完成工事高",
+          "category": "NULL#sales",
+          "polarity": "negative",
+          "from": 9,
+          "to": 14
+        },
+        {
+          "target": "完成工事総利益率",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 23,
+          "to": 31
+        }
+      ]
+    },
+    {
+      "sentence_id": 8,
+      "sentence": "営業利益は、完成工事総利益の増加を受け、前連結会計年度比213百万円増の6,750百万円となりました",
+      "opinions": [
+        {
+          "target": "営業利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 0,
+          "to": 4
+        },
+        {
+          "target": "完成工事総利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 6,
+          "to": 13
+        }
+      ]
+    },
+    {
+      "sentence_id": 9,
+      "sentence": "経常利益は、営業利益の増加を受け、前連結会計年度比168百万円増の6,939百万円となりました",
+      "opinions": [
+        {
+          "target": "経常利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 0,
+          "to": 4
+        },
+        {
+          "target": "営業利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 6,
+          "to": 10
+        }
+      ]
+    },
+    {
+      "sentence_id": 10,
+      "sentence": "親会社株主に帰属する当期純利益は、特別利益として固定資産売却益52百万円、特別損失として災害による損失76百万円（熊本地震関連損失）等を計上し、法人税、住民税及び事業税、法人税等調整額及び非支配株主に帰属する当期純損失を控除した結果、前連結会計年度比390百万円増の4,638百万円となりました",
+      "opinions": [
+        {
+          "target": "当期純利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 10,
+          "to": 15
+        }
+      ]
+    }
+  ]
+}

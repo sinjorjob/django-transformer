@@ -1,0 +1,477 @@
+{
+  "header": {
+    "document_id": "E01249",
+    "document_name": "東洋鋼鈑株式会社",
+    "doc_text": "有価証券報告書",
+    "edi_id": "E01249",
+    "security_code": "54530",
+    "category33": "鉄鋼",
+    "category17": "鉄鋼・非鉄",
+    "scale": "7"
+  },
+  "sentences": [
+    {
+      "sentence_id": 0,
+      "sentence": "当連結会計年度におけるわが国経済は、雇用・所得環境の改善などにより緩やかな回復基調が続きましたが、新興国経済の減速や米国新政権の政策による世界経済への影響が懸念されるなど、先行きは不透明な状況のまま推移しました",
+      "opinions": [
+        {
+          "target": "わが国経済",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 11,
+          "to": 16
+        },
+        {
+          "target": "雇用",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 18,
+          "to": 20
+        },
+        {
+          "target": "所得環境",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 21,
+          "to": 25
+        },
+        {
+          "target": "新興国経済",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 49,
+          "to": 54
+        },
+        {
+          "target": "先行き",
+          "category": "NULL#general",
+          "polarity": "neutral",
+          "from": 86,
+          "to": 89
+        }
+      ]
+    },
+    {
+      "sentence_id": 1,
+      "sentence": "鉄鋼業界は、内需に持ち直しの動きが見られたものの、中国の高水準な鋼材輸出による世界的な鋼材需給緩和が継続するなど、厳しい事業環境となりました",
+      "opinions": [
+        {
+          "target": "鉄鋼業界",
+          "category": "market#general",
+          "polarity": "negative",
+          "from": 0,
+          "to": 4
+        },
+        {
+          "target": "内需",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 6,
+          "to": 8
+        },
+        {
+          "target": "鋼材需給緩和",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 43,
+          "to": 49
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "sentence": "このような状況下で当社グループは、株式会社富士テクニカ宮津を連結子会社化したことなどにより売上高が前期をやや上回りましたが、機能材料関連事業における販売数量の減少及び生産性の低下や機械関連事業における外注費用の増加などにより各利益は前期を下回る結果となりました",
+      "opinions": [
+        {
+          "target": "売上高",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 45,
+          "to": 48
+        },
+        {
+          "target": "機能材料関連事業",
+          "category": "business#amount",
+          "polarity": "negative",
+          "from": 62,
+          "to": 70
+        },
+        {
+          "target": "生産性",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 83,
+          "to": 86
+        },
+        {
+          "target": "機械関連事業",
+          "category": "business#cost",
+          "polarity": "negative",
+          "from": 90,
+          "to": 96
+        },
+        {
+          "target": "各利益",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 112,
+          "to": 115
+        }
+      ]
+    },
+    {
+      "sentence_id": 3,
+      "sentence": "以上の結果、当連結会計年度の業績は次のとおりであります",
+      "opinions": []
+    },
+    {
+      "sentence_id": 4,
+      "sentence": "各セグメントの業績は次のとおりであります",
+      "opinions": []
+    },
+    {
+      "sentence_id": 5,
+      "sentence": "①鋼板関連事業",
+      "opinions": []
+    },
+    {
+      "sentence_id": 6,
+      "sentence": "＜缶用材料＞",
+      "opinions": []
+    },
+    {
+      "sentence_id": 7,
+      "sentence": "缶用材料は、缶コーヒー用途の飲料缶材の販売数量が減少したことなどにより、前期に比べ減収となりました",
+      "opinions": [
+        {
+          "target": "缶用材料",
+          "category": "product#sales",
+          "polarity": "negative",
+          "from": 0,
+          "to": 4
+        },
+        {
+          "target": "飲料缶材",
+          "category": "product#amount",
+          "polarity": "negative",
+          "from": 14,
+          "to": 18
+        }
+      ]
+    },
+    {
+      "sentence_id": 8,
+      "sentence": "＜電気・電子部品向け＞",
+      "opinions": []
+    },
+    {
+      "sentence_id": 9,
+      "sentence": "電気・電子部品向けは、電池用途で民生用・車載用ともに販売数量が増加しましたが、為替の影響などにより、売上高は前期並みとなりました",
+      "opinions": [
+        {
+          "target": "電気・電子部品向け",
+          "category": "product#general",
+          "polarity": "neutral",
+          "from": 0,
+          "to": 9
+        },
+        {
+          "target": "民生用",
+          "category": "product#amount",
+          "polarity": "positive",
+          "from": 16,
+          "to": 19
+        },
+        {
+          "target": "車載用",
+          "category": "product#amount",
+          "polarity": "positive",
+          "from": 20,
+          "to": 23
+        }
+      ]
+    },
+    {
+      "sentence_id": 10,
+      "sentence": "＜自動車・産業機械部品向け＞",
+      "opinions": []
+    },
+    {
+      "sentence_id": 11,
+      "sentence": "自動車・産業機械部品向けは、ガスケット用途などの販売数量が増加しましたが、ベアリングシール用途の低迷や為替の影響などにより、売上高は前期並みとなりました",
+      "opinions": [
+        {
+          "target": "自動車・産業機械部品向け",
+          "category": "product#sales",
+          "polarity": "neutral",
+          "from": 0,
+          "to": 12
+        },
+        {
+          "target": "ガスケット用途",
+          "category": "product#amount",
+          "polarity": "positive",
+          "from": 14,
+          "to": 21
+        },
+        {
+          "target": "ベアリングシール用途",
+          "category": "product#general",
+          "polarity": "negative",
+          "from": 37,
+          "to": 47
+        }
+      ]
+    },
+    {
+      "sentence_id": 12,
+      "sentence": "＜建築・家電向け＞",
+      "opinions": []
+    },
+    {
+      "sentence_id": 13,
+      "sentence": "建築・家電向けは、ユニットバス用内装材や冷蔵庫扉材などの販売数量が減少したことにより、前期に比べ減収となりました",
+      "opinions": [
+        {
+          "target": "建築・家電向け",
+          "category": "product#sales",
+          "polarity": "negative",
+          "from": 0,
+          "to": 7
+        },
+        {
+          "target": "内装材",
+          "category": "product#amount",
+          "polarity": "negative",
+          "from": 16,
+          "to": 19
+        },
+        {
+          "target": "冷蔵庫扉材",
+          "category": "product#amount",
+          "polarity": "negative",
+          "from": 20,
+          "to": 25
+        }
+      ]
+    },
+    {
+      "sentence_id": 14,
+      "sentence": "以上の結果、鋼板関連事業全体としては前期に比べやや減収となりましたが、販売数量の増加や品種構成の変化及びコストダウン効果などにより、増益となりました",
+      "opinions": [
+        {
+          "target": "鋼板関連事業",
+          "category": "business#sales",
+          "polarity": "negative",
+          "from": 6,
+          "to": 12
+        },
+        {
+          "target": "鋼板関連事業",
+          "category": "business#amount",
+          "polarity": "positive",
+          "from": 6,
+          "to": 12
+        },
+        {
+          "target": "鋼板関連事業",
+          "category": "business#cost",
+          "polarity": "positive",
+          "from": 6,
+          "to": 12
+        },
+        {
+          "target": "鋼板関連事業",
+          "category": "business#profit",
+          "polarity": "positive",
+          "from": 6,
+          "to": 12
+        }
+      ]
+    },
+    {
+      "sentence_id": 15,
+      "sentence": "②機能材料関連事業",
+      "opinions": []
+    },
+    {
+      "sentence_id": 16,
+      "sentence": "＜磁気ディスク用アルミ基板＞",
+      "opinions": []
+    },
+    {
+      "sentence_id": 17,
+      "sentence": "磁気ディスク用アルミ基板は、第２四半期以降、需要の回復基調が続きましたが、高品質化に伴う生産性の低下による販売数量の減少や為替の影響などにより、前期に比べ減収となりました",
+      "opinions": [
+        {
+          "target": "アルミ基板",
+          "category": "product#amount",
+          "polarity": "negative",
+          "from": 7,
+          "to": 12
+        },
+        {
+          "target": "アルミ基板",
+          "category": "product#sales",
+          "polarity": "negative",
+          "from": 7,
+          "to": 12
+        },
+        {
+          "target": "需要",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 22,
+          "to": 24
+        },
+        {
+          "target": "生産性",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 44,
+          "to": 47
+        }
+      ]
+    },
+    {
+      "sentence_id": 18,
+      "sentence": "＜光学用機能フィルム＞",
+      "opinions": []
+    },
+    {
+      "sentence_id": 19,
+      "sentence": "光学用機能フィルムは、フラットパネルディスプレイ関連の市場の調整局面が続いたことなどにより、前期に比べ減収となりました",
+      "opinions": [
+        {
+          "target": "機能フィルム",
+          "category": "product#sales",
+          "polarity": "negative",
+          "from": 3,
+          "to": 9
+        }
+      ]
+    },
+    {
+      "sentence_id": 20,
+      "sentence": "以上の結果、機能材料関連事業全体としては前期に比べ減収、減益となりました",
+      "opinions": [
+        {
+          "target": "機能材料関連事業全体",
+          "category": "business#sales",
+          "polarity": "negative",
+          "from": 6,
+          "to": 16
+        },
+        {
+          "target": "機能材料関連事業全体",
+          "category": "business#profit",
+          "polarity": "negative",
+          "from": 6,
+          "to": 16
+        }
+      ]
+    },
+    {
+      "sentence_id": 21,
+      "sentence": "③機械関連事業",
+      "opinions": []
+    },
+    {
+      "sentence_id": 22,
+      "sentence": "＜自動車用プレス金型、梱包資材用帯鋼、機械器具、硬質合金＞",
+      "opinions": []
+    },
+    {
+      "sentence_id": 23,
+      "sentence": "梱包資材用帯鋼は、売上高は前期並みとなりました",
+      "opinions": [
+        {
+          "target": "帯鋼は",
+          "category": "product#sales",
+          "polarity": "positive",
+          "from": 5,
+          "to": 8
+        }
+      ]
+    },
+    {
+      "sentence_id": 24,
+      "sentence": "機械器具は、部品などの販売が低迷しましたが、装置本体の販売が好調に推移し、売上高は前期並みとなりました",
+      "opinions": [
+        {
+          "target": "機械器具",
+          "category": "product#sales",
+          "polarity": "positive",
+          "from": 0,
+          "to": 4
+        },
+        {
+          "target": "部品",
+          "category": "product#amount",
+          "polarity": "negative",
+          "from": 6,
+          "to": 8
+        },
+        {
+          "target": "装置本体",
+          "category": "product#amount",
+          "polarity": "positive",
+          "from": 22,
+          "to": 26
+        }
+      ]
+    },
+    {
+      "sentence_id": 25,
+      "sentence": "硬質合金は、射出成形機部品の販売が低迷したため、前期に比べ減収となりました",
+      "opinions": [
+        {
+          "target": "硬質合金",
+          "category": "product#sales",
+          "polarity": "negative",
+          "from": 0,
+          "to": 4
+        },
+        {
+          "target": "射出成形機部品",
+          "category": "product#amount",
+          "polarity": "negative",
+          "from": 6,
+          "to": 13
+        }
+      ]
+    },
+    {
+      "sentence_id": 26,
+      "sentence": "以上の結果、機械関連事業全体としては平成28年３月期第４四半期連結会計期間より株式会社富士テクニカ宮津を連結子会社化したことが影響し、前期に比べ増収となりましたが、自動車用プレス金型における外注費用の増加などにより、減益となりました",
+      "opinions": [
+        {
+          "target": "機械関連事業",
+          "category": "business#sales",
+          "polarity": "positive",
+          "from": 6,
+          "to": 12
+        },
+        {
+          "target": "機械関連事業",
+          "category": "business#profit",
+          "polarity": "negative",
+          "from": 6,
+          "to": 12
+        },
+        {
+          "target": "プレス金型",
+          "category": "product#cost",
+          "polarity": "negative",
+          "from": 86,
+          "to": 91
+        }
+      ]
+    },
+    {
+      "sentence_id": 27,
+      "sentence": "なお、各セグメントの売上高、営業利益はセグメント間の取引による金額を含んでおります",
+      "opinions": []
+    }
+  ]
+}

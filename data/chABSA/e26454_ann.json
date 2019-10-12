@@ -1,0 +1,321 @@
+{
+  "header": {
+    "document_id": "E26454",
+    "document_name": "株式会社ウチヤマホールディングス",
+    "doc_text": "有価証券報告書",
+    "edi_id": "E26454",
+    "security_code": "60590",
+    "category33": "サービス業",
+    "category17": "情報通信・サービスその他",
+    "scale": "7"
+  },
+  "sentences": [
+    {
+      "sentence_id": 0,
+      "sentence": "当連結会計年度における我が国の経済は、政府の経済政策等を背景に緩やかな回復基調にありましたが、米国新政権の誕生とその政策の動向、英国のＥＵ離脱問題の行方など不確定な要素も多くあり、依然として先行き不透明な状況が続いております",
+      "opinions": [
+        {
+          "target": "我が国の経済",
+          "category": "NULL#general",
+          "polarity": "neutral",
+          "from": 11,
+          "to": 17
+        }
+      ]
+    },
+    {
+      "sentence_id": 1,
+      "sentence": "このような経営環境下におきまして、当社グループでは、各セグメントで事業戦略に基づく営業活動等を積極的に推し進めてまいりました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 2,
+      "sentence": "また、介護事業、カラオケ事業、飲食事業間において、相互のシナジー効果を向上させるよう様々な取り組みを企画し実践するなどして、積極的にサービスの付加価値向上に努めました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 3,
+      "sentence": "経費面におきましても、コスト削減を進めることで経営の効率化を行い業績の安定化を図りました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 4,
+      "sentence": "この結果、当連結会計年度の売上高は25,318,306千円（前年同期比5.9％増）、営業利益は777,564千円（同504.0％増）、経常利益は1,008,436千円（同210.4％増）となりました",
+      "opinions": [
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 13,
+          "to": 16
+        },
+        {
+          "target": "営業利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 42,
+          "to": 46
+        },
+        {
+          "target": "経常利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 67,
+          "to": 71
+        }
+      ]
+    },
+    {
+      "sentence_id": 5,
+      "sentence": "また、前連結会計年度においては、介護付有料老人ホーム４施設のセールアンドリースバック取引及びカラオケ機器の売却、土地の売却に伴い固定資産売却益が発生したことなどから特別利益として1,469,963千円を計上しておりましたが、当連結会計年度においてはセールアンドリースバック取引を実施しておらず特別利益は48,166千円のみの計上となったことに加えて、カラオケ事業、飲食事業及び不動産事業における固定資産の将来の回収可能性を検討した結果、帳簿価額を回収可能価額まで減損処理することとし、減損損失896,281千円を計上したことなどから親会社株主に帰属する当期純利益は923,108千円減少し、59,987千円（同93.9％減）となりました",
+      "opinions": [
+        {
+          "target": "当期純利益",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 276,
+          "to": 281
+        }
+      ]
+    },
+    {
+      "sentence_id": 6,
+      "sentence": "各セグメントの業績は以下のとおりであります",
+      "opinions": []
+    },
+    {
+      "sentence_id": 7,
+      "sentence": "①介護事業",
+      "opinions": []
+    },
+    {
+      "sentence_id": 8,
+      "sentence": "介護事業におきましては、介護付有料老人ホーム２カ所を開設したほか、グループホーム１カ所、ショートステイ２事業所、訪問看護ステーション２事業所、障がい児通所支援事業放課後等デイサービス７事業所を新規開設するなど、積極的な展開を図りました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 9,
+      "sentence": "また、グループホーム及びデイサービスセンターそれぞれ１カ所を買収により取得しております",
+      "opinions": []
+    },
+    {
+      "sentence_id": 10,
+      "sentence": "これらにより、当連結会計年度末時点での営業拠点は81カ所151事業所となりました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 11,
+      "sentence": "既存施設におきましては、空室を減らすために、近隣の病院や居宅介護支援事業所への訪問による連携の強化を推進することで入居率の安定化を目指した結果、当連結会計期間での既存施設の平均入居率は92.3％となりました",
+      "opinions": [
+        {
+          "target": "平均入居率",
+          "category": "NULL#amount",
+          "polarity": "positive",
+          "from": 86,
+          "to": 91
+        }
+      ]
+    },
+    {
+      "sentence_id": 12,
+      "sentence": "（前期平均89.6％）",
+      "opinions": []
+    },
+    {
+      "sentence_id": 13,
+      "sentence": "また、４月中旬に発生した熊本地震における被災高齢者の方の無償受け入れを表明し、延べ38名の方にご入居して頂きました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 14,
+      "sentence": "これらの結果、売上高は14,431,417千円（前年同期比12.4％増）、セグメント利益は993,540千円（同124.9％増）となりました",
+      "opinions": [
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 7,
+          "to": 10
+        },
+        {
+          "target": "セグメント利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 37,
+          "to": 44
+        }
+      ]
+    },
+    {
+      "sentence_id": 15,
+      "sentence": "②カラオケ事業",
+      "opinions": []
+    },
+    {
+      "sentence_id": 16,
+      "sentence": "カラオケ事業におきましては、飲み放題のコースなどの獲得強化に努めるとともに、引き続きスマートフォン向けのモバイル会員の勧誘を行うなどしてリピート客の増加を図ったほか、飲食店の情報サイトを積極活用し集客の向上に努めました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 17,
+      "sentence": "しかしながら、４月に発生した熊本地震による影響で、同県内の３店舗が１週間程度休業することになったほか、九州全般の地域で集客が減少傾向となりました",
+      "opinions": [
+        {
+          "target": "集客",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 59,
+          "to": 61
+        }
+      ]
+    },
+    {
+      "sentence_id": 18,
+      "sentence": "この結果、売上高は8,138,687千円（前年同期比4.9％減）、セグメント利益は770,146千円（同23.5％増）となりました",
+      "opinions": [
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "negative",
+          "from": 5,
+          "to": 8
+        },
+        {
+          "target": "セグメント利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 33,
+          "to": 40
+        }
+      ]
+    },
+    {
+      "sentence_id": 19,
+      "sentence": "なお、当連結会計年度において福岡県に１店舗の新規開店、退店を２店舗行ったことから、当連結会計年度末時点での店舗数は96店舗となりました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 20,
+      "sentence": "③飲食事業",
+      "opinions": []
+    },
+    {
+      "sentence_id": 21,
+      "sentence": "飲食事業におきましては、新規出店を２店舗行いました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 22,
+      "sentence": "また、既存店の業態変更を２店舗、閉店を４店舗行ったことにより、当連結会計年度末時点での店舗数は国内23店舗、海外３店舗となりました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 23,
+      "sentence": "既存店舗におきましては、集客が減少傾向にあるため、タイムサービスの実施による集客の増加を図ったほか、法人顧客の獲得を目指し、企業訪問をするなどして、宴会需要等の獲得に努めました",
+      "opinions": [
+        {
+          "target": "集客",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 12,
+          "to": 14
+        }
+      ]
+    },
+    {
+      "sentence_id": 24,
+      "sentence": "しかしながら、カラオケ事業と同様に、熊本地震による影響から、１店舗が１週間程度の休業となり、また集客も減少傾向となったことなどから、売上高は1,849,813千円（前年同期比4.1％減）、セグメント損失は45,142千円（前年同期はセグメント損失35,016千円）となりました",
+      "opinions": [
+        {
+          "target": "集客",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 48,
+          "to": 50
+        },
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "negative",
+          "from": 66,
+          "to": 69
+        },
+        {
+          "target": "セグメント損失",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 94,
+          "to": 101
+        }
+      ]
+    },
+    {
+      "sentence_id": 25,
+      "sentence": "④不動産事業",
+      "opinions": []
+    },
+    {
+      "sentence_id": 26,
+      "sentence": "不動産事業におきましては、販売用不動産の売買及び賃貸不動産の仲介業務等を中心に行っております",
+      "opinions": []
+    },
+    {
+      "sentence_id": 27,
+      "sentence": "この結果、売上高は651,134千円（前年同期比109.2％増）、セグメント利益は111,434千円（同28.8％増）となりました",
+      "opinions": [
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 5,
+          "to": 8
+        },
+        {
+          "target": "セグメント利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 33,
+          "to": 40
+        }
+      ]
+    },
+    {
+      "sentence_id": 28,
+      "sentence": "⑤その他",
+      "opinions": []
+    },
+    {
+      "sentence_id": 29,
+      "sentence": "その他におきましては、ホテル事業において、宿泊客の増加、宴会の獲得、日帰り入浴の促進等に取り組みましたが、４月の熊本地震の影響を大きく受け、来館客は減少しました",
+      "opinions": [
+        {
+          "target": "その他",
+          "category": "business#amount",
+          "polarity": "negative",
+          "from": 0,
+          "to": 3
+        }
+      ]
+    },
+    {
+      "sentence_id": 30,
+      "sentence": "この結果、売上高は247,252千円（前年同期比5.6％減）、セグメント損失は25,595千円（前年同期はセグメント損失12,999千円）となりました",
+      "opinions": [
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "negative",
+          "from": 5,
+          "to": 8
+        },
+        {
+          "target": "セグメント損失",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 31,
+          "to": 38
+        }
+      ]
+    }
+  ]
+}

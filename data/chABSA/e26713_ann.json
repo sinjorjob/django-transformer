@@ -1,0 +1,233 @@
+{
+  "header": {
+    "document_id": "E26713",
+    "document_name": "株式会社東光高岳",
+    "doc_text": "有価証券報告書",
+    "edi_id": "E26713",
+    "security_code": "66170",
+    "category33": "電気機器",
+    "category17": "電機・精密",
+    "scale": "7"
+  },
+  "sentences": [
+    {
+      "sentence_id": 0,
+      "sentence": "当連結会計年度におけるわが国の経済は、為替動向が前半は円高に進みましたが、後半には円安方向に反転し、外需をはじめ緩やかではあるものの持ち直しが見られる推移となりました",
+      "opinions": [
+        {
+          "target": "経済",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 15,
+          "to": 17
+        }
+      ]
+    },
+    {
+      "sentence_id": 1,
+      "sentence": "当社グループの最大の取引先である電力業界においては、徹底的な経営効率化・合理化のもと、設備投資及び修繕費の抑制傾向が継続する厳しい状況の反面、スマートメーターの需要は好調な推移となりました",
+      "opinions": [
+        {
+          "target": "設備投資",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 43,
+          "to": 47
+        },
+        {
+          "target": "修繕費",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 49,
+          "to": 52
+        },
+        {
+          "target": "需要",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 80,
+          "to": 82
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "sentence": "一方で、民間設備関連では再生エネルギー関連の投資は一服感があるものの、更新・維持、生産能力拡大や効率化・省力化のための投資計画は底堅さを見せるものとなりました",
+      "opinions": [
+        {
+          "target": "投資",
+          "category": "NULL#general",
+          "polarity": "neutral",
+          "from": 22,
+          "to": 24
+        },
+        {
+          "target": "投資計画",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 59,
+          "to": 63
+        }
+      ]
+    },
+    {
+      "sentence_id": 3,
+      "sentence": "このような経営環境の中、当社グループは「東光高岳グループ2016年度中期経営計画（2016-2018）」に基づき、電力システム改革を契機に、事業領域の拡大とビジネスモデルの変革に取り組んでまいりました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 4,
+      "sentence": "この結果、当連結会計年度の業績につきましては、、売上高107,763百万円（前年同期比6.4％減）、営業利益3,983百万円（前年同期比48.1％増）、経常利益4,080百万円（前年同期比43.2％増）、親会社株主に帰属する当期純利益2,101百万円（前年同期比38.9％増）となりました",
+      "opinions": [
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "negative",
+          "from": 24,
+          "to": 27
+        },
+        {
+          "target": "営業利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 50,
+          "to": 54
+        },
+        {
+          "target": "経常利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 76,
+          "to": 80
+        },
+        {
+          "target": "当期純利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 112,
+          "to": 117
+        }
+      ]
+    },
+    {
+      "sentence_id": 5,
+      "sentence": "セグメントの業績を示すと、次のとおりであります",
+      "opinions": []
+    },
+    {
+      "sentence_id": 6,
+      "sentence": "電力機器事業は、受変電設備等の電力プラント製品及び工事案件の売上減少により、売上高56,417百万円（前年同期比9.1％減）、セグメント利益4,794百万円（前年同期比29.6％減）となりました",
+      "opinions": [
+        {
+          "target": "電力機器事業",
+          "category": "business#sales",
+          "polarity": "negative",
+          "from": 0,
+          "to": 6
+        },
+        {
+          "target": "電力機器事業",
+          "category": "business#profit",
+          "polarity": "negative",
+          "from": 0,
+          "to": 6
+        },
+        {
+          "target": "電力プラント製品",
+          "category": "product#sales",
+          "polarity": "negative",
+          "from": 15,
+          "to": 23
+        },
+        {
+          "target": "工事案件",
+          "category": "product#sales",
+          "polarity": "negative",
+          "from": 25,
+          "to": 29
+        }
+      ]
+    },
+    {
+      "sentence_id": 7,
+      "sentence": "計器事業は、計器失効替工事の材料（電力量計等）の支給方式が変更となったことによる売上高の減少はあったものの、国内電力会社向けのスマートメーターの需要が大幅に増加したことに伴い、売上高38,106百万円（前年同期比2.5％増）、セグメント利益3,315百万円（前年同期はセグメント損失526百万円）となりました",
+      "opinions": [
+        {
+          "target": "計器事業",
+          "category": "business#sales",
+          "polarity": "positive",
+          "from": 0,
+          "to": 4
+        },
+        {
+          "target": "計器事業",
+          "category": "business#profit",
+          "polarity": "positive",
+          "from": 0,
+          "to": 4
+        },
+        {
+          "target": "需要",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 72,
+          "to": 74
+        }
+      ]
+    },
+    {
+      "sentence_id": 8,
+      "sentence": "エネルギーソリューション事業は、電気自動車用急速充電器の補助金事業の規模が大幅に縮小したこと等により、売上高8,093百万円（前年同期比11.8％減）、セグメント損失510百万円（前年同期はセグメント損失305百万円）となりました",
+      "opinions": [
+        {
+          "target": "エネルギーソリューション事業",
+          "category": "business#sales",
+          "polarity": "negative",
+          "from": 0,
+          "to": 14
+        },
+        {
+          "target": "エネルギーソリューション事業",
+          "category": "business#profit",
+          "polarity": "negative",
+          "from": 0,
+          "to": 14
+        },
+        {
+          "target": "規模",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 34,
+          "to": 36
+        }
+      ]
+    },
+    {
+      "sentence_id": 9,
+      "sentence": "情報・光応用検査機器事業は、光応用検査機器の売上減少により、売上高2,698百万円（前年同期比20.1％減）、セグメント損失379百万円（前年同期はセグメント利益22百万円）となりました",
+      "opinions": [
+        {
+          "target": "情報・光応用検査機器事業",
+          "category": "business#sales",
+          "polarity": "negative",
+          "from": 0,
+          "to": 12
+        },
+        {
+          "target": "情報・光応用検査機器事業",
+          "category": "business#profit",
+          "polarity": "negative",
+          "from": 0,
+          "to": 12
+        },
+        {
+          "target": "光応用検査機器",
+          "category": "product#sales",
+          "polarity": "negative",
+          "from": 14,
+          "to": 21
+        }
+      ]
+    }
+  ]
+}

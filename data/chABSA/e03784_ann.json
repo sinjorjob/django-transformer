@@ -1,0 +1,458 @@
+{
+  "header": {
+    "document_id": "E03784",
+    "document_name": "極東証券株式会社",
+    "doc_text": "有価証券報告書",
+    "edi_id": "E03784",
+    "security_code": "87060",
+    "category33": "証券、商品先物取引業",
+    "category17": "金融（除く銀行）",
+    "scale": "6"
+  },
+  "sentences": [
+    {
+      "sentence_id": 0,
+      "sentence": "当連結会計年度におけるわが国経済は、企業収益や雇用情勢が改善するなど緩やかな回復基調が続きました",
+      "opinions": [
+        {
+          "target": "わが国経済",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 11,
+          "to": 16
+        },
+        {
+          "target": "企業収益",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 18,
+          "to": 22
+        },
+        {
+          "target": "雇用情勢",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 23,
+          "to": 27
+        }
+      ]
+    },
+    {
+      "sentence_id": 1,
+      "sentence": "また、世界経済も、米国が12月に続き３月にも追加利上げを実施するなど、先進国を中心に回復の動きとなりました",
+      "opinions": [
+        {
+          "target": "世界経済",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 3,
+          "to": 7
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "sentence": "金融市場では、日米の金融政策並びに、英国のＥＵ離脱選択や米大統領選挙など政治イベントが注目されました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 3,
+      "sentence": "株式市場は、11月の米大統領選挙を機にトランプ新政権への政策期待から上昇しましたが、１月以降は再び保ち合いとなりました",
+      "opinions": [
+        {
+          "target": "株式市場",
+          "category": "NULL#general",
+          "polarity": "neutral",
+          "from": 0,
+          "to": 4
+        }
+      ]
+    },
+    {
+      "sentence_id": 4,
+      "sentence": "当連結会計年度末の日経平均株価は18,909円となり、２年ぶりに前連結会計年度末を上回りました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 5,
+      "sentence": "日本の10年国債利回りは７月に△0.30％まで低下しましたが、日銀のイールドカーブコントロール政策導入や海外金利上昇を受けて0.065％で当連結会計年度を終えました",
+      "opinions": [
+        {
+          "target": "国債利回り",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 6,
+          "to": 11
+        }
+      ]
+    },
+    {
+      "sentence_id": 6,
+      "sentence": "ドル円は、円高基調で始まり６月に１ドル99円を付けました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 7,
+      "sentence": "米大統領選挙後はドル高に転じ、12月には118円台後半まで円安が進みましたが、日米金利差の拡大が進まず111円30銭台で当連結会計年度を終えております",
+      "opinions": []
+    },
+    {
+      "sentence_id": 8,
+      "sentence": "こうした環境の中、当社は、お客さまの多様なニーズにお応えするため、「特色ある旬の商品」の提供に努めました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 9,
+      "sentence": "また、株主資本の効率的運用の観点から、積極的な財務運営も行ってまいりました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 10,
+      "sentence": "その結果、当連結会計年度の業績につきましては、営業収益103億41百万円（前期比101.2％）、純営業収益102億10百万円（同101.0％）、経常利益47億35百万円（同110.7％）、親会社株主に帰属する当期純利益46億88百万円（同163.5％）となりました",
+      "opinions": [
+        {
+          "target": "営業収益",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 23,
+          "to": 27
+        },
+        {
+          "target": "純営業収益",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 48,
+          "to": 53
+        },
+        {
+          "target": "経常利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 72,
+          "to": 76
+        },
+        {
+          "target": "当期純利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 104,
+          "to": 109
+        }
+      ]
+    },
+    {
+      "sentence_id": 11,
+      "sentence": "当連結会計年度における収益等の内訳は次のとおりであります",
+      "opinions": []
+    },
+    {
+      "sentence_id": 12,
+      "sentence": "①　受入手数料",
+      "opinions": []
+    },
+    {
+      "sentence_id": 13,
+      "sentence": "受入手数料は、21億65百万円（前期比80.3％）となりました",
+      "opinions": [
+        {
+          "target": "受入手数料",
+          "category": "NULL#sales",
+          "polarity": "negative",
+          "from": 0,
+          "to": 5
+        }
+      ]
+    },
+    {
+      "sentence_id": 14,
+      "sentence": "内訳は以下のようになっております",
+      "opinions": []
+    },
+    {
+      "sentence_id": 15,
+      "sentence": "イ．委託手数料",
+      "opinions": []
+    },
+    {
+      "sentence_id": 16,
+      "sentence": "株券委託手数料は、９億25百万円（同77.3％）を計上し、これに受益証券委託手数料等を加えた「委託手数料」は、９億90百万円（同77.3％）となりました",
+      "opinions": [
+        {
+          "target": "株券委託手数料",
+          "category": "NULL#sales",
+          "polarity": "negative",
+          "from": 0,
+          "to": 7
+        },
+        {
+          "target": "委託手数料",
+          "category": "NULL#sales",
+          "polarity": "negative",
+          "from": 47,
+          "to": 52
+        }
+      ]
+    },
+    {
+      "sentence_id": 17,
+      "sentence": "ロ．引受け・売出し・特定投資家向け売付け勧誘等の手数料",
+      "opinions": []
+    },
+    {
+      "sentence_id": 18,
+      "sentence": "「引受け・売出し・特定投資家向け売付け勧誘等の手数料」は、17百万円（同48.2％）となりました",
+      "opinions": [
+        {
+          "target": "手数料",
+          "category": "NULL#sales",
+          "polarity": "negative",
+          "from": 23,
+          "to": 26
+        }
+      ]
+    },
+    {
+      "sentence_id": 19,
+      "sentence": "ハ．募集・売出し・特定投資家向け売付け勧誘等の取扱手数料",
+      "opinions": []
+    },
+    {
+      "sentence_id": 20,
+      "sentence": "「募集・売出し・特定投資家向け売付け勧誘等の取扱手数料」は、７億95百万円（同83.9％）となりました",
+      "opinions": [
+        {
+          "target": "取扱手数料",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 22,
+          "to": 27
+        }
+      ]
+    },
+    {
+      "sentence_id": 21,
+      "sentence": "ニ．その他の受入手数料",
+      "opinions": []
+    },
+    {
+      "sentence_id": 22,
+      "sentence": "主に投資信託の代行手数料からなる「その他の受入手数料」は、３億62百万円（同84.2％）となりました",
+      "opinions": [
+        {
+          "target": "受入手数料",
+          "category": "NULL#sales",
+          "polarity": "negative",
+          "from": 21,
+          "to": 26
+        }
+      ]
+    },
+    {
+      "sentence_id": 23,
+      "sentence": "②　トレーディング損益",
+      "opinions": []
+    },
+    {
+      "sentence_id": 24,
+      "sentence": "株券等トレーディング損益は、37百万円の利益（前期は40百万円の損失）、債券等トレーディング損益につきましては、59億57百万円の利益（前期比146.3％）となりました",
+      "opinions": [
+        {
+          "target": "トレーディング損益",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 3,
+          "to": 12
+        },
+        {
+          "target": "トレーディング損益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 39,
+          "to": 48
+        }
+      ]
+    },
+    {
+      "sentence_id": 25,
+      "sentence": "これらからその他のトレーディング損益０百万円の損失（前期は１百万円の利益）を差し引いた「トレーディング損益」は、59億93百万円の利益（前期比148.6％）となりました",
+      "opinions": [
+        {
+          "target": "トレーディング損益",
+          "category": "NULL#profit",
+          "polarity": "neutral",
+          "from": 9,
+          "to": 18
+        },
+        {
+          "target": "トレーディング損益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 44,
+          "to": 53
+        }
+      ]
+    },
+    {
+      "sentence_id": 26,
+      "sentence": "③　営業投資有価証券損益",
+      "opinions": []
+    },
+    {
+      "sentence_id": 27,
+      "sentence": "連結子会社（㈱FEインベスト）の「営業投資有価証券損益」は、２億31百万円の利益（前期は１百万円の損失）となりました",
+      "opinions": [
+        {
+          "target": "営業投資有価証券損益",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 17,
+          "to": 27
+        }
+      ]
+    },
+    {
+      "sentence_id": 28,
+      "sentence": "④　金融収支",
+      "opinions": []
+    },
+    {
+      "sentence_id": 29,
+      "sentence": "金融収益12億６百万円（前期比75.4％）から金融費用１億30百万円（同110.8％）を差し引いた「金融収支」は、10億75百万円（同72.6％）となりました",
+      "opinions": [
+        {
+          "target": "金融収益",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 0,
+          "to": 4
+        },
+        {
+          "target": "金融費用",
+          "category": "NULL#cost",
+          "polarity": "negative",
+          "from": 23,
+          "to": 27
+        },
+        {
+          "target": "金融収支",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 50,
+          "to": 54
+        }
+      ]
+    },
+    {
+      "sentence_id": 30,
+      "sentence": "⑤　その他の営業収入",
+      "opinions": []
+    },
+    {
+      "sentence_id": 31,
+      "sentence": "「その他の営業収入」は、連結子会社における手数料収入や不動産賃貸収入を中心に、７億43百万円（前期比39.2％）となりました",
+      "opinions": [
+        {
+          "target": "営業収入",
+          "category": "NULL#sales",
+          "polarity": "negative",
+          "from": 5,
+          "to": 9
+        }
+      ]
+    },
+    {
+      "sentence_id": 32,
+      "sentence": "⑥　販売費・一般管理費",
+      "opinions": []
+    },
+    {
+      "sentence_id": 33,
+      "sentence": "「販売費・一般管理費」は、59億65百万円（前期比89.2％）となりました",
+      "opinions": [
+        {
+          "target": "販売費・一般管理費",
+          "category": "NULL#cost",
+          "polarity": "positive",
+          "from": 1,
+          "to": 10
+        }
+      ]
+    },
+    {
+      "sentence_id": 34,
+      "sentence": "⑦　営業外損益",
+      "opinions": []
+    },
+    {
+      "sentence_id": 35,
+      "sentence": "営業外収益は、有価証券利息を中心に合計で６億36百万円（前期比55.2％）を計上いたしました",
+      "opinions": [
+        {
+          "target": "営業外収益",
+          "category": "NULL#sales",
+          "polarity": "negative",
+          "from": 0,
+          "to": 5
+        }
+      ]
+    },
+    {
+      "sentence_id": 36,
+      "sentence": "一方、営業外費用は、支払利息等合計で１億45百万円（同48.9％）を計上し、営業外収益から営業外費用を差し引いた「営業外損益」は４億90百万円の利益（同57.3％）となりました",
+      "opinions": [
+        {
+          "target": "営業外費用",
+          "category": "NULL#cost",
+          "polarity": "positive",
+          "from": 3,
+          "to": 8
+        },
+        {
+          "target": "営業外損益",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 57,
+          "to": 62
+        }
+      ]
+    },
+    {
+      "sentence_id": 37,
+      "sentence": "⑧　特別損益",
+      "opinions": []
+    },
+    {
+      "sentence_id": 38,
+      "sentence": "特別利益は、連結子会社における固定資産売却益を中心に合計で33億47百万円（前期比110.2％）を計上いたしました",
+      "opinions": [
+        {
+          "target": "固定資産売却益",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 15,
+          "to": 22
+        }
+      ]
+    },
+    {
+      "sentence_id": 39,
+      "sentence": "一方、特別損失は、固定資産売却損等合計で２億23百万円（同20.2％）を計上し、特別利益から特別損失を差し引いた「特別損益」は、31億24百万円の利益（同161.5％）となりました",
+      "opinions": [
+        {
+          "target": "特別損失",
+          "category": "NULL#cost",
+          "polarity": "positive",
+          "from": 3,
+          "to": 7
+        },
+        {
+          "target": "特別損益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 57,
+          "to": 61
+        }
+      ]
+    }
+  ]
+}

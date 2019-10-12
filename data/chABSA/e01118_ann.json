@@ -1,0 +1,513 @@
+{
+  "header": {
+    "document_id": "E01118",
+    "document_name": "株式会社リーガルコーポレーション",
+    "doc_text": "有価証券報告書",
+    "edi_id": "E01118",
+    "security_code": "79380",
+    "category33": "その他製品",
+    "category17": "情報通信・サービスその他",
+    "scale": ""
+  },
+  "sentences": [
+    {
+      "sentence_id": 0,
+      "sentence": "当連結会計年度におけるわが国経済は、雇用や所得環境の改善が続くなか、景気は緩やかな回復基調で推移しておりますが、海外経済の不確実性や不安定な金融資本市場の影響等により先行きは不透明な状況にあります",
+      "opinions": [
+        {
+          "target": "雇用",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 18,
+          "to": 20
+        },
+        {
+          "target": "所得環境",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 21,
+          "to": 25
+        },
+        {
+          "target": "景気",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 34,
+          "to": 36
+        },
+        {
+          "target": "金融資本市場",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 70,
+          "to": 76
+        },
+        {
+          "target": "先行き",
+          "category": "NULL#general",
+          "polarity": "neutral",
+          "from": 83,
+          "to": 86
+        }
+      ]
+    },
+    {
+      "sentence_id": 1,
+      "sentence": "靴業界におきましては、根強い節約志向や低価格志向が定着し、個人消費の改善に足踏みが見られております",
+      "opinions": [
+        {
+          "target": "個人消費",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 29,
+          "to": 33
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "sentence": "スニーカーなどスポーツトレンドは落ち着きが見られるものの需要は依然として高く、婦人靴市場やレザーカジュアルが相対的に苦戦するなど、厳しい経営環境が続いております",
+      "opinions": [
+        {
+          "target": "需要",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 28,
+          "to": 30
+        },
+        {
+          "target": "婦人靴市場",
+          "category": "market#general",
+          "polarity": "negative",
+          "from": 39,
+          "to": 44
+        },
+        {
+          "target": "レザーカジュアル",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 45,
+          "to": 53
+        },
+        {
+          "target": "経営環境",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 68,
+          "to": 72
+        }
+      ]
+    },
+    {
+      "sentence_id": 3,
+      "sentence": "このような環境のなか、当社グループは、製造小売業として企画・製造・販売の各部門が連携して、顧客ニーズやライフスタイルの変化に対応した商品開発や売場提案、店舗開発等を行い、新たなマーケットを創造していくことを重点課題とし、更に商品開発プロセスの刷新や取扱ブランドの改廃等による在庫適正化施策にも取り組んでまいりました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 4,
+      "sentence": "売上面では、紳士のビジネスシューズにつきましては、国内生産を主体とする「リーガル」や「ケンフォード」が市場のニーズにマッチし堅調に推移いたしました",
+      "opinions": [
+        {
+          "target": "リーガル",
+          "category": "product#general",
+          "polarity": "positive",
+          "from": 36,
+          "to": 40
+        },
+        {
+          "target": "ケンフォード",
+          "category": "product#general",
+          "polarity": "positive",
+          "from": 43,
+          "to": 49
+        }
+      ]
+    },
+    {
+      "sentence_id": 5,
+      "sentence": "しかしながら婦人靴およびカジュアルシューズにつきましては、ファッションアイテムとしてのスニーカー需要の影響や、対象顧客の節約志向等消費マインドの変化による婦人靴市場全般の低迷などにより苦戦し、全体では前年実績を下回りました",
+      "opinions": [
+        {
+          "target": "婦人靴",
+          "category": "product#general",
+          "polarity": "negative",
+          "from": 6,
+          "to": 9
+        },
+        {
+          "target": "カジュアルシューズ",
+          "category": "product#general",
+          "polarity": "negative",
+          "from": 12,
+          "to": 21
+        },
+        {
+          "target": "婦人靴市場",
+          "category": "market#general",
+          "polarity": "negative",
+          "from": 77,
+          "to": 82
+        }
+      ]
+    },
+    {
+      "sentence_id": 6,
+      "sentence": "利益面では、原材料価格の高騰および在庫水準の適正化を目的とした滞留在庫品削減施策により売上総利益額が減少したことに加え、小売店舗における人件費の増加や本年４月より実施されるポイント制度変更に伴う広告宣伝費の増加等により、前年実績を下回りました",
+      "opinions": [
+        {
+          "target": "利益面",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 0,
+          "to": 3
+        },
+        {
+          "target": "原材料価格",
+          "category": "NULL#cost",
+          "polarity": "negative",
+          "from": 6,
+          "to": 11
+        },
+        {
+          "target": "売上総利益額",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 43,
+          "to": 49
+        },
+        {
+          "target": "人件費",
+          "category": "NULL#cost",
+          "polarity": "negative",
+          "from": 68,
+          "to": 71
+        },
+        {
+          "target": "広告宣伝費",
+          "category": "NULL#cost",
+          "polarity": "negative",
+          "from": 97,
+          "to": 102
+        }
+      ]
+    },
+    {
+      "sentence_id": 7,
+      "sentence": "この結果、当連結会計年度の売上高は 35,671百万円 (前年同期比 1.8％減)、営業利益は 1,451百万円 (前年同期比 27.1％減)、経常利益は 1,503百万円 (前年同期比 30.2％減)、親会社株主に帰属する当期純利益は 890百万円 (前年同期比 35.4％減) となりました",
+      "opinions": [
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "negative",
+          "from": 13,
+          "to": 16
+        },
+        {
+          "target": "営業利益",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 42,
+          "to": 46
+        },
+        {
+          "target": "経常利益",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 72,
+          "to": 76
+        },
+        {
+          "target": "当期純利益",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 112,
+          "to": 117
+        }
+      ]
+    },
+    {
+      "sentence_id": 8,
+      "sentence": "セグメントの業績を示すと、次のとおりであります",
+      "opinions": []
+    },
+    {
+      "sentence_id": 9,
+      "sentence": "① 靴小売事業",
+      "opinions": []
+    },
+    {
+      "sentence_id": 10,
+      "sentence": "靴小売事業では、マーケットやライフスタイルの変化に対応した店舗開発を推進し、また多様化する顧客ニーズに対応すべく顧客との接点強化施策を展開し、店舗運営を通してのブランド価値の向上と売上の拡大に努めました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 11,
+      "sentence": "業態別では、「リーガルシューズ店」、「シェットランドフォックス店」、および「アウトレット店」が堅調に推移いたしました",
+      "opinions": [
+        {
+          "target": "リーガルシューズ店",
+          "category": "business#general",
+          "polarity": "positive",
+          "from": 7,
+          "to": 16
+        },
+        {
+          "target": "シェットランドフォックス店",
+          "category": "business#general",
+          "polarity": "positive",
+          "from": 19,
+          "to": 32
+        },
+        {
+          "target": "アウトレット店",
+          "category": "business#general",
+          "polarity": "positive",
+          "from": 38,
+          "to": 45
+        }
+      ]
+    },
+    {
+      "sentence_id": 12,
+      "sentence": "商品・アイテム別では、紳士靴につきましては、防水・防滑・透湿機能等付加価値の高いビジネスシューズや、需要期のイベントに合わせた限定商品等顧客ニーズに対応した商品を中心に好調に推移いたしました",
+      "opinions": [
+        {
+          "target": "ビジネスシューズ",
+          "category": "product#general",
+          "polarity": "positive",
+          "from": 40,
+          "to": 48
+        },
+        {
+          "target": "限定商品",
+          "category": "product#general",
+          "polarity": "positive",
+          "from": 63,
+          "to": 67
+        }
+      ]
+    },
+    {
+      "sentence_id": 13,
+      "sentence": "しかしながら婦人靴につきましては、スニーカー需要の継続や対象顧客の節約志向等の影響により、苦戦いたしました",
+      "opinions": [
+        {
+          "target": "婦人靴",
+          "category": "product#general",
+          "polarity": "negative",
+          "from": 6,
+          "to": 9
+        }
+      ]
+    },
+    {
+      "sentence_id": 14,
+      "sentence": "また、アウトレット業態において、季節商材等滞留在庫品削減の強化施策を実施したため、値引き販売が増加し売上総利益率が低下いたしました",
+      "opinions": [
+        {
+          "target": "売上総利益率",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 50,
+          "to": 56
+        }
+      ]
+    },
+    {
+      "sentence_id": 15,
+      "sentence": "顧客との接点強化施策としましては、多様化する購買行動の変化に対応すべく、「リーガルシューズＷＥＢサイト」をリニューアルし、既存顧客の利便性向上、新規顧客の獲得ならびにＷＥＢから実店舗への送客等、シームレスな購買環境実現に向けたオムニチャネル化を推進いたしました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 16,
+      "sentence": "当連結会計年度の店舗展開につきましては、「ケンフォード堂島地下街店」(大阪府) など計４店舗を新規に出店し、「リーガルシューズa.k.aサンピアザ新札幌店」(北海道) など計４店舗を改装するとともに、不採算店舗計６店舗を閉店いたしました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 17,
+      "sentence": "(直営小売店の店舗数 133店舗、前年同期末比２店舗減)",
+      "opinions": []
+    },
+    {
+      "sentence_id": 18,
+      "sentence": "この結果、当連結会計年度の売上高は 17,796百万円 (前年同期比 0.8％増)、営業利益は 831百万円 (前年同期比 16.7％減) となりました",
+      "opinions": [
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 13,
+          "to": 16
+        },
+        {
+          "target": "営業利益",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 42,
+          "to": 46
+        }
+      ]
+    },
+    {
+      "sentence_id": 19,
+      "sentence": "② 靴卸売事業",
+      "opinions": []
+    },
+    {
+      "sentence_id": 20,
+      "sentence": "靴卸売事業では、多様化する顧客ニーズに対応すべく、上質感や機能性を重視した商品開発に注力するとともに、チャネルごとの特性に合った営業活動を推進いたしました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 21,
+      "sentence": "紳士靴につきましては、主力の「リーガル」を中心に、防水・透湿機能等付加価値の高いビジネスシューズが堅調に推移いたしました",
+      "opinions": [
+        {
+          "target": "リーガル",
+          "category": "product#general",
+          "polarity": "positive",
+          "from": 15,
+          "to": 19
+        },
+        {
+          "target": "ビジネスシューズ",
+          "category": "product#general",
+          "polarity": "positive",
+          "from": 40,
+          "to": 48
+        }
+      ]
+    },
+    {
+      "sentence_id": 22,
+      "sentence": "しかしながら百貨店チャネルにおきましては、対象顧客の消費マインド低下を反映して価格に対する意識が厳しくなっており、苦戦を強いられました",
+      "opinions": [
+        {
+          "target": "百貨店チャネル",
+          "category": "business#general",
+          "polarity": "negative",
+          "from": 6,
+          "to": 13
+        },
+        {
+          "target": "消費マインド",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 26,
+          "to": 32
+        },
+        {
+          "target": "意識",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 45,
+          "to": 47
+        }
+      ]
+    },
+    {
+      "sentence_id": 23,
+      "sentence": "一方で、マスマーケットへ向けたオリジナルブランドの「ケンフォード」につきましては、品質や価格のバランスが評価され、取扱店舗数も順調に増加したことなどにより、好調に推移いたしました",
+      "opinions": [
+        {
+          "target": "ケンフォード",
+          "category": "product#general",
+          "polarity": "positive",
+          "from": 26,
+          "to": 32
+        },
+        {
+          "target": "取扱店舗数",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 57,
+          "to": 62
+        }
+      ]
+    },
+    {
+      "sentence_id": 24,
+      "sentence": "婦人靴につきましては、モノづくりにこだわった「リーガル」の高価格帯コレクション「プレミアムライン」が徐々に認知されております",
+      "opinions": [
+        {
+          "target": "プレミアムライン",
+          "category": "product#general",
+          "polarity": "positive",
+          "from": 40,
+          "to": 48
+        }
+      ]
+    },
+    {
+      "sentence_id": 25,
+      "sentence": "また、機能性パンプス「プラチナムシリーズ」を昨年春に発売し、チャネルを問わずその履き心地のよさが評価されております",
+      "opinions": [
+        {
+          "target": "プラチナムシリーズ",
+          "category": "product#general",
+          "polarity": "positive",
+          "from": 11,
+          "to": 20
+        }
+      ]
+    },
+    {
+      "sentence_id": 26,
+      "sentence": "しかしながら婦人靴市場全般が低迷しているなか、在庫適正化施策として、取扱ブランドの改廃や滞留在庫品処分、百貨店チャネルにおける店頭管理の見直し等を行った結果、全体では前年実績を下回りました",
+      "opinions": [
+        {
+          "target": "婦人靴市場全般",
+          "category": "market#general",
+          "polarity": "negative",
+          "from": 6,
+          "to": 13
+        }
+      ]
+    },
+    {
+      "sentence_id": 27,
+      "sentence": "この結果、当連結会計年度の売上高は 17,818百万円 (前年同期比 4.4％減)、営業利益は 547百万円 (前年同期比 40.1％減) となりました",
+      "opinions": [
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "negative",
+          "from": 13,
+          "to": 16
+        },
+        {
+          "target": "営業利益",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 42,
+          "to": 46
+        }
+      ]
+    },
+    {
+      "sentence_id": 28,
+      "sentence": "③ その他",
+      "opinions": []
+    },
+    {
+      "sentence_id": 29,
+      "sentence": "報告セグメントに含まれない不動産賃貸料の収入など、その他事業の当連結会計年度の売上高は 200百万円 (前年同期比 1.6％増)、営業利益は 51百万円 (前年同期比 26.1％増) となりました",
+      "opinions": [
+        {
+          "target": "その他事業",
+          "category": "business#sales",
+          "polarity": "positive",
+          "from": 25,
+          "to": 30
+        },
+        {
+          "target": "その他事業",
+          "category": "business#profit",
+          "polarity": "positive",
+          "from": 25,
+          "to": 30
+        }
+      ]
+    }
+  ]
+}

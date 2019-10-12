@@ -1,0 +1,473 @@
+{
+  "header": {
+    "document_id": "E21261",
+    "document_name": "パーソルホールディングス株式会社",
+    "doc_text": "有価証券報告書",
+    "edi_id": "E21261",
+    "security_code": "21810",
+    "category33": "サービス業",
+    "category17": "情報通信・サービスその他",
+    "scale": "4"
+  },
+  "sentences": [
+    {
+      "sentence_id": 0,
+      "sentence": "当連結会計年度における我が国経済は、米国の政権移行や英国のEU離脱問題等、海外情勢の影響等に伴い、先行き不透明な状況が続いたものの、堅い需要に支えられ、戦後３番目の長さとなる穏やかな景気回復の中で推移いたしました",
+      "opinions": [
+        {
+          "target": "我が国経済",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 11,
+          "to": 16
+        },
+        {
+          "target": "需要",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 68,
+          "to": 70
+        }
+      ]
+    },
+    {
+      "sentence_id": 1,
+      "sentence": "雇用情勢においては、平成28年平均の有効求人倍率（季節調整値）が25年ぶりとなる高水準を記録し、また完全失業率も同平均で3.1％と22年ぶりの低水準となりました",
+      "opinions": [
+        {
+          "target": "有効求人倍率",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 18,
+          "to": 24
+        },
+        {
+          "target": "完全失業率",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 50,
+          "to": 55
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "sentence": "そのような市場環境のもと人手不足を背景とした多くの需要が寄せられ、人材サービスに関連する市場は全体として拡大傾向で推移いたしました",
+      "opinions": [
+        {
+          "target": "需要",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 25,
+          "to": 27
+        },
+        {
+          "target": "市場",
+          "category": "market#general",
+          "polarity": "positive",
+          "from": 44,
+          "to": 46
+        }
+      ]
+    },
+    {
+      "sentence_id": 3,
+      "sentence": "当社グループにおいても、顧客企業における需要は総じて堅調に推移し、とりわけ主力事業である人材派遣については稼働者数が高水準で推移し、また人材紹介については転職決定人数が大幅に増加した結果、業績は順調に伸長いたしました",
+      "opinions": [
+        {
+          "target": "需要",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 20,
+          "to": 22
+        },
+        {
+          "target": "人材派遣",
+          "category": "business#amount",
+          "polarity": "positive",
+          "from": 44,
+          "to": 48
+        },
+        {
+          "target": "人材紹介",
+          "category": "business#amount",
+          "polarity": "positive",
+          "from": 68,
+          "to": 72
+        },
+        {
+          "target": "業績",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 94,
+          "to": 96
+        }
+      ]
+    },
+    {
+      "sentence_id": 4,
+      "sentence": "このような経済環境のもと、当社グループでは平成28年６月、新グループブランド「PERSOL（パーソル）」を発表いたしました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 5,
+      "sentence": "さらに平成29年２月には主要な中核会社の商号、同５月には当社の商号を、それぞれ新ブランドを冠した商号に変更することを決議するなど、一層の認知拡大施策を進めております",
+      "opinions": []
+    },
+    {
+      "sentence_id": 6,
+      "sentence": "40年以上に渡りグループ名称とし、派遣事業の一般名称として浸透している「テンプ」に象徴される人材派遣のみならず、新卒・中途採用支援、アルバイト・パート採用支援、ITアウトソーシング、設計開発、BPOなど様々な人材領域を取り扱う総合人材サービスグループとして、労働・雇用の課題の解決に向け、グループ一丸となり邁進してまいります",
+      "opinions": []
+    },
+    {
+      "sentence_id": 7,
+      "sentence": "さらに、成長著しいアジア・パシフィック地域の人材サービス市場に対する取り組みとして、かねてより協業関係にあるKelly Services, Inc.との合弁事業を、今後、アジア・パシフィック全域に拡大することを合意し、７月より同地域にて協業を開始し、体制作りを進めております",
+      "opinions": []
+    },
+    {
+      "sentence_id": 8,
+      "sentence": "新たな合弁事業「TS Kelly Asia Pacific」の名称のもと、両社の経営資源を集中し、成長著しい同地域における地域最大規模の人材サービス会社として競争力強化を目指してまいります",
+      "opinions": []
+    },
+    {
+      "sentence_id": 9,
+      "sentence": "以上の結果、当連結会計年度の売上高は591,995百万円（前連結会計年度比14.4％増）、営業利益は33,409百万円（同19.1％増）、経常利益は34,136百万円（同21.1％増）、親会社株主に帰属する当期純利益は17,820百万円（同2.7％増）となりました",
+      "opinions": [
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 14,
+          "to": 17
+        },
+        {
+          "target": "営業利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 45,
+          "to": 49
+        },
+        {
+          "target": "経常利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 69,
+          "to": 73
+        },
+        {
+          "target": "当期純利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 103,
+          "to": 108
+        }
+      ]
+    },
+    {
+      "sentence_id": 10,
+      "sentence": "セグメントの業績（セグメント間内部取引消去前）は次のとおりであります",
+      "opinions": []
+    },
+    {
+      "sentence_id": 11,
+      "sentence": "①　派遣・BPOセグメント",
+      "opinions": []
+    },
+    {
+      "sentence_id": 12,
+      "sentence": "当連結会計年度における当該セグメントの業績は、売上高440,678百万円(前連結会計年度比9.7％増)、営業利益20,747百万円（同18.8％増）となりました",
+      "opinions": [
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 23,
+          "to": 26
+        },
+        {
+          "target": "営業利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 52,
+          "to": 56
+        }
+      ]
+    },
+    {
+      "sentence_id": 13,
+      "sentence": "当連結会計年度は、雇用関連指標が年度を通じて高水準で推移し、それに伴う慢性的な人手不足から、需要は堅調に推移いたしました",
+      "opinions": [
+        {
+          "target": "雇用関連指標",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 9,
+          "to": 15
+        },
+        {
+          "target": "人手不足",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 39,
+          "to": 43
+        },
+        {
+          "target": "需要",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 46,
+          "to": 48
+        }
+      ]
+    },
+    {
+      "sentence_id": 14,
+      "sentence": "また、需要に対応すべく様々な形で供給施策等を講じたことが奏功し、売上高は大幅に伸長し440,678百万円となりました",
+      "opinions": [
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 32,
+          "to": 35
+        }
+      ]
+    },
+    {
+      "sentence_id": 15,
+      "sentence": "利益面においては、業容拡大に伴う人件費の増加や当社グループの派遣労働者及び従業員の社会保険料にかかる会社負担分の増加等がありましたが、売上高の増加が大きく、営業利益は20,747百万円となりました",
+      "opinions": [
+        {
+          "target": "人件費",
+          "category": "NULL#cost",
+          "polarity": "negative",
+          "from": 16,
+          "to": 19
+        },
+        {
+          "target": "社会保険料",
+          "category": "NULL#cost",
+          "polarity": "negative",
+          "from": 41,
+          "to": 46
+        },
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 67,
+          "to": 70
+        },
+        {
+          "target": "営業利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 78,
+          "to": 82
+        }
+      ]
+    },
+    {
+      "sentence_id": 16,
+      "sentence": "②　ITOセグメント",
+      "opinions": []
+    },
+    {
+      "sentence_id": 17,
+      "sentence": "当連結会計年度における当該セグメントの業績は、売上高26,646百万円（同7.9％増）、営業利益2,095百万円（同12.8％増）となりました",
+      "opinions": [
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 23,
+          "to": 26
+        },
+        {
+          "target": "営業利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 44,
+          "to": 48
+        }
+      ]
+    },
+    {
+      "sentence_id": 18,
+      "sentence": "当連結会計年度は、顧客企業におけるシステム関連投資やSI関連サービスに対する引き合いは高水準で推移し、また当社グループにおける社内システムの開発等により売上高は順調に伸長いたしました",
+      "opinions": [
+        {
+          "target": "システム関連投資",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 17,
+          "to": 25
+        },
+        {
+          "target": "引き合い",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 38,
+          "to": 42
+        },
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 76,
+          "to": 79
+        }
+      ]
+    },
+    {
+      "sentence_id": 19,
+      "sentence": "利益面においては、需要に応じた技術者の確保等、費用増加要因はあるものの需要の増加に伴い収益性が高まった結果、営業利益は2,095百万円となりました",
+      "opinions": [
+        {
+          "target": "需要",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 35,
+          "to": 37
+        },
+        {
+          "target": "収益性",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 43,
+          "to": 46
+        },
+        {
+          "target": "営業利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 54,
+          "to": 58
+        }
+      ]
+    },
+    {
+      "sentence_id": 20,
+      "sentence": "③　エンジニアリングセグメント",
+      "opinions": []
+    },
+    {
+      "sentence_id": 21,
+      "sentence": "当連結会計年度における当該セグメントの業績は、売上高26,668百万円（同10.8％増）、営業利益1,979百万円（同29.1％増）となりました",
+      "opinions": [
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 23,
+          "to": 26
+        },
+        {
+          "target": "営業利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 45,
+          "to": 49
+        }
+      ]
+    },
+    {
+      "sentence_id": 22,
+      "sentence": "当連結会計年度は、電機、自動車業界等を中心として人材需要が引き続き強く、売上高は順調に伸長いたしました",
+      "opinions": [
+        {
+          "target": "人材需要",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 24,
+          "to": 28
+        },
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 36,
+          "to": 39
+        }
+      ]
+    },
+    {
+      "sentence_id": 23,
+      "sentence": "利益面においては、新卒者の配属が順調に早期に進んだこと、また収益性の高いプロジェクト運営を行った結果、営業利益1,979百万円となりました",
+      "opinions": [
+        {
+          "target": "営業利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 51,
+          "to": 55
+        }
+      ]
+    },
+    {
+      "sentence_id": 24,
+      "sentence": "④　リクルーティングセグメント",
+      "opinions": []
+    },
+    {
+      "sentence_id": 25,
+      "sentence": "当連結会計年度における当該セグメントの業績は、売上高103,242百万円（同43.8％増）、営業利益8,494百万円（同28.5％増）となりました",
+      "opinions": [
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 23,
+          "to": 26
+        },
+        {
+          "target": "営業利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 46,
+          "to": 50
+        }
+      ]
+    },
+    {
+      "sentence_id": 26,
+      "sentence": "当連結会計年度は、国内人材紹介事業において営業体制強化を目的とした人員増強を実施したことに加え、海外事業においてKelly Services, Inc.との合弁事業の範囲拡大に伴う業容拡大効果があった結果、売上高は大幅に伸長いたしました",
+      "opinions": [
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 103,
+          "to": 106
+        }
+      ]
+    },
+    {
+      "sentence_id": 27,
+      "sentence": "利益面では業容拡大に伴う人件費等の費用増加や、海外事業の影響等はありましたが、売上高の増加により、営業利益は8,494百万円となりました",
+      "opinions": [
+        {
+          "target": "人件費",
+          "category": "NULL#cost",
+          "polarity": "negative",
+          "from": 12,
+          "to": 15
+        },
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 39,
+          "to": 42
+        },
+        {
+          "target": "営業利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 49,
+          "to": 53
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,346 @@
+{
+  "header": {
+    "document_id": "E04877",
+    "document_name": "株式会社ミロク情報サービス",
+    "doc_text": "有価証券報告書",
+    "edi_id": "E04877",
+    "security_code": "99280",
+    "category33": "情報・通信業",
+    "category17": "情報通信・サービスその他",
+    "scale": "6"
+  },
+  "sentences": [
+    {
+      "sentence_id": 0,
+      "sentence": "当連結会計年度における国内経済は、企業収益や雇用・所得環境が引き続き改善傾向にあり緩やかな回復基調が続きましたが、英国のEU離脱問題に加えて米国新政権による諸政策への警戒感などから、依然として先行き不透明な状況が続いております",
+      "opinions": [
+        {
+          "target": "国内経済",
+          "category": "NULL#general",
+          "polarity": "neutral",
+          "from": 11,
+          "to": 15
+        },
+        {
+          "target": "企業収益",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 17,
+          "to": 21
+        },
+        {
+          "target": "雇用",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 22,
+          "to": 24
+        },
+        {
+          "target": "所得環境",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 25,
+          "to": 29
+        }
+      ]
+    },
+    {
+      "sentence_id": 1,
+      "sentence": "ソフトウェア業界及び情報サービス業界においては、企業収益の改善を背景に、IT関連投資を含む設備投資の増加が期待されるなど、事業環境は改善傾向にあります",
+      "opinions": [
+        {
+          "target": "ソフトウェア業界",
+          "category": "market#general",
+          "polarity": "positive",
+          "from": 0,
+          "to": 8
+        },
+        {
+          "target": "情報サービス業界",
+          "category": "market#general",
+          "polarity": "positive",
+          "from": 10,
+          "to": 18
+        },
+        {
+          "target": "企業収益",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 24,
+          "to": 28
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "sentence": "このような経営環境の下、当社グループは第３次中期経営計画（平成26年度～平成28年度）の最終年度を迎え、更なる成長に向けた取り組みを行いました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 3,
+      "sentence": "本中期経営計画においては、「新しい価値創出へのチャレンジ」をテーマに、経営ビジョンとして「既存事業における競争力の強化を図るとともに、新たな事業機会を捉えて独自の価値を創出することにより、継続的かつ飛躍的な企業価値の向上を目指します」を掲げてまいりました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 4,
+      "sentence": "既存事業においては、販売力や製品・サービス力の向上により既存顧客との関係維持、満足度向上を図るとともに、新規顧客の開拓による顧客基盤の拡大とこれらに伴うサービス収入の増大、収益基盤の更なる強化に努めました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 5,
+      "sentence": "販売面では、当社主催の「MJS Solution Seminar ＆ Fair」の開催をはじめ、経理業務の効率化や税制改正・国際税務の解説、さらに事業承継、FinTechなど、お客様の関心の高いテーマを取り上げた多彩なセミナー・研修会を全国各地で継続的に開催しました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 6,
+      "sentence": "加えて、当社のブランド力向上のためのテレビCMやWebマーケティングを展開するなど、積極的な販売促進、広告宣伝活動を通して新規顧客の開拓に注力しました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 7,
+      "sentence": "開発面では、お客様のニーズに即した製品・サービスの機能改良、機能拡張を行うとともに、クラウド・コンピューティングやFinTech、AI（人工知能）をはじめとする様々な技術動向や環境変化を分析し、製品競争力を一層高めるための研究開発を継続的に行っております",
+      "opinions": []
+    },
+    {
+      "sentence_id": 8,
+      "sentence": "主力のERP製品においては、順次、クラウド・コンピューティングへの対応及びFinTech分野の機能強化を実現してまいりました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 9,
+      "sentence": "さらに、新たなクラウドサービスの創出に向け、その基盤となるBtoBプラットフォーム『bizsky』（ビズスカイ）を構築したほか、中小企業における業務効率化及びコスト削減等を支援するためのクラウドサービス『楽（らく）たす振込』『楽たす給与振込』を開発し、FinTech分野のサービス拡充に努めました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 10,
+      "sentence": "一方、子会社である株式会社MJS M&Aパートナーズと連携し、会計事務所の先生方のご協力の下、中小企業における事業承継、事業再生支援を積極的に推進するための基盤構築を全国において進めており、2,000件超の会計事務所とパートナー契約を締結しました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 11,
+      "sentence": "また、昨年４月に分社化した株式会社ビズオーシャンをはじめ、グループ各社の企業価値向上、グループ経営の一層の強化に取り組んでおります",
+      "opinions": []
+    },
+    {
+      "sentence_id": 12,
+      "sentence": "以上のように、お客様に対して最適な経営システム及び高品質なサービスを提供し、顧客基盤の維持・拡大を図るとともに、新規事業による新たな収益基盤の確立を目指し、更なる利益創出、企業価値向上に努めました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 13,
+      "sentence": "このような事業活動により、当連結会計年度の業績は過去最高の売上高となり、利益面においては６期連続の最高益を更新しました",
+      "opinions": [
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 29,
+          "to": 32
+        },
+        {
+          "target": "利益面",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 36,
+          "to": 39
+        }
+      ]
+    },
+    {
+      "sentence_id": 14,
+      "sentence": "当連結会計年度の業績は、売上高262億25百万円（前年同期比11.0％増）、営業利益41億３百万円（前年同期比35.0％増）、経常利益40億10百万円（前年同期比30.7％増）、親会社株主に帰属する当期純利益26億16百万円（前年同期比37.3％増）となりました",
+      "opinions": [
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 12,
+          "to": 15
+        },
+        {
+          "target": "営業利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 38,
+          "to": 42
+        },
+        {
+          "target": "経常利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 63,
+          "to": 67
+        },
+        {
+          "target": "当期純利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 99,
+          "to": 104
+        }
+      ]
+    },
+    {
+      "sentence_id": 15,
+      "sentence": "当連結会計年度の品目別の売上高は以下のとおりであります",
+      "opinions": []
+    },
+    {
+      "sentence_id": 16,
+      "sentence": "（システム導入契約売上高）",
+      "opinions": []
+    },
+    {
+      "sentence_id": 17,
+      "sentence": "ハードウェア売上高は、前年同期比0.8%増の28億22百万円、ソフトウェア売上高は、前年同期比14.9%増の102億81百万円となりました",
+      "opinions": [
+        {
+          "target": "ハードウェア売上高",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 0,
+          "to": 9
+        },
+        {
+          "target": "ソフトウェア売上高",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 31,
+          "to": 40
+        }
+      ]
+    },
+    {
+      "sentence_id": 18,
+      "sentence": "ユースウェア売上高は、前年同期比10.5%増の32億41百万円となりました",
+      "opinions": [
+        {
+          "target": "ユースウェア売上高",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 0,
+          "to": 9
+        }
+      ]
+    },
+    {
+      "sentence_id": 19,
+      "sentence": "この結果、システム導入契約売上高の合計は、前年同期比11.3%増の163億45百万円となりました",
+      "opinions": [
+        {
+          "target": "システム導入契約売上高",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 5,
+          "to": 16
+        }
+      ]
+    },
+    {
+      "sentence_id": 20,
+      "sentence": "※「システム導入契約売上高」は、システム導入契約時の売上高の合計として、ハードウェア、ソフトウェア、ユースウェア（システム導入支援サービス等）の売上高から構成されております",
+      "opinions": []
+    },
+    {
+      "sentence_id": 21,
+      "sentence": "（サービス収入）",
+      "opinions": []
+    },
+    {
+      "sentence_id": 22,
+      "sentence": "会計事務所向けの総合保守サービスであるTVS（トータル・バリューサービス）収入は、前年同期比1.4%増の18億77百万円となりました",
+      "opinions": [
+        {
+          "target": "TVS（トータル・バリューサービス）収入",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 19,
+          "to": 39
+        }
+      ]
+    },
+    {
+      "sentence_id": 23,
+      "sentence": "ソフト使用料収入は、会計事務所の顧問先企業向けの低価格なソフト使用料収入が伸長し、前年同期比20.0%増の12億11百万円となりました",
+      "opinions": [
+        {
+          "target": "ソフト使用料収入",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 0,
+          "to": 8
+        },
+        {
+          "target": "ソフト使用料収入",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 28,
+          "to": 36
+        }
+      ]
+    },
+    {
+      "sentence_id": 24,
+      "sentence": "企業向けのソフトウェア運用支援サービス収入は、新規顧客の開拓に注力したことによりサービス契約社数が増加したため、前年同期比10.2%増の38億98百万円となりました",
+      "opinions": [
+        {
+          "target": "ソフトウェア運用支援サービス収入",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 5,
+          "to": 21
+        },
+        {
+          "target": "サービス契約社数",
+          "category": "NULL#amount",
+          "polarity": "positive",
+          "from": 40,
+          "to": 48
+        }
+      ]
+    },
+    {
+      "sentence_id": 25,
+      "sentence": "ハードウェア・ネットワーク保守サービス収入は前年同期比6.2%増の12億87百万円、サプライ・オフィス用品は前年同期比2.8%減の６億75百万円となりました",
+      "opinions": [
+        {
+          "target": "ハードウェア・ネットワーク保守サービス収入",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 0,
+          "to": 21
+        },
+        {
+          "target": "サプライ・オフィス用品",
+          "category": "product#sales",
+          "polarity": "negative",
+          "from": 42,
+          "to": 53
+        }
+      ]
+    },
+    {
+      "sentence_id": 26,
+      "sentence": "この結果、サービス収入の合計は、前年同期比7.7%増の89億49百万円となりました",
+      "opinions": [
+        {
+          "target": "サービス収入",
+          "category": "product#sales",
+          "polarity": "positive",
+          "from": 5,
+          "to": 11
+        }
+      ]
+    },
+    {
+      "sentence_id": 27,
+      "sentence": "※「サービス収入」は、主に継続的な役務の対価となる安定的な収入として、ソフト保守やHW・NW保守サービス、ソフト使用料収入、サプライ・オフィス用品等の売上高から構成されています",
+      "opinions": []
+    },
+    {
+      "sentence_id": 28,
+      "sentence": "売上高前年同期比較　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　（単位：百万円、％）",
+      "opinions": []
+    }
+  ]
+}

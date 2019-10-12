@@ -1,0 +1,481 @@
+{
+  "header": {
+    "document_id": "E05322",
+    "document_name": "株式会社エヌアイデイ",
+    "doc_text": "有価証券報告書",
+    "edi_id": "E05322",
+    "security_code": "23490",
+    "category33": "情報・通信業",
+    "category17": "情報通信・サービスその他",
+    "scale": ""
+  },
+  "sentences": [
+    {
+      "sentence_id": 0,
+      "sentence": "当連結会計年度におけるわが国経済は、企業収益や雇用環境に改善は見られるものの、個人消費は引き続き弱含みに推移しております",
+      "opinions": [
+        {
+          "target": "企業収益",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 18,
+          "to": 22
+        },
+        {
+          "target": "雇用環境",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 23,
+          "to": 27
+        },
+        {
+          "target": "個人消費",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 39,
+          "to": 43
+        }
+      ]
+    },
+    {
+      "sentence_id": 1,
+      "sentence": "また、海外においては、米国新政権の政策動向や欧州の政治情勢への懸念等、先行きへの不透明感が続いております",
+      "opinions": [
+        {
+          "target": "先行き",
+          "category": "NULL#general",
+          "polarity": "neutral",
+          "from": 35,
+          "to": 38
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "sentence": "当社グループの属する情報サービス業界においては、景気の先行き不透明感は続いているものの、企業のＩＴ投資は緩やかな増加傾向で推移しました",
+      "opinions": [
+        {
+          "target": "景気",
+          "category": "NULL#general",
+          "polarity": "neutral",
+          "from": 24,
+          "to": 26
+        },
+        {
+          "target": "ＩＴ投資",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 47,
+          "to": 51
+        }
+      ]
+    },
+    {
+      "sentence_id": 3,
+      "sentence": "一方で、技術者の不足感は強まりつつあり、人材確保の面では厳しい状況が続いております",
+      "opinions": [
+        {
+          "target": "技術者",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 4,
+          "to": 7
+        },
+        {
+          "target": "人材確保",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 20,
+          "to": 24
+        }
+      ]
+    },
+    {
+      "sentence_id": 4,
+      "sentence": "こうした状況の中、当社グループは、通信システム開発、情報システム開発、ネットワークソリューション、データ入力関連業務をトータルで提供する総合情報サービス企業として事業展開してきましたが、平成28年４月より、複雑化／多様化するＩＴの進化や市場の変化に対して、従来以上に機動的かつ効率的に対応するために、事業分野をエンベデッドソリューション事業、ＩＣＴイノベーション事業、フィナンシャルシステム事業、ネットワークソリューション事業に再編しました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 5,
+      "sentence": "それぞれの事業の強みを活かしつつＩＴの進化や市場の変化に柔軟に対応し成長が見込まれる分野に注力することで持続的成長と拡大を目指しております",
+      "opinions": []
+    },
+    {
+      "sentence_id": 6,
+      "sentence": "このような取組みの結果、売上面では、エンベデッドソリューション事業の売上が減少したものの、ＩＣＴイノベーション事業の売上が好調に推移したこと等により、増収となりました",
+      "opinions": [
+        {
+          "target": "売上",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 12,
+          "to": 14
+        },
+        {
+          "target": "エンベデッドソリューション事業",
+          "category": "business#sales",
+          "polarity": "negative",
+          "from": 18,
+          "to": 33
+        },
+        {
+          "target": "ＩＣＴイノベーション事業",
+          "category": "business#sales",
+          "polarity": "positive",
+          "from": 45,
+          "to": 57
+        }
+      ]
+    },
+    {
+      "sentence_id": 7,
+      "sentence": "利益面では、売上増に加え、ＩＣＴイノベーション事業において前期発生した不採算案件の収束等により、大幅な増益となりました",
+      "opinions": [
+        {
+          "target": "利益面",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 0,
+          "to": 3
+        },
+        {
+          "target": "ＩＣＴイノベーション事業",
+          "category": "business#general",
+          "polarity": "positive",
+          "from": 13,
+          "to": 25
+        }
+      ]
+    },
+    {
+      "sentence_id": 8,
+      "sentence": "以上の結果、当連結会計年度の業績につきましては、売上高17,683百万円（前年同期比3.4％増）、営業利益1,834百万円（同18.7％増）、経常利益1,967百万円（同14.6％増）、親会社株主に帰属する当期純利益1,304百万円（同36.3％増）となりました",
+      "opinions": [
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 24,
+          "to": 27
+        },
+        {
+          "target": "営業利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 49,
+          "to": 53
+        },
+        {
+          "target": "経常利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 71,
+          "to": 75
+        },
+        {
+          "target": "当期純利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 103,
+          "to": 108
+        }
+      ]
+    },
+    {
+      "sentence_id": 9,
+      "sentence": "なお、売上高、営業利益、経常利益、親会社株主に帰属する当期純利益につきましては、過去最高を更新しました",
+      "opinions": [
+        {
+          "target": "当期純利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 27,
+          "to": 32
+        }
+      ]
+    },
+    {
+      "sentence_id": 10,
+      "sentence": "セグメントの業績は、次のとおりであります",
+      "opinions": []
+    },
+    {
+      "sentence_id": 11,
+      "sentence": "なお、当連結会計年度より、報告セグメントの区分を変更しており、以下の前年同期比較については、前年同期の数値を変更後のセグメント区分に組み替えた数値で比較しております",
+      "opinions": []
+    },
+    {
+      "sentence_id": 12,
+      "sentence": "①エンベデッドソリューション事業",
+      "opinions": []
+    },
+    {
+      "sentence_id": 13,
+      "sentence": "当事業では、メディカルシステム、社会インフラ、ＦＡ・装置制御等の分野の売上・利益が減少しました",
+      "opinions": [
+        {
+          "target": "メディカルシステム",
+          "category": "business#sales",
+          "polarity": "negative",
+          "from": 6,
+          "to": 15
+        },
+        {
+          "target": "メディカルシステム",
+          "category": "business#profit",
+          "polarity": "negative",
+          "from": 6,
+          "to": 15
+        },
+        {
+          "target": "社会インフラ",
+          "category": "business#sales",
+          "polarity": "negative",
+          "from": 16,
+          "to": 22
+        },
+        {
+          "target": "社会インフラ",
+          "category": "business#profit",
+          "polarity": "negative",
+          "from": 16,
+          "to": 22
+        },
+        {
+          "target": "ＦＡ・装置制御",
+          "category": "business#sales",
+          "polarity": "negative",
+          "from": 23,
+          "to": 30
+        },
+        {
+          "target": "ＦＡ・装置制御",
+          "category": "business#profit",
+          "polarity": "negative",
+          "from": 23,
+          "to": 30
+        }
+      ]
+    },
+    {
+      "sentence_id": 14,
+      "sentence": "この結果、売上高は2,990百万円（前年同期比7.7％減）、営業利益は279百万円（同26.0％減）となりました",
+      "opinions": [
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "negative",
+          "from": 5,
+          "to": 8
+        },
+        {
+          "target": "営業利益",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 30,
+          "to": 34
+        }
+      ]
+    },
+    {
+      "sentence_id": 15,
+      "sentence": "②ＩＣＴイノベーション事業",
+      "opinions": []
+    },
+    {
+      "sentence_id": 16,
+      "sentence": "当事業では、企業システム、社会インフラ等の分野の売上が増加しました",
+      "opinions": [
+        {
+          "target": "企業システム",
+          "category": "business#sales",
+          "polarity": "positive",
+          "from": 6,
+          "to": 12
+        },
+        {
+          "target": "社会インフラ",
+          "category": "business#sales",
+          "polarity": "positive",
+          "from": 13,
+          "to": 19
+        }
+      ]
+    },
+    {
+      "sentence_id": 17,
+      "sentence": "また、前期発生した不採算案件の収束により利益が改善しました",
+      "opinions": [
+        {
+          "target": "不採算案件",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 9,
+          "to": 14
+        },
+        {
+          "target": "利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 20,
+          "to": 22
+        }
+      ]
+    },
+    {
+      "sentence_id": 18,
+      "sentence": "この結果、売上高は3,700百万円（同17.5％増）、営業利益は331百万円（同36.6％増）となりました",
+      "opinions": [
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 5,
+          "to": 8
+        },
+        {
+          "target": "営業利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 27,
+          "to": 31
+        }
+      ]
+    },
+    {
+      "sentence_id": 19,
+      "sentence": "③フィナンシャルシステム事業",
+      "opinions": []
+    },
+    {
+      "sentence_id": 20,
+      "sentence": "当事業では、クレジット・証券等の分野の売上が増加しました",
+      "opinions": [
+        {
+          "target": "クレジット・証券",
+          "category": "business#sales",
+          "polarity": "positive",
+          "from": 6,
+          "to": 14
+        }
+      ]
+    },
+    {
+      "sentence_id": 21,
+      "sentence": "この結果、売上高は4,274百万円（同0.4％増）、営業利益は662百万円（同11.3％増）となりました",
+      "opinions": [
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 5,
+          "to": 8
+        },
+        {
+          "target": "営業利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 26,
+          "to": 30
+        }
+      ]
+    },
+    {
+      "sentence_id": 22,
+      "sentence": "④ネットワークソリューション事業",
+      "opinions": []
+    },
+    {
+      "sentence_id": 23,
+      "sentence": "当事業では、運輸、官公庁・団体等の分野の売上が増加しました",
+      "opinions": [
+        {
+          "target": "運輸",
+          "category": "business#sales",
+          "polarity": "positive",
+          "from": 6,
+          "to": 8
+        },
+        {
+          "target": "官公庁・団体",
+          "category": "business#sales",
+          "polarity": "positive",
+          "from": 9,
+          "to": 15
+        }
+      ]
+    },
+    {
+      "sentence_id": 24,
+      "sentence": "この結果、売上高は5,105百万円（同4.0％増）、営業利益は463百万円（同22.9％増）となりました",
+      "opinions": [
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 5,
+          "to": 8
+        },
+        {
+          "target": "営業利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 26,
+          "to": 30
+        }
+      ]
+    },
+    {
+      "sentence_id": 25,
+      "sentence": "⑤その他",
+      "opinions": []
+    },
+    {
+      "sentence_id": 26,
+      "sentence": "その他には、データソリューション事業、プロダクト事業、人材派遣事業を分類しておりますが、それぞれの事業で安定した売上を確保しました",
+      "opinions": [
+        {
+          "target": "データソリューション事業",
+          "category": "business#sales",
+          "polarity": "positive",
+          "from": 6,
+          "to": 18
+        },
+        {
+          "target": "プロダクト事業",
+          "category": "business#sales",
+          "polarity": "positive",
+          "from": 19,
+          "to": 26
+        },
+        {
+          "target": "人材派遣事業",
+          "category": "business#sales",
+          "polarity": "positive",
+          "from": 27,
+          "to": 33
+        }
+      ]
+    },
+    {
+      "sentence_id": 27,
+      "sentence": "この結果、売上高は1,612百万円（同4.5％増）、営業利益は86百万円（前年同期は６百万円の営業損失）となりました",
+      "opinions": [
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 5,
+          "to": 8
+        },
+        {
+          "target": "営業利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 26,
+          "to": 30
+        }
+      ]
+    }
+  ]
+}

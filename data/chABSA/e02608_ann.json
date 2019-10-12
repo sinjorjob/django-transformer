@@ -1,0 +1,217 @@
+{
+  "header": {
+    "document_id": "E02608",
+    "document_name": "東邦ホールディングス株式会社",
+    "doc_text": "有価証券報告書",
+    "edi_id": "E02608",
+    "security_code": "81290",
+    "category33": "卸売業",
+    "category17": "商社・卸売",
+    "scale": "4"
+  },
+  "sentences": [
+    {
+      "sentence_id": 0,
+      "sentence": "当連結会計年度における医療用医薬品市場は、平成28年４月の市場拡大再算定の特例を含む7.8％の薬価基準の引き下げやジェネリック医薬品のさらなる使用を促進する診療報酬改定などの医療費抑制策が推進された影響と前期に急成長したＣ型肝炎治療薬市場の急速な縮小により、抗がん剤等新薬の寄与はあったものの、前年に比べて大幅なマイナス成長となりました",
+      "opinions": [
+        {
+          "target": "医療用医薬品市場",
+          "category": "market#general",
+          "polarity": "negative",
+          "from": 11,
+          "to": 19
+        },
+        {
+          "target": "Ｃ型肝炎治療薬市場",
+          "category": "market#general",
+          "polarity": "negative",
+          "from": 110,
+          "to": 119
+        }
+      ]
+    },
+    {
+      "sentence_id": 1,
+      "sentence": "このような状況のもと、当社グループは医薬品卸売と調剤薬局の二つの事業を核とする医療、健康、介護分野に携わる企業集団として、患者様や医療機関が抱える課題を解決するための様々な顧客支援システムの開発・提案に取り組み、地域包括ケアシステムへの貢献により、幅広い分野で存在価値を発揮する付加価値サービス型ビジネスモデルへの変革を推進いたしました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 2,
+      "sentence": "平成28年11月に発足させた共創未来ファーマ株式会社については、12月の薬価追補収載において２成分３品目を発売し、売上・利益ともに順調なスタートとなりました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 3,
+      "sentence": "顧客需要に的確に対応する製造販売一体型のビジネススキームを確立し、高品質・高付加価値なジェネリック医薬品を中心に医療用医薬品を安定的かつ合理的に提供することを目指してまいります",
+      "opinions": []
+    },
+    {
+      "sentence_id": 4,
+      "sentence": "当連結会計年度の業績は、売上高は1,231,046百万円（前期比5.9％減）、営業利益は14,244百万円（前期比50.2％減）、経常利益は19,844百万円（前期比42.5％減）、親会社株主に帰属する当期純利益は14,225百万円（前期比34.7％減）となりました",
+      "opinions": [
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "negative",
+          "from": 12,
+          "to": 15
+        },
+        {
+          "target": "営業利益",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 39,
+          "to": 43
+        },
+        {
+          "target": "経常利益",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 65,
+          "to": 69
+        },
+        {
+          "target": "当期純利益",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 101,
+          "to": 106
+        }
+      ]
+    },
+    {
+      "sentence_id": 5,
+      "sentence": "（セグメントの状況）",
+      "opinions": []
+    },
+    {
+      "sentence_id": 6,
+      "sentence": "医薬品卸売事業においては、個々の製品価値に応じた価格体系に基づく単品単価の価格交渉により適正利益の確保を図るとともに、当社独自の顧客支援システムの提案活動に注力することによりフィービジネスの拡大に努めました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 7,
+      "sentence": "また、継続して既存業務を抜本的に見直し、間接業務の集約化によるトータル人員の適正化を推進することで、生産性の向上を図りました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 8,
+      "sentence": "その結果、自動音声認識薬歴作成支援システム「ENIFvoice SP」、「初診受付サービス」の契約件数の拡大が業績に貢献し、他の顧客支援システムも安定的に寄与したものの、医療用医薬品市場のマイナス成長に加え、Ｃ型肝炎治療薬の市場縮小の影響を大きく受け、医薬品卸売事業における当連結会計年度の業績は、売上高1,180,640百万円（前期比6.0％減）、セグメント利益（営業利益）は13,998百万円（前期比48.8％減）となりました",
+      "opinions": [
+        {
+          "target": "ENIFvoice SP",
+          "category": "product#amount",
+          "polarity": "positive",
+          "from": 22,
+          "to": 34
+        },
+        {
+          "target": "初診受付サービス",
+          "category": "product#amount",
+          "polarity": "positive",
+          "from": 37,
+          "to": 45
+        },
+        {
+          "target": "顧客支援システム",
+          "category": "product#general",
+          "polarity": "positive",
+          "from": 64,
+          "to": 72
+        },
+        {
+          "target": "医療用医薬品市場",
+          "category": "market#general",
+          "polarity": "negative",
+          "from": 85,
+          "to": 93
+        },
+        {
+          "target": "Ｃ型肝炎治療薬",
+          "category": "product#general",
+          "polarity": "negative",
+          "from": 104,
+          "to": 111
+        },
+        {
+          "target": "医薬品卸売事業",
+          "category": "business#sales",
+          "polarity": "negative",
+          "from": 126,
+          "to": 133
+        },
+        {
+          "target": "医薬品卸売事業",
+          "category": "business#profit",
+          "polarity": "negative",
+          "from": 126,
+          "to": 133
+        }
+      ]
+    },
+    {
+      "sentence_id": 9,
+      "sentence": "調剤薬局事業では、各薬局が調剤報酬の改定に対応した機能を構築するための施策を推進し、地域医療に密着した店舗運営において、顧客のニーズに対応したサービスを提供することで高付加価値化を図るとともに、店舗業務の標準化や本部への業務集約による経営の効率化を推進することで収益性の改善に取り組みました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 10,
+      "sentence": "一方で、調剤報酬改定と薬価改定の影響を大きく受け、その結果、当連結会計年度の業績は、売上高95,807百万円（前期比4.2％減）、セグメント利益（営業利益）は1,244百万円（前期比57.4％減）となりました",
+      "opinions": [
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "negative",
+          "from": 42,
+          "to": 45
+        },
+        {
+          "target": "セグメント利益",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 65,
+          "to": 72
+        }
+      ]
+    },
+    {
+      "sentence_id": 11,
+      "sentence": "治験施設支援事業では、売上高322百万円（前期比39.4%減）、セグメント利益（営業利益）は74百万円（前期比75.2％減）、情報機器販売事業では、売上高1,614百万円（前期比15.8%増）、セグメント利益（営業利益）は81百万円となりました",
+      "opinions": [
+        {
+          "target": "治験施設支援事業",
+          "category": "business#sales",
+          "polarity": "negative",
+          "from": 0,
+          "to": 8
+        },
+        {
+          "target": "治験施設支援事業",
+          "category": "business#profit",
+          "polarity": "negative",
+          "from": 0,
+          "to": 8
+        },
+        {
+          "target": "情報機器販売事業",
+          "category": "business#sales",
+          "polarity": "positive",
+          "from": 63,
+          "to": 71
+        },
+        {
+          "target": "情報機器販売事業",
+          "category": "business#profit",
+          "polarity": "positive",
+          "from": 63,
+          "to": 71
+        }
+      ]
+    },
+    {
+      "sentence_id": 12,
+      "sentence": "（注）セグメントの売上高には、セグメント間の内部売上高を含んでおります",
+      "opinions": []
+    }
+  ]
+}

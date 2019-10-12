@@ -1,0 +1,343 @@
+{
+  "header": {
+    "document_id": "E00017",
+    "document_name": "株式会社ホウスイ",
+    "doc_text": "有価証券報告書",
+    "edi_id": "E00017",
+    "security_code": "13520",
+    "category33": "卸売業",
+    "category17": "商社・卸売",
+    "scale": "7"
+  },
+  "sentences": [
+    {
+      "sentence_id": 0,
+      "sentence": "当連結会計年度におけるわが国経済は、景気は緩やかな回復基調が継続しているものの、個人消費には未だ力強さがなく、さらに英国のＥＵ離脱問題や米国のトランプ新政権発足の影響により海外経済の不確実性が高まるなど、景気の先行きについては依然不透明な状況にあります",
+      "opinions": [
+        {
+          "target": "景気",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 18,
+          "to": 20
+        },
+        {
+          "target": "個人消費",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 40,
+          "to": 44
+        },
+        {
+          "target": "海外経済",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 86,
+          "to": 90
+        },
+        {
+          "target": "先行き",
+          "category": "NULL#general",
+          "polarity": "neutral",
+          "from": 105,
+          "to": 108
+        }
+      ]
+    },
+    {
+      "sentence_id": 1,
+      "sentence": "一方、水産・食品業界におきましては、消費マインドの低迷により、厳しい経営環境が続いております",
+      "opinions": [
+        {
+          "target": "水産・食品業界",
+          "category": "market#general",
+          "polarity": "negative",
+          "from": 3,
+          "to": 10
+        },
+        {
+          "target": "消費マインド",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 18,
+          "to": 24
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "sentence": "このような状況のもと、当社グループは、引き続き消費者の食に関するニーズに迅速に対応するなど安全・安心な食品を提供し、グループの持つ機能を最大限に活用して収益の確保に努めてまいりました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 3,
+      "sentence": "当社グループの当連結会計年度の経営成績は、新設事業所の順調な稼働などに加え、特別利益の計上もあり、前年対比増収増益となりました",
+      "opinions": [
+        {
+          "target": "当社グループ",
+          "category": "company#sales",
+          "polarity": "positive",
+          "from": 0,
+          "to": 6
+        },
+        {
+          "target": "当社グループ",
+          "category": "company#profit",
+          "polarity": "positive",
+          "from": 0,
+          "to": 6
+        },
+        {
+          "target": "新設事業所",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 21,
+          "to": 26
+        }
+      ]
+    },
+    {
+      "sentence_id": 4,
+      "sentence": "その結果、売上高737億61百万円（前年同期比28億55百万円 4.0%増）、営業利益７億99百万円（前年同期比２億75百万円 52.7%増）、経常利益８億50百万円（前年同期比２億73百万円 47.3%増）、親会社株主に帰属する当期純利益７億６百万円（前年同期比３億４百万円 75.6%増）となりました",
+      "opinions": [
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 5,
+          "to": 8
+        },
+        {
+          "target": "営業利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 39,
+          "to": 43
+        },
+        {
+          "target": "経常利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 72,
+          "to": 76
+        },
+        {
+          "target": "当期純利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 115,
+          "to": 120
+        }
+      ]
+    },
+    {
+      "sentence_id": 5,
+      "sentence": "セグメントの業績は次のとおりであります",
+      "opinions": []
+    },
+    {
+      "sentence_id": 6,
+      "sentence": "①　冷蔵倉庫事業\n　冷蔵倉庫事業は、豊洲新市場開場に向け豊洲冷蔵庫（23,823トン）を建設いたしましたが、開場が延期されたことにより営業できない状況となり、築地冷蔵庫を引き続き営業することになりました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 7,
+      "sentence": "当事業は豊洲冷蔵庫を除く首都圏８ヶ所に冷凍・冷蔵保管スペース（14万トン）を有し、水産物を中心に畜産物、農産物およびその加工品の保管事業を行っております",
+      "opinions": []
+    },
+    {
+      "sentence_id": 8,
+      "sentence": "当連結会計年度は、物流センターが順調に推移し、入庫量・在庫量ともに増加したことにより、全体として保管料売上、荷役料売上が増加しました",
+      "opinions": [
+        {
+          "target": "物流センター",
+          "category": "business#amount",
+          "polarity": "positive",
+          "from": 9,
+          "to": 15
+        },
+        {
+          "target": "入庫量",
+          "category": "NULL#amount",
+          "polarity": "positive",
+          "from": 23,
+          "to": 26
+        },
+        {
+          "target": "在庫量",
+          "category": "NULL#amount",
+          "polarity": "positive",
+          "from": 27,
+          "to": 30
+        },
+        {
+          "target": "保管料売上",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 48,
+          "to": 53
+        },
+        {
+          "target": "荷役料売上",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 54,
+          "to": 59
+        }
+      ]
+    },
+    {
+      "sentence_id": 9,
+      "sentence": "また、原油安による電力料の引き下げ効果や経費削減努力により、販管費は前年並みとなりました",
+      "opinions": [
+        {
+          "target": "電力料",
+          "category": "NULL#cost",
+          "polarity": "positive",
+          "from": 9,
+          "to": 12
+        },
+        {
+          "target": "販管費",
+          "category": "NULL#cost",
+          "polarity": "neutral",
+          "from": 30,
+          "to": 33
+        }
+      ]
+    },
+    {
+      "sentence_id": 10,
+      "sentence": "以上の結果、冷蔵倉庫事業の売上高は50億78百万円（前年同期比１億23百万円 2.5%増）となり、営業利益は４億84百万円（前年同期比１億13百万円 30.7%増）となりました",
+      "opinions": [
+        {
+          "target": "冷蔵倉庫事業",
+          "category": "business#sales",
+          "polarity": "positive",
+          "from": 6,
+          "to": 12
+        },
+        {
+          "target": "冷蔵倉庫事業",
+          "category": "business#profit",
+          "polarity": "positive",
+          "from": 6,
+          "to": 12
+        }
+      ]
+    },
+    {
+      "sentence_id": 11,
+      "sentence": "②　水産食品事業\n　水産食品事業は、えび、カニ、凍魚、魚卵などの卸売りを主体とした水産食材卸売部門と食材調達、加工、納品業務を請け負うリテールサポート部門、ならびに厚焼玉子、水産練製品他の製造・加工販売を行う食品製造販売部門で構成されております",
+      "opinions": []
+    },
+    {
+      "sentence_id": 12,
+      "sentence": "水産食材卸売部門においては、主要魚種の現地買付価格は上昇しましたが、円高基調や買付商品の選択、ならびに販売力の強化を図り、売上高が増大したことにより、営業利益は昨年を大きく上回りました",
+      "opinions": [
+        {
+          "target": "水産食材卸売部門",
+          "category": "business#sales",
+          "polarity": "positive",
+          "from": 0,
+          "to": 8
+        },
+        {
+          "target": "水産食材卸売部門",
+          "category": "business#profit",
+          "polarity": "positive",
+          "from": 0,
+          "to": 8
+        },
+        {
+          "target": "主要魚種",
+          "category": "NULL#price",
+          "polarity": "positive",
+          "from": 14,
+          "to": 18
+        }
+      ]
+    },
+    {
+      "sentence_id": 13,
+      "sentence": "リテールサポート部門においては、既存顧客との取組みを強化し、安定した売上を確保するに至りましたが、人件費等の経費が増加したことにより、営業利益は昨年並みに留まりました",
+      "opinions": [
+        {
+          "target": "リテールサポート部門",
+          "category": "business#sales",
+          "polarity": "positive",
+          "from": 0,
+          "to": 10
+        },
+        {
+          "target": "リテールサポート部門",
+          "category": "business#profit",
+          "polarity": "neutral",
+          "from": 0,
+          "to": 10
+        },
+        {
+          "target": "人件費等",
+          "category": "NULL#cost",
+          "polarity": "negative",
+          "from": 49,
+          "to": 53
+        }
+      ]
+    },
+    {
+      "sentence_id": 14,
+      "sentence": "食品製造販売部門においては、取引先の見直し等により、売上高は昨年を下回りましたが、原料価格が低下したことと、販売経費の削減により、所定の利益を確保することができました",
+      "opinions": [
+        {
+          "target": "食品製造販売部門",
+          "category": "business#sales",
+          "polarity": "negative",
+          "from": 0,
+          "to": 8
+        },
+        {
+          "target": "食品製造販売部門",
+          "category": "business#profit",
+          "polarity": "positive",
+          "from": 0,
+          "to": 8
+        },
+        {
+          "target": "原料価格",
+          "category": "NULL#cost",
+          "polarity": "negative",
+          "from": 41,
+          "to": 45
+        },
+        {
+          "target": "販売経費",
+          "category": "NULL#cost",
+          "polarity": "negative",
+          "from": 54,
+          "to": 58
+        }
+      ]
+    },
+    {
+      "sentence_id": 15,
+      "sentence": "以上の結果、水産食品事業の売上高は686億83百万円（前年同期比27億32百万円 4.1%増）となり、営業利益は３億16百万円（前年同期比１億63百万円 107.2%増）となりました",
+      "opinions": [
+        {
+          "target": "水産食品事業",
+          "category": "business#sales",
+          "polarity": "positive",
+          "from": 6,
+          "to": 12
+        },
+        {
+          "target": "水産食品事業",
+          "category": "business#profit",
+          "polarity": "positive",
+          "from": 6,
+          "to": 12
+        }
+      ]
+    }
+  ]
+}

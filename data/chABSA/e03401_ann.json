@@ -1,0 +1,285 @@
+{
+  "header": {
+    "document_id": "E03401",
+    "document_name": "株式会社東葛ホールディングス",
+    "doc_text": "有価証券報告書",
+    "edi_id": "E03401",
+    "security_code": "27540",
+    "category33": "小売業",
+    "category17": "小売",
+    "scale": ""
+  },
+  "sentences": [
+    {
+      "sentence_id": 0,
+      "sentence": "当連結会計年度（平成28年４月１日～平成29年３月31日）におけるわが国の経済環境は、個人消費の改善の動きは依然として緩やかであるものの、企業収益は持ち直しの動きをみせ、雇用環境等も改善の動きを続けている等、全体では緩やかに回復しつつある状況で推移しております",
+      "opinions": [
+        {
+          "target": "経済環境",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 37,
+          "to": 41
+        },
+        {
+          "target": "個人消費",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 43,
+          "to": 47
+        },
+        {
+          "target": "企業収益",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 69,
+          "to": 73
+        },
+        {
+          "target": "雇用環境",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 85,
+          "to": 89
+        }
+      ]
+    },
+    {
+      "sentence_id": 1,
+      "sentence": "このような環境のなか、当社グループにおいて中核事業である自動車販売関連事業が属する自動車販売業界では、届出車（軽自動車）の販売は燃費不正問題の影響により前期を下回る状況で推移したものの、登録車（普通自動車）の販売が好調に推移したこと等から当連結会計年度の国内新車販売台数は5,077,903台（登録車（普通自動車）・届出車（軽自動車）の合計",
+      "opinions": [
+        {
+          "target": "販売",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 61,
+          "to": 63
+        },
+        {
+          "target": "販売",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 104,
+          "to": 106
+        },
+        {
+          "target": "国内新車販売台数",
+          "category": "NULL#amount",
+          "polarity": "neutral",
+          "from": 127,
+          "to": 135
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "sentence": "前期比2.8％増）となりました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 3,
+      "sentence": "当社グループにおける当連結会計年度のセグメント毎の状況につきましては以下のとおりであります",
+      "opinions": []
+    },
+    {
+      "sentence_id": 4,
+      "sentence": "新車販売につきましては、届出車についてはホンダ製の軽自動車は上記燃費不正問題の影響がなかったこと、登録車においても量販車種のモデルチェンジの効果等により販売台数は2,096台（前期比1.1％増）となりました",
+      "opinions": [
+        {
+          "target": "届出車",
+          "category": "product#amount",
+          "polarity": "positive",
+          "from": 12,
+          "to": 15
+        }
+      ]
+    },
+    {
+      "sentence_id": 5,
+      "sentence": "また、登録受取手数料等の手数料収入は減少したものの、整備業務を行うサービス売上は増加したことから、売上高は57億95百万円（前期比3.6％増）となりました",
+      "opinions": [
+        {
+          "target": "手数料収入",
+          "category": "NULL#sales",
+          "polarity": "negative",
+          "from": 12,
+          "to": 17
+        },
+        {
+          "target": "サービス売上",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 33,
+          "to": 39
+        },
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 49,
+          "to": 52
+        }
+      ]
+    },
+    {
+      "sentence_id": 6,
+      "sentence": "中古車販売につきましては、新車販売からの下取車の他、オークション等による外部仕入により販売車両の確保に注力しましたが、販売台数は2,003台（前期比4.5％減",
+      "opinions": [
+        {
+          "target": "販売台数",
+          "category": "NULL#amount",
+          "polarity": "negative",
+          "from": 59,
+          "to": 63
+        }
+      ]
+    },
+    {
+      "sentence_id": 7,
+      "sentence": "内訳：小売台数810台（前期比14.0％減）、卸売台数1,193台（前期比3.3％増)）となりました",
+      "opinions": [
+        {
+          "target": "小売台数",
+          "category": "NULL#amount",
+          "polarity": "negative",
+          "from": 3,
+          "to": 7
+        },
+        {
+          "target": "卸売台数",
+          "category": "NULL#amount",
+          "polarity": "positive",
+          "from": 23,
+          "to": 27
+        }
+      ]
+    },
+    {
+      "sentence_id": 8,
+      "sentence": "１台当たりの販売価格が前期を上回ったこと、また、登録受取手数料等の手数料収入は減少しましたが、サービス売上が増加したこと等から、売上高は13億17百万円（前期比2.7％増）となりました",
+      "opinions": [
+        {
+          "target": "販売価格",
+          "category": "NULL#price",
+          "polarity": "positive",
+          "from": 6,
+          "to": 10
+        },
+        {
+          "target": "手数料収入",
+          "category": "NULL#sales",
+          "polarity": "negative",
+          "from": 33,
+          "to": 38
+        },
+        {
+          "target": "サービス売上",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 47,
+          "to": 53
+        },
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 64,
+          "to": 67
+        }
+      ]
+    },
+    {
+      "sentence_id": 9,
+      "sentence": "その他につきましては、生命保険・損害保険代理店業関連事業では、前期に開設した新店舗が通期で売上に寄与したことから保険契約件数及び保険取扱手数料はともに増加しました",
+      "opinions": [
+        {
+          "target": "生命保険・損害保険代理店業関連事業",
+          "category": "business#amount",
+          "polarity": "positive",
+          "from": 11,
+          "to": 28
+        },
+        {
+          "target": "生命保険・損害保険代理店業関連事業",
+          "category": "business#sales",
+          "polarity": "positive",
+          "from": 11,
+          "to": 28
+        }
+      ]
+    },
+    {
+      "sentence_id": 10,
+      "sentence": "売上高は１億６百万円（前期比15.5％増）となりました",
+      "opinions": [
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 0,
+          "to": 3
+        }
+      ]
+    },
+    {
+      "sentence_id": 11,
+      "sentence": "以上の結果、当社グループの売上高は72億19百万円（前期比3.6％増）となりました",
+      "opinions": [
+        {
+          "target": "当社グループ",
+          "category": "company#sales",
+          "polarity": "positive",
+          "from": 6,
+          "to": 12
+        }
+      ]
+    },
+    {
+      "sentence_id": 12,
+      "sentence": "損益につきましては、営業利益は４億12百万円（前期比9.8％増）、経常利益は４億21百万円（前期比11.8％増）、親会社株主に帰属する当期純利益は２億76百万円（前期比16.7％増）となりました",
+      "opinions": [
+        {
+          "target": "営業利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 10,
+          "to": 14
+        },
+        {
+          "target": "経常利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 33,
+          "to": 37
+        },
+        {
+          "target": "当期純利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 67,
+          "to": 72
+        }
+      ]
+    },
+    {
+      "sentence_id": 13,
+      "sentence": "これは全ての事業において売上高が前期比で増加したこと、経費についても見直し等に努めた結果、販管費等が前期比で減少したことによるものです",
+      "opinions": [
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 12,
+          "to": 15
+        },
+        {
+          "target": "販管費",
+          "category": "NULL#cost",
+          "polarity": "positive",
+          "from": 45,
+          "to": 48
+        }
+      ]
+    }
+  ]
+}

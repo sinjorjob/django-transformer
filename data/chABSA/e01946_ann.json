@@ -1,0 +1,423 @@
+{
+  "header": {
+    "document_id": "E01946",
+    "document_name": "ファナック株式会社",
+    "doc_text": "有価証券報告書",
+    "edi_id": "E01946",
+    "security_code": "69540",
+    "category33": "電気機器",
+    "category17": "電機・精密",
+    "scale": "1"
+  },
+  "sentences": [
+    {
+      "sentence_id": 0,
+      "sentence": "当期における当社グループを取り巻く事業環境につきましては、米州における設備投資需要は堅調に、国内および欧州においては概ね横ばいに、それぞれ推移しました",
+      "opinions": [
+        {
+          "target": "設備投資需要",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 35,
+          "to": 41
+        },
+        {
+          "target": "国内",
+          "category": "NULL#general",
+          "polarity": "neutral",
+          "from": 46,
+          "to": 48
+        },
+        {
+          "target": "欧州",
+          "category": "NULL#general",
+          "polarity": "neutral",
+          "from": 51,
+          "to": 53
+        }
+      ]
+    },
+    {
+      "sentence_id": 1,
+      "sentence": "中国およびその他のアジアにおいては、期の終わりごろから回復傾向が見られるようになりました",
+      "opinions": [
+        {
+          "target": "中国",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 0,
+          "to": 2
+        },
+        {
+          "target": "アジア",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 9,
+          "to": 12
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "sentence": "このようななか当社グループは、「one FANUC」、「壊れない",
+      "opinions": []
+    },
+    {
+      "sentence_id": 3,
+      "sentence": "壊れる前に知らせる",
+      "opinions": []
+    },
+    {
+      "sentence_id": 4,
+      "sentence": "壊れてもすぐ直せる",
+      "opinions": []
+    },
+    {
+      "sentence_id": 5,
+      "sentence": "」および「サービス・ファースト」をスローガンに掲げ、当社商品およびサービスについてお客様にご安心いただけるための取り組みをグループ一丸となって行いました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 6,
+      "sentence": "またAI技術の当社商品への適用を進めると同時に、FIELD system (FANUC Intelligent Edge Link and Drive system)の立ち上げ準備を中心にIoTへの対応を加速させるなど、今後の事業の安定と発展のための取り組みを推し進めました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 7,
+      "sentence": "平成28年度における連結業績は、売上高が5,369億42百万円（前期比13.9％減)、経常利益が1,688億29百万円 (前期比26.4％減)、当期純利益が1,276億97百万円（前期比20.0％減）となりました",
+      "opinions": [
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "negative",
+          "from": 16,
+          "to": 19
+        },
+        {
+          "target": "経常利益",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 43,
+          "to": 47
+        },
+        {
+          "target": "当期純利益",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 72,
+          "to": 77
+        }
+      ]
+    },
+    {
+      "sentence_id": 8,
+      "sentence": "(注)[事業の状況]における「当期純利益」は、連結損益計算書における「親会社株主に帰属する当期純利益」を指します",
+      "opinions": []
+    },
+    {
+      "sentence_id": 9,
+      "sentence": "当期の設備投資としましては、栃木県壬生町にＣＮＣ・サーボモータ等の新工場を完成させました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 10,
+      "sentence": "同工場は10月から一部生産を開始しました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 11,
+      "sentence": "また、今後のロボット需要の拡大に対応できるよう、新たに茨城県筑西市にロボット工場用地の取得を進めました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 12,
+      "sentence": "このほか、研究開発における「信頼性向上」と「スピードアップ」等を推進するため、引き続き研究所群の拡張を進めました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 13,
+      "sentence": "また当期におきましては、安全柵なしで人とロボットが協働して作業可能な緑のロボット「ファナック ロボット CR-35i A」が、財団法人大河内記念会より「協働ロボットと人の協働作業による高効率組立システム」として平成28年度大河内記念生産賞を受賞しました",
+      "opinions": [
+        {
+          "target": "ファナック ロボット CR-35i A",
+          "category": "product#general",
+          "polarity": "positive",
+          "from": 41,
+          "to": 60
+        }
+      ]
+    },
+    {
+      "sentence_id": 14,
+      "sentence": "なお、当社グループは、ＣＮＣシステムとその応用商品を提供する企業グループとして、単一セグメントの事業を営んでおりますが、商品部門別の状況は以下のとおりです",
+      "opinions": []
+    },
+    {
+      "sentence_id": 15,
+      "sentence": "〔ＦＡ部門〕",
+      "opinions": []
+    },
+    {
+      "sentence_id": 16,
+      "sentence": "ＣＮＣシステムの主要顧客である工作機械業界は、欧州などにおいて依然として厳しい状況が続いたものの、期の初めにおける中国での一時的な需要の増加に加え、期の終わりごろから中国その他のアジアにおいて全般的に回復傾向が見られるようになりました",
+      "opinions": [
+        {
+          "target": "欧州",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 23,
+          "to": 25
+        },
+        {
+          "target": "需要",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 65,
+          "to": 67
+        },
+        {
+          "target": "中国",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 83,
+          "to": 85
+        },
+        {
+          "target": "アジア",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 89,
+          "to": 92
+        }
+      ]
+    },
+    {
+      "sentence_id": 17,
+      "sentence": "国内においては堅調に推移しました",
+      "opinions": [
+        {
+          "target": "国内",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 0,
+          "to": 2
+        }
+      ]
+    },
+    {
+      "sentence_id": 18,
+      "sentence": "これらにより、当社グループのＣＮＣシステムの売上高は前年度に比べ増加しました",
+      "opinions": [
+        {
+          "target": "ＣＮＣシステム",
+          "category": "product#sales",
+          "polarity": "positive",
+          "from": 14,
+          "to": 21
+        }
+      ]
+    },
+    {
+      "sentence_id": 19,
+      "sentence": "レーザにつきましては、国内、海外ともに低調に推移しました",
+      "opinions": [
+        {
+          "target": "国内",
+          "category": "business#general",
+          "polarity": "negative",
+          "from": 11,
+          "to": 13
+        },
+        {
+          "target": "海外",
+          "category": "business#general",
+          "polarity": "negative",
+          "from": 14,
+          "to": 16
+        }
+      ]
+    },
+    {
+      "sentence_id": 20,
+      "sentence": "ＦＡ部門の連結売上高は、1,750億16百万円（前期比2.8％増)、全連結売上高に対する構成比は32.6％となりました",
+      "opinions": [
+        {
+          "target": "ＦＡ部門",
+          "category": "business#sales",
+          "polarity": "positive",
+          "from": 0,
+          "to": 4
+        }
+      ]
+    },
+    {
+      "sentence_id": 21,
+      "sentence": "〔ロボット部門〕",
+      "opinions": []
+    },
+    {
+      "sentence_id": 22,
+      "sentence": "ロボットにつきましては、米州および欧州においては、期前半に自動車産業等において設備投資の谷間があったものの、高原状態が続きました",
+      "opinions": [
+        {
+          "target": "米州",
+          "category": "business#general",
+          "polarity": "positive",
+          "from": 12,
+          "to": 14
+        },
+        {
+          "target": "欧州",
+          "category": "business#general",
+          "polarity": "positive",
+          "from": 17,
+          "to": 19
+        }
+      ]
+    },
+    {
+      "sentence_id": 23,
+      "sentence": "中国においては需要の伸びが顕著でした",
+      "opinions": [
+        {
+          "target": "中国",
+          "category": "business#amount",
+          "polarity": "positive",
+          "from": 0,
+          "to": 2
+        }
+      ]
+    },
+    {
+      "sentence_id": 24,
+      "sentence": "国内においても自動車産業向けを中心に好調でした",
+      "opinions": [
+        {
+          "target": "国内",
+          "category": "business#general",
+          "polarity": "positive",
+          "from": 0,
+          "to": 2
+        }
+      ]
+    },
+    {
+      "sentence_id": 25,
+      "sentence": "ロボット部門の連結売上高は、1,900億43百万円（前期比0.9％増)、全連結売上高に対する構成比は35.4％となりました",
+      "opinions": [
+        {
+          "target": "ロボット部門",
+          "category": "business#sales",
+          "polarity": "positive",
+          "from": 0,
+          "to": 6
+        }
+      ]
+    },
+    {
+      "sentence_id": 26,
+      "sentence": "〔ロボマシン部門〕",
+      "opinions": []
+    },
+    {
+      "sentence_id": 27,
+      "sentence": "ロボドリル（小型切削加工機）につきましては、自動車、二輪車の部品加工向けの販売が堅調に推移し、また、第４四半期からＩＴ関係の一時的需要が動き始めました",
+      "opinions": [
+        {
+          "target": "部品加工向け",
+          "category": "product#amount",
+          "polarity": "positive",
+          "from": 30,
+          "to": 36
+        }
+      ]
+    },
+    {
+      "sentence_id": 28,
+      "sentence": "しかしながら、ＩＴ関係の一時的需要が大きく寄与した前年と比べると売上は減少しました",
+      "opinions": [
+        {
+          "target": "売上",
+          "category": "NULL#sales",
+          "polarity": "negative",
+          "from": 32,
+          "to": 34
+        }
+      ]
+    },
+    {
+      "sentence_id": 29,
+      "sentence": "ロボショット（電動射出成形機）につきましては、ＩＴ関係の需要を除くと横ばいでしたが、ＩＴ関係の需要が本格的に回復するに至らなかった影響で、総じて売上は若干減少しました",
+      "opinions": [
+        {
+          "target": "ロボショット",
+          "category": "product#sales",
+          "polarity": "negative",
+          "from": 0,
+          "to": 6
+        },
+        {
+          "target": "需要",
+          "category": "NULL#general",
+          "polarity": "neutral",
+          "from": 47,
+          "to": 49
+        }
+      ]
+    },
+    {
+      "sentence_id": 30,
+      "sentence": "ロボカット（ワイヤカット放電加工機）につきましては、売上は横ばいで推移しました",
+      "opinions": [
+        {
+          "target": "ロボカット",
+          "category": "product#sales",
+          "polarity": "neutral",
+          "from": 0,
+          "to": 5
+        }
+      ]
+    },
+    {
+      "sentence_id": 31,
+      "sentence": "平成29年３月に、ロボカットの累計出荷台数は３万台を達成しました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 32,
+      "sentence": "ロボマシン部門の連結売上高は、939億39百万円（前期比48.7％減)、全連結売上高に対する構成比は17.5％となりました",
+      "opinions": [
+        {
+          "target": "ロボマシン部門",
+          "category": "business#sales",
+          "polarity": "negative",
+          "from": 0,
+          "to": 7
+        }
+      ]
+    },
+    {
+      "sentence_id": 33,
+      "sentence": "〔サービス部門〕",
+      "opinions": []
+    },
+    {
+      "sentence_id": 34,
+      "sentence": "サービスにつきましては、「サービス・ファースト」のスローガンのもと、世界中で高度なサービスの提供や生涯保守を実践しながら、お客様の工場でのダウンタイムを最小限にするための迅速な保守サービス活動を行いました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 35,
+      "sentence": "サービス部門の連結売上高は、779億44百万円（前期比4.8％減）、全連結売上高に対する構成比は14.5％となりました",
+      "opinions": [
+        {
+          "target": "サービス部門",
+          "category": "business#sales",
+          "polarity": "negative",
+          "from": 0,
+          "to": 6
+        }
+      ]
+    }
+  ]
+}

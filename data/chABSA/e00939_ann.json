@@ -1,0 +1,772 @@
+{
+  "header": {
+    "document_id": "E00939",
+    "document_name": "エーザイ株式会社",
+    "doc_text": "有価証券報告書",
+    "edi_id": "E00939",
+    "security_code": "45230",
+    "category33": "医薬品",
+    "category17": "医薬品",
+    "scale": "2"
+  },
+  "sentences": [
+    {
+      "sentence_id": 0,
+      "sentence": "当期(2016年4月1日～2017年3月31日)の連結業績は、次のとおりとなりました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 1,
+      "sentence": "売上収益は、抗がん剤「レンビマ」(欧州における腎細胞がんに係る製品名「Kisplyx」)および抗てんかん剤「フィコンパ」(英名「Fycompa」)が拡大するとともに、新たに連結子会社となったEAファーマ株式会社の貢献があった一方、日本における薬価改定や為替の影響により、全体では5,390億97百万円(前期比1.6％減)となりました",
+      "opinions": [
+        {
+          "target": "売上収益",
+          "category": "NULL#sales",
+          "polarity": "negative",
+          "from": 0,
+          "to": 4
+        },
+        {
+          "target": "レンビマ",
+          "category": "product#sales",
+          "polarity": "positive",
+          "from": 11,
+          "to": 15
+        },
+        {
+          "target": "フィコンパ",
+          "category": "product#sales",
+          "polarity": "positive",
+          "from": 54,
+          "to": 59
+        },
+        {
+          "target": "EAファーマ株式会社",
+          "category": "company#general",
+          "polarity": "positive",
+          "from": 95,
+          "to": 105
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "sentence": "セグメント別には、日本医薬品事業およびアジア医薬品事業が増収となりました",
+      "opinions": [
+        {
+          "target": "日本医薬品事業",
+          "category": "business#sales",
+          "polarity": "positive",
+          "from": 9,
+          "to": 16
+        },
+        {
+          "target": "アジア医薬品事業",
+          "category": "business#sales",
+          "polarity": "positive",
+          "from": 19,
+          "to": 27
+        }
+      ]
+    },
+    {
+      "sentence_id": 3,
+      "sentence": "また、すべての海外セグメントにおいて現地通貨ベースで成長を果たしました",
+      "opinions": [
+        {
+          "target": "海外セグメント",
+          "category": "business#general",
+          "polarity": "positive",
+          "from": 7,
+          "to": 14
+        }
+      ]
+    },
+    {
+      "sentence_id": 4,
+      "sentence": "グローバルブランド4品目合計では、為替の影響を受ける中で、前期から14.5％増の728億22百万円となりました",
+      "opinions": [
+        {
+          "target": "グローバルブランド4品目",
+          "category": "product#sales",
+          "polarity": "positive",
+          "from": 0,
+          "to": 12
+        }
+      ]
+    },
+    {
+      "sentence_id": 5,
+      "sentence": "4品目の内訳は、抗がん剤「ハラヴェン」373億28百万円、「レンビマ」214億56百万円、「フィコンパ」103億24百万円、肥満症治療剤「Belviq」37億14百万円でした",
+      "opinions": []
+    },
+    {
+      "sentence_id": 6,
+      "sentence": "営業利益は、オペレーションの高質化・効率化に加え、EAファーマ株式取得に伴う一時収益(割安購入益)計上、ならびに共同研究開発テーマの進捗に応じたマイルストンペイメント受領により、590億64百万円(前期比13.7％増)となりました",
+      "opinions": [
+        {
+          "target": "営業利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 0,
+          "to": 4
+        }
+      ]
+    },
+    {
+      "sentence_id": 7,
+      "sentence": "当期利益は、前期に米国における子会社株式譲渡等に伴い税金費用が減少した反動で、前期から23.3％減の422億46百万円となりました",
+      "opinions": [
+        {
+          "target": "当期利益",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 0,
+          "to": 4
+        },
+        {
+          "target": "税金費用",
+          "category": "NULL#cost",
+          "polarity": "positive",
+          "from": 26,
+          "to": 30
+        }
+      ]
+    },
+    {
+      "sentence_id": 8,
+      "sentence": "親会社の所有者に帰属する当期利益は、393億58百万円(前期比28.4％減)となりました",
+      "opinions": [
+        {
+          "target": "当期利益",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 12,
+          "to": 16
+        }
+      ]
+    },
+    {
+      "sentence_id": 9,
+      "sentence": "基本的1株当たり当期利益は、137円63銭(前期より54円61銭減)となりました",
+      "opinions": [
+        {
+          "target": "当期利益",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 8,
+          "to": 12
+        }
+      ]
+    },
+    {
+      "sentence_id": 10,
+      "sentence": "当期利益にその他の包括利益を加減した当期包括利益は、前期に円高の進行によって為替換算差額が減少していた反動により、前期から123.9％増の368億30百万円となりました",
+      "opinions": [
+        {
+          "target": "当期包括利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 18,
+          "to": 24
+        },
+        {
+          "target": "為替換算差額",
+          "category": "NULL#cost",
+          "polarity": "positive",
+          "from": 38,
+          "to": 44
+        }
+      ]
+    },
+    {
+      "sentence_id": 11,
+      "sentence": "［セグメントの状況］",
+      "opinions": []
+    },
+    {
+      "sentence_id": 12,
+      "sentence": "(各セグメントの売上収益は外部顧客に対するものです)",
+      "opinions": []
+    },
+    {
+      "sentence_id": 13,
+      "sentence": "当社グループは、セグメントを医薬品事業とその他事業に区分しており、医薬品事業を構成する日本(医療用医薬品、ジェネリック医薬品、一般用医薬品等)、アメリカス(北米、中南米)、中国、アジア(韓国、台湾、香港、インド、アセアン等)、EMEA(欧州、中東、アフリカ、オセアニア)の5つの事業セグメントを報告セグメントとしています",
+      "opinions": []
+    },
+    {
+      "sentence_id": 14,
+      "sentence": "なお、当期において、日本事業の継続的な成長に向けた再編に伴い、前期に報告セグメントを構成していた「薬粧－日本」を「日本医薬品事業」へ統合しました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 15,
+      "sentence": "また、当期より、医薬品事業およびその他事業のセグメント利益の算定方法を変更したため、連結損益計算書の「その他の損益」を医薬品事業とその他事業へ配分していません",
+      "opinions": []
+    },
+    {
+      "sentence_id": 16,
+      "sentence": "前期まで医薬品事業とその他事業へ配分していた「その他の損益」は、「親会社の本社管理費等」に含めて表示しています",
+      "opinions": []
+    },
+    {
+      "sentence_id": 17,
+      "sentence": "当該変更による連結財務諸表への重要な影響はありません",
+      "opinions": []
+    },
+    {
+      "sentence_id": 18,
+      "sentence": "なお、セグメント情報に関する対前期の数値は、上記報告セグメントの変更および算定方法の変更を反映しています",
+      "opinions": []
+    },
+    {
+      "sentence_id": 19,
+      "sentence": "＜日本医薬品事業＞",
+      "opinions": []
+    },
+    {
+      "sentence_id": 20,
+      "sentence": "売上収益は2,910億68百万円(前期比2.2％増)、セグメント利益は1,033億0百万円(同9.6％減)でした",
+      "opinions": [
+        {
+          "target": "売上収益",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 0,
+          "to": 4
+        },
+        {
+          "target": "セグメント利益",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 27,
+          "to": 34
+        }
+      ]
+    },
+    {
+      "sentence_id": 21,
+      "sentence": "売上収益の内訳は、医療用医薬品が2,439億99百万円(同4.3％増)、ジェネリック医薬品が280億27百万円(同1.6％減)、一般用医薬品等が190億42百万円(同5.3％増)です",
+      "opinions": [
+        {
+          "target": "医療用医薬品",
+          "category": "product#sales",
+          "polarity": "positive",
+          "from": 9,
+          "to": 15
+        },
+        {
+          "target": "ジェネリック医薬品",
+          "category": "product#sales",
+          "polarity": "negative",
+          "from": 36,
+          "to": 45
+        },
+        {
+          "target": "一般用医薬品",
+          "category": "product#sales",
+          "polarity": "positive",
+          "from": 64,
+          "to": 70
+        }
+      ]
+    },
+    {
+      "sentence_id": 22,
+      "sentence": "薬価改定および前期に診断薬事業子会社であったエーディア株式会社を譲渡した影響があったものの、EAファーマ株式会社の発足に加え、主力品の成長により、前期から成長を確保しました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 23,
+      "sentence": "品目別売上収益については、ニューロロジー領域で、不眠症治療剤「ルネスタ」が80億12百万円(前期比34.0％増)と伸長し、新製品である「フィコンパ」は4億63百万円となりました",
+      "opinions": [
+        {
+          "target": "品目別売上収益",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 0,
+          "to": 7
+        },
+        {
+          "target": "ニューロロジー領域",
+          "category": "business#sales",
+          "polarity": "positive",
+          "from": 13,
+          "to": 22
+        },
+        {
+          "target": "ルネスタ",
+          "category": "product#sales",
+          "polarity": "positive",
+          "from": 31,
+          "to": 35
+        }
+      ]
+    },
+    {
+      "sentence_id": 24,
+      "sentence": "ファイザー社と共同販促を展開している疼痛治療剤「リリカ」の共同販促収入は242億68百万円(同1.8％減)、アルツハイマー型、レビー小体型認知症治療剤「アリセプト」は、薬価改定等の影響を受け295億36百万円(同27.0％減)となりました",
+      "opinions": [
+        {
+          "target": "リリカ",
+          "category": "product#sales",
+          "polarity": "negative",
+          "from": 24,
+          "to": 27
+        },
+        {
+          "target": "アリセプト",
+          "category": "product#sales",
+          "polarity": "negative",
+          "from": 76,
+          "to": 81
+        }
+      ]
+    },
+    {
+      "sentence_id": 25,
+      "sentence": "オンコロジー領域では、「ハラヴェン」が77億63百万円(同14.2％増)、「レンビマ」が27億15百万円(同75.5％増)と高い成長を果たしました",
+      "opinions": [
+        {
+          "target": "ハラヴェン",
+          "category": "product#sales",
+          "polarity": "positive",
+          "from": 12,
+          "to": 17
+        },
+        {
+          "target": "レンビマ",
+          "category": "product#sales",
+          "polarity": "positive",
+          "from": 38,
+          "to": 42
+        }
+      ]
+    },
+    {
+      "sentence_id": 26,
+      "sentence": "さらに、ヒト型抗ヒトTNFαモノクローナル抗体「ヒュミラ」は376億62百万円(同15.4％増)と順調に拡大しました",
+      "opinions": [
+        {
+          "target": "ヒュミラ",
+          "category": "product#sales",
+          "polarity": "positive",
+          "from": 24,
+          "to": 28
+        }
+      ]
+    },
+    {
+      "sentence_id": 27,
+      "sentence": "2016年5月、「フィコンパ」を新発売しました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 28,
+      "sentence": "2016年8月に「チョコラBB口内炎リペアショット」、同年10月に「チョコラBBリッチセラミド」を新発売しました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 29,
+      "sentence": "＜アメリカス医薬品事業＞",
+      "opinions": []
+    },
+    {
+      "sentence_id": 30,
+      "sentence": "売上収益は、1,172億17百万円(前期比4.1％減、現地通貨ベースでは6.3％増)となりました",
+      "opinions": [
+        {
+          "target": "売上収益",
+          "category": "NULL#sales",
+          "polarity": "negative",
+          "from": 0,
+          "to": 4
+        }
+      ]
+    },
+    {
+      "sentence_id": 31,
+      "sentence": "セグメント利益は、効率的なマーケティング活動による販売管理費の減少および前期に発生した米国での構造改革による一時金の影響により、344億17百万円(同46.0％増、現地通貨ベースでは61.9％増)となりました",
+      "opinions": [
+        {
+          "target": "セグメント利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 0,
+          "to": 7
+        },
+        {
+          "target": "販売管理費",
+          "category": "NULL#cost",
+          "polarity": "positive",
+          "from": 25,
+          "to": 30
+        }
+      ]
+    },
+    {
+      "sentence_id": 32,
+      "sentence": "品目別売上収益については、ニューロロジー領域で、抗てんかん剤「Banzel」が138億48百万円(前期比4.7％増)、「Fycompa」が52億54百万円(同36.8％増)とそれぞれ成長を果たしました",
+      "opinions": [
+        {
+          "target": "品目別売上収益",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 0,
+          "to": 7
+        },
+        {
+          "target": "ニューロロジー領域",
+          "category": "business#sales",
+          "polarity": "positive",
+          "from": 13,
+          "to": 22
+        },
+        {
+          "target": "Banzel",
+          "category": "product#sales",
+          "polarity": "positive",
+          "from": 31,
+          "to": 37
+        },
+        {
+          "target": "Fycompa",
+          "category": "product#sales",
+          "polarity": "positive",
+          "from": 60,
+          "to": 67
+        }
+      ]
+    },
+    {
+      "sentence_id": 33,
+      "sentence": "「Belviq」は37億14百万円(同16.0％減)でした",
+      "opinions": [
+        {
+          "target": "Belviq",
+          "category": "product#sales",
+          "polarity": "negative",
+          "from": 1,
+          "to": 7
+        }
+      ]
+    },
+    {
+      "sentence_id": 34,
+      "sentence": "オンコロジー領域では、制吐剤「Aloxi」が480億82百万円(同12.1％減)、「ハラヴェン」が166億19百万円(同9.1％減)、「レンビマ」が151億12百万円(同71.7％増)となりました",
+      "opinions": [
+        {
+          "target": "Aloxi",
+          "category": "product#sales",
+          "polarity": "negative",
+          "from": 15,
+          "to": 20
+        },
+        {
+          "target": "ハラヴェン",
+          "category": "product#sales",
+          "polarity": "negative",
+          "from": 42,
+          "to": 47
+        },
+        {
+          "target": "レンビマ",
+          "category": "product#sales",
+          "polarity": "positive",
+          "from": 68,
+          "to": 72
+        }
+      ]
+    },
+    {
+      "sentence_id": 35,
+      "sentence": "2016年4月にカナダ、同年6月にメキシコにおいて「レンビマ」を新発売しました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 36,
+      "sentence": "2016年9月、米国においてlorcaserinの1日1回製剤「Belviq XR」を新発売しました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 37,
+      "sentence": "＜中国医薬品事業＞",
+      "opinions": []
+    },
+    {
+      "sentence_id": 38,
+      "sentence": "売上収益は492億74百万円(前期と同水準、現地通貨ベースでは17.0％増)、セグメント利益は136億96百万円(同9.1％増、現地通貨ベースでは40.5％増)となりました",
+      "opinions": [
+        {
+          "target": "売上収益",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 0,
+          "to": 4
+        },
+        {
+          "target": "セグメント利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 39,
+          "to": 46
+        }
+      ]
+    },
+    {
+      "sentence_id": 39,
+      "sentence": "品目別売上収益については、末梢性神経障害治療剤「メチコバール」が179億75百万円(前期比4.0％減)、肝臓疾患用剤・アレルギー用薬「強力ネオミノファーゲンシー/グリチロン錠」が84億25百万円(同9.2％減)、「アリセプト」が61億66百万円(同11.1％増)となりました",
+      "opinions": [
+        {
+          "target": "メチコバール",
+          "category": "product#sales",
+          "polarity": "negative",
+          "from": 24,
+          "to": 30
+        },
+        {
+          "target": "強力ネオミノファーゲンシー/グリチロン錠",
+          "category": "product#sales",
+          "polarity": "negative",
+          "from": 67,
+          "to": 87
+        },
+        {
+          "target": "アリセプト",
+          "category": "product#sales",
+          "polarity": "positive",
+          "from": 107,
+          "to": 112
+        }
+      ]
+    },
+    {
+      "sentence_id": 40,
+      "sentence": "＜アジア医薬品事業＞",
+      "opinions": []
+    },
+    {
+      "sentence_id": 41,
+      "sentence": "売上収益は347億45百万円(前期比2.2％増、現地通貨ベースでは13.0％増)、セグメント利益は93億33百万円(同12.6％増、現地通貨ベースでは27.0％増)となりました",
+      "opinions": [
+        {
+          "target": "売上収益",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 0,
+          "to": 4
+        },
+        {
+          "target": "セグメント利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 41,
+          "to": 48
+        }
+      ]
+    },
+    {
+      "sentence_id": 42,
+      "sentence": "品目別売上収益については、「アリセプト」が97億79百万円(前期比1.9％減)、「ヒュミラ」が96億18百万円(同7.1％増)、プロトンポンプ阻害剤「パリエット」が36億27百万円(同3.1％増)となりました",
+      "opinions": [
+        {
+          "target": "アリセプト",
+          "category": "product#sales",
+          "polarity": "negative",
+          "from": 14,
+          "to": 19
+        },
+        {
+          "target": "ヒュミラ",
+          "category": "product#sales",
+          "polarity": "positive",
+          "from": 41,
+          "to": 45
+        },
+        {
+          "target": "パリエット",
+          "category": "product#sales",
+          "polarity": "positive",
+          "from": 75,
+          "to": 80
+        }
+      ]
+    },
+    {
+      "sentence_id": 43,
+      "sentence": "2016年6月にシンガポール、同年9月にタイ、2017年2月に台湾において「レンビマ」を新発売しました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 44,
+      "sentence": "＜EMEA医薬品事業＞",
+      "opinions": []
+    },
+    {
+      "sentence_id": 45,
+      "sentence": "売上収益は378億25百万円(前期比8.5％減、現地通貨ベースでは3.7％増)、セグメント利益は125億14百万円(同22.2％増、現地通貨ベースでは30.8％増)となりました",
+      "opinions": [
+        {
+          "target": "売上収益",
+          "category": "NULL#sales",
+          "polarity": "negative",
+          "from": 0,
+          "to": 4
+        },
+        {
+          "target": "セグメント利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 40,
+          "to": 47
+        }
+      ]
+    },
+    {
+      "sentence_id": 46,
+      "sentence": "品目別売上収益については、ニューロロジー領域で、「Fycompa」が42億45百万円(前期比17.3％増)と高い成長を確保する一方、抗てんかん剤「Zonegran」が51億67百万円(同32.3％減)、抗てんかん剤「Zebinix」が35億88百万円(同6.2％減)となりました",
+      "opinions": [
+        {
+          "target": "ニューロロジー領域",
+          "category": "business#sales",
+          "polarity": "negative",
+          "from": 13,
+          "to": 22
+        },
+        {
+          "target": "Fycompa",
+          "category": "product#sales",
+          "polarity": "positive",
+          "from": 25,
+          "to": 32
+        },
+        {
+          "target": "Zonegran",
+          "category": "product#sales",
+          "polarity": "negative",
+          "from": 73,
+          "to": 81
+        },
+        {
+          "target": "Zebinix",
+          "category": "product#sales",
+          "polarity": "negative",
+          "from": 108,
+          "to": 115
+        }
+      ]
+    },
+    {
+      "sentence_id": 47,
+      "sentence": "オンコロジー領域で、「レンビマ/Kisplyx」が33億20百万円(同196.6％増)と大幅に拡大する一方、「ハラヴェン」は109億48百万円(同16.9％減)となりました",
+      "opinions": [
+        {
+          "target": "オンコロジー領域",
+          "category": "business#sales",
+          "polarity": "negative",
+          "from": 0,
+          "to": 8
+        },
+        {
+          "target": "レンビマ/Kisplyx",
+          "category": "product#sales",
+          "polarity": "positive",
+          "from": 11,
+          "to": 23
+        },
+        {
+          "target": "ハラヴェン",
+          "category": "product#sales",
+          "polarity": "negative",
+          "from": 55,
+          "to": 60
+        }
+      ]
+    },
+    {
+      "sentence_id": 48,
+      "sentence": "「レンビマ/Kisplyx」の発売国は、当期新たにフランス、イタリア、オランダ、ロシア等に拡大しました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 49,
+      "sentence": "(2) 資産、負債および資本の状況",
+      "opinions": []
+    },
+    {
+      "sentence_id": 50,
+      "sentence": "資産合計は、サンノーバ株式会社の譲渡に伴い売却目的で保有する資産が減少した一方、EAファーマ株式会社の取得に伴う増加等により、前期末より567億77百万円増加の1兆307億64百万円となりました",
+      "opinions": [
+        {
+          "target": "資産合計",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 0,
+          "to": 4
+        }
+      ]
+    },
+    {
+      "sentence_id": 51,
+      "sentence": "負債合計は、サンノーバ株式会社の譲渡に伴い売却目的で保有する資産に直接関連する負債が減少した一方、EAファーマ株式会社の取得に伴う増加等により、前期末より310億14百万円増加の4,281億73百万円となりました",
+      "opinions": [
+        {
+          "target": "負債合計",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 0,
+          "to": 4
+        }
+      ]
+    },
+    {
+      "sentence_id": 52,
+      "sentence": "資本合計は、EAファーマ株式会社の取得に伴う資本剰余金や非支配持分の増加により、前期末より257億62百万円増加の6,025億91百万円となりました",
+      "opinions": [
+        {
+          "target": "資本合計",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 0,
+          "to": 4
+        }
+      ]
+    },
+    {
+      "sentence_id": 53,
+      "sentence": "以上の結果、親会社所有者帰属持分比率は56.7％(前期末より2.2ポイント減)となりました",
+      "opinions": [
+        {
+          "target": "親会社所有者帰属持分比率",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 6,
+          "to": 18
+        }
+      ]
+    },
+    {
+      "sentence_id": 54,
+      "sentence": "また、負債比率(Net DER)は前期末から0.06ポイント改善し、ネットキャッシュとなり、マイナス0.05倍となりました",
+      "opinions": [
+        {
+          "target": "負債比率(Net DER)",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 3,
+          "to": 16
+        }
+      ]
+    },
+    {
+      "sentence_id": 55,
+      "sentence": "* 負債比率(Net DER)＝(有利子負債(社債及び借入金)－現金及び現金同等物－3カ月超預金等)",
+      "opinions": []
+    },
+    {
+      "sentence_id": 56,
+      "sentence": "÷親会社の所有者に帰属する持分",
+      "opinions": []
+    }
+  ]
+}

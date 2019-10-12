@@ -1,0 +1,372 @@
+{
+  "header": {
+    "document_id": "E05319",
+    "document_name": "平安レイサービス株式会社",
+    "doc_text": "有価証券報告書",
+    "edi_id": "E05319",
+    "security_code": "23440",
+    "category33": "サービス業",
+    "category17": "情報通信・サービスその他",
+    "scale": ""
+  },
+  "sentences": [
+    {
+      "sentence_id": 0,
+      "sentence": "当連結会計年度における日本経済の概況は、一部に改善の遅れが見られるものの緩やかな回復基調が続いていて、個人消費は総じてみれば持ち直しの動きが続いており、雇用・所得環境の改善が続く中で、各種政策の効果もあり、緩やかに回復していくことが期待されます",
+      "opinions": [
+        {
+          "target": "日本経済",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 11,
+          "to": 15
+        },
+        {
+          "target": "個人消費",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 51,
+          "to": 55
+        },
+        {
+          "target": "雇用",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 76,
+          "to": 78
+        },
+        {
+          "target": "所得環境",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 79,
+          "to": 83
+        }
+      ]
+    },
+    {
+      "sentence_id": 1,
+      "sentence": "経済産業省「特定サービス産業動態統計確報」（サンプル調査）によりますと、結婚式場の平成28年売上高は229,791百万円、組数は84,755組と売上高・組数共に前期に比べ減少しております",
+      "opinions": [
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "negative",
+          "from": 46,
+          "to": 49
+        },
+        {
+          "target": "組数",
+          "category": "NULL#amount",
+          "polarity": "negative",
+          "from": 61,
+          "to": 63
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "sentence": "また、葬儀業の平成28年売上高は599,610百万円と前期に比べ減少し、件数は420,585件と増加しております",
+      "opinions": [
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "negative",
+          "from": 12,
+          "to": 15
+        },
+        {
+          "target": "件数",
+          "category": "NULL#amount",
+          "polarity": "negative",
+          "from": 36,
+          "to": 38
+        }
+      ]
+    },
+    {
+      "sentence_id": 3,
+      "sentence": "このような環境下におきまして、当社グループは周辺売上増強、新商品・新サービスによる収益源の確保に努めるとともに、コスト改善による利益率維持向上に努めてまいりました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 4,
+      "sentence": "セグメントごとの業績は以下のとおりであります",
+      "opinions": []
+    },
+    {
+      "sentence_id": 5,
+      "sentence": "当事業では、シャンデリアのように光り輝く「ウェディングシャンデリアケーキ　フェリーチェ」を新商品として、各広告媒体におけるビジュアル面の強化を行うとともに、営業面では、来館につなげるためのインターネット媒体を中心としたツールを拡充し、資料請求や来館者数の増加に努めてまいりました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 6,
+      "sentence": "一方、教育面では、継続したフロントスタッフの新規対応・提案力強化の研修を実施し、営業力強化を図り婚礼成約率の向上に努めました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 7,
+      "sentence": "その結果、当第４四半期連結会計期間において引き続き資料請求数や来館者数、成約件数が前年同期に比べ増加となりましたが、予約ベースでは大半が翌期以降の施行となりました",
+      "opinions": [
+        {
+          "target": "資料請求数",
+          "category": "NULL#amount",
+          "polarity": "negative",
+          "from": 25,
+          "to": 30
+        },
+        {
+          "target": "来館者数",
+          "category": "NULL#amount",
+          "polarity": "negative",
+          "from": 31,
+          "to": 35
+        },
+        {
+          "target": "成約件数",
+          "category": "NULL#amount",
+          "polarity": "negative",
+          "from": 36,
+          "to": 40
+        }
+      ]
+    },
+    {
+      "sentence_id": 8,
+      "sentence": "当連結会計年度においては、婚礼施行組数は減少、小規模化の影響もあり婚礼一組単価も減少、宴会件数は前連結会計年度に比べ増加となり、売上高は443百万円（前期比10.6％減少）、営業利益は61百万円（前期比29.0％減少）となりました",
+      "opinions": [
+        {
+          "target": "婚礼施行組数",
+          "category": "NULL#amount",
+          "polarity": "negative",
+          "from": 13,
+          "to": 19
+        },
+        {
+          "target": "婚礼一組単価",
+          "category": "NULL#price",
+          "polarity": "negative",
+          "from": 33,
+          "to": 39
+        },
+        {
+          "target": "宴会件数",
+          "category": "NULL#amount",
+          "polarity": "positive",
+          "from": 43,
+          "to": 47
+        },
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "negative",
+          "from": 64,
+          "to": 67
+        },
+        {
+          "target": "営業利益",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 87,
+          "to": 91
+        }
+      ]
+    },
+    {
+      "sentence_id": 9,
+      "sentence": "当事業では、平成28年９月に「湘和会堂寒川」（高座郡寒川町岡田）が開業し順調に施行件数を伸ばしたほか、平成29年２月には中小規模の葬儀にも対応可能な葬祭施設「湘和会堂手広」（鎌倉市笛田）が開業いたしました",
+      "opinions": [
+        {
+          "target": "湘和会堂寒川",
+          "category": "business#amount",
+          "polarity": "positive",
+          "from": 15,
+          "to": 21
+        }
+      ]
+    },
+    {
+      "sentence_id": 10,
+      "sentence": "商品面では、社内製作による参加型葬儀のオリジナル商品として、故人を中心として惜別する「追悼壇」、オブジェをモチーフに生花と融合させた「追悼生花祭壇」、故人を生花で囲んで送る「花園」、あらゆる音楽ソースを忠実に再現できる「オリジナル大型スピーカー」による音楽葬の提案などを継続して行ってまいりました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 11,
+      "sentence": "営業面では、引き続き各施設の認知度向上や生前相談者数の増加を図るため、オリジナル商品を中心とした提案型の施設見学会や内覧会を通じて営業活動を行いました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 12,
+      "sentence": "加えて、通常の葬祭イベントに比べ来館しやすい企画として、仏壇・墓地関連及び相続相談などを中心とした「メモリアルフェア」を開催し、集客及び周辺売上の増強に努めてまいりました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 13,
+      "sentence": "また、インターネットを含む各種広告媒体を駆使して、より細やかな情報発信を定期的に行うなど、告知活動の強化にも努めてまいりました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 14,
+      "sentence": "一方、教育面では、生前相談の対応強化のために前連結会計年度に引き続き、当社独自の研修である、不安や疑問を解くカウンセリングセールストーク研修を行いました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 15,
+      "sentence": "さらに、潜在的な思いを当社オリジナル商品を通じて具現化するためのコンサルティングセールストーク研修を継続して実施いたしました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 16,
+      "sentence": "その結果、当社主要エリアの死亡人口は前連結会計年度と比べ増加し、シェア率も上昇したため、葬儀施行件数は増加いたしました",
+      "opinions": [
+        {
+          "target": "シェア率",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 32,
+          "to": 36
+        },
+        {
+          "target": "葬儀施行件数",
+          "category": "NULL#amount",
+          "polarity": "positive",
+          "from": 44,
+          "to": 50
+        }
+      ]
+    },
+    {
+      "sentence_id": 17,
+      "sentence": "葬儀一件単価は会葬者数減少等の影響により前連結会計年度に比べ減少しましたが、売上高は8,740百万円（前期比8.5％増加）、経費面では新規店舗出店による費用が増加したものの、営業利益は2,623百万円（前期比12.3％増加）となりました",
+      "opinions": [
+        {
+          "target": "葬儀一件単価",
+          "category": "NULL#price",
+          "polarity": "negative",
+          "from": 0,
+          "to": 6
+        },
+        {
+          "target": "会葬者数",
+          "category": "NULL#amount",
+          "polarity": "negative",
+          "from": 7,
+          "to": 11
+        },
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 38,
+          "to": 41
+        },
+        {
+          "target": "費用",
+          "category": "NULL#cost",
+          "polarity": "negative",
+          "from": 76,
+          "to": 78
+        },
+        {
+          "target": "営業利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 87,
+          "to": 91
+        }
+      ]
+    },
+    {
+      "sentence_id": 18,
+      "sentence": "当事業では、継続して行っている既存会員への告知・利用促進活動により、互助会加入者総数に対する施行利用率が上昇いたしました",
+      "opinions": [
+        {
+          "target": "施行利用率",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 46,
+          "to": 51
+        }
+      ]
+    },
+    {
+      "sentence_id": 19,
+      "sentence": "その結果、売上高は255百万円（前期比2.1％増加）、営業利益は137百万円（前期比7.8％増加）となりました",
+      "opinions": [
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 5,
+          "to": 8
+        },
+        {
+          "target": "営業利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 27,
+          "to": 31
+        }
+      ]
+    },
+    {
+      "sentence_id": 20,
+      "sentence": "当事業では、売上高は1,016百万円（前期比1.1％減少）、経費面では平成29年４月開業の小規模多機能・グループホーム「へいあん片瀬鵠沼」の費用が発生したこともあり、営業利益は20百万円（前期比64.5％減少）となりました",
+      "opinions": [
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "negative",
+          "from": 6,
+          "to": 9
+        },
+        {
+          "target": "営業利益",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 83,
+          "to": 87
+        }
+      ]
+    },
+    {
+      "sentence_id": 21,
+      "sentence": "以上の結果、当連結会計年度における売上高は10,205百万円（前期比6.5％増加）、営業利益は2,024百万円（前期比11.6％増加）、経常利益は2,125百万円（前期比10.2％増加）、親会社株主に帰属する当期純利益は1,405百万円（前期比16.9％増加）となりました",
+      "opinions": [
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 17,
+          "to": 20
+        },
+        {
+          "target": "営業利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 42,
+          "to": 46
+        },
+        {
+          "target": "経常利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 68,
+          "to": 72
+        },
+        {
+          "target": "当期純利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 104,
+          "to": 109
+        }
+      ]
+    },
+    {
+      "sentence_id": 22,
+      "sentence": "なお、各事業の売上高、営業損益はセグメント間の取引による金額を含んでおります",
+      "opinions": []
+    }
+  ]
+}

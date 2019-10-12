@@ -1,0 +1,674 @@
+{
+  "header": {
+    "document_id": "E00457",
+    "document_name": "日清食品ホールディングス株式会社",
+    "doc_text": "有価証券報告書",
+    "edi_id": "E00457",
+    "security_code": "28970",
+    "category33": "食料品",
+    "category17": "食品",
+    "scale": "4"
+  },
+  "sentences": [
+    {
+      "sentence_id": 0,
+      "sentence": "(1）実績",
+      "opinions": []
+    },
+    {
+      "sentence_id": 1,
+      "sentence": "当連結会計年度における世界経済は、米国新政権の政策運営、イギリスのEU離脱問題や欧州各国における政治情勢等、欧米においては不透明な状況が続く中、景気は総じて緩やかな回復基調となりました",
+      "opinions": [
+        {
+          "target": "景気",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 72,
+          "to": 74
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "sentence": "また、アジアでは中国の景気減速が続いたものの、ASEAN諸国の景気には持ち直しが見られました",
+      "opinions": [
+        {
+          "target": "中国",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 8,
+          "to": 10
+        },
+        {
+          "target": "景気",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 31,
+          "to": 33
+        }
+      ]
+    },
+    {
+      "sentence_id": 3,
+      "sentence": "国内においては、こうした世界経済の影響や、個人消費が底堅く推移する中、下半期から円安・ドル高基調に転じたことを受けて、輸出関連企業を中心に収益改善に向かう傾向が見られ、景気は緩やかな回復基調となりました",
+      "opinions": [
+        {
+          "target": "個人消費",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 21,
+          "to": 25
+        },
+        {
+          "target": "輸出関連企業",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 59,
+          "to": 65
+        },
+        {
+          "target": "景気",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 84,
+          "to": 86
+        }
+      ]
+    },
+    {
+      "sentence_id": 4,
+      "sentence": "また、即席めん業界におきましてはアジア諸国で需要の伸びが見られたものの、中国での消費減少が影響し、世界総需要は減少しました",
+      "opinions": [
+        {
+          "target": "需要",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 22,
+          "to": 24
+        },
+        {
+          "target": "中国",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 36,
+          "to": 38
+        },
+        {
+          "target": "世界総需要",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 49,
+          "to": 54
+        }
+      ]
+    },
+    {
+      "sentence_id": 5,
+      "sentence": "一方、国内総需要は過去最高となりました",
+      "opinions": [
+        {
+          "target": "国内総需要",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 3,
+          "to": 8
+        }
+      ]
+    },
+    {
+      "sentence_id": 6,
+      "sentence": "このような状況の中、当社グループは平成29年３月期からの５ヵ年を対象とする「中期経営計画2020」に基づき、「本業で稼ぐ力」と「資本市場での価値」の向上を実現すべく、戦略テーマである①グローバルブランディングの促進、②海外重点地域への集中、③国内収益基盤の盤石化、④第２の収益の柱の構築、⑤グローバル経営人材の育成・強化に取り組んでおります",
+      "opinions": []
+    },
+    {
+      "sentence_id": 7,
+      "sentence": "この結果、当連結会計年度の業績は、売上高では前期比5.9％増の4,957億15百万円となりました",
+      "opinions": [
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 17,
+          "to": 20
+        }
+      ]
+    },
+    {
+      "sentence_id": 8,
+      "sentence": "利益面では、営業利益は前期比8.4％増の286億18百万円、経常利益は前期比6.9％増の328億64百万円、親会社株主に帰属する当期純利益は前期比12.4％減の235億58百万円となりました",
+      "opinions": [
+        {
+          "target": "営業利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 6,
+          "to": 10
+        },
+        {
+          "target": "経常利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 30,
+          "to": 34
+        },
+        {
+          "target": "当期純利益",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 64,
+          "to": 69
+        }
+      ]
+    },
+    {
+      "sentence_id": 9,
+      "sentence": "報告セグメント別の業績の状況は、次のとおりです",
+      "opinions": []
+    },
+    {
+      "sentence_id": 10,
+      "sentence": "① 日清食品",
+      "opinions": []
+    },
+    {
+      "sentence_id": 11,
+      "sentence": "日清食品㈱の販売状況は、カップめん類が売上を伸ばし前期比で増収となりました",
+      "opinions": [
+        {
+          "target": "日清食品㈱",
+          "category": "company#sales",
+          "polarity": "positive",
+          "from": 0,
+          "to": 5
+        },
+        {
+          "target": "カップめん類",
+          "category": "product#sales",
+          "polarity": "positive",
+          "from": 12,
+          "to": 18
+        }
+      ]
+    },
+    {
+      "sentence_id": 12,
+      "sentence": "発売45周年を迎えた「カップヌードル」群の売上が引き続き好調であったことに加え、初のプレミアムタイプで、これまでにない贅沢なスープが特徴の「カップヌードル リッチ」や、\"謎肉\"と呼ばれる味付豚ミンチが通常の10倍入った「カップヌードルビッグ \"謎肉祭\" 肉盛りペッパーしょうゆ」が売上増に貢献しました",
+      "opinions": [
+        {
+          "target": "カップヌードル",
+          "category": "product#sales",
+          "polarity": "positive",
+          "from": 11,
+          "to": 18
+        },
+        {
+          "target": "カップヌードル リッチ",
+          "category": "product#sales",
+          "polarity": "positive",
+          "from": 70,
+          "to": 81
+        },
+        {
+          "target": "カップヌードルビッグ \"謎肉祭\" 肉盛りペッパーしょうゆ",
+          "category": "product#sales",
+          "polarity": "positive",
+          "from": 110,
+          "to": 138
+        }
+      ]
+    },
+    {
+      "sentence_id": 13,
+      "sentence": "また、発売40周年を迎えたロングセラー商品の「日清のどん兵衛」群は、特に主力の「日清のどん兵衛 きつねうどん」が好調で増収となりました",
+      "opinions": [
+        {
+          "target": "「日清のどん兵衛」群",
+          "category": "product#sales",
+          "polarity": "positive",
+          "from": 22,
+          "to": 32
+        },
+        {
+          "target": "日清のどん兵衛 きつねうどん",
+          "category": "product#general",
+          "polarity": "positive",
+          "from": 40,
+          "to": 54
+        }
+      ]
+    },
+    {
+      "sentence_id": 14,
+      "sentence": "同じく発売40周年を迎えた「日清焼そばＵ.Ｆ.Ｏ.」群も話題となって販売増加に寄与し、全体での売上も好調に推移しました",
+      "opinions": [
+        {
+          "target": "「日清焼そばＵ.Ｆ.Ｏ.」群",
+          "category": "product#sales",
+          "polarity": "positive",
+          "from": 13,
+          "to": 27
+        },
+        {
+          "target": "全体",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 43,
+          "to": 45
+        }
+      ]
+    },
+    {
+      "sentence_id": 15,
+      "sentence": "この結果、報告セグメントにおける日清食品の売上高は、前期比2.2％増の2,285億60百万円となり、セグメント利益は、前期比15.5％増の276億83百万円となりました",
+      "opinions": [
+        {
+          "target": "日清食品",
+          "category": "company#sales",
+          "polarity": "positive",
+          "from": 16,
+          "to": 20
+        },
+        {
+          "target": "日清食品",
+          "category": "company#profit",
+          "polarity": "positive",
+          "from": 16,
+          "to": 20
+        }
+      ]
+    },
+    {
+      "sentence_id": 16,
+      "sentence": "② 明星食品",
+      "opinions": []
+    },
+    {
+      "sentence_id": 17,
+      "sentence": "明星食品㈱の販売状況は、袋めん類では、「明星 チャルメラ」シリーズが引き続き売上を伸ばしたものの、カップめん類では、「明星 一平ちゃん夜店の焼そば」シリーズの売上が前期を下回りました",
+      "opinions": [
+        {
+          "target": "明星 チャルメラ",
+          "category": "product#sales",
+          "polarity": "positive",
+          "from": 20,
+          "to": 28
+        },
+        {
+          "target": "明星 一平ちゃん夜店の焼そば",
+          "category": "product#sales",
+          "polarity": "negative",
+          "from": 59,
+          "to": 73
+        }
+      ]
+    },
+    {
+      "sentence_id": 18,
+      "sentence": "利益につきましては、ブランド強化を目的とした拡販費等の増加による影響があったものの、原価率の改善等により前期を上回りました",
+      "opinions": [
+        {
+          "target": "利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 0,
+          "to": 2
+        },
+        {
+          "target": "拡販費",
+          "category": "NULL#cost",
+          "polarity": "negative",
+          "from": 22,
+          "to": 25
+        },
+        {
+          "target": "原価率",
+          "category": "NULL#cost",
+          "polarity": "positive",
+          "from": 42,
+          "to": 45
+        }
+      ]
+    },
+    {
+      "sentence_id": 19,
+      "sentence": "この結果、報告セグメントにおける明星食品の売上高は、前期比2.4％減の406億12百万円となり、セグメント利益は、前期比30.0％増の17億84百万円となりました",
+      "opinions": [
+        {
+          "target": "明星食品",
+          "category": "company#sales",
+          "polarity": "negative",
+          "from": 16,
+          "to": 20
+        },
+        {
+          "target": "明星食品",
+          "category": "company#profit",
+          "polarity": "positive",
+          "from": 16,
+          "to": 20
+        }
+      ]
+    },
+    {
+      "sentence_id": 20,
+      "sentence": "③ 低温事業",
+      "opinions": []
+    },
+    {
+      "sentence_id": 21,
+      "sentence": "日清食品チルド㈱の販売状況は、主力ブランド「行列のできる店のラーメン」を中心としたラーメン群が大きく伸長し、また、食べごたえのある太麺が特徴の「日清の太麺焼そば」、夏の定番商品である冷し中華群の好調もあり、前期比で増収となりました",
+      "opinions": [
+        {
+          "target": "日清食品チルド㈱",
+          "category": "company#sales",
+          "polarity": "positive",
+          "from": 0,
+          "to": 8
+        },
+        {
+          "target": "行列のできる店のラーメン",
+          "category": "product#general",
+          "polarity": "positive",
+          "from": 22,
+          "to": 34
+        },
+        {
+          "target": "日清の太麺焼そば",
+          "category": "product#general",
+          "polarity": "positive",
+          "from": 72,
+          "to": 80
+        },
+        {
+          "target": "冷し中華群",
+          "category": "product#general",
+          "polarity": "positive",
+          "from": 91,
+          "to": 96
+        }
+      ]
+    },
+    {
+      "sentence_id": 22,
+      "sentence": "日清食品冷凍㈱の販売状況は、パスタ類、ラーメン類、和風めん類を中心に売上が伸長しました",
+      "opinions": [
+        {
+          "target": "日清食品冷凍㈱",
+          "category": "company#sales",
+          "polarity": "positive",
+          "from": 0,
+          "to": 7
+        },
+        {
+          "target": "パスタ類",
+          "category": "product#sales",
+          "polarity": "positive",
+          "from": 14,
+          "to": 18
+        },
+        {
+          "target": "ラーメン類",
+          "category": "product#sales",
+          "polarity": "positive",
+          "from": 19,
+          "to": 24
+        },
+        {
+          "target": "和風めん類",
+          "category": "product#sales",
+          "polarity": "positive",
+          "from": 25,
+          "to": 30
+        }
+      ]
+    },
+    {
+      "sentence_id": 23,
+      "sentence": "パスタ類では、「牛挽肉とまいたけのクリーミーボロネーゼ」をはじめとする、もちっとした食感が特徴の「日清もちっと生パスタ」シリーズが引き続き好調でした",
+      "opinions": [
+        {
+          "target": "牛挽肉とまいたけのクリーミーボロネーゼ",
+          "category": "product#general",
+          "polarity": "positive",
+          "from": 8,
+          "to": 27
+        },
+        {
+          "target": "「日清もちっと生パスタ」シリーズ",
+          "category": "product#general",
+          "polarity": "positive",
+          "from": 48,
+          "to": 64
+        }
+      ]
+    },
+    {
+      "sentence_id": 24,
+      "sentence": "ラーメン類では、「辣椒担々麺」をはじめとする「冷凍 日清具多」シリーズや「冷凍 日清中華 汁なし担々麺大盛り」等汁なし麺が売上を伸ばしました",
+      "opinions": [
+        {
+          "target": "「冷凍 日清具多」シリーズ",
+          "category": "product#sales",
+          "polarity": "positive",
+          "from": 22,
+          "to": 35
+        },
+        {
+          "target": "汁なし麺",
+          "category": "product#sales",
+          "polarity": "positive",
+          "from": 56,
+          "to": 60
+        }
+      ]
+    },
+    {
+      "sentence_id": 25,
+      "sentence": "更に、和風めん類では、こだわりのスープ、具材の「冷凍 日清のどん兵衛 鴨南蛮そば」も好調に推移し売上増に貢献しました",
+      "opinions": [
+        {
+          "target": "冷凍 日清のどん兵衛 鴨南蛮そば",
+          "category": "product#sales",
+          "polarity": "positive",
+          "from": 24,
+          "to": 40
+        }
+      ]
+    },
+    {
+      "sentence_id": 26,
+      "sentence": "この結果、報告セグメントにおける低温事業の売上高は、前期比3.3％増の617億94百万円となり、セグメント利益は、前期比170.2％増の19億33百万円となりました",
+      "opinions": [
+        {
+          "target": "低温事業",
+          "category": "business#sales",
+          "polarity": "positive",
+          "from": 16,
+          "to": 20
+        },
+        {
+          "target": "低温事業",
+          "category": "business#profit",
+          "polarity": "positive",
+          "from": 16,
+          "to": 20
+        }
+      ]
+    },
+    {
+      "sentence_id": 27,
+      "sentence": "④ 米州地域",
+      "opinions": []
+    },
+    {
+      "sentence_id": 28,
+      "sentence": "米州地域においては、価格競争の影響を受けにくい企業体質への改善を目指しております",
+      "opinions": []
+    },
+    {
+      "sentence_id": 29,
+      "sentence": "インフレが進んでいるブラジルでは価格改定が浸透しており、また、平成28年9月に米国及びブラジルで「CUP NOODLES」のリニューアルを実施する等、市場のニーズに合った高付加価値商品の投入と、既存ブランドの売上と利益の確保に取り組んでおります",
+      "opinions": []
+    },
+    {
+      "sentence_id": 30,
+      "sentence": "米州セグメント全体では、前第３四半期連結会計期間より連結子会社化したニッシンフーズブラジルLtda.（旧社名 ニッシン・アジノモト アリメントスLtda.）の寄与もあり、増収増益となりました",
+      "opinions": [
+        {
+          "target": "米州セグメント",
+          "category": "business#sales",
+          "polarity": "positive",
+          "from": 0,
+          "to": 7
+        },
+        {
+          "target": "米州セグメント",
+          "category": "business#profit",
+          "polarity": "positive",
+          "from": 0,
+          "to": 7
+        },
+        {
+          "target": "ニッシンフーズブラジルLtda.",
+          "category": "company#general",
+          "polarity": "positive",
+          "from": 34,
+          "to": 50
+        }
+      ]
+    },
+    {
+      "sentence_id": 31,
+      "sentence": "この結果、報告セグメントにおける米州地域の売上高は、前期比25.1％増の604億20百万円となり、セグメント利益は、前期比117.8％増の23億９百万円となりました",
+      "opinions": [
+        {
+          "target": "米州地域",
+          "category": "business#sales",
+          "polarity": "positive",
+          "from": 16,
+          "to": 20
+        },
+        {
+          "target": "米州地域",
+          "category": "business#profit",
+          "polarity": "positive",
+          "from": 16,
+          "to": 20
+        }
+      ]
+    },
+    {
+      "sentence_id": 32,
+      "sentence": "⑤ 中国地域",
+      "opinions": []
+    },
+    {
+      "sentence_id": 33,
+      "sentence": "中国地域においては、中国大陸市場での即席めん需要が減少する中、販売エリア拡大（華北・東北・西南地区）と中国版カップヌードル「合味道」のブランド強化に取り組んでおります",
+      "opinions": [
+        {
+          "target": "需要",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 22,
+          "to": 24
+        }
+      ]
+    },
+    {
+      "sentence_id": 34,
+      "sentence": "また、平成27年９月末から華南地区を中心に価格改定を実施し、その浸透に努めております",
+      "opinions": []
+    },
+    {
+      "sentence_id": 35,
+      "sentence": "売上については、「合味道」および「香港製造出前一丁」が引き続き順調に推移しておりますが、為替の影響もあったことから前期を下回りました",
+      "opinions": [
+        {
+          "target": "売上",
+          "category": "NULL#sales",
+          "polarity": "negative",
+          "from": 0,
+          "to": 2
+        },
+        {
+          "target": "合味道",
+          "category": "product#sales",
+          "polarity": "positive",
+          "from": 9,
+          "to": 12
+        },
+        {
+          "target": "香港製造出前一丁",
+          "category": "product#sales",
+          "polarity": "positive",
+          "from": 17,
+          "to": 25
+        }
+      ]
+    },
+    {
+      "sentence_id": 36,
+      "sentence": "利益については、為替の影響や香港国際空港内にオープンした「マイカップヌードルファクトリー」「出前一丁ファクトリー」等といった将来に向けた取組みから前期比で減益となりました",
+      "opinions": [
+        {
+          "target": "利益",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 0,
+          "to": 2
+        }
+      ]
+    },
+    {
+      "sentence_id": 37,
+      "sentence": "この結果、報告セグメントにおける中国地域の売上高は、前期比12.0％減の359億87百万円となり、セグメント利益は、前期比17.8％減の34億５百万円となりました",
+      "opinions": [
+        {
+          "target": "中国地域",
+          "category": "business#sales",
+          "polarity": "negative",
+          "from": 16,
+          "to": 20
+        },
+        {
+          "target": "中国地域",
+          "category": "business#profit",
+          "polarity": "negative",
+          "from": 16,
+          "to": 20
+        }
+      ]
+    },
+    {
+      "sentence_id": 38,
+      "sentence": "また、報告セグメントに含まれない事業セグメントである国内の菓子事業、飲料事業等及び欧州地域、アジア地域を含んだ「その他」の売上高は、前期比26.8％増の683億41百万円となり、セグメント利益は、前期比39億10百万円増加の26億38百万円となりました",
+      "opinions": [
+        {
+          "target": "その他",
+          "category": "business#sales",
+          "polarity": "positive",
+          "from": 56,
+          "to": 59
+        },
+        {
+          "target": "その他",
+          "category": "business#profit",
+          "polarity": "positive",
+          "from": 56,
+          "to": 59
+        }
+      ]
+    },
+    {
+      "sentence_id": 39,
+      "sentence": "＜報告セグメントの売上高及びセグメント利益＞　 　　　　　　　　　　　　　　　　　　　  （単位：百万円）",
+      "opinions": []
+    },
+    {
+      "sentence_id": 40,
+      "sentence": "（注）セグメント利益は、連結損益計算書の営業利益と調整を行っております",
+      "opinions": []
+    }
+  ]
+}

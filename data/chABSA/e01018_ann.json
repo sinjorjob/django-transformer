@@ -1,0 +1,218 @@
+{
+  "header": {
+    "document_id": "E01018",
+    "document_name": "株式会社ツムラ",
+    "doc_text": "有価証券報告書",
+    "edi_id": "E01018",
+    "security_code": "45400",
+    "category33": "医薬品",
+    "category17": "医薬品",
+    "scale": "4"
+  },
+  "sentences": [
+    {
+      "sentence_id": 0,
+      "sentence": "当連結会計年度におけるわが国の経済は、政府の経済・金融政策を背景とした企業収益や雇用・所得環境の改善がみられる等、緩やかな景気回復基調で推移しました",
+      "opinions": [
+        {
+          "target": "経済",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 15,
+          "to": 17
+        },
+        {
+          "target": "企業収益",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 35,
+          "to": 39
+        },
+        {
+          "target": "雇用",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 40,
+          "to": 42
+        },
+        {
+          "target": "所得環境",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 43,
+          "to": 47
+        }
+      ]
+    },
+    {
+      "sentence_id": 1,
+      "sentence": "しかしながら、中国および新興国の景気減速や、英国のEU離脱問題等による海外経済の不確実性の高まりや金融資本市場の大幅な変動リスク等、依然としてわが国の景気の先行きは不透明感が残る状況となっております",
+      "opinions": [
+        {
+          "target": "中国",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 7,
+          "to": 9
+        },
+        {
+          "target": "新興国",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 12,
+          "to": 15
+        },
+        {
+          "target": "海外経済",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 35,
+          "to": 39
+        },
+        {
+          "target": "金融資本市場",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 49,
+          "to": 55
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "sentence": "国内医薬品業界におきましては、昨年４月に薬価改定が実施される等、医療費抑制策の基調は変わらず、引き続き厳しい環境下で推移しました",
+      "opinions": [
+        {
+          "target": "国内医薬品業界",
+          "category": "market#general",
+          "polarity": "negative",
+          "from": 0,
+          "to": 7
+        }
+      ]
+    },
+    {
+      "sentence_id": 3,
+      "sentence": "このような状況下、当社グループにおける当連結会計年度の売上高は、医療用漢方製剤の販売が堅調に推移したこと等により、前連結会計年度に比べ2.1％増の1,149億５千４百万円となりました",
+      "opinions": [
+        {
+          "target": "当社グループ",
+          "category": "company#sales",
+          "polarity": "positive",
+          "from": 9,
+          "to": 15
+        },
+        {
+          "target": "医療用漢方製剤",
+          "category": "product#sales",
+          "polarity": "positive",
+          "from": 32,
+          "to": 39
+        }
+      ]
+    },
+    {
+      "sentence_id": 4,
+      "sentence": "利益につきましては、営業利益159億８千３百万円(前連結会計年度比19.4％減)、経常利益163億９千９百万円(同15.9％減)、親会社株主に帰属する当期純利益124億８千８百万円(同0.5％減)となりました",
+      "opinions": [
+        {
+          "target": "営業利益",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 10,
+          "to": 14
+        },
+        {
+          "target": "経常利益",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 41,
+          "to": 45
+        },
+        {
+          "target": "当期純利益",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 75,
+          "to": 80
+        }
+      ]
+    },
+    {
+      "sentence_id": 5,
+      "sentence": "薬価改定の影響および生薬関連コストの増加等により売上原価率が前年同期に比べ3.0ポイント上昇しました",
+      "opinions": [
+        {
+          "target": "生薬関連コスト",
+          "category": "NULL#cost",
+          "polarity": "negative",
+          "from": 10,
+          "to": 17
+        },
+        {
+          "target": "売上原価率",
+          "category": "NULL#cost",
+          "polarity": "negative",
+          "from": 24,
+          "to": 29
+        }
+      ]
+    },
+    {
+      "sentence_id": 6,
+      "sentence": "これらの結果として、営業利益率は前連結会計年度に比べ3.7ポイント低下し13.9％となりました",
+      "opinions": [
+        {
+          "target": "営業利益率",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 10,
+          "to": 15
+        }
+      ]
+    },
+    {
+      "sentence_id": 7,
+      "sentence": "医療用漢方製剤全体の売上高は、薬価改定の影響を受けながらも前連結会計年度に比べ1.9％伸長しました",
+      "opinions": [
+        {
+          "target": "医療用漢方製剤",
+          "category": "product#sales",
+          "polarity": "positive",
+          "from": 0,
+          "to": 7
+        }
+      ]
+    },
+    {
+      "sentence_id": 8,
+      "sentence": "営業施策としては、「高齢者関連領域」「がん領域（支持療法）」「女性関連領域」を重点３領域として活動を集中させてまいりました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 9,
+      "sentence": "従来からの育薬５処方と、それに続く戦略処方であるGrowing５処方※を中心に、重点領域において多くの患者様の健康に貢献できるよう、医療関係者の多様なニーズに対応し、基礎・臨床エビデンス、漢方掲載の診療ガイドライン、漢方医学的な処方の使い分け等に関する適切な情報提供活動を実施しております",
+      "opinions": []
+    },
+    {
+      "sentence_id": 10,
+      "sentence": "引き続き、医師面談、医療機関説明会、漢方医学セミナーを活動の基本とし、漢方医学・漢方製剤に関する情報提供および情報収集の拡充を図ってまいります",
+      "opinions": []
+    },
+    {
+      "sentence_id": 11,
+      "sentence": "※Growing５処方",
+      "opinions": []
+    },
+    {
+      "sentence_id": 12,
+      "sentence": "育薬５処方に続く戦略処方として、治療満足度や薬剤貢献度の低い領域でのエビデンス構築（安全性・有効性",
+      "opinions": []
+    },
+    {
+      "sentence_id": 13,
+      "sentence": "データ等）により診療ガイドライン掲載を目指す成長ドライバー",
+      "opinions": []
+    }
+  ]
+}

@@ -1,0 +1,422 @@
+{
+  "header": {
+    "document_id": "E03582",
+    "document_name": "株式会社　鳥取銀行",
+    "doc_text": "有価証券報告書",
+    "edi_id": "E03582",
+    "security_code": "83830",
+    "category33": "銀行業",
+    "category17": "銀行",
+    "scale": "7"
+  },
+  "sentences": [
+    {
+      "sentence_id": 0,
+      "sentence": "平成28年度のわが国経済は、新興国経済の減速や英国のＥＵ離脱等を背景に、年度前半は、株価下落や円高進行によって景気回復へ向けた動きに足踏みが見られました",
+      "opinions": [
+        {
+          "target": "わが国経済",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 7,
+          "to": 12
+        },
+        {
+          "target": "新興国経済",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 14,
+          "to": 19
+        }
+      ]
+    },
+    {
+      "sentence_id": 1,
+      "sentence": "その後は、米国新政権への期待感から円安・株高へと反転し、企業の輸出や生産活動に持ち直しの動きが見られたほか、人手不足を背景に所得環境の改善が継続するなど、総じて景気は緩やかな回復基調となりました",
+      "opinions": [
+        {
+          "target": "輸出",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 31,
+          "to": 33
+        },
+        {
+          "target": "生産活動",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 34,
+          "to": 38
+        },
+        {
+          "target": "所得環境",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 62,
+          "to": 66
+        },
+        {
+          "target": "景気",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 80,
+          "to": 82
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "sentence": "今後については、政府による経済対策や所得環境の改善が景気を下支えすると期待される一方で、朝鮮半島や中東地域などの地政学リスクが高まっており、海外情勢の動向を注視していく必要があります",
+      "opinions": [
+        {
+          "target": "所得環境",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 18,
+          "to": 22
+        }
+      ]
+    },
+    {
+      "sentence_id": 3,
+      "sentence": "また、金融業界では、昨年２月に日本銀行によるマイナス金利政策が導入され、その後も長期金利を０％程度で推移するよう市場調整を行う枠組みへと政策が変更されるなど、低金利環境が継続する状況となりました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 4,
+      "sentence": "鳥取県経済を見ますと、企業収益は堅調に推移し、生産活動の持ち直しの動きや雇用情勢の着実な改善が続いたほか、公共工事や住宅投資も前年度を上回って推移しました",
+      "opinions": [
+        {
+          "target": "企業収益",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 11,
+          "to": 15
+        },
+        {
+          "target": "生産活動",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 23,
+          "to": 27
+        },
+        {
+          "target": "雇用情勢",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 36,
+          "to": 40
+        },
+        {
+          "target": "公共工事",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 53,
+          "to": 57
+        },
+        {
+          "target": "住宅投資",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 58,
+          "to": 62
+        }
+      ]
+    },
+    {
+      "sentence_id": 5,
+      "sentence": "そのような中、鳥取県中部地震の発生や年明けの豪雪などにより、観光産業や農業等で被害が生じましたが、震災復興に向けて政府・各自治体などの手厚い公的支援がなされ、復興に向けた足取りは着実に進んでいます",
+      "opinions": [
+        {
+          "target": "観光産業",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 30,
+          "to": 34
+        },
+        {
+          "target": "農業",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 35,
+          "to": 37
+        }
+      ]
+    },
+    {
+      "sentence_id": 6,
+      "sentence": "このような環境の下、当行は役職員一体となって業績の進展と内容の充実に努めました結果、以下のような業績となりました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 7,
+      "sentence": "財政状態につきましては、預金は、公金預金と金融預金が減少した一方で、個人預金と法人預金が増加したことから、前期末比184億42百万円増加の9,268億83百万円となりました",
+      "opinions": [
+        {
+          "target": "預金",
+          "category": "product#amount",
+          "polarity": "positive",
+          "from": 12,
+          "to": 14
+        },
+        {
+          "target": "公金預金",
+          "category": "product#amount",
+          "polarity": "negative",
+          "from": 16,
+          "to": 20
+        },
+        {
+          "target": "金融預金",
+          "category": "product#amount",
+          "polarity": "negative",
+          "from": 21,
+          "to": 25
+        },
+        {
+          "target": "個人預金",
+          "category": "product#amount",
+          "polarity": "positive",
+          "from": 34,
+          "to": 38
+        },
+        {
+          "target": "法人預金",
+          "category": "product#amount",
+          "polarity": "positive",
+          "from": 39,
+          "to": 43
+        }
+      ]
+    },
+    {
+      "sentence_id": 8,
+      "sentence": "貸出金は、個人向け貸出が順調に増加したことに加え、事業性貸出も増加したことなどから、前期末比168億88百万円増加の7,384億33百万円となりました",
+      "opinions": [
+        {
+          "target": "貸出金",
+          "category": "product#amount",
+          "polarity": "positive",
+          "from": 0,
+          "to": 3
+        },
+        {
+          "target": "貸出",
+          "category": "product#amount",
+          "polarity": "positive",
+          "from": 9,
+          "to": 11
+        },
+        {
+          "target": "事業性貸出",
+          "category": "product#amount",
+          "polarity": "positive",
+          "from": 25,
+          "to": 30
+        }
+      ]
+    },
+    {
+      "sentence_id": 9,
+      "sentence": "有価証券は、国債や社債は減少しましたが、地方債やその他の証券が増加したことなどから、前期末比137億93百万円増加の1,669億54百万円となりました",
+      "opinions": [
+        {
+          "target": "有価証券",
+          "category": "product#amount",
+          "polarity": "positive",
+          "from": 0,
+          "to": 4
+        },
+        {
+          "target": "国債",
+          "category": "product#amount",
+          "polarity": "negative",
+          "from": 6,
+          "to": 8
+        },
+        {
+          "target": "社債",
+          "category": "product#amount",
+          "polarity": "negative",
+          "from": 9,
+          "to": 11
+        },
+        {
+          "target": "地方債",
+          "category": "product#amount",
+          "polarity": "positive",
+          "from": 20,
+          "to": 23
+        },
+        {
+          "target": "証券",
+          "category": "product#amount",
+          "polarity": "positive",
+          "from": 28,
+          "to": 30
+        }
+      ]
+    },
+    {
+      "sentence_id": 10,
+      "sentence": "経営成績につきましては、経常収益は、国債等債券売却益の増加等によりその他業務収益等は増加しましたが、貸出金利息や有価証券利息配当金の減少等により資金運用収益が減少したことなどから、前期比７億45百万円減少の161億92百万円となりました",
+      "opinions": [
+        {
+          "target": "経常収益",
+          "category": "NULL#sales",
+          "polarity": "negative",
+          "from": 12,
+          "to": 16
+        },
+        {
+          "target": "債券売却益",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 21,
+          "to": 26
+        },
+        {
+          "target": "その他業務収益",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 33,
+          "to": 40
+        },
+        {
+          "target": "貸出金利息",
+          "category": "NULL#sales",
+          "polarity": "negative",
+          "from": 50,
+          "to": 55
+        },
+        {
+          "target": "価証券利息配当金",
+          "category": "NULL#sales",
+          "polarity": "negative",
+          "from": 57,
+          "to": 65
+        },
+        {
+          "target": "資金運用収益",
+          "category": "NULL#sales",
+          "polarity": "negative",
+          "from": 72,
+          "to": 78
+        }
+      ]
+    },
+    {
+      "sentence_id": 11,
+      "sentence": "経常費用は、退職給付費用の増加等により営業経費が増加したほか、与信関連費用も増加したことなどから、前期比６億64百万円増加の142億42百万円となりました",
+      "opinions": [
+        {
+          "target": "経常費用",
+          "category": "NULL#cost",
+          "polarity": "negative",
+          "from": 0,
+          "to": 4
+        },
+        {
+          "target": "退職給付費用",
+          "category": "NULL#cost",
+          "polarity": "negative",
+          "from": 6,
+          "to": 12
+        },
+        {
+          "target": "営業経費",
+          "category": "NULL#cost",
+          "polarity": "negative",
+          "from": 19,
+          "to": 23
+        },
+        {
+          "target": "与信関連費用",
+          "category": "NULL#cost",
+          "polarity": "negative",
+          "from": 31,
+          "to": 37
+        }
+      ]
+    },
+    {
+      "sentence_id": 12,
+      "sentence": "この結果、経常利益は前期比14億９百万円減少の19億50百万円、親会社株主に帰属する当期純利益は前期比６億89百万円減少の13億８百万円となりました",
+      "opinions": [
+        {
+          "target": "経常利益",
+          "category": "NULL#sales",
+          "polarity": "negative",
+          "from": 5,
+          "to": 9
+        },
+        {
+          "target": "当期純利益",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 42,
+          "to": 47
+        }
+      ]
+    },
+    {
+      "sentence_id": 13,
+      "sentence": "セグメント状況は次のとおりであります",
+      "opinions": []
+    },
+    {
+      "sentence_id": 14,
+      "sentence": "経常収益は、前期比７億66百万円減少の158億42百万円、セグメント利益(経常利益)は、前期比14億27百万円減少の19億39百万円となりました",
+      "opinions": [
+        {
+          "target": "経常収益",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 0,
+          "to": 4
+        },
+        {
+          "target": "セグメント利益",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 29,
+          "to": 36
+        }
+      ]
+    },
+    {
+      "sentence_id": 15,
+      "sentence": "ショッピングとキャッシング事業を中心とした業務による経常収益は、前期比28百万円増加の３億95百万円、セグメント利益(経常利益)は、前期比18百万円増加の11百万円となりました",
+      "opinions": [
+        {
+          "target": "ショッピング",
+          "category": "business#sales",
+          "polarity": "positive",
+          "from": 0,
+          "to": 6
+        },
+        {
+          "target": "ショッピング",
+          "category": "business#profit",
+          "polarity": "positive",
+          "from": 0,
+          "to": 6
+        },
+        {
+          "target": "キャッシング事業",
+          "category": "business#sales",
+          "polarity": "positive",
+          "from": 7,
+          "to": 15
+        },
+        {
+          "target": "キャッシング事業",
+          "category": "business#profit",
+          "polarity": "positive",
+          "from": 7,
+          "to": 15
+        }
+      ]
+    }
+  ]
+}

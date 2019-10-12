@@ -1,0 +1,935 @@
+{
+  "header": {
+    "document_id": "E00024",
+    "document_name": "三井金属鉱業株式会社",
+    "doc_text": "有価証券報告書",
+    "edi_id": "E00024",
+    "security_code": "57060",
+    "category33": "非鉄金属",
+    "category17": "鉄鋼・非鉄",
+    "scale": "4"
+  },
+  "sentences": [
+    {
+      "sentence_id": 0,
+      "sentence": "当連結会計年度の世界経済は、英国の欧州連合（ＥＵ）からの離脱問題や米国新政権の経済政策の不透明感から、中国および新興国経済や株式・為替等の金融市場に与える影響が懸念される中で、一部に弱さは見られるものの全体としては緩やかな回復基調で推移しました",
+      "opinions": [
+        {
+          "target": "世界経済",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 8,
+          "to": 12
+        },
+        {
+          "target": "経済政策",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 39,
+          "to": 43
+        }
+      ]
+    },
+    {
+      "sentence_id": 1,
+      "sentence": "米国では企業業績や個人消費が堅調に推移し、景気は緩やかに回復しました",
+      "opinions": [
+        {
+          "target": "企業業績",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 4,
+          "to": 8
+        },
+        {
+          "target": "個人消費",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 9,
+          "to": 13
+        },
+        {
+          "target": "景気",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 21,
+          "to": 23
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "sentence": "中国では景気減速が懸念されましたが、各種政策効果により景気は下支えされました",
+      "opinions": [
+        {
+          "target": "中国",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 0,
+          "to": 2
+        }
+      ]
+    },
+    {
+      "sentence_id": 3,
+      "sentence": "一方、わが国経済においても、所得や雇用情勢の改善を背景に個人消費も持ち直しつつあり、アジア向けを中心とした輸出は堅調に推移し、景気は緩やかに回復してきました",
+      "opinions": [
+        {
+          "target": "所得",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 14,
+          "to": 16
+        },
+        {
+          "target": "雇用情勢",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 17,
+          "to": 21
+        },
+        {
+          "target": "個人消費",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 28,
+          "to": 32
+        },
+        {
+          "target": "輸出",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 53,
+          "to": 55
+        },
+        {
+          "target": "景気",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 63,
+          "to": 65
+        }
+      ]
+    },
+    {
+      "sentence_id": 4,
+      "sentence": "当社グループを取り巻く環境としては、非鉄金属相場は、亜鉛・鉛・銅価格が上昇したものの、インジウム価格は下落しました",
+      "opinions": [
+        {
+          "target": "亜鉛",
+          "category": "NULL#price",
+          "polarity": "positive",
+          "from": 26,
+          "to": 28
+        },
+        {
+          "target": "鉛",
+          "category": "NULL#price",
+          "polarity": "positive",
+          "from": 29,
+          "to": 30
+        },
+        {
+          "target": "銅価格",
+          "category": "NULL#price",
+          "polarity": "positive",
+          "from": 31,
+          "to": 34
+        },
+        {
+          "target": "インジウム価格",
+          "category": "NULL#price",
+          "polarity": "negative",
+          "from": 43,
+          "to": 50
+        }
+      ]
+    },
+    {
+      "sentence_id": 5,
+      "sentence": "また、為替相場は上半期において円高となったものの、下半期に入り一転し、急速に円安が進行しました",
+      "opinions": [
+        {
+          "target": "為替相場",
+          "category": "NULL#general",
+          "polarity": "neutral",
+          "from": 3,
+          "to": 7
+        }
+      ]
+    },
+    {
+      "sentence_id": 6,
+      "sentence": "キャリア付極薄銅箔やプリント配線板用電解銅箔、スパッタリングターゲットの需要は堅調に推移しました",
+      "opinions": [
+        {
+          "target": "需要",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 36,
+          "to": 38
+        }
+      ]
+    },
+    {
+      "sentence_id": 7,
+      "sentence": "このような状況の下、当社グループは10年後のありたい姿である「機能材料、金属、自動車部品の３事業を核に、成長商品・事業を継続的に創出し、価値を拡大し続けている会社」を実現するために、「16中計」を昨年４月よりスタートしました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 8,
+      "sentence": "特に中計初年度である当連結会計年度は、重点施策である「既存事業の基盤強化」として、四輪車向け排ガス浄化触媒の海外拠点立ち上げ、キャリア付極薄銅箔の用途拡大、リサイクル事業の強化、カセロネス銅鉱山の安定的な操業が可能な体制確立に向けた改善の推進、自動車部品の海外拠点強化等の諸施策を実施してまいりました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 9,
+      "sentence": "また、「将来への布石作り」として、水力発電事業への投資を実行しております",
+      "opinions": []
+    },
+    {
+      "sentence_id": 10,
+      "sentence": "この結果、売上高は、前連結会計年度に比べ142億円（3.2%）減少の4,363億円となりました",
+      "opinions": [
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "negative",
+          "from": 5,
+          "to": 8
+        }
+      ]
+    },
+    {
+      "sentence_id": 11,
+      "sentence": "営業利益は、非鉄金属相場や為替相場の変動に伴うたな卸資産の在庫影響（以下「在庫要因」）が好転し、機能材料部門において主要製品の販売量が増加したこと等により、前連結会計年度に比べて273億円（245.3%）増加の384億円となりました",
+      "opinions": [
+        {
+          "target": "営業利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 0,
+          "to": 4
+        },
+        {
+          "target": "在庫要因",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 37,
+          "to": 41
+        },
+        {
+          "target": "機能材料部門",
+          "category": "business#amount",
+          "polarity": "positive",
+          "from": 48,
+          "to": 54
+        }
+      ]
+    },
+    {
+      "sentence_id": 12,
+      "sentence": "経常損益は、持分法による投資損失63億円等を計上したものの、前連結会計年度に計上したチリのカセロネス銅鉱山の減損損失の影響がなくなったこと等から、前連結会計年度に比べて423億円改善し310億円の利益となりました",
+      "opinions": [
+        {
+          "target": "経常損益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 0,
+          "to": 4
+        }
+      ]
+    },
+    {
+      "sentence_id": 13,
+      "sentence": "特別損益においては、投資有価証券売却益5億円等の特別利益や固定資産除却損28億円、減損損失20億円等の特別損失を計上しました",
+      "opinions": [
+        {
+          "target": "特別損益",
+          "category": "NULL#general",
+          "polarity": "neutral",
+          "from": 0,
+          "to": 4
+        }
+      ]
+    },
+    {
+      "sentence_id": 14,
+      "sentence": "加えて、税金費用および非支配株主に帰属する当期純利益を計上した結果、親会社株主に帰属する当期純損益は前連結会計年度に比べて396億円改善し186億円の利益となりました",
+      "opinions": [
+        {
+          "target": "当期純損益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 44,
+          "to": 49
+        }
+      ]
+    },
+    {
+      "sentence_id": 15,
+      "sentence": "セグメントの業績は、次のとおりであります",
+      "opinions": []
+    },
+    {
+      "sentence_id": 16,
+      "sentence": "①　機能材料",
+      "opinions": []
+    },
+    {
+      "sentence_id": 17,
+      "sentence": "〔電池材料〕",
+      "opinions": []
+    },
+    {
+      "sentence_id": 18,
+      "sentence": "ハイブリッド車、電気自動車等の環境対応車の市場は好調に推移しましたが、リチウムイオン電池に使用される主要原料の転換等から、総じて販売量は減少しました",
+      "opinions": [
+        {
+          "target": "市場",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 21,
+          "to": 23
+        },
+        {
+          "target": "販売量",
+          "category": "NULL#amount",
+          "polarity": "negative",
+          "from": 64,
+          "to": 67
+        }
+      ]
+    },
+    {
+      "sentence_id": 19,
+      "sentence": "これにより、売上高は前連結会計年度に比べて減少しました",
+      "opinions": [
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "negative",
+          "from": 6,
+          "to": 9
+        }
+      ]
+    },
+    {
+      "sentence_id": 20,
+      "sentence": "〔排ガス浄化触媒〕",
+      "opinions": []
+    },
+    {
+      "sentence_id": 21,
+      "sentence": "主力の二輪車向け排ガス浄化触媒は、インドでの販売が、下半期に入り高額紙幣切り替えの影響で一時的に減少しましたが、通期では前期に比べて増加しました",
+      "opinions": [
+        {
+          "target": "排ガス浄化触媒",
+          "category": "product#amount",
+          "polarity": "positive",
+          "from": 8,
+          "to": 15
+        },
+        {
+          "target": "販売",
+          "category": "NULL#amount",
+          "polarity": "negative",
+          "from": 22,
+          "to": 24
+        }
+      ]
+    },
+    {
+      "sentence_id": 22,
+      "sentence": "一方、中国およびその他の新興国における需要が低調であったことから、全体として販売量は減少しました",
+      "opinions": [
+        {
+          "target": "需要",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 19,
+          "to": 21
+        },
+        {
+          "target": "販売量",
+          "category": "NULL#amount",
+          "polarity": "negative",
+          "from": 38,
+          "to": 41
+        }
+      ]
+    },
+    {
+      "sentence_id": 23,
+      "sentence": "四輪車向け排ガス浄化触媒は、米国において搭載されている車種の生産が本格化したことから販売量は増加しました",
+      "opinions": [
+        {
+          "target": "排ガス浄化触媒",
+          "category": "product#amount",
+          "polarity": "positive",
+          "from": 5,
+          "to": 12
+        }
+      ]
+    },
+    {
+      "sentence_id": 24,
+      "sentence": "売上高は、二輪車向け排ガス浄化触媒の販売量の減少があったものの、インドの子会社であるMitsui Kinzoku Components India Private Limitedが、当連結会計年度より決算日を3月31日に変更し、15ヶ月間を連結したことから前連結会計年度に比べて増加しました",
+      "opinions": [
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 0,
+          "to": 3
+        },
+        {
+          "target": "排ガス浄化触媒",
+          "category": "product#amount",
+          "polarity": "negative",
+          "from": 10,
+          "to": 17
+        }
+      ]
+    },
+    {
+      "sentence_id": 25,
+      "sentence": "〔機能粉〕",
+      "opinions": []
+    },
+    {
+      "sentence_id": 26,
+      "sentence": "電子材料用金属粉や高純度酸化タンタルは、中華スマホの高機能化と需要拡大、電装化の進む自動車向けの需要が堅調であったことから販売量は増加しました",
+      "opinions": [
+        {
+          "target": "金属粉",
+          "category": "product#amount",
+          "polarity": "positive",
+          "from": 5,
+          "to": 8
+        },
+        {
+          "target": "高純度酸化タンタル",
+          "category": "product#amount",
+          "polarity": "positive",
+          "from": 9,
+          "to": 18
+        },
+        {
+          "target": "中華スマホ",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 20,
+          "to": 25
+        },
+        {
+          "target": "需要",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 48,
+          "to": 50
+        }
+      ]
+    },
+    {
+      "sentence_id": 27,
+      "sentence": "この結果、売上高は前連結会計年度に比べて増加しました",
+      "opinions": [
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 5,
+          "to": 8
+        }
+      ]
+    },
+    {
+      "sentence_id": 28,
+      "sentence": "〔銅箔（当連結会計年度の生産量32千ｔ）〕",
+      "opinions": []
+    },
+    {
+      "sentence_id": 29,
+      "sentence": "キャリア付極薄銅箔は、中華スマホの高機能化と需要拡大により販売量は増加しました",
+      "opinions": [
+        {
+          "target": "極薄銅箔",
+          "category": "product#amount",
+          "polarity": "positive",
+          "from": 5,
+          "to": 9
+        },
+        {
+          "target": "中華スマホ",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 11,
+          "to": 16
+        }
+      ]
+    },
+    {
+      "sentence_id": 30,
+      "sentence": "また、プリント配線板用電解銅箔も、スマートフォンおよび通信インフラ向けを中心に販売量が増加しました",
+      "opinions": [
+        {
+          "target": "電解銅箔",
+          "category": "product#amount",
+          "polarity": "positive",
+          "from": 11,
+          "to": 15
+        },
+        {
+          "target": "スマートフォン",
+          "category": "product#amount",
+          "polarity": "positive",
+          "from": 17,
+          "to": 24
+        },
+        {
+          "target": "通信インフラ向け",
+          "category": "product#amount",
+          "polarity": "positive",
+          "from": 27,
+          "to": 35
+        }
+      ]
+    },
+    {
+      "sentence_id": 31,
+      "sentence": "この結果、売上高は前連結会計年度に比べて増加しました",
+      "opinions": [
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 5,
+          "to": 8
+        }
+      ]
+    },
+    {
+      "sentence_id": 32,
+      "sentence": "〔スパッタリングターゲット〕",
+      "opinions": []
+    },
+    {
+      "sentence_id": 33,
+      "sentence": "主力のITOは、中国および台湾における液晶パネルの大型化の進展により、需要が堅調であったことから販売量は増加しました",
+      "opinions": [
+        {
+          "target": "ITO",
+          "category": "product#amount",
+          "polarity": "positive",
+          "from": 3,
+          "to": 6
+        },
+        {
+          "target": "需要",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 35,
+          "to": 37
+        }
+      ]
+    },
+    {
+      "sentence_id": 34,
+      "sentence": "一方、ITOの主要原料であるインジウムの価格が下落したことから販売価格が低下し、売上高は前連結会計年度に比べて減少しました",
+      "opinions": [
+        {
+          "target": "ITO",
+          "category": "product#sales",
+          "polarity": "negative",
+          "from": 3,
+          "to": 6
+        },
+        {
+          "target": "価格",
+          "category": "NULL#price",
+          "polarity": "negative",
+          "from": 20,
+          "to": 22
+        },
+        {
+          "target": "販売価格",
+          "category": "NULL#price",
+          "polarity": "negative",
+          "from": 31,
+          "to": 35
+        }
+      ]
+    },
+    {
+      "sentence_id": 35,
+      "sentence": "以上の結果、当部門の売上高は、前連結会計年度に比べて17億円（1.2%）増加の1,457億円となり、経常利益は、主要製品の販売量が増加し、在庫要因も好転したことから、前連結会計年度に比べて121億円（322.3%）増加の159億円となりました",
+      "opinions": [
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 10,
+          "to": 13
+        },
+        {
+          "target": "経常利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 50,
+          "to": 54
+        },
+        {
+          "target": "販売量",
+          "category": "NULL#amount",
+          "polarity": "positive",
+          "from": 61,
+          "to": 64
+        },
+        {
+          "target": "在庫要因",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 69,
+          "to": 73
+        }
+      ]
+    },
+    {
+      "sentence_id": 36,
+      "sentence": "(注) 「金属粉」「レアメタル化合物」を合わせ「機能粉」へ名称を変更しております",
+      "opinions": []
+    },
+    {
+      "sentence_id": 37,
+      "sentence": "②　金属",
+      "opinions": []
+    },
+    {
+      "sentence_id": 38,
+      "sentence": "〔亜鉛（当連結会計年度の生産量220千ｔ＜共同製錬については当社シェア分＞）〕",
+      "opinions": []
+    },
+    {
+      "sentence_id": 39,
+      "sentence": "国内の亜鉛メッキ鋼板向け需要は、自動車向けが低調に推移したこと等から減少しました",
+      "opinions": [
+        {
+          "target": "需要",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 12,
+          "to": 14
+        },
+        {
+          "target": "自動車向け",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 16,
+          "to": 21
+        }
+      ]
+    },
+    {
+      "sentence_id": 40,
+      "sentence": "一方、亜鉛のLME（ロンドン金属取引所）価格は上昇したことから国内の亜鉛価格も上昇し、売上高は前連結会計年度に比べて増加しました",
+      "opinions": [
+        {
+          "target": "LME（ロンドン金属取引所）価格",
+          "category": "NULL#price",
+          "polarity": "positive",
+          "from": 6,
+          "to": 22
+        },
+        {
+          "target": "亜鉛価格",
+          "category": "NULL#price",
+          "polarity": "positive",
+          "from": 34,
+          "to": 38
+        },
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 43,
+          "to": 46
+        }
+      ]
+    },
+    {
+      "sentence_id": 41,
+      "sentence": "〔金・銀〕",
+      "opinions": []
+    },
+    {
+      "sentence_id": 42,
+      "sentence": "金・銀ともに前期に比べ国際相場は上昇したものの、為替相場は円高となったことから、国内価格は同水準となり、売上高は前連結会計年度に比べて微減となりました",
+      "opinions": [
+        {
+          "target": "金",
+          "category": "product#sales",
+          "polarity": "negative",
+          "from": 0,
+          "to": 1
+        },
+        {
+          "target": "銀",
+          "category": "product#sales",
+          "polarity": "negative",
+          "from": 2,
+          "to": 3
+        },
+        {
+          "target": "国際相場",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 11,
+          "to": 15
+        },
+        {
+          "target": "為替相場",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 24,
+          "to": 28
+        },
+        {
+          "target": "国内価格",
+          "category": "NULL#general",
+          "polarity": "neutral",
+          "from": 40,
+          "to": 44
+        }
+      ]
+    },
+    {
+      "sentence_id": 43,
+      "sentence": "〔鉛（当連結会計年度の生産量67千ｔ）〕",
+      "opinions": []
+    },
+    {
+      "sentence_id": 44,
+      "sentence": "国内の鉛蓄電池向け需要は、取替用の需要が堅調であったこと等から増加しました",
+      "opinions": [
+        {
+          "target": "需要",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 9,
+          "to": 11
+        },
+        {
+          "target": "需要",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 17,
+          "to": 19
+        }
+      ]
+    },
+    {
+      "sentence_id": 45,
+      "sentence": "加えて、鉛のLME（ロンドン金属取引所）価格は上昇したことから国内の鉛価格も上昇し、売上高は前連結会計年度に比べて増加しました",
+      "opinions": [
+        {
+          "target": "LME（ロンドン金属取引所）価格",
+          "category": "NULL#price",
+          "polarity": "positive",
+          "from": 6,
+          "to": 22
+        },
+        {
+          "target": "鉛価格",
+          "category": "NULL#price",
+          "polarity": "positive",
+          "from": 34,
+          "to": 37
+        },
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 42,
+          "to": 45
+        }
+      ]
+    },
+    {
+      "sentence_id": 46,
+      "sentence": "以上の結果、当部門の売上高は、前連結会計年度に比べて98億円（7.6%）増加の1,396億円となり、経常損益は、カセロネス銅鉱山における安定的な操業が可能な体制への遅れの影響があるものの、在庫要因が好転したこと等から、前連結会計年度に比べて88億円改善し84億円の利益となりました",
+      "opinions": [
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 10,
+          "to": 13
+        },
+        {
+          "target": "経常損益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 50,
+          "to": 54
+        },
+        {
+          "target": "在庫要因",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 94,
+          "to": 98
+        }
+      ]
+    },
+    {
+      "sentence_id": 47,
+      "sentence": "③　自動車部品",
+      "opinions": []
+    },
+    {
+      "sentence_id": 48,
+      "sentence": "〔自動車用ドアロック（当連結会計年度の生産金額944億円）〕",
+      "opinions": []
+    },
+    {
+      "sentence_id": 49,
+      "sentence": "国内市場は軽自動車税の増税の影響等により低調でしたが、米国市場は好調であり、中国市場も小型車向け減税措置の影響等により好調に推移しました",
+      "opinions": [
+        {
+          "target": "国内市場",
+          "category": "market#general",
+          "polarity": "negative",
+          "from": 0,
+          "to": 4
+        },
+        {
+          "target": "米国市場",
+          "category": "market#general",
+          "polarity": "positive",
+          "from": 27,
+          "to": 31
+        },
+        {
+          "target": "中国市場",
+          "category": "market#general",
+          "polarity": "positive",
+          "from": 38,
+          "to": 42
+        }
+      ]
+    },
+    {
+      "sentence_id": 50,
+      "sentence": "主要製品であるサイドドアラッチの販売量は増加しましたが、販売価格は低下しました",
+      "opinions": [
+        {
+          "target": "サイドドアラッチ",
+          "category": "product#amount",
+          "polarity": "positive",
+          "from": 7,
+          "to": 15
+        },
+        {
+          "target": "サイドドアラッチ",
+          "category": "product#price",
+          "polarity": "negative",
+          "from": 7,
+          "to": 15
+        }
+      ]
+    },
+    {
+      "sentence_id": 51,
+      "sentence": "以上の結果、当部門の売上高は、前連結会計年度に比べて12億円（1.1%）減少の1,131億円となりましたが、経常利益は、原価低減活動や部品の現地調達化の進展によるコスト改善等により、前連結会計年度に比べて7億円（14.3%）増加の61億円となりました",
+      "opinions": [
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "negative",
+          "from": 10,
+          "to": 13
+        },
+        {
+          "target": "経常利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 54,
+          "to": 58
+        }
+      ]
+    },
+    {
+      "sentence_id": 52,
+      "sentence": "(注) 「自動車機器」から「自動車部品」へ名称を変更しております",
+      "opinions": []
+    },
+    {
+      "sentence_id": 53,
+      "sentence": "④　関連",
+      "opinions": []
+    },
+    {
+      "sentence_id": 54,
+      "sentence": "〔各種産業プラントエンジニアリング〕",
+      "opinions": []
+    },
+    {
+      "sentence_id": 55,
+      "sentence": "各種産業プラントの受注高は、前期に引き続き海外プラント工事の受注環境が低調であったものの、国内グループ企業の水力発電設備や定期修理工事等の受注により堅調に推移しました",
+      "opinions": [
+        {
+          "target": "各種産業プラント",
+          "category": "product#sales",
+          "polarity": "positive",
+          "from": 0,
+          "to": 8
+        },
+        {
+          "target": "受注環境",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 30,
+          "to": 34
+        }
+      ]
+    },
+    {
+      "sentence_id": 56,
+      "sentence": "売上高は、水力発電設備の工事進行基準による完成計上や大型の建屋新設工事等があったことから増加しました",
+      "opinions": [
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 0,
+          "to": 3
+        }
+      ]
+    },
+    {
+      "sentence_id": 57,
+      "sentence": "以上の結果、当部門の売上高は、前連結会計年度に比べて62億円（5.8%）増加の1,134億円となり、経常利益は、前連結会計年度に比べて23億円（71.0%）増加の56億円となりました",
+      "opinions": [
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 10,
+          "to": 13
+        },
+        {
+          "target": "経常利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 50,
+          "to": 54
+        }
+      ]
+    },
+    {
+      "sentence_id": 58,
+      "sentence": "(注)「エンジニアリング」から「各種産業プラントエンジニアリング」へ名称を変更しております",
+      "opinions": []
+    }
+  ]
+}

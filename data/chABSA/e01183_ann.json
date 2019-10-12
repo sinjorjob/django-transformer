@@ -1,0 +1,395 @@
+{
+  "header": {
+    "document_id": "E01183",
+    "document_name": "株式会社松風",
+    "doc_text": "有価証券報告書",
+    "edi_id": "E01183",
+    "security_code": "79790",
+    "category33": "精密機器",
+    "category17": "電機・精密",
+    "scale": "7"
+  },
+  "sentences": [
+    {
+      "sentence_id": 0,
+      "sentence": "当連結会計年度の世界経済は、米国を中心に景気は概ね堅調に推移しましたが、英国のEU離脱問題による影響のほか、中国をはじめとする新興国経済の減速懸念や米国新政権の政策動向の不確実性など、景気の先行きは不透明な状況が続きました",
+      "opinions": [
+        {
+          "target": "景気",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 20,
+          "to": 22
+        },
+        {
+          "target": "先行き",
+          "category": "NULL#general",
+          "polarity": "neutral",
+          "from": 95,
+          "to": 98
+        }
+      ]
+    },
+    {
+      "sentence_id": 1,
+      "sentence": "国内経済については、企業収益や雇用・所得環境に底堅さが見られるなど、総じて緩やかな回復基調をたどりました",
+      "opinions": [
+        {
+          "target": "国内経済",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 0,
+          "to": 4
+        },
+        {
+          "target": "企業収益",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 10,
+          "to": 14
+        },
+        {
+          "target": "雇用",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 15,
+          "to": 17
+        },
+        {
+          "target": "所得環境",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 18,
+          "to": 22
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "sentence": "当歯科業界におきましては、デジタル化の進展により市場環境は大きく変化しており、世界規模で企業間競争が激化するなど、引き続き厳しい事業環境が続きました",
+      "opinions": [
+        {
+          "target": "歯科業界",
+          "category": "market#general",
+          "polarity": "negative",
+          "from": 1,
+          "to": 5
+        },
+        {
+          "target": "企業間競争",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 44,
+          "to": 49
+        }
+      ]
+    },
+    {
+      "sentence_id": 3,
+      "sentence": "このような状況の中、当社グループは第二次中期経営計画の２年目を迎え、海外事業の拡大と国内事業の基盤強化をベースに、将来の成長に向けた施策を推進しました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 4,
+      "sentence": "海外市場において売上拡大を図るため、ブラジル・サンパウロに販売子会社を設立するとともに、インドにおいて販売子会社の設立に向けた手続きを進めるなど、成長市場での販売基盤の強化に向けた取組みを行いました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 5,
+      "sentence": "また、中国をはじめ今後拡大する海外需要に対して安定的に製品を供給するため、本社敷地内に新たにセラミック材料の製造工場を建設し、生産体制の強化を図るなど、積極的な事業活動を展開してまいりました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 6,
+      "sentence": "しかしながら、当連結会計年度の売上高は、為替の円高による影響もあり、22,305百万円と前年同期比670百万円(2.9%)の減収となりました",
+      "opinions": [
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "negative",
+          "from": 15,
+          "to": 18
+        }
+      ]
+    },
+    {
+      "sentence_id": 7,
+      "sentence": "営業利益は、減収の影響や積極的な販売活動に伴う費用負担の増加により、1,382百万円と前年同期比186百万円(11.9%)の減益となりました",
+      "opinions": [
+        {
+          "target": "営業利益",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 0,
+          "to": 4
+        },
+        {
+          "target": "費用負担",
+          "category": "NULL#cost",
+          "polarity": "negative",
+          "from": 23,
+          "to": 27
+        }
+      ]
+    },
+    {
+      "sentence_id": 8,
+      "sentence": "経常利益は、為替差損などの営業外費用が増加したため、1,141百万円と前年同期比252百万円(18.1%)の減益となりましたが、税金費用の減少により、親会社株主に帰属する当期純利益は、836百万円と前年同期比47百万円(6.0%)の増益となりました",
+      "opinions": [
+        {
+          "target": "経常利益",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 0,
+          "to": 4
+        },
+        {
+          "target": "営業外費用",
+          "category": "NULL#cost",
+          "polarity": "negative",
+          "from": 13,
+          "to": 18
+        },
+        {
+          "target": "税金費用",
+          "category": "NULL#cost",
+          "polarity": "positive",
+          "from": 64,
+          "to": 68
+        },
+        {
+          "target": "当期純利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 85,
+          "to": 90
+        }
+      ]
+    },
+    {
+      "sentence_id": 9,
+      "sentence": "セグメントごとの業績は、次のとおりであります",
+      "opinions": []
+    },
+    {
+      "sentence_id": 10,
+      "sentence": "①  デンタル関連事業",
+      "opinions": []
+    },
+    {
+      "sentence_id": 11,
+      "sentence": "国内におきましては、歯科接着用レジンセメント「ブロックＨＣセム」や歯科重合用光照射器「ペンブライト」を市場投入しました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 12,
+      "sentence": "これらの新製品に加え、当社の注力分野である化工品やＣＡＤ/ＣＡＭ関連製品が売上に寄与しましたが、市場競争の激化により、人工歯をはじめ既存の主力製品の販売が計画に届かず、前年同期比減収となりました",
+      "opinions": [
+        {
+          "target": "化工品",
+          "category": "product#sales",
+          "polarity": "positive",
+          "from": 21,
+          "to": 24
+        },
+        {
+          "target": "ＣＡＤ/ＣＡＭ関連製品",
+          "category": "product#sales",
+          "polarity": "positive",
+          "from": 25,
+          "to": 36
+        },
+        {
+          "target": "市場競争",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 48,
+          "to": 52
+        },
+        {
+          "target": "人工歯",
+          "category": "product#sales",
+          "polarity": "negative",
+          "from": 59,
+          "to": 62
+        },
+        {
+          "target": "主力製品",
+          "category": "product#sales",
+          "polarity": "negative",
+          "from": 69,
+          "to": 73
+        }
+      ]
+    },
+    {
+      "sentence_id": 13,
+      "sentence": "海外では、積極的な拡販戦略が功を奏し、北米や中国で売上が堅調に推移しましたが、為替の円高の影響により、前年同期比減収となりました",
+      "opinions": [
+        {
+          "target": "海外",
+          "category": "business#sales",
+          "polarity": "negative",
+          "from": 0,
+          "to": 2
+        },
+        {
+          "target": "北米",
+          "category": "business#sales",
+          "polarity": "positive",
+          "from": 19,
+          "to": 21
+        },
+        {
+          "target": "中国",
+          "category": "business#sales",
+          "polarity": "positive",
+          "from": 22,
+          "to": 24
+        }
+      ]
+    },
+    {
+      "sentence_id": 14,
+      "sentence": "これらの結果、デンタル関連事業の売上高は、20,267百万円と前年同期比732百万円(3.5%)の減収となり、営業利益は1,380百万円と前年同期比134百万円(8.9%)の減益となりました",
+      "opinions": [
+        {
+          "target": "デンタル関連事業",
+          "category": "business#sales",
+          "polarity": "negative",
+          "from": 7,
+          "to": 15
+        },
+        {
+          "target": "デンタル関連事業",
+          "category": "business#profit",
+          "polarity": "negative",
+          "from": 7,
+          "to": 15
+        }
+      ]
+    },
+    {
+      "sentence_id": 15,
+      "sentence": "②  ネイル関連事業",
+      "opinions": []
+    },
+    {
+      "sentence_id": 16,
+      "sentence": "ネイル業界におきましては、市場は緩やかな拡大傾向を維持しているものの、ユーザーの低価格志向の高まりを背景に、業界全体で価格競争の様相を呈するなど、事業を取り巻く環境は依然として厳しい状況にあります",
+      "opinions": [
+        {
+          "target": "ネイル業界",
+          "category": "market#general",
+          "polarity": "negative",
+          "from": 0,
+          "to": 5
+        },
+        {
+          "target": "低価格志向",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 40,
+          "to": 45
+        }
+      ]
+    },
+    {
+      "sentence_id": 17,
+      "sentence": "国内では、ジェルネイル製品の新色カラージェルを市場投入するほか、全国各地で製品の優位性を訴求するセミナーを積極展開しましたが、主力製品の「L・E・D GEL Presto」が伸び悩み、売上は低調に推移しました",
+      "opinions": [
+        {
+          "target": "国内",
+          "category": "business#sales",
+          "polarity": "negative",
+          "from": 0,
+          "to": 2
+        },
+        {
+          "target": "L・E・D GEL Presto",
+          "category": "product#sales",
+          "polarity": "negative",
+          "from": 69,
+          "to": 85
+        }
+      ]
+    },
+    {
+      "sentence_id": 18,
+      "sentence": "海外では、積極的なプロモーション活動により、米国や台湾においてジェルネイル製品の認知度が高まったことから、売上は好調に推移いたしました",
+      "opinions": [
+        {
+          "target": "海外",
+          "category": "business#sales",
+          "polarity": "positive",
+          "from": 0,
+          "to": 2
+        },
+        {
+          "target": "ジェルネイル製品",
+          "category": "product#general",
+          "polarity": "positive",
+          "from": 31,
+          "to": 39
+        }
+      ]
+    },
+    {
+      "sentence_id": 19,
+      "sentence": "これらの結果、ネイル関連事業の売上高は、1,944百万円と前年同期比50百万円(2.7%)の増収となりましたが、利益面は、販売費及び一般管理費の増加により、営業損失25百万円と前年同期比47百万円の減益となりました",
+      "opinions": [
+        {
+          "target": "ネイル関連事業",
+          "category": "business#sales",
+          "polarity": "positive",
+          "from": 7,
+          "to": 14
+        },
+        {
+          "target": "ネイル関連事業",
+          "category": "business#cost",
+          "polarity": "negative",
+          "from": 7,
+          "to": 14
+        },
+        {
+          "target": "ネイル関連事業",
+          "category": "business#profit",
+          "polarity": "negative",
+          "from": 7,
+          "to": 14
+        }
+      ]
+    },
+    {
+      "sentence_id": 20,
+      "sentence": "③  その他の事業",
+      "opinions": []
+    },
+    {
+      "sentence_id": 21,
+      "sentence": "当社グループの株式会社松風プロダクツ京都において、歯科用研磨材の生産技術を応用し、工業用研磨材を製造販売しております",
+      "opinions": []
+    },
+    {
+      "sentence_id": 22,
+      "sentence": "その他の事業の売上高は、93百万円と前年同期比10百万円(12.8%)の増収となり、営業利益は22百万円とほぼ前年同期並みとなりました",
+      "opinions": [
+        {
+          "target": "その他の事業",
+          "category": "business#sales",
+          "polarity": "positive",
+          "from": 0,
+          "to": 6
+        },
+        {
+          "target": "その他の事業",
+          "category": "business#profit",
+          "polarity": "neutral",
+          "from": 0,
+          "to": 6
+        }
+      ]
+    }
+  ]
+}

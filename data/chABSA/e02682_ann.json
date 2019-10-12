@@ -1,0 +1,742 @@
+{
+  "header": {
+    "document_id": "E02682",
+    "document_name": "カメイ株式会社",
+    "doc_text": "有価証券報告書",
+    "edi_id": "E02682",
+    "security_code": "80370",
+    "category33": "卸売業",
+    "category17": "商社・卸売",
+    "scale": "7"
+  },
+  "sentences": [
+    {
+      "sentence_id": 0,
+      "sentence": "当連結会計年度における世界経済は、総じて緩やかな回復が続きましたが、米国の金融政策の影響、中国を始めアジア新興国などの経済の先行き、英国のＥＵ離脱問題の影響など不透明感が高まっております",
+      "opinions": [
+        {
+          "target": "世界経済",
+          "category": "NULL#general",
+          "polarity": "neutral",
+          "from": 11,
+          "to": 15
+        }
+      ]
+    },
+    {
+      "sentence_id": 1,
+      "sentence": "国内経済は、政府や日本銀行の各種政策を背景に雇用・所得環境が改善するなど、緩やかな回復基調が続いておりますが、海外経済の不確実性や金融資本市場の変動の影響などに留意が必要な状況にあります",
+      "opinions": [
+        {
+          "target": "国内経済",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 0,
+          "to": 4
+        },
+        {
+          "target": "雇用",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 22,
+          "to": 24
+        },
+        {
+          "target": "所得環境",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 25,
+          "to": 29
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "sentence": "エネルギー業界におきましては、原油価格の先行きが不透明な状況のなか、国内石油製品の構造的な需要減少が続いております",
+      "opinions": [
+        {
+          "target": "先行き",
+          "category": "NULL#general",
+          "polarity": "neutral",
+          "from": 20,
+          "to": 23
+        },
+        {
+          "target": "国内石油製品",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 34,
+          "to": 40
+        }
+      ]
+    },
+    {
+      "sentence_id": 3,
+      "sentence": "また、平成28年４月からの電力小売全面自由化に伴い、業界の垣根を越えた業務提携などにより顧客獲得競争が一段と激化しております",
+      "opinions": [
+        {
+          "target": "顧客獲得競争",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 44,
+          "to": 50
+        }
+      ]
+    },
+    {
+      "sentence_id": 4,
+      "sentence": "このような環境のもと、当社グループは、お客様の多様なニーズに的確にお応えするため、新商材、新事業開発に積極的に取り組むとともに、各種商材の複合営業を強力に推進しました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 5,
+      "sentence": "また、グループの総合力向上と経営基盤を強化し将来にわたる持続的な成長を図るため、Ｍ＆Ａによる事業領域の拡大と新規顧客獲得に積極的に取り組みました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 6,
+      "sentence": "さらに、環境の変化に対応すべく、組織、財務、物流などの改革を推進し経営の効率化に努めました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 7,
+      "sentence": "以上の結果、売上高は4,234億69百万円（前年同期比0.6％増）、営業利益は石油製品の販売競争の激化による利益率の低下などにより104億74百万円（前年同期比8.6％減）、経常利益は119億97百万円（前年同期比3.6％減）となりました",
+      "opinions": [
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 6,
+          "to": 9
+        },
+        {
+          "target": "営業利益",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 34,
+          "to": 38
+        },
+        {
+          "target": "販売競争",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 44,
+          "to": 48
+        },
+        {
+          "target": "経常利益",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 87,
+          "to": 91
+        }
+      ]
+    },
+    {
+      "sentence_id": 8,
+      "sentence": "また、親会社株主に帰属する当期純利益は、前期に計上した海外子会社における繰延税金資産（法人税等調整額）15億67百万円がなくなったことなどにより78億36百万円（前年同期比15.6％減）となりました",
+      "opinions": [
+        {
+          "target": "当期純利益",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 13,
+          "to": 18
+        }
+      ]
+    },
+    {
+      "sentence_id": 9,
+      "sentence": "セグメントの業績は次のとおりであります",
+      "opinions": []
+    },
+    {
+      "sentence_id": 10,
+      "sentence": "（エネルギー事業）",
+      "opinions": []
+    },
+    {
+      "sentence_id": 11,
+      "sentence": "当事業部門における石油関係につきましては、石油製品価格の低下や販売競争の激化など厳しい環境のなか、新規・深耕開拓の強化により販売数量の確保に努めました",
+      "opinions": [
+        {
+          "target": "石油製品価格",
+          "category": "NULL#price",
+          "polarity": "negative",
+          "from": 21,
+          "to": 27
+        },
+        {
+          "target": "販売競争",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 31,
+          "to": 35
+        }
+      ]
+    },
+    {
+      "sentence_id": 12,
+      "sentence": "また、化学品、環境商材などの提案営業や各種取扱商材の複合営業を強力に推進しました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 13,
+      "sentence": "ガソリンスタンド関係につきましては、お客様のニーズにお応えするため、タイヤ、車検及びコーティングなど、トータルサービスの充実を図るとともに、店舗網の拡充やリニューアルを推進し競争力の強化に努めました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 14,
+      "sentence": "ＬＰガス関係につきましては、新規顧客獲得やＭ＆Ａによる商権獲得を推進するとともに、ガス空調機（ＧＨＰ）、家庭用燃料電池（エネファーム）、ハイブリッド給湯器などの環境商材の拡販によりＬＰガスの需要拡大に取り組みました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 15,
+      "sentence": "以上の結果、売上高は2,082億29百万円（前年同期比2.8％減）、営業利益は58億91百万円（前年同期比10.2％減）となりました",
+      "opinions": [
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "negative",
+          "from": 6,
+          "to": 9
+        },
+        {
+          "target": "営業利益",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 34,
+          "to": 38
+        }
+      ]
+    },
+    {
+      "sentence_id": 16,
+      "sentence": "（食料事業）",
+      "opinions": []
+    },
+    {
+      "sentence_id": 17,
+      "sentence": "当事業部門における食品関係につきましては、農産品は新規・深耕開拓の推進により主食用米の販売数量が伸長したものの、玄米相場の高騰に伴う仕入価格上昇分の価格転嫁が難航し利益率が低下したことから厳しい状況となりました",
+      "opinions": [
+        {
+          "target": "食品関係",
+          "category": "business#profit",
+          "polarity": "negative",
+          "from": 9,
+          "to": 13
+        },
+        {
+          "target": "食品関係",
+          "category": "business#general",
+          "polarity": "negative",
+          "from": 9,
+          "to": 13
+        },
+        {
+          "target": "主食用米",
+          "category": "product#amount",
+          "polarity": "positive",
+          "from": 38,
+          "to": 42
+        },
+        {
+          "target": "玄米相場",
+          "category": "market#general",
+          "polarity": "positive",
+          "from": 56,
+          "to": 60
+        }
+      ]
+    },
+    {
+      "sentence_id": 18,
+      "sentence": "畜産品は、スーパーマーケットや飲食店向け加工製品の拡充と提案営業の強化により堅調に推移しました",
+      "opinions": [
+        {
+          "target": "畜産品",
+          "category": "product#general",
+          "polarity": "positive",
+          "from": 0,
+          "to": 3
+        }
+      ]
+    },
+    {
+      "sentence_id": 19,
+      "sentence": "酒類関係につきましては、地酒やワインなどの差別化商品の販売強化や新規・深耕開拓に努めましたが、やや厳しい状況となりました",
+      "opinions": [
+        {
+          "target": "酒類関係",
+          "category": "product#general",
+          "polarity": "neutral",
+          "from": 0,
+          "to": 4
+        }
+      ]
+    },
+    {
+      "sentence_id": 20,
+      "sentence": "以上の結果、売上高は284億80百万円（前年同期比2.7％増）、営業損失はリテール事業の新規出店に伴う投資費用増加などにより３億49百万円（前期は２億66百万円の営業損失）となりました",
+      "opinions": [
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 6,
+          "to": 9
+        },
+        {
+          "target": "営業損失",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 32,
+          "to": 36
+        },
+        {
+          "target": "投資費用",
+          "category": "NULL#cost",
+          "polarity": "negative",
+          "from": 51,
+          "to": 55
+        }
+      ]
+    },
+    {
+      "sentence_id": 21,
+      "sentence": "（住宅関連事業）",
+      "opinions": []
+    },
+    {
+      "sentence_id": 22,
+      "sentence": "当事業部門におけるハウジング関係につきましては、ハウスメーカーや工務店への住宅設備機器の提案営業やリフォーム相談会の開催など、顧客獲得に努めたことにより前年並みとなりました",
+      "opinions": [
+        {
+          "target": "ハウジング関係",
+          "category": "business#general",
+          "polarity": "neutral",
+          "from": 9,
+          "to": 16
+        }
+      ]
+    },
+    {
+      "sentence_id": 23,
+      "sentence": "建設資材関係につきましては、土木資材やメガソーラー架台は需要減少により伸び悩んだものの、主力の鉄骨工事は受注強化や大型物件の完工などにより順調に推移しました",
+      "opinions": [
+        {
+          "target": "建設資材関係",
+          "category": "business#general",
+          "polarity": "positive",
+          "from": 0,
+          "to": 6
+        },
+        {
+          "target": "土木資材",
+          "category": "product#general",
+          "polarity": "negative",
+          "from": 14,
+          "to": 18
+        },
+        {
+          "target": "メガソーラー架台",
+          "category": "product#general",
+          "polarity": "negative",
+          "from": 19,
+          "to": 27
+        },
+        {
+          "target": "鉄骨工事は",
+          "category": "product#amount",
+          "polarity": "positive",
+          "from": 47,
+          "to": 52
+        }
+      ]
+    },
+    {
+      "sentence_id": 24,
+      "sentence": "以上の結果、売上高は356億77百万円（前年同期比3.4％増）、営業利益は17億61百万円（前年同期比1.2％増）となりました",
+      "opinions": [
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 6,
+          "to": 9
+        },
+        {
+          "target": "営業利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 32,
+          "to": 36
+        }
+      ]
+    },
+    {
+      "sentence_id": 25,
+      "sentence": "（自動車関連事業）",
+      "opinions": []
+    },
+    {
+      "sentence_id": 26,
+      "sentence": "当事業部門における国産新車販売につきましては、法人営業の強化や展示販売会の開催などにより販売台数が伸長し好調に推移しました",
+      "opinions": [
+        {
+          "target": "国産新車販売",
+          "category": "business#amount",
+          "polarity": "positive",
+          "from": 9,
+          "to": 15
+        }
+      ]
+    },
+    {
+      "sentence_id": 27,
+      "sentence": "また、国産中古車販売は、顧客ニーズの高い車種を確保し各種イベントを開催するなど拡販に努めたことにより前年並みとなりました",
+      "opinions": [
+        {
+          "target": "国産中古車販売",
+          "category": "business#general",
+          "polarity": "neutral",
+          "from": 3,
+          "to": 10
+        }
+      ]
+    },
+    {
+      "sentence_id": 28,
+      "sentence": "輸入新車販売につきましては、販売体制の強化や新型車の販売促進効果などにより販売台数が伸長し堅調に推移しました",
+      "opinions": [
+        {
+          "target": "輸入新車販売",
+          "category": "business#amount",
+          "polarity": "positive",
+          "from": 0,
+          "to": 6
+        }
+      ]
+    },
+    {
+      "sentence_id": 29,
+      "sentence": "また、輸入中古車販売は、展示販売キャンペーンの展開などにより順調に推移しました",
+      "opinions": [
+        {
+          "target": "輸入中古車販売",
+          "category": "business#general",
+          "polarity": "positive",
+          "from": 3,
+          "to": 10
+        }
+      ]
+    },
+    {
+      "sentence_id": 30,
+      "sentence": "レンタカー関係につきましては、法人客の新規開拓やインターネット予約サイトの活用に努めたものの、リース車両の保有台数増加に伴い売上原価が増加し、厳しい状況となりました",
+      "opinions": [
+        {
+          "target": "レンタカー関係",
+          "category": "business#general",
+          "polarity": "negative",
+          "from": 0,
+          "to": 7
+        },
+        {
+          "target": "売上原価",
+          "category": "NULL#cost",
+          "polarity": "negative",
+          "from": 62,
+          "to": 66
+        }
+      ]
+    },
+    {
+      "sentence_id": 31,
+      "sentence": "以上の結果、売上高は565億７百万円（前年同期比8.8％増）、営業利益は20億81百万円（前年同期比4.1％増）となりました",
+      "opinions": [
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 6,
+          "to": 9
+        },
+        {
+          "target": "営業利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 31,
+          "to": 35
+        }
+      ]
+    },
+    {
+      "sentence_id": 32,
+      "sentence": "（海外・貿易事業）",
+      "opinions": []
+    },
+    {
+      "sentence_id": 33,
+      "sentence": "当事業部門における輸出関係につきましては、アジア向け産業用部材の電装部品などが販路拡大により伸長したものの、ベアリングやタイヤが市場の低迷により販売数量が減少し厳しい状況となりました",
+      "opinions": [
+        {
+          "target": "輸出関係",
+          "category": "business#general",
+          "polarity": "negative",
+          "from": 9,
+          "to": 13
+        },
+        {
+          "target": "電装部品",
+          "category": "product#general",
+          "polarity": "positive",
+          "from": 32,
+          "to": 36
+        },
+        {
+          "target": "ベアリング",
+          "category": "product#amount",
+          "polarity": "negative",
+          "from": 54,
+          "to": 59
+        },
+        {
+          "target": "タイヤ",
+          "category": "product#amount",
+          "polarity": "negative",
+          "from": 60,
+          "to": 63
+        },
+        {
+          "target": "市場",
+          "category": "market#general",
+          "polarity": "negative",
+          "from": 64,
+          "to": 66
+        }
+      ]
+    },
+    {
+      "sentence_id": 34,
+      "sentence": "輸入関係につきましては、ロシア産水産物は販売強化により鮭鱒などの取扱量が伸長し好調に推移しました",
+      "opinions": [
+        {
+          "target": "輸入関係",
+          "category": "business#general",
+          "polarity": "positive",
+          "from": 0,
+          "to": 4
+        },
+        {
+          "target": "鮭鱒",
+          "category": "product#amount",
+          "polarity": "positive",
+          "from": 27,
+          "to": 29
+        }
+      ]
+    },
+    {
+      "sentence_id": 35,
+      "sentence": "また、ビール・ワインなどの酒類は、販売競争が激化するなか、取り扱いブランドを拡充し販路拡大に努めたことにより堅調に推移しました",
+      "opinions": [
+        {
+          "target": "酒類",
+          "category": "product#general",
+          "polarity": "positive",
+          "from": 13,
+          "to": 15
+        },
+        {
+          "target": "販売競争",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 17,
+          "to": 21
+        }
+      ]
+    },
+    {
+      "sentence_id": 36,
+      "sentence": "米国内で展開する日系スーパーマーケットにつきましては、日本各地の名産品や生鮮品・中食コーナーでの品揃え強化など、同業他社との差別化を図ったことなどにより堅調に推移しました",
+      "opinions": [
+        {
+          "target": "日系スーパーマーケット",
+          "category": "business#general",
+          "polarity": "positive",
+          "from": 8,
+          "to": 19
+        }
+      ]
+    },
+    {
+      "sentence_id": 37,
+      "sentence": "以上の結果、売上高は503億81百万円（前年同期比2.4％減）、営業利益は22億98百万円（前年同期比7.0％増）となりました",
+      "opinions": [
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "negative",
+          "from": 6,
+          "to": 9
+        },
+        {
+          "target": "営業利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 32,
+          "to": 36
+        }
+      ]
+    },
+    {
+      "sentence_id": 38,
+      "sentence": "（ペット関連事業）",
+      "opinions": []
+    },
+    {
+      "sentence_id": 39,
+      "sentence": "当事業部門におけるペットフード・用品関係につきましては、自社ブランド商品の開発強化とホームセンターなどへの販路拡大に努めましたが、販売チャネルの多様化による販売競争の激化などにより厳しい状況となりました",
+      "opinions": [
+        {
+          "target": "ペットフード・用品関係",
+          "category": "business#general",
+          "polarity": "negative",
+          "from": 9,
+          "to": 20
+        },
+        {
+          "target": "販売競争",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 78,
+          "to": 82
+        }
+      ]
+    },
+    {
+      "sentence_id": 40,
+      "sentence": "園芸用品関係につきましては、自社ブランド除草剤・肥料の拡販や新規・深耕開拓の推進などにより堅調に推移しました",
+      "opinions": [
+        {
+          "target": "園芸用品関係",
+          "category": "business#general",
+          "polarity": "positive",
+          "from": 0,
+          "to": 6
+        }
+      ]
+    },
+    {
+      "sentence_id": 41,
+      "sentence": "以上の結果、売上高は142億26百万円（前年同期比0.8％増）、営業損失は１億16百万円（前期は68百万円の営業損失）となりました",
+      "opinions": [
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 6,
+          "to": 9
+        },
+        {
+          "target": "営業損失",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 32,
+          "to": 36
+        }
+      ]
+    },
+    {
+      "sentence_id": 42,
+      "sentence": "（ファーマシー事業）",
+      "opinions": []
+    },
+    {
+      "sentence_id": 43,
+      "sentence": "当事業部門につきましては、新規出店及びＭ＆Ａによる店舗網の拡充効果や、在宅医療の取り組み強化などにより取り扱い処方箋枚数が伸長したものの、調剤報酬及び薬価改定の影響並びに出店に伴う販管費の増加などにより厳しい状況となりました",
+      "opinions": [
+        {
+          "target": "当事業部門",
+          "category": "business#amount",
+          "polarity": "negative",
+          "from": 0,
+          "to": 5
+        },
+        {
+          "target": "販管費",
+          "category": "NULL#cost",
+          "polarity": "negative",
+          "from": 90,
+          "to": 93
+        }
+      ]
+    },
+    {
+      "sentence_id": 44,
+      "sentence": "以上の結果、売上高は160億18百万円（前年同期比1.9％増）、営業利益は１億96百万円（前年同期比66.6％減）となりました",
+      "opinions": [
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 6,
+          "to": 9
+        },
+        {
+          "target": "営業利益",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 32,
+          "to": 36
+        }
+      ]
+    },
+    {
+      "sentence_id": 45,
+      "sentence": "（その他の事業）",
+      "opinions": []
+    },
+    {
+      "sentence_id": 46,
+      "sentence": "その他の事業につきましては、オフィス機器販売、リース業、運送業及び保険代理店業などを展開しており、新規・深耕開拓を強化し拡販に努めたものの、リース業における売上原価の増加などにより、やや厳しい状況となりました",
+      "opinions": [
+        {
+          "target": "その他の事業",
+          "category": "business#general",
+          "polarity": "negative",
+          "from": 0,
+          "to": 6
+        },
+        {
+          "target": "リース業",
+          "category": "business#cost",
+          "polarity": "negative",
+          "from": 70,
+          "to": 74
+        }
+      ]
+    },
+    {
+      "sentence_id": 47,
+      "sentence": "以上の結果、売上高は139億48百万円（前年同期比25.5％増）、営業利益は11億73百万円（前年同期比4.4％減）となりました",
+      "opinions": [
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 6,
+          "to": 9
+        },
+        {
+          "target": "営業利益",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 33,
+          "to": 37
+        }
+      ]
+    }
+  ]
+}

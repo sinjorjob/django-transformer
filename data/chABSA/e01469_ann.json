@@ -1,0 +1,375 @@
+{
+  "header": {
+    "document_id": "E01469",
+    "document_name": "株式会社タクマ",
+    "doc_text": "有価証券報告書",
+    "edi_id": "E01469",
+    "security_code": "60130",
+    "category33": "機械",
+    "category17": "機械",
+    "scale": "6"
+  },
+  "sentences": [
+    {
+      "sentence_id": 0,
+      "sentence": "当連結会計年度におけるわが国経済は、雇用環境・所得環境のほか、企業収益も改善しており、個人消費にも持ち直しの動きがみられるなど、緩やかな回復基調が続いております",
+      "opinions": [
+        {
+          "target": "わが国経済",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 11,
+          "to": 16
+        },
+        {
+          "target": "雇用環境",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 18,
+          "to": 22
+        },
+        {
+          "target": "所得環境",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 23,
+          "to": 27
+        },
+        {
+          "target": "企業収益",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 31,
+          "to": 35
+        },
+        {
+          "target": "個人消費",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 43,
+          "to": 47
+        }
+      ]
+    },
+    {
+      "sentence_id": 1,
+      "sentence": "一方、中国を始めとする新興国の景気減速、英国のＥＵ離脱や米国の政治情勢など海外経済の不確実性の高まりもあり、景気の先行きは不透明な状況となっております",
+      "opinions": [
+        {
+          "target": "新興国",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 11,
+          "to": 14
+        },
+        {
+          "target": "海外経済",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 37,
+          "to": 41
+        },
+        {
+          "target": "先行き",
+          "category": "NULL#general",
+          "polarity": "neutral",
+          "from": 57,
+          "to": 60
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "sentence": "このような経済情勢の下、当社グループの主要事業においては、環境意識の高まりから地球温暖化の防止や省資源・省エネルギーへの取り組みが進められているなか、ごみ処理施設では、老朽化した施設の更新工事や改良工事などの計画があり、バイオマス発電設備では、電力の固定価格買取制度などエネルギー政策の後押しにより、今後とも需要が見込まれております",
+      "opinions": []
+    },
+    {
+      "sentence_id": 3,
+      "sentence": "当連結会計年度の業績につきましては、ごみ処理施設の建設工事や基幹改良工事、運転・維持管理のほか、バイオマス発電設備や下水汚泥焼却発電設備の建設工事なども受注しており、受注高は191,026百万円と前連結会計年度に比べ91,106百万円（91.2％）の大幅な増加となりました",
+      "opinions": [
+        {
+          "target": "受注高",
+          "category": "NULL#amount",
+          "polarity": "positive",
+          "from": 83,
+          "to": 86
+        }
+      ]
+    },
+    {
+      "sentence_id": 4,
+      "sentence": "また、売上高については、ごみ処理施設やバイオマス発電設備の建設工事などが順調に進捗しており、116,309百万円と前連結会計年度に比べ3,220百万円（2.8％）の増加となりました",
+      "opinions": [
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 3,
+          "to": 6
+        },
+        {
+          "target": "建設工事",
+          "category": "product#general",
+          "polarity": "positive",
+          "from": 29,
+          "to": 33
+        }
+      ]
+    },
+    {
+      "sentence_id": 5,
+      "sentence": "この結果、受注残高は214,142百万円となりました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 6,
+      "sentence": "損益面においては、売上高が増加したほか原価低減も進んだことから、売上総利益が増加しており、研究開発費など販売費及び一般管理費が増加したものの、営業利益は10,973百万円、経常利益は11,605百万円、親会社株主に帰属する当期純利益は8,550百万円と前連結会計年度に比べ1,784百万円（19.4％）、1,959百万円（20.3％）、733百万円（9.4％）の増加となりました",
+      "opinions": [
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 9,
+          "to": 12
+        },
+        {
+          "target": "売上総利益",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 32,
+          "to": 37
+        },
+        {
+          "target": "販売費及び一般管理費",
+          "category": "NULL#cost",
+          "polarity": "negative",
+          "from": 52,
+          "to": 62
+        },
+        {
+          "target": "営業利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 71,
+          "to": 75
+        },
+        {
+          "target": "経常利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 86,
+          "to": 90
+        },
+        {
+          "target": "当期純利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 111,
+          "to": 116
+        }
+      ]
+    },
+    {
+      "sentence_id": 7,
+      "sentence": "セグメントごとの業績は、次のとおりであります",
+      "opinions": []
+    },
+    {
+      "sentence_id": 8,
+      "sentence": "［環境・エネルギー(国内)事業］",
+      "opinions": []
+    },
+    {
+      "sentence_id": 9,
+      "sentence": "ごみ処理施設の建設工事や基幹改良工事、運転・維持管理のほか、バイオマス発電設備や下水汚泥焼却発電設備の建設工事なども受注しており、受注高は163,505百万円と前連結会計年度に比べ87,896百万円（116.3％）の大幅な増加となりました",
+      "opinions": [
+        {
+          "target": "受注高",
+          "category": "NULL#amount",
+          "polarity": "positive",
+          "from": 65,
+          "to": 68
+        }
+      ]
+    },
+    {
+      "sentence_id": 10,
+      "sentence": "また、売上高については、ごみ処理施設やバイオマス発電設備の建設工事などが順調に進捗しており、90,643百万円と前連結会計年度に比べ2,148百万円（2.4％）の増加となりました",
+      "opinions": [
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 3,
+          "to": 6
+        },
+        {
+          "target": "建設工事",
+          "category": "product#general",
+          "polarity": "positive",
+          "from": 29,
+          "to": 33
+        }
+      ]
+    },
+    {
+      "sentence_id": 11,
+      "sentence": "損益面では、営業利益は11,726百万円と前連結会計年度に比べ1,892百万円（19.2％）の増加となりました",
+      "opinions": [
+        {
+          "target": "営業利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 6,
+          "to": 10
+        }
+      ]
+    },
+    {
+      "sentence_id": 12,
+      "sentence": "［環境・エネルギー(海外)事業］",
+      "opinions": []
+    },
+    {
+      "sentence_id": 13,
+      "sentence": "東南アジアにおいて新たにバイオマス発電ボイラを受注したことから、受注高は3,070百万円と前連結会計年度に比べ2,209百万円（256.5％）の増加となりました",
+      "opinions": [
+        {
+          "target": "受注高",
+          "category": "NULL#amount",
+          "polarity": "positive",
+          "from": 32,
+          "to": 35
+        }
+      ]
+    },
+    {
+      "sentence_id": 14,
+      "sentence": "売上高は2,222百万円と前連結会計年度に比べ1,392百万円（167.7％）の増加となりました",
+      "opinions": [
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 0,
+          "to": 3
+        }
+      ]
+    },
+    {
+      "sentence_id": 15,
+      "sentence": "損益面では、営業損失が前連結会計年度の223百万円から154百万円となりました",
+      "opinions": [
+        {
+          "target": "営業損失",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 6,
+          "to": 10
+        }
+      ]
+    },
+    {
+      "sentence_id": 16,
+      "sentence": "［民生熱エネルギー事業］",
+      "opinions": []
+    },
+    {
+      "sentence_id": 17,
+      "sentence": "貫流ボイラや真空式温水機の高効率商品への更新需要、部品販売や補修などのメンテナンス需要の獲得に努めており、受注高は16,724百万円と前連結会計年度に比べ274百万円（1.7％）の増加となりました",
+      "opinions": [
+        {
+          "target": "受注高",
+          "category": "NULL#amount",
+          "polarity": "positive",
+          "from": 53,
+          "to": 56
+        }
+      ]
+    },
+    {
+      "sentence_id": 18,
+      "sentence": "売上高は17,164百万円と前連結会計年度に比べ774百万円（4.7％）の増加となりました",
+      "opinions": [
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 0,
+          "to": 3
+        }
+      ]
+    },
+    {
+      "sentence_id": 19,
+      "sentence": "損益面では、営業利益は916百万円と前連結会計年度に比べ20百万円（2.3％）の増加となりました",
+      "opinions": [
+        {
+          "target": "営業利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 6,
+          "to": 10
+        }
+      ]
+    },
+    {
+      "sentence_id": 20,
+      "sentence": "［設備・システム事業］",
+      "opinions": []
+    },
+    {
+      "sentence_id": 21,
+      "sentence": "建築設備の受注が増加したほか、半導体産業用設備もおおむね順調に受注しており、受注高は8,041百万円と前連結会計年度に比べ710百万円（9.7％）の増加となりました",
+      "opinions": [
+        {
+          "target": "建築設備",
+          "category": "product#amount",
+          "polarity": "positive",
+          "from": 0,
+          "to": 4
+        },
+        {
+          "target": "設備",
+          "category": "product#amount",
+          "polarity": "positive",
+          "from": 21,
+          "to": 23
+        },
+        {
+          "target": "受注高",
+          "category": "NULL#amount",
+          "polarity": "positive",
+          "from": 38,
+          "to": 41
+        }
+      ]
+    },
+    {
+      "sentence_id": 22,
+      "sentence": "一方、売上高は6,666百万円と前連結会計年度に比べ997百万円（13.0％）の減少となりました",
+      "opinions": [
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "negative",
+          "from": 3,
+          "to": 6
+        }
+      ]
+    },
+    {
+      "sentence_id": 23,
+      "sentence": "損益面では、営業利益は322百万円と前連結会計年度に比べ29百万円（8.3％）の減少となりました",
+      "opinions": [
+        {
+          "target": "営業利益",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 6,
+          "to": 10
+        }
+      ]
+    }
+  ]
+}

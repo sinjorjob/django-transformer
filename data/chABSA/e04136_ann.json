@@ -1,0 +1,500 @@
+{
+  "header": {
+    "document_id": "E04136",
+    "document_name": "秩父鉄道株式会社",
+    "doc_text": "有価証券報告書",
+    "edi_id": "E04136",
+    "security_code": "90120",
+    "category33": "陸運業",
+    "category17": "運輸・物流",
+    "scale": ""
+  },
+  "sentences": [
+    {
+      "sentence_id": 0,
+      "sentence": "当連結会計年度におきまして、当社グループは「安全・安心・安定」を大前提に、持続的な成長を実現すると共に、沿線地域社会の信頼に応えられる企業グループを目指し、積極的な取り組みを展開し業績の向上に努めてまいりました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 1,
+      "sentence": "当連結会計年度の営業収益は5,303百万円（前年同期比3.2％減）、営業利益は249百万円（同68.3％増）、経常利益は228百万円（同63.5％増）、親会社株主に帰属する当期純利益は有価証券売却による特別利益の計上等により486百万円（同270.3％増）となりました",
+      "opinions": [
+        {
+          "target": "営業収益",
+          "category": "NULL#sales",
+          "polarity": "negative",
+          "from": 8,
+          "to": 12
+        },
+        {
+          "target": "営業利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 34,
+          "to": 38
+        },
+        {
+          "target": "経常利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 55,
+          "to": 59
+        },
+        {
+          "target": "当期純利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 86,
+          "to": 91
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "sentence": "セグメント別の業績は次のとおりです",
+      "opinions": []
+    },
+    {
+      "sentence_id": 3,
+      "sentence": "なお、当連結会計年度より、報告セグメントの経営成績をより適切に反映させるため業績管理方法を見直したことに伴い、索道事業をその他セグメントから観光事業セグメントに変更しております",
+      "opinions": []
+    },
+    {
+      "sentence_id": 4,
+      "sentence": "前連結会計年度の「報告セグメントごとの営業収益、利益又は損失、資産、負債その他の項目の金額に関する情報」は、変更後の利益又は損失の測定方法により作成しております",
+      "opinions": []
+    },
+    {
+      "sentence_id": 5,
+      "sentence": "①（鉄道事業）",
+      "opinions": []
+    },
+    {
+      "sentence_id": 6,
+      "sentence": "鉄道事業におきましては、「輸送の安全確保が最大の使命である」という認識のもと、設備面では引き続きコンクリート枕木化、レールの重軌条化、連動装置更新等の施設改良、踏切道支障報知装置の新設や法面補強など、安全対策工事を推進したしました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 7,
+      "sentence": "更に、従業員の安全意識の高揚と技能の向上に努め、２期４年の運転無事故を達成し、関東運輸局より運転無事故事業者として表彰されました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 8,
+      "sentence": "旅客部門におきましては、お客様の利便性とサービス向上の一環として、運行情報等を提供する「旅客案内システム（デジタルサイネージ）」を導入し順次運用を開始いたしました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 9,
+      "sentence": "また、「わくわく鉄道フェスタ」の開催やＳＬ列車も話題を呼ぶ企画等を実施し、年間を通して順調に運行いたしました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 10,
+      "sentence": "しかしながら、沿線の就学人口の減少や８月後半から９月にかけての天候不順の影響による旅客の減少を補いきれず、旅客人員及び旅客収入は前年同期に比べ減少いたしました",
+      "opinions": [
+        {
+          "target": "就学人口",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 10,
+          "to": 14
+        },
+        {
+          "target": "旅客",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 41,
+          "to": 43
+        },
+        {
+          "target": "旅客人員",
+          "category": "NULL#amount",
+          "polarity": "negative",
+          "from": 53,
+          "to": 57
+        },
+        {
+          "target": "旅客収入",
+          "category": "NULL#sales",
+          "polarity": "negative",
+          "from": 59,
+          "to": 63
+        }
+      ]
+    },
+    {
+      "sentence_id": 11,
+      "sentence": "貨物部門におきましては、堅調に推移し、貨物収入は前年同期に比べ増加いたしました",
+      "opinions": [
+        {
+          "target": "貨物部門",
+          "category": "business#general",
+          "polarity": "positive",
+          "from": 0,
+          "to": 4
+        },
+        {
+          "target": "貨物部門",
+          "category": "business#sales",
+          "polarity": "positive",
+          "from": 0,
+          "to": 4
+        }
+      ]
+    },
+    {
+      "sentence_id": 12,
+      "sentence": "また、営業費用は、電力料金が値下がりしたことに加え経費削減に努め前年同期に比べ減少いたしました",
+      "opinions": [
+        {
+          "target": "営業費用",
+          "category": "NULL#cost",
+          "polarity": "positive",
+          "from": 3,
+          "to": 7
+        },
+        {
+          "target": "電力料金",
+          "category": "NULL#cost",
+          "polarity": "positive",
+          "from": 9,
+          "to": 13
+        }
+      ]
+    },
+    {
+      "sentence_id": 13,
+      "sentence": "この結果、営業収益は3,338百万円（前年同期比0.0％減）、営業利益は0百万円（前年同期は94百万円の営業損失）となりました",
+      "opinions": [
+        {
+          "target": "営業収益",
+          "category": "NULL#sales",
+          "polarity": "negative",
+          "from": 5,
+          "to": 9
+        },
+        {
+          "target": "営業利益",
+          "category": "NULL#profit",
+          "polarity": "neutral",
+          "from": 31,
+          "to": 35
+        }
+      ]
+    },
+    {
+      "sentence_id": 14,
+      "sentence": "(提出会社の鉄道事業営業成績）",
+      "opinions": []
+    },
+    {
+      "sentence_id": 15,
+      "sentence": "（注）　乗車効率の算出方法",
+      "opinions": []
+    },
+    {
+      "sentence_id": 16,
+      "sentence": "輸送人員　×　実キロ　＝　延人キロ",
+      "opinions": []
+    },
+    {
+      "sentence_id": 17,
+      "sentence": "延人キロ　÷ （客車走行キロ×客車平均定員）＝　乗車効率",
+      "opinions": []
+    },
+    {
+      "sentence_id": 18,
+      "sentence": "乗車効率とは客車走行車両定員に対する旅客輸送量を見るためのものであります",
+      "opinions": []
+    },
+    {
+      "sentence_id": 19,
+      "sentence": "（営業成績）",
+      "opinions": []
+    },
+    {
+      "sentence_id": 20,
+      "sentence": "（注）　セグメント間の取引については、相殺消去しておりません",
+      "opinions": []
+    },
+    {
+      "sentence_id": 21,
+      "sentence": "②（不動産事業）",
+      "opinions": []
+    },
+    {
+      "sentence_id": 22,
+      "sentence": "不動産事業におきましては、深谷市緑台の分譲地の完売により販売物件が減少したことなどから、営業収入は前年同期に比べ減少いたしました",
+      "opinions": [
+        {
+          "target": "不動産事業",
+          "category": "business#amount",
+          "polarity": "negative",
+          "from": 0,
+          "to": 5
+        },
+        {
+          "target": "不動産事業",
+          "category": "business#sales",
+          "polarity": "negative",
+          "from": 0,
+          "to": 5
+        }
+      ]
+    },
+    {
+      "sentence_id": 23,
+      "sentence": "この結果、営業収益は345百万円（前年同期比18.9％減）、営業利益は182百万円（同9.7％増）となりました",
+      "opinions": [
+        {
+          "target": "営業収益",
+          "category": "NULL#sales",
+          "polarity": "negative",
+          "from": 5,
+          "to": 9
+        },
+        {
+          "target": "営業利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 30,
+          "to": 34
+        }
+      ]
+    },
+    {
+      "sentence_id": 24,
+      "sentence": "（営業成績）",
+      "opinions": []
+    },
+    {
+      "sentence_id": 25,
+      "sentence": "（注）　セグメント間の取引については、相殺消去しておりません",
+      "opinions": []
+    },
+    {
+      "sentence_id": 26,
+      "sentence": "③（観光事業）",
+      "opinions": []
+    },
+    {
+      "sentence_id": 27,
+      "sentence": "観光事業におきましては、長瀞への誘客を促進するため旅行業者への営業活動を強化すると共に、各施設で季節毎の集客キャンペーン等、様々な取り組みを実施いたしました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 28,
+      "sentence": "しかしながら、営業収入は、度重なる台風の影響を受け運休が続いた長瀞ラインくだりをはじめ、各施設で前年同期に比べ減少いたしました",
+      "opinions": [
+        {
+          "target": "営業収入",
+          "category": "NULL#sales",
+          "polarity": "negative",
+          "from": 7,
+          "to": 11
+        }
+      ]
+    },
+    {
+      "sentence_id": 29,
+      "sentence": "営業費用は、修繕費の増加があったものの、その他の経費等の削減に努めたことにより前年同期に比べ減少いたしました",
+      "opinions": [
+        {
+          "target": "営業費用",
+          "category": "NULL#cost",
+          "polarity": "positive",
+          "from": 0,
+          "to": 4
+        },
+        {
+          "target": "修繕費",
+          "category": "NULL#cost",
+          "polarity": "negative",
+          "from": 6,
+          "to": 9
+        }
+      ]
+    },
+    {
+      "sentence_id": 30,
+      "sentence": "この結果、営業収益は471百万円（前年同期比5.9％減）、営業利益は15百万円（同53.4％減）となりました",
+      "opinions": [
+        {
+          "target": "営業収益",
+          "category": "NULL#sales",
+          "polarity": "negative",
+          "from": 5,
+          "to": 9
+        },
+        {
+          "target": "営業利益",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 29,
+          "to": 33
+        }
+      ]
+    },
+    {
+      "sentence_id": 31,
+      "sentence": "（営業成績）",
+      "opinions": []
+    },
+    {
+      "sentence_id": 32,
+      "sentence": "（注）　セグメント間の取引については、相殺消去しておりません",
+      "opinions": []
+    },
+    {
+      "sentence_id": 33,
+      "sentence": "④（バス事業）",
+      "opinions": []
+    },
+    {
+      "sentence_id": 34,
+      "sentence": "バス事業におきましては、貸切バスの稼働が伸びず営業収入は前年同期に比べ減少いたしました",
+      "opinions": [
+        {
+          "target": "バス事業",
+          "category": "business#amount",
+          "polarity": "negative",
+          "from": 0,
+          "to": 4
+        },
+        {
+          "target": "バス事業",
+          "category": "business#sales",
+          "polarity": "negative",
+          "from": 0,
+          "to": 4
+        }
+      ]
+    },
+    {
+      "sentence_id": 35,
+      "sentence": "営業費用は、車両更新による減価償却費負担増により前年同期に比べ増加いたしました",
+      "opinions": [
+        {
+          "target": "営業費用",
+          "category": "NULL#cost",
+          "polarity": "negative",
+          "from": 0,
+          "to": 4
+        },
+        {
+          "target": "車両更新による減価償却費",
+          "category": "NULL#cost",
+          "polarity": "negative",
+          "from": 6,
+          "to": 18
+        }
+      ]
+    },
+    {
+      "sentence_id": 36,
+      "sentence": "この結果、営業収益は436百万円（前年同期比0.9％減）、営業利益は33百万円（同33.2％減）となりました",
+      "opinions": [
+        {
+          "target": "営業収益",
+          "category": "NULL#sales",
+          "polarity": "negative",
+          "from": 5,
+          "to": 9
+        },
+        {
+          "target": "営業利益",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 29,
+          "to": 33
+        }
+      ]
+    },
+    {
+      "sentence_id": 37,
+      "sentence": "（営業成績）",
+      "opinions": []
+    },
+    {
+      "sentence_id": 38,
+      "sentence": "（注）　セグメント間の取引については、相殺消去しておりません",
+      "opinions": []
+    },
+    {
+      "sentence_id": 39,
+      "sentence": "⑤（その他）",
+      "opinions": []
+    },
+    {
+      "sentence_id": 40,
+      "sentence": "その他事業におきましては、建設業における公共工事の受託等が減少した他、卸売・小売業においてコンビニエンスストア等の収入が前年同期に比べ減少いたしました",
+      "opinions": [
+        {
+          "target": "建設業",
+          "category": "business#amount",
+          "polarity": "negative",
+          "from": 13,
+          "to": 16
+        },
+        {
+          "target": "卸売・小売業",
+          "category": "business#sales",
+          "polarity": "negative",
+          "from": 35,
+          "to": 41
+        }
+      ]
+    },
+    {
+      "sentence_id": 41,
+      "sentence": "営業費用は、人件費の減少に加え各事業において経費削減に努め前年同期に比べ減少いたしました",
+      "opinions": [
+        {
+          "target": "営業費用",
+          "category": "NULL#cost",
+          "polarity": "positive",
+          "from": 0,
+          "to": 4
+        },
+        {
+          "target": "人件費",
+          "category": "NULL#cost",
+          "polarity": "positive",
+          "from": 6,
+          "to": 9
+        }
+      ]
+    },
+    {
+      "sentence_id": 42,
+      "sentence": "この結果、営業収益は1,112百万円（前年同期比8.1％減）、営業損失は5百万円（同79.9％減）となりました",
+      "opinions": [
+        {
+          "target": "営業収益",
+          "category": "NULL#sales",
+          "polarity": "negative",
+          "from": 5,
+          "to": 9
+        },
+        {
+          "target": "営業損失",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 31,
+          "to": 35
+        }
+      ]
+    },
+    {
+      "sentence_id": 43,
+      "sentence": "（営業成績）",
+      "opinions": []
+    },
+    {
+      "sentence_id": 44,
+      "sentence": "（注）　セグメント間の取引については、相殺消去しておりません",
+      "opinions": []
+    }
+  ]
+}

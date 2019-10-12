@@ -1,0 +1,171 @@
+{
+  "header": {
+    "document_id": "E03367",
+    "document_name": "株式会社ゲオホールディングス",
+    "doc_text": "有価証券報告書",
+    "edi_id": "E03367",
+    "security_code": "26810",
+    "category33": "小売業",
+    "category17": "小売",
+    "scale": "6"
+  },
+  "sentences": [
+    {
+      "sentence_id": 0,
+      "sentence": "当連結会計年度における当社グループを取り巻く環境を概観いたしますと、メディアショップにつきましては、海外市場で先行する動画配信が国内市場においても活性化し、参入する企業が増え競争が激化する中、加えてスマートフォン等によるお客様の時間消費選択肢の多様化に拍車がかかっていることで、パッケージソフト産業からネットワーク産業へと市場が移行しつつあります",
+      "opinions": [
+        {
+          "target": "動画配信",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 59,
+          "to": 63
+        },
+        {
+          "target": "競争",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 87,
+          "to": 89
+        }
+      ]
+    },
+    {
+      "sentence_id": 1,
+      "sentence": "一方、リユースショップにつきましては、個人間売買やネット販売の活性化等で、市場が推計１兆6,000億円を超えており、今後もさらに拡大し続けることにより、「リユース」の認知度は益々高まり、着実な成長が見込まれております",
+      "opinions": [
+        {
+          "target": "リユースショップ",
+          "category": "market#general",
+          "polarity": "positive",
+          "from": 3,
+          "to": 11
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "sentence": "加えて、両業態に共通する商材である通信機器においても、総務省によるスマートフォンの料金負担の軽減及び端末販売の適正化の促進や、新規・大手のＭＶＮＯ事業者等の参入によりモバイル市場の活性化と同時に「格安スマホ」需要が高まっており、市場が急速に拡大しております",
+      "opinions": [
+        {
+          "target": "モバイル市場",
+          "category": "market#general",
+          "polarity": "positive",
+          "from": 83,
+          "to": 89
+        },
+        {
+          "target": "「格安スマホ」需要",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 97,
+          "to": 106
+        },
+        {
+          "target": "市場",
+          "category": "market#general",
+          "polarity": "positive",
+          "from": 114,
+          "to": 116
+        }
+      ]
+    },
+    {
+      "sentence_id": 3,
+      "sentence": "このような環境のもと、当社グループにおきましては、「豊かで楽しい日常の暮らしを提供する」を企業理念とし、環境の変化に合わせた取り組みを試行しながら、販売網及びシェアの拡大に努めてまいりました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 4,
+      "sentence": "この結果、当連結会計年度における売上高は、リオ五輪等の影響でレンタル売上が軟調であった一方、台風や残暑の影響下でも堅調であったリユース商材と年末商戦や新型ゲーム機の発売等で新品商材の売上が寄与したことにより、268,079百万円（前期比0.1％増）となり、売上構成が前連結会計年度と比してかわったことにより売上総利益率が1.6％低下したほか、積極的な販促活動及びリユース系店舗の出店に伴う人件費や家賃等の影響で、営業利益は8,662百万円（前期比47.7％減）、経常利益は9,040百万円（前期比49.3％減）となり、店舗関連の減損損失1,862百万円等の特別損失が発生したことにより、親会社株主に帰属する当期純利益は4,223百万円（前期比60.0％減）となりました",
+      "opinions": [
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 16,
+          "to": 19
+        },
+        {
+          "target": "レンタル売上",
+          "category": "NULL#sales",
+          "polarity": "negative",
+          "from": 30,
+          "to": 36
+        },
+        {
+          "target": "リユース商材",
+          "category": "product#general",
+          "polarity": "positive",
+          "from": 63,
+          "to": 69
+        },
+        {
+          "target": "新品商材",
+          "category": "product#sales",
+          "polarity": "positive",
+          "from": 86,
+          "to": 90
+        },
+        {
+          "target": "売上総利益率",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 153,
+          "to": 159
+        },
+        {
+          "target": "営業利益",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 206,
+          "to": 210
+        },
+        {
+          "target": "経常利益",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 231,
+          "to": 235
+        },
+        {
+          "target": "当期純利益",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 303,
+          "to": 308
+        }
+      ]
+    },
+    {
+      "sentence_id": 5,
+      "sentence": "また、当連結会計年度末における当社グループの店舗数の状況は以下のとおりとなりました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 6,
+      "sentence": "（ ）内は、前連結会計年度末との増減数であります",
+      "opinions": []
+    },
+    {
+      "sentence_id": 7,
+      "sentence": "（注）１．屋号毎の店舗数をカウントしています",
+      "opinions": []
+    },
+    {
+      "sentence_id": 8,
+      "sentence": "２．メディア系店舗はＤＶＤレンタルや家庭用ゲームの買取販売等を行う店舗（屋号：ゲオ、ゲオモバイル）をカウントしています",
+      "opinions": []
+    },
+    {
+      "sentence_id": 9,
+      "sentence": "３．ゲオモバイルはメディア系店舗に併設されていないモバイルショップを指します",
+      "opinions": []
+    },
+    {
+      "sentence_id": 10,
+      "sentence": "４．リユース系店舗は衣料品や家電製品等の買取販売を行う店舗（屋号：セカンドストリート、スーパーセカンドストリート、セカンドアウトドア、ジャンブルストア等）をカウントしています",
+      "opinions": []
+    }
+  ]
+}

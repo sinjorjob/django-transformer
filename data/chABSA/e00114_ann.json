@@ -1,0 +1,413 @@
+{
+  "header": {
+    "document_id": "E00114",
+    "document_name": "住友電設株式会社",
+    "doc_text": "有価証券報告書",
+    "edi_id": "E00114",
+    "security_code": "19490",
+    "category33": "建設業",
+    "category17": "建設・資材",
+    "scale": "7"
+  },
+  "sentences": [
+    {
+      "sentence_id": 0,
+      "sentence": "当連結会計年度における当社グループを取り巻く経済環境は、国内では輸出や生産は持ち直しの動きが続いており、企業収益も改善の動きが見られるなど、景気は緩やかな回復基調で推移した",
+      "opinions": [
+        {
+          "target": "輸出",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 32,
+          "to": 34
+        },
+        {
+          "target": "生産",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 35,
+          "to": 37
+        },
+        {
+          "target": "企業収益",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 52,
+          "to": 56
+        },
+        {
+          "target": "景気",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 70,
+          "to": 72
+        }
+      ]
+    },
+    {
+      "sentence_id": 1,
+      "sentence": "一方、海外においては、米国新政権の発足、英国の欧州連合（ＥＵ）離脱問題、中国及びアジア新興国の景気低迷等、先行き不透明な状態が継続した",
+      "opinions": [
+        {
+          "target": "海外",
+          "category": "NULL#general",
+          "polarity": "neutral",
+          "from": 3,
+          "to": 5
+        },
+        {
+          "target": "中国",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 36,
+          "to": 38
+        },
+        {
+          "target": "アジア新興国",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 40,
+          "to": 46
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "sentence": "建設市場においては、国内では公共投資は底堅く推移しており、民間設備投資は企業収益の改善等を背景に緩やかな回復基調で推移した",
+      "opinions": [
+        {
+          "target": "公共投資",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 14,
+          "to": 18
+        },
+        {
+          "target": "民間設備投資",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 29,
+          "to": 35
+        },
+        {
+          "target": "企業収益",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 36,
+          "to": 40
+        }
+      ]
+    },
+    {
+      "sentence_id": 3,
+      "sentence": "一方、当社グループが事業展開している東南アジアでは、経済成長率鈍化の影響等により日系企業の設備投資が減少し、建設需要は低調に推移した",
+      "opinions": [
+        {
+          "target": "設備投資",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 45,
+          "to": 49
+        },
+        {
+          "target": "建設需要",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 54,
+          "to": 58
+        }
+      ]
+    },
+    {
+      "sentence_id": 4,
+      "sentence": "このような状況のもと、当社グループは、2016年度よりスタートした中期経営計画「Vision１９」（2016～2019年度：４ヵ年計画）に基づき、更なる質の追求と社会・市場環境の変化に対応するため、「個人力の向上」と「総合力の発揮」を柱とする重点施策にグループ一体となって取り組んできた",
+      "opinions": []
+    },
+    {
+      "sentence_id": 5,
+      "sentence": "この結果、当連結会計年度の業績は以下のとおりとなった",
+      "opinions": []
+    },
+    {
+      "sentence_id": 6,
+      "sentence": "受　注　高　　　　　　　　　　　１,４４３億７１百万円（前連結会計年度比　４．７％減）\n　　　　売　上　高　　　　　　　　　　　１,３７２億２７百万円（前連結会計年度比　６．６％減）\n　　　　営　業　利　益　　　 　　　　　　　　８２億４９百万円（前連結会計年度比　５．３％減）\n　　　　経　常　利　益　　 　　　　　　　　　８８億３５百万円（前連結会計年度比　３．６％減）\n　　　　親会社株主に帰属する当期純利益　 　　５５億２１百万円（前連結会計年度比　８．６％増）\n \n　受注高については、国内では堅調に推移したが、海外経済の減速や日系企業の投資減少の影響を受け、東南アジアにおける海外子会社で減少したことにより、前期より減少となった",
+      "opinions": [
+        {
+          "target": "受　注　高",
+          "category": "NULL#amount",
+          "polarity": "negative",
+          "from": 0,
+          "to": 5
+        },
+        {
+          "target": "売　上　高",
+          "category": "NULL#sales",
+          "polarity": "negative",
+          "from": 48,
+          "to": 53
+        },
+        {
+          "target": "営　業　利　益",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 96,
+          "to": 103
+        },
+        {
+          "target": "経　常　利　益",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 144,
+          "to": 151
+        },
+        {
+          "target": "当期純利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 202,
+          "to": 207
+        },
+        {
+          "target": "受注高",
+          "category": "NULL#amount",
+          "polarity": "positive",
+          "from": 239,
+          "to": 242
+        },
+        {
+          "target": "海外経済",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 261,
+          "to": 265
+        }
+      ]
+    },
+    {
+      "sentence_id": 7,
+      "sentence": "売上高についても、海外子会社の受注高が減少した影響が大きく、前期より減少となった",
+      "opinions": [
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "negative",
+          "from": 0,
+          "to": 3
+        },
+        {
+          "target": "受注高",
+          "category": "NULL#amount",
+          "polarity": "negative",
+          "from": 15,
+          "to": 18
+        }
+      ]
+    },
+    {
+      "sentence_id": 8,
+      "sentence": "利益面では、売上高減少の影響により、営業利益、経常利益は前期より減少となったが、親会社株主に帰属する当期純利益は法人税等の減少により前期より増加となった",
+      "opinions": [
+        {
+          "target": "営業利益",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 18,
+          "to": 22
+        },
+        {
+          "target": "経常利益",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 23,
+          "to": 27
+        },
+        {
+          "target": "当期純利益",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 50,
+          "to": 55
+        }
+      ]
+    },
+    {
+      "sentence_id": 9,
+      "sentence": "利益率については、工事採算の改善、経費の削減にグループを挙げて取り組んだ結果、経常利益率6.4％と過去最高を更新することができた",
+      "opinions": [
+        {
+          "target": "経常利益率",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 39,
+          "to": 44
+        }
+      ]
+    },
+    {
+      "sentence_id": 10,
+      "sentence": "事業の種類別では、設備工事業の受注高は1,342億94百万円（前期比4.5%減）、売上高は1,271億50百万円（同6.5%減）となり、機器販売を中心とするその他の事業では、受注高及び売上高は100億76百万円（同7.6%減）となった",
+      "opinions": [
+        {
+          "target": "設備工事業",
+          "category": "business#amount",
+          "polarity": "negative",
+          "from": 9,
+          "to": 14
+        },
+        {
+          "target": "設備工事業",
+          "category": "business#sales",
+          "polarity": "negative",
+          "from": 9,
+          "to": 14
+        },
+        {
+          "target": "事業",
+          "category": "business#amount",
+          "polarity": "negative",
+          "from": 82,
+          "to": 84
+        },
+        {
+          "target": "事業",
+          "category": "business#sales",
+          "polarity": "negative",
+          "from": 82,
+          "to": 84
+        }
+      ]
+    },
+    {
+      "sentence_id": 11,
+      "sentence": "なお、設備工事業における種類別の受注高、売上高の概況は、次のとおりである",
+      "opinions": []
+    },
+    {
+      "sentence_id": 12,
+      "sentence": "電力工事部門は、電力会社向けの送変電設備工事が増加したことに加え、再生可能エネルギー市場への対応強化により、受注高は169億８百万円（前期比8.2%増）、売上高は153億49百万円（同37.5%増）となった",
+      "opinions": [
+        {
+          "target": "電力工事部門",
+          "category": "business#amount",
+          "polarity": "positive",
+          "from": 0,
+          "to": 6
+        },
+        {
+          "target": "電力工事部門",
+          "category": "business#sales",
+          "polarity": "positive",
+          "from": 0,
+          "to": 6
+        },
+        {
+          "target": "送変電設備工事",
+          "category": "product#amount",
+          "polarity": "positive",
+          "from": 15,
+          "to": 22
+        }
+      ]
+    },
+    {
+      "sentence_id": 13,
+      "sentence": "一般電気工事部門は、国内では首都圏を中心に工事量が増加したが、大型太陽光案件の減少や、海外における建設需要が減少し、受注高は892億61百万円（前期比10.1%減）、売上高は862億28百万円（同13.0%減）となった",
+      "opinions": [
+        {
+          "target": "一般電気工事部門",
+          "category": "business#amount",
+          "polarity": "negative",
+          "from": 0,
+          "to": 8
+        },
+        {
+          "target": "一般電気工事部門",
+          "category": "business#sales",
+          "polarity": "negative",
+          "from": 0,
+          "to": 8
+        },
+        {
+          "target": "工事量",
+          "category": "NULL#amount",
+          "polarity": "positive",
+          "from": 21,
+          "to": 24
+        },
+        {
+          "target": "大型太陽光案件",
+          "category": "product#amount",
+          "polarity": "negative",
+          "from": 31,
+          "to": 38
+        },
+        {
+          "target": "建設需要",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 49,
+          "to": 53
+        }
+      ]
+    },
+    {
+      "sentence_id": 14,
+      "sentence": "情報通信工事部門は、情報通信分野における大型工事案件等の受注高が増加したが、通信分野における携帯電話基地局設置工事の売上高が減少したため、受注高は184億80百万円（前期比3.6%増）、売上高は172億43百万円（同0.8%減）となった",
+      "opinions": [
+        {
+          "target": "情報通信工事部門",
+          "category": "business#amount",
+          "polarity": "positive",
+          "from": 0,
+          "to": 8
+        },
+        {
+          "target": "情報通信工事部門",
+          "category": "business#sales",
+          "polarity": "negative",
+          "from": 0,
+          "to": 8
+        },
+        {
+          "target": "大型工事案件",
+          "category": "product#amount",
+          "polarity": "positive",
+          "from": 20,
+          "to": 26
+        },
+        {
+          "target": "携帯電話基地局設置工事",
+          "category": "product#sales",
+          "polarity": "negative",
+          "from": 46,
+          "to": 57
+        }
+      ]
+    },
+    {
+      "sentence_id": 15,
+      "sentence": "プラント・空調工事部門は、受注高は96億43百万円（前期比21.3%増）、売上高は83億28百万円（同0.7%減）となった",
+      "opinions": [
+        {
+          "target": "プラント・空調工事部門",
+          "category": "business#amount",
+          "polarity": "positive",
+          "from": 0,
+          "to": 11
+        },
+        {
+          "target": "プラント・空調工事部門",
+          "category": "business#sales",
+          "polarity": "negative",
+          "from": 0,
+          "to": 11
+        }
+      ]
+    },
+    {
+      "sentence_id": 16,
+      "sentence": "(注) 　「第２ 事業の状況」における各事項の記載については、消費税等抜きの金額で表示している",
+      "opinions": []
+    }
+  ]
+}

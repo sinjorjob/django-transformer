@@ -1,0 +1,443 @@
+{
+  "header": {
+    "document_id": "E05346",
+    "document_name": "東京センチュリー株式会社",
+    "doc_text": "有価証券報告書",
+    "edi_id": "E05346",
+    "security_code": "84390",
+    "category33": "その他金融業",
+    "category17": "金融（除く銀行）",
+    "scale": "4"
+  },
+  "sentences": [
+    {
+      "sentence_id": 0,
+      "sentence": "（当期の経営成績）",
+      "opinions": []
+    },
+    {
+      "sentence_id": 1,
+      "sentence": "当連結会計年度におけるわが国経済は、企業収益や雇用環境の改善が進み、個人消費にも持ち直しの兆しがみられるなど、景気全般として緩やかながらも回復基調にて推移いたしました",
+      "opinions": [
+        {
+          "target": "企業収益",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 18,
+          "to": 22
+        },
+        {
+          "target": "雇用環境",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 23,
+          "to": 27
+        },
+        {
+          "target": "個人消費",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 34,
+          "to": 38
+        },
+        {
+          "target": "景気全般",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 55,
+          "to": 59
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "sentence": "一方、世界経済においては、米国・欧州の個人消費が堅調であるものの、米国新政権における政策運営の動向に不透明感が残ることや、欧州の政治情勢が今後に与える影響など、先行きを見通しづらい状況が続いております",
+      "opinions": [
+        {
+          "target": "世界経済",
+          "category": "NULL#general",
+          "polarity": "neutral",
+          "from": 3,
+          "to": 7
+        },
+        {
+          "target": "個人消費",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 19,
+          "to": 23
+        },
+        {
+          "target": "動向",
+          "category": "NULL#general",
+          "polarity": "neutral",
+          "from": 47,
+          "to": 49
+        }
+      ]
+    },
+    {
+      "sentence_id": 3,
+      "sentence": "このような状況下、当社グループにおきましては、平成28年度を初年度とする第三次中期経営計画（３ヵ年）を策定、資産効率を重視した「高収益ビジネスモデル」への変革を推進し、更なる持続的成長の礎を築くことを目指した取り組みを開始いたしました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 4,
+      "sentence": "また、リース・ファイナンス機能の更なる進化・高度化を推進していくとともに、高い専門性と独自性を発揮する「金融・サービス企業」として、幅広い事業展開を指向していく決意を示すため、平成28年10月１日より、商号を「東京センチュリー株式会社」に変更いたしました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 5,
+      "sentence": "〔国内リース事業分野〕",
+      "opinions": []
+    },
+    {
+      "sentence_id": 6,
+      "sentence": "・株式会社IHIおよび他の出資会社７社とともに、鹿児島県鹿児島市において県内最大規模となる木質バイオマス発電事業を展開する事業会社の七ツ島バイオマスパワー合同会社を設立し、持分法適用関連会社といたしました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 7,
+      "sentence": "〔スペシャルティ事業分野〕",
+      "opinions": []
+    },
+    {
+      "sentence_id": 8,
+      "sentence": "・資産運用事業を共同で推進することを目的として、日本土地建物株式会社が保有する日土地アセットマネジメント株式会社の発行済株式の30％を譲り受け、持分法適用関連会社といたしました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 9,
+      "sentence": "・CIT Group Inc.との航空機リース合弁事業であるTC-CIT Aviation Ireland Limited（現 TC Skyward Aviation Ireland Limited）およびTC-CIT Aviation U.S., Inc.(現 TC Skyward Aviation U.S., Inc.)について、CIT Group Inc.が出資する持分の全てを当社が追加取得し、当社の完全子会社といたしました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 10,
+      "sentence": "〔国内オート事業分野〕",
+      "opinions": []
+    },
+    {
+      "sentence_id": 11,
+      "sentence": "・当社連結子会社である日本カーソリューションズ株式会社において、株式会社ジェイティクリエイティブサービス（日本たばこ産業株式会社の100％出資連結子会社）が保有するリース車両（約4,000台）およびそのリース債権を譲り受けいたしました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 12,
+      "sentence": "〔国際事業分野〕",
+      "opinions": []
+    },
+    {
+      "sentence_id": 13,
+      "sentence": "・米国の大手独立系リース会社であるCSI Leasing,Inc.の株式追加取得を完了し、完全子会社化いたしました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 14,
+      "sentence": "・インドネシアの大手財閥であるリッポー・グループと戦略的パートナーシップ協定を締結いたしました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 15,
+      "sentence": "今後、当地においてリッポー・グループが推進するデジタル事業ならびにフィンテック事業において総額１億米ドル程度の出資を行い協働していく予定です",
+      "opinions": []
+    },
+    {
+      "sentence_id": 16,
+      "sentence": "・モバイルアプリケーションを活用してドライバーと乗客をマッチングする配車サービス事業に関して、東南アジアにおける業界最大手であるGrab Inc.と、自動車リース・レンタル事業を共同で取り組むことに向けた戦略的パートナーシップ協定を締結いたしました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 17,
+      "sentence": "当社は、本協定を通じて、国内外にて長年培ってきたノウハウを提供するとともに、Grab Inc.との自動車リース・レンタル事業における協働を推進いたします",
+      "opinions": []
+    },
+    {
+      "sentence_id": 18,
+      "sentence": "・銀行カード連合組織である中国銀聯股份有限公司の子会社で、中国最大手のカード決済サービス企業である銀聯商務有限公司と戦略的な業務提携を締結いたしました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 19,
+      "sentence": "共同で銀聯商務加盟店舗向けにインターネットを活用した設備リース、オートリースなどを展開することで、両社のビジネスを拡大してまいります",
+      "opinions": []
+    },
+    {
+      "sentence_id": 20,
+      "sentence": "・イオンフィナンシャルサービス株式会社の連結子会社であるACS Capital Corporation Ltd.より、同社のリース事業の一部であるオートリース事業にかかるリース車両（約2,500台）およびそのリース債権ならびに同事業に係る事業基盤（従業員、営業施設等）を譲り受けました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 21,
+      "sentence": "合わせて、タイにおけるオートリース事業の更なる発展を目指し、当社子会社となるオートリース専業会社「TC Car Solutions (Thailand) Co., Ltd.」を設立いたしました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 22,
+      "sentence": "・中国最大手の冷凍空調機器メーカーである大連氷山集団有限公司とともに、同社製品の更なる販売促進を目指し、当社関連会社となるリース会社「大連氷山集団華慧達融資租賃有限公司」を設立いたしました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 23,
+      "sentence": "〔連結経営の強化〕",
+      "opinions": []
+    },
+    {
+      "sentence_id": 24,
+      "sentence": "・当社連結子会社であるニッポンレンタカーサービス株式会社の株式を追加取得し、当社との更なる連携強化を図りました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 25,
+      "sentence": "（平成28年３月末69.6％から平成29年３月末81.1％へ増加）",
+      "opinions": []
+    },
+    {
+      "sentence_id": 26,
+      "sentence": "〔財務基盤の充実と強化〕",
+      "opinions": []
+    },
+    {
+      "sentence_id": 27,
+      "sentence": "・当社の連結子会社であるインドネシア現地法人PT. Century Tokyo Leasing Indonesiaは、リース資産などの拡大に伴う資金需要に対応するため、インドネシア市場において、当社グループとして初めてとなるインドネシアルピア建無担保普通社債（2,000億インドネシアルピア：約16億円）を発行いたしました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 28,
+      "sentence": "・当社の連結子会社である株式会社オリコオートリースにおいて、業績の順調な伸長による資金需要への対応と、資金調達の多様化を目的として、平成28年10月に株式会社日本格付研究所により格付「Ｊ－１」（発行枠400億円）を取得し、20億円の短期社債（電子CP）を発行いたしました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 29,
+      "sentence": "（平成29年３月末時点発行残高300億円）",
+      "opinions": []
+    },
+    {
+      "sentence_id": 30,
+      "sentence": "〔その他経営基盤の強化〕",
+      "opinions": []
+    },
+    {
+      "sentence_id": 31,
+      "sentence": "・経済産業省と東京証券取引所が共同で進める「攻めのIT経営銘柄2016」に、上場企業約3,500社の中から選定された26社中の１社として２年連続で選出されました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 32,
+      "sentence": "・今年度より開始された経済産業省と日本健康会議が共同で進める「健康経営優良法人（ホワイト500）2017」に選出されました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 33,
+      "sentence": "・環境省が事務局となり策定した、21世紀金融行動原則に署名した金融機関の中から、当社の「地方自治体と連携した『再生可能エネルギーによる発電事業』への取組み」が第５回「グッドプラクティス」に選定されました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 34,
+      "sentence": "・経済産業省と東京証券取引所が共同で進める「なでしこ銘柄2017」に、上場企業約3,500社の中から選定された47社中の１社として選出されました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 35,
+      "sentence": "事業の成果としては、当連結会計年度の契約実行高はファイナンス事業の減少などあったものの賃貸・割賦事業の増加により前連結会計年度に比べて0.1％増の１兆4,999億91百万円となりました",
+      "opinions": [
+        {
+          "target": "契約実行高",
+          "category": "business#amount",
+          "polarity": "positive",
+          "from": 18,
+          "to": 23
+        },
+        {
+          "target": "ファイナンス事業",
+          "category": "business#amount",
+          "polarity": "negative",
+          "from": 24,
+          "to": 32
+        },
+        {
+          "target": "賃貸・割賦事業",
+          "category": "business#amount",
+          "polarity": "positive",
+          "from": 43,
+          "to": 50
+        }
+      ]
+    },
+    {
+      "sentence_id": 36,
+      "sentence": "損益面については、売上高は前連結会計年度に比べて3.8％増の9,761億７百万円、営業利益は同9.2％増の719億99百万円、経常利益は同8.1％増の735億11百万円、親会社株主に帰属する当期純利益は同9.0％増の436億48百万円となりました",
+      "opinions": [
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 9,
+          "to": 12
+        },
+        {
+          "target": "営業利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 41,
+          "to": 45
+        },
+        {
+          "target": "経常利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 63,
+          "to": 67
+        },
+        {
+          "target": "当期純利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 95,
+          "to": 100
+        }
+      ]
+    },
+    {
+      "sentence_id": 37,
+      "sentence": "(セグメント別業績の概況)",
+      "opinions": []
+    },
+    {
+      "sentence_id": 38,
+      "sentence": "セグメント別の業績は次のとおりであります",
+      "opinions": []
+    },
+    {
+      "sentence_id": 39,
+      "sentence": "① 賃貸・割賦事業",
+      "opinions": []
+    },
+    {
+      "sentence_id": 40,
+      "sentence": "賃貸・割賦事業では、契約実行高はCSI Leasing, Inc.の連結子会社化などにより前連結会計年度に比べて2.7％増の8,899億41百万円となりました",
+      "opinions": [
+        {
+          "target": "賃貸・割賦事業",
+          "category": "business#amount",
+          "polarity": "positive",
+          "from": 0,
+          "to": 7
+        }
+      ]
+    },
+    {
+      "sentence_id": 41,
+      "sentence": "売上高は同3.9％増の9,242億46百万円、セグメント利益は同19.1％増の599億31百万円となりました",
+      "opinions": [
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 0,
+          "to": 3
+        },
+        {
+          "target": "セグメント利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 23,
+          "to": 30
+        }
+      ]
+    },
+    {
+      "sentence_id": 42,
+      "sentence": "主な増益要因は、CSI Leasing, Inc.の連結子会社化やオートリース及び航空機リースによるものであります",
+      "opinions": []
+    },
+    {
+      "sentence_id": 43,
+      "sentence": "② ファイナンス事業",
+      "opinions": []
+    },
+    {
+      "sentence_id": 44,
+      "sentence": "ファイナンス事業では、契約実行高は前連結会計年度に比べて2.3％減の6,028億11百万円となりました",
+      "opinions": [
+        {
+          "target": "ファイナンス事業",
+          "category": "business#amount",
+          "polarity": "negative",
+          "from": 0,
+          "to": 8
+        }
+      ]
+    },
+    {
+      "sentence_id": 45,
+      "sentence": "売上高は、不動産ファイナンスのエグジット収益のあった前連結会計年度に比べて17.3％減の242億11百万円、同様にセグメント利益は同23.4％減の126億22百万円となりました",
+      "opinions": [
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "negative",
+          "from": 0,
+          "to": 3
+        },
+        {
+          "target": "セグメント利益",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 57,
+          "to": 64
+        }
+      ]
+    },
+    {
+      "sentence_id": 46,
+      "sentence": "③ その他の事業",
+      "opinions": []
+    },
+    {
+      "sentence_id": 47,
+      "sentence": "その他の事業では、契約実行高は前連結会計年度に比べて50.5％減の72億37百万円となりました",
+      "opinions": [
+        {
+          "target": "事業",
+          "category": "business#amount",
+          "polarity": "negative",
+          "from": 4,
+          "to": 6
+        }
+      ]
+    },
+    {
+      "sentence_id": 48,
+      "sentence": "売上高は前連結会計年度に比べて30.1％増の276億49百万円、セグメント利益は同41.3％増の80億95百万円となりました",
+      "opinions": [
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 0,
+          "to": 3
+        },
+        {
+          "target": "セグメント利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 32,
+          "to": 39
+        }
+      ]
+    },
+    {
+      "sentence_id": 49,
+      "sentence": "主な増益要因は、太陽光発電による売電収益の増加によるものであります",
+      "opinions": [
+        {
+          "target": "太陽光発電",
+          "category": "product#sales",
+          "polarity": "positive",
+          "from": 8,
+          "to": 13
+        }
+      ]
+    }
+  ]
+}

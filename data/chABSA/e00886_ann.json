@@ -1,0 +1,646 @@
+{
+  "header": {
+    "document_id": "E00886",
+    "document_name": "東邦化学工業株式会社",
+    "doc_text": "有価証券報告書",
+    "edi_id": "E00886",
+    "security_code": "44090",
+    "category33": "化学",
+    "category17": "素材・化学",
+    "scale": ""
+  },
+  "sentences": [
+    {
+      "sentence_id": 0,
+      "sentence": "当連結会計年度における我が国経済は、上半期までは、海外経済の減速と円高の影響から輸出が減少し生産が鈍化、個人消費もインバウンド効果の剥落から弱含みに推移するなど停滞感の強い局面が続きましたが、下半期に入り、海外経済の回復やＩＴ関連投資の増加、政府の財政支出等に支えられ、輸出や生産はプラスに転じ、個人消費も雇用所得環境の改善を背景に徐々に持ち直すなど、緩やかな回復が続きました",
+      "opinions": [
+        {
+          "target": "我が国経済",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 11,
+          "to": 16
+        },
+        {
+          "target": "海外経済",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 25,
+          "to": 29
+        },
+        {
+          "target": "輸出",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 40,
+          "to": 42
+        },
+        {
+          "target": "生産",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 46,
+          "to": 48
+        },
+        {
+          "target": "個人消費",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 52,
+          "to": 56
+        },
+        {
+          "target": "インバウンド効果",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 57,
+          "to": 65
+        },
+        {
+          "target": "海外経済",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 103,
+          "to": 107
+        },
+        {
+          "target": "ＩＴ関連投資",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 111,
+          "to": 117
+        },
+        {
+          "target": "輸出",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 135,
+          "to": 137
+        },
+        {
+          "target": "生産",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 138,
+          "to": 140
+        },
+        {
+          "target": "個人消費",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 148,
+          "to": 152
+        },
+        {
+          "target": "雇用所得環境",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 153,
+          "to": 159
+        }
+      ]
+    },
+    {
+      "sentence_id": 1,
+      "sentence": "このような経営環境下、当社グループの当連結会計年度の売上高は、販売数量は増加したものの売価下落の影響により、前期比５億60百万円、1.4％減収の385億49百万円となりました",
+      "opinions": [
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "negative",
+          "from": 26,
+          "to": 29
+        },
+        {
+          "target": "販売数量",
+          "category": "NULL#amount",
+          "polarity": "positive",
+          "from": 31,
+          "to": 35
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "sentence": "一方、利益面は、東邦化学（上海）有限公司における営業損益の改善の遅れや、同社での円高による多額の為替差損の発生の影響があったものの、全体としては原材料価格値下がりによる利益率の改善効果等により、営業利益、経常利益共に増益となりました",
+      "opinions": [
+        {
+          "target": "東邦化学（上海）有限公司",
+          "category": "company#profit",
+          "polarity": "negative",
+          "from": 8,
+          "to": 20
+        },
+        {
+          "target": "利益率",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 84,
+          "to": 87
+        },
+        {
+          "target": "営業利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 97,
+          "to": 101
+        },
+        {
+          "target": "経常利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 102,
+          "to": 106
+        }
+      ]
+    },
+    {
+      "sentence_id": 3,
+      "sentence": "しかし、親会社株主に帰属する当期純利益については、厚生年金基金解散損失引当金繰入額や東邦化学（上海）有限公司での固定資産の減損損失等の多額の特別損失を計上したため、少額に止まりました",
+      "opinions": [
+        {
+          "target": "当期純利益",
+          "category": "NULL#profit",
+          "polarity": "neutral",
+          "from": 14,
+          "to": 19
+        }
+      ]
+    },
+    {
+      "sentence_id": 4,
+      "sentence": "その結果、当連結会計年度の営業利益は、前期比10億58百万円増益の22億14百万円、経常利益は、前期比８億48百万円増益の15億57百万円、親会社株主に帰属する当期純利益は、３億17百万円（前期は２億31百万円の損失）となりました",
+      "opinions": [
+        {
+          "target": "営業利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 13,
+          "to": 17
+        },
+        {
+          "target": "経常利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 42,
+          "to": 46
+        },
+        {
+          "target": "当期純利益",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 80,
+          "to": 85
+        }
+      ]
+    },
+    {
+      "sentence_id": 5,
+      "sentence": "セグメント別の状況は次のとおりです",
+      "opinions": []
+    },
+    {
+      "sentence_id": 6,
+      "sentence": "（界面活性剤）",
+      "opinions": []
+    },
+    {
+      "sentence_id": 7,
+      "sentence": "トイレタリー用界面活性剤は、ヘアケア用基剤や一般洗浄剤が伸長し増収となりました",
+      "opinions": [
+        {
+          "target": "基剤",
+          "category": "product#general",
+          "polarity": "positive",
+          "from": 19,
+          "to": 21
+        },
+        {
+          "target": "一般洗浄剤",
+          "category": "product#general",
+          "polarity": "positive",
+          "from": 22,
+          "to": 27
+        }
+      ]
+    },
+    {
+      "sentence_id": 8,
+      "sentence": "プラスチック用界面活性剤は、主力の帯電防止剤や乳化重合剤が堅調で増収となりました",
+      "opinions": [
+        {
+          "target": "帯電防止剤",
+          "category": "product#general",
+          "polarity": "positive",
+          "from": 17,
+          "to": 22
+        },
+        {
+          "target": "乳化重合剤",
+          "category": "product#general",
+          "polarity": "positive",
+          "from": 23,
+          "to": 28
+        }
+      ]
+    },
+    {
+      "sentence_id": 9,
+      "sentence": "土木建築用薬剤は、コンクリート用関連薬剤の需要低迷が続き減収となりました",
+      "opinions": [
+        {
+          "target": "薬剤",
+          "category": "product#sales",
+          "polarity": "negative",
+          "from": 5,
+          "to": 7
+        },
+        {
+          "target": "関連薬剤",
+          "category": "product#amount",
+          "polarity": "negative",
+          "from": 16,
+          "to": 20
+        }
+      ]
+    },
+    {
+      "sentence_id": 10,
+      "sentence": "紙パルプ用界面活性剤は、消泡剤やサイズ剤等が振るわず減収となりました",
+      "opinions": [
+        {
+          "target": "界面活性剤",
+          "category": "product#sales",
+          "polarity": "negative",
+          "from": 5,
+          "to": 10
+        },
+        {
+          "target": "消泡剤",
+          "category": "product#general",
+          "polarity": "negative",
+          "from": 12,
+          "to": 15
+        },
+        {
+          "target": "サイズ剤",
+          "category": "product#general",
+          "polarity": "negative",
+          "from": 16,
+          "to": 20
+        }
+      ]
+    },
+    {
+      "sentence_id": 11,
+      "sentence": "繊維助剤は、ガラス繊維用助剤等の海外販売が伸長し増収となりました",
+      "opinions": [
+        {
+          "target": "繊維助剤",
+          "category": "product#sales",
+          "polarity": "positive",
+          "from": 0,
+          "to": 4
+        },
+        {
+          "target": "海外販売",
+          "category": "NULL#amount",
+          "polarity": "positive",
+          "from": 16,
+          "to": 20
+        }
+      ]
+    },
+    {
+      "sentence_id": 12,
+      "sentence": "農薬助剤は、海外需要向けの落ち込みが響き、減収となりました",
+      "opinions": [
+        {
+          "target": "農薬助剤",
+          "category": "product#sales",
+          "polarity": "negative",
+          "from": 0,
+          "to": 4
+        },
+        {
+          "target": "海外需要向け",
+          "category": "product#general",
+          "polarity": "negative",
+          "from": 6,
+          "to": 12
+        }
+      ]
+    },
+    {
+      "sentence_id": 13,
+      "sentence": "その結果、当セグメント全体の売上高は、前期比17百万円、0.1％と微減収の204億45百万円となり、セグメント利益は、前期比５億37百万円増益の13億41百万円となりました",
+      "opinions": [
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "negative",
+          "from": 14,
+          "to": 17
+        },
+        {
+          "target": "セグメント利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 50,
+          "to": 57
+        }
+      ]
+    },
+    {
+      "sentence_id": 14,
+      "sentence": "（樹脂）",
+      "opinions": []
+    },
+    {
+      "sentence_id": 15,
+      "sentence": "石油樹脂は、原料不足による減産の影響で大口ユーザー向けの販売が減少、これに売価下落の影響も相俟って大幅な減収となりました",
+      "opinions": [
+        {
+          "target": "石油樹脂",
+          "category": "product#sales",
+          "polarity": "negative",
+          "from": 0,
+          "to": 4
+        },
+        {
+          "target": "石油樹脂",
+          "category": "product#price",
+          "polarity": "negative",
+          "from": 0,
+          "to": 4
+        },
+        {
+          "target": "販売",
+          "category": "NULL#amount",
+          "polarity": "negative",
+          "from": 28,
+          "to": 30
+        }
+      ]
+    },
+    {
+      "sentence_id": 16,
+      "sentence": "樹脂エマルションは、主力のフロアーポリッシュ用等が振るわず、合成樹脂も全般的に低調で、共に減収となりました",
+      "opinions": [
+        {
+          "target": "フロアーポリッシュ用",
+          "category": "product#general",
+          "polarity": "negative",
+          "from": 13,
+          "to": 23
+        },
+        {
+          "target": "フロアーポリッシュ用",
+          "category": "product#sales",
+          "polarity": "negative",
+          "from": 13,
+          "to": 23
+        },
+        {
+          "target": "合成樹脂",
+          "category": "product#general",
+          "polarity": "negative",
+          "from": 30,
+          "to": 34
+        },
+        {
+          "target": "合成樹脂",
+          "category": "product#sales",
+          "polarity": "negative",
+          "from": 30,
+          "to": 34
+        }
+      ]
+    },
+    {
+      "sentence_id": 17,
+      "sentence": "その結果、当セグメント全体の売上高は、前期比３億70百万円、11.5％減収の28億49百万円となり、セグメント利益は、前期比23百万円減益の51百万円となりました",
+      "opinions": [
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "negative",
+          "from": 14,
+          "to": 17
+        },
+        {
+          "target": "セグメント利益",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 50,
+          "to": 57
+        }
+      ]
+    },
+    {
+      "sentence_id": 18,
+      "sentence": "（化成品）",
+      "opinions": []
+    },
+    {
+      "sentence_id": 19,
+      "sentence": "合成ゴム・ＡＢＳ樹脂用ロジン系乳化重合剤は、数量は増加したものの、原料安に伴う売価下落の影響で減収となりました",
+      "opinions": [
+        {
+          "target": "合成ゴム",
+          "category": "product#amount",
+          "polarity": "positive",
+          "from": 0,
+          "to": 4
+        },
+        {
+          "target": "合成ゴム",
+          "category": "product#price",
+          "polarity": "negative",
+          "from": 0,
+          "to": 4
+        },
+        {
+          "target": "合成ゴム",
+          "category": "product#sales",
+          "polarity": "negative",
+          "from": 0,
+          "to": 4
+        },
+        {
+          "target": "乳化重合剤",
+          "category": "product#amount",
+          "polarity": "positive",
+          "from": 15,
+          "to": 20
+        },
+        {
+          "target": "乳化重合剤",
+          "category": "product#price",
+          "polarity": "negative",
+          "from": 15,
+          "to": 20
+        },
+        {
+          "target": "乳化重合剤",
+          "category": "product#sales",
+          "polarity": "negative",
+          "from": 15,
+          "to": 20
+        }
+      ]
+    },
+    {
+      "sentence_id": 20,
+      "sentence": "石油添加剤は、潤滑油添加剤や油水分離剤等の海外向け販売が好調で増収となりました",
+      "opinions": [
+        {
+          "target": "石油添加剤",
+          "category": "product#sales",
+          "polarity": "positive",
+          "from": 0,
+          "to": 5
+        },
+        {
+          "target": "販売",
+          "category": "NULL#amount",
+          "polarity": "positive",
+          "from": 25,
+          "to": 27
+        }
+      ]
+    },
+    {
+      "sentence_id": 21,
+      "sentence": "金属加工油剤は、切削油剤等が低調で減収となりました",
+      "opinions": [
+        {
+          "target": "金属加工油剤",
+          "category": "product#sales",
+          "polarity": "negative",
+          "from": 0,
+          "to": 6
+        },
+        {
+          "target": "切削油剤",
+          "category": "product#general",
+          "polarity": "negative",
+          "from": 8,
+          "to": 12
+        }
+      ]
+    },
+    {
+      "sentence_id": 22,
+      "sentence": "その結果、当セグメント全体の売上高は、前期比２億96百万円、4.7％減収の59億85百万円となり、セグメント利益は、前期比81百万円増益の３億18百万円となりました",
+      "opinions": [
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "negative",
+          "from": 14,
+          "to": 17
+        },
+        {
+          "target": "セグメント利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 49,
+          "to": 56
+        }
+      ]
+    },
+    {
+      "sentence_id": 23,
+      "sentence": "（スペシャリティーケミカル）",
+      "opinions": []
+    },
+    {
+      "sentence_id": 24,
+      "sentence": "溶剤は、一般溶剤での需要の落ち込みやブレーキ液用等の売価下落の影響により、減収となりました",
+      "opinions": [
+        {
+          "target": "溶剤",
+          "category": "product#sales",
+          "polarity": "negative",
+          "from": 0,
+          "to": 2
+        },
+        {
+          "target": "一般溶剤",
+          "category": "product#amount",
+          "polarity": "negative",
+          "from": 4,
+          "to": 8
+        },
+        {
+          "target": "ブレーキ液用",
+          "category": "product#price",
+          "polarity": "negative",
+          "from": 18,
+          "to": 24
+        }
+      ]
+    },
+    {
+      "sentence_id": 25,
+      "sentence": "電子・情報産業用の微細加工用樹脂は、新規開発品の販売増加が寄与し増収となりました",
+      "opinions": [
+        {
+          "target": "樹脂",
+          "category": "product#sales",
+          "polarity": "positive",
+          "from": 14,
+          "to": 16
+        },
+        {
+          "target": "新規開発品",
+          "category": "product#amount",
+          "polarity": "positive",
+          "from": 18,
+          "to": 23
+        }
+      ]
+    },
+    {
+      "sentence_id": 26,
+      "sentence": "アクリレートは、電子情報材料関連の需要回復により大幅な増収となりました",
+      "opinions": [
+        {
+          "target": "アクリレート",
+          "category": "product#sales",
+          "polarity": "positive",
+          "from": 0,
+          "to": 6
+        },
+        {
+          "target": "電子情報材料関連",
+          "category": "product#general",
+          "polarity": "positive",
+          "from": 8,
+          "to": 16
+        }
+      ]
+    },
+    {
+      "sentence_id": 27,
+      "sentence": "その結果、当セグメント全体の売上高は、前期比１億20百万円、1.3％増収の91億75百万円となり、セグメント利益は、前期比２億47百万円増益の４億87百万円となりました",
+      "opinions": [
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 14,
+          "to": 17
+        },
+        {
+          "target": "セグメント利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 49,
+          "to": 56
+        }
+      ]
+    }
+  ]
+}

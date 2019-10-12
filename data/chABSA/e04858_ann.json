@@ -1,0 +1,220 @@
+{
+  "header": {
+    "document_id": "E04858",
+    "document_name": "ＫＹＣＯＭホールディングス株式会社",
+    "doc_text": "有価証券報告書",
+    "edi_id": "E04858",
+    "security_code": "96850",
+    "category33": "情報・通信業",
+    "category17": "情報通信・サービスその他",
+    "scale": ""
+  },
+  "sentences": [
+    {
+      "sentence_id": 0,
+      "sentence": "当連結会計年度におけるわが国経済は、雇用・所得環境の改善を背景として、個人消費に持ち直しの動きが見られるなど、緩やかな回復基調で推移しました",
+      "opinions": [
+        {
+          "target": "わが国経済",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 11,
+          "to": 16
+        },
+        {
+          "target": "雇用",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 18,
+          "to": 20
+        },
+        {
+          "target": "所得環境",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 21,
+          "to": 25
+        },
+        {
+          "target": "個人消費",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 35,
+          "to": 39
+        }
+      ]
+    },
+    {
+      "sentence_id": 1,
+      "sentence": "しかし、その一方で、新興国の景気減速懸念や英国のＥＵ離脱問題、米国の新政権による経済政策の不確実性の高まりなど、依然として、先行き不透明な状況が続いております",
+      "opinions": [
+        {
+          "target": "経済政策",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 40,
+          "to": 44
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "sentence": "このような環境のなかで当社グループは、事業の柱であるソフトウエア開発及び関連業務やコンピュータ関連サービス事業を中心に、グループ間で連携を取りながら提案営業の強化に取り組んでまいりました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 3,
+      "sentence": "当連結会計年度の業績は、売上高は48億14百万円（前年同期比19.2％増）となりましたが、新規事業や新会社譲受（M&A）に伴う減価償却費及びのれん償却の増加により、営業利益は１億58百万円（前年同期比16.4％増）、経常利益は１億63百万円（前年同期比16.4％増）にとどまりました",
+      "opinions": [
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 12,
+          "to": 15
+        },
+        {
+          "target": "減価償却費",
+          "category": "NULL#cost",
+          "polarity": "negative",
+          "from": 63,
+          "to": 68
+        },
+        {
+          "target": "のれん償却",
+          "category": "NULL#cost",
+          "polarity": "negative",
+          "from": 70,
+          "to": 75
+        },
+        {
+          "target": "営業利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 82,
+          "to": 86
+        },
+        {
+          "target": "経常利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 108,
+          "to": 112
+        }
+      ]
+    },
+    {
+      "sentence_id": 4,
+      "sentence": "これに、投資有価証券売却益15百万円、減損損失49百万円等の特別損益の計上及び税金費用等を加味した結果、親会社株主に帰属する当期純利益は54百万円（前年同期比77.3％減）となりました",
+      "opinions": [
+        {
+          "target": "当期純利益",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 62,
+          "to": 67
+        }
+      ]
+    },
+    {
+      "sentence_id": 5,
+      "sentence": "当連結会計年度におけるセグメントの業績は次のとおりです",
+      "opinions": []
+    },
+    {
+      "sentence_id": 6,
+      "sentence": "なお、当連結会計年度より、報告セグメントとして記載する事業セグメントを変更しており、当連結会計年度の比較・分析は、変更後の区分に基づいております",
+      "opinions": []
+    },
+    {
+      "sentence_id": 7,
+      "sentence": "当社グループの報告セグメントは、業績の評価、事業戦略の構築、経営資源の配分等を行ううえで重要性に基づいて決定しており、「情報処理事業」、「不動産事業」、「レンタカー事業」、「人材関連事業」の４つで構成されています",
+      "opinions": []
+    },
+    {
+      "sentence_id": 8,
+      "sentence": "当連結会計年度におけるセグメントの業績は、情報処理事業では売上高は38億62百万円（前年同期比0.7％減）、営業利益は２億42百万円（前年同期比47.9％増）、不動産事業では売上高は１億26百万円（前年同期比41.7％増）、営業利益は32百万円（前年同期比154.8％増）、レンタカー事業では売上高は１億４百万円（前年同期比790.9％増）、営業損失は61百万円（前年同期は営業損失28百万円）、人材関連事業では売上高は５億67百万円（前年同期比871.3％増）、営業損失は25百万円（前年同期は営業損失０百万円）となりました",
+      "opinions": [
+        {
+          "target": "情報処理事業",
+          "category": "business#sales",
+          "polarity": "negative",
+          "from": 21,
+          "to": 27
+        },
+        {
+          "target": "情報処理事業",
+          "category": "business#profit",
+          "polarity": "positive",
+          "from": 21,
+          "to": 27
+        },
+        {
+          "target": "不動産事業",
+          "category": "business#sales",
+          "polarity": "positive",
+          "from": 80,
+          "to": 85
+        },
+        {
+          "target": "不動産事業",
+          "category": "business#profit",
+          "polarity": "positive",
+          "from": 80,
+          "to": 85
+        },
+        {
+          "target": "レンタカー事業",
+          "category": "business#sales",
+          "polarity": "positive",
+          "from": 137,
+          "to": 144
+        },
+        {
+          "target": "レンタカー事業",
+          "category": "business#profit",
+          "polarity": "positive",
+          "from": 137,
+          "to": 144
+        },
+        {
+          "target": "人材関連事業",
+          "category": "business#sales",
+          "polarity": "positive",
+          "from": 198,
+          "to": 204
+        },
+        {
+          "target": "人材関連事業",
+          "category": "business#profit",
+          "polarity": "negative",
+          "from": 198,
+          "to": 204
+        }
+      ]
+    },
+    {
+      "sentence_id": 9,
+      "sentence": "これに、その他及び調整額を加味した結果、営業利益は上述のように１億58百万円（前年同期比16.4％増）となりました",
+      "opinions": [
+        {
+          "target": "営業利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 20,
+          "to": 24
+        }
+      ]
+    },
+    {
+      "sentence_id": 10,
+      "sentence": "なお、「レンタカー事業」は平成27年11月より営業を開始したため、平成27年11月１日～平成28年３月31日の業績を前連結会計年度の業績としております",
+      "opinions": []
+    },
+    {
+      "sentence_id": 11,
+      "sentence": "また、「人材関連事業」は平成28年３月に取得した事業であるため、平成28年３月１日～平成28年３月31日の業績を前連結会計年度の業績としております",
+      "opinions": []
+    }
+  ]
+}

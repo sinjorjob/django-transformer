@@ -1,0 +1,241 @@
+{
+  "header": {
+    "document_id": "E01151",
+    "document_name": "ニチアス株式会社",
+    "doc_text": "有価証券報告書",
+    "edi_id": "E01151",
+    "security_code": "53930",
+    "category33": "ガラス・土石製品",
+    "category17": "建設・資材",
+    "scale": "6"
+  },
+  "sentences": [
+    {
+      "sentence_id": 0,
+      "sentence": "当連結会計年度におけるわが国経済は、企業収益や雇用環境は改善基調で推移し、全体としては緩やかな景気回復が続きました",
+      "opinions": [
+        {
+          "target": "わが国経済",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 11,
+          "to": 16
+        },
+        {
+          "target": "企業収益",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 18,
+          "to": 22
+        },
+        {
+          "target": "雇用環境",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 23,
+          "to": 27
+        }
+      ]
+    },
+    {
+      "sentence_id": 1,
+      "sentence": "また、海外では米国が底堅く推移し、中国をはじめとする新興国では景気に持ち直しの動きが見られました",
+      "opinions": [
+        {
+          "target": "米国",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 7,
+          "to": 9
+        },
+        {
+          "target": "景気",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 31,
+          "to": 33
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "sentence": "このような状況の中、半導体製造装置向け製品の需要が高水準で推移した高機能製品部門と巻付け耐火被覆材をはじめとする非住宅部門の需要が堅調に推移した建材部門を中心に売上高が増加したため、当社グループの売上高は前連結会計年度に対し5.8％増の1,803億63百万円となりました",
+      "opinions": [
+        {
+          "target": "需要",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 22,
+          "to": 24
+        },
+        {
+          "target": "高機能製品部門",
+          "category": "business#sales",
+          "polarity": "positive",
+          "from": 33,
+          "to": 40
+        },
+        {
+          "target": "需要",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 62,
+          "to": 64
+        },
+        {
+          "target": "建材部門",
+          "category": "business#sales",
+          "polarity": "positive",
+          "from": 72,
+          "to": 76
+        },
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 98,
+          "to": 101
+        }
+      ]
+    },
+    {
+      "sentence_id": 3,
+      "sentence": "一方利益面では、営業利益が196億円、経常利益が197億56百万円、親会社株主に帰属する当期純利益が134億９百万円と前連結会計年度と比較し、それぞれ29.8％、27.6％、101.1％の増加となりました",
+      "opinions": [
+        {
+          "target": "営業利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 8,
+          "to": 12
+        },
+        {
+          "target": "経常利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 19,
+          "to": 23
+        },
+        {
+          "target": "当期純利益",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 44,
+          "to": 49
+        }
+      ]
+    },
+    {
+      "sentence_id": 4,
+      "sentence": "当連結会計年度のセグメント別売上高の状況は以下のとおりです",
+      "opinions": []
+    },
+    {
+      "sentence_id": 5,
+      "sentence": "プラント向け工事・販売については、メンテナンス需要を取り込んだ工事および販売部門が堅調に推移したため、売上高は前連結会計年度に対し1.9％増の524億44百万円となりました",
+      "opinions": [
+        {
+          "target": "プラント向け工事",
+          "category": "product#sales",
+          "polarity": "positive",
+          "from": 0,
+          "to": 8
+        },
+        {
+          "target": "販売",
+          "category": "product#sales",
+          "polarity": "positive",
+          "from": 9,
+          "to": 11
+        },
+        {
+          "target": "販売部門",
+          "category": "business#general",
+          "polarity": "positive",
+          "from": 36,
+          "to": 40
+        }
+      ]
+    },
+    {
+      "sentence_id": 6,
+      "sentence": "工業製品については、ふっ素樹脂製品、環境製品等の需要が堅調に推移したため、売上高は前連結会計年度に対し1.3％増の413億85百万円となりました",
+      "opinions": [
+        {
+          "target": "工業製品",
+          "category": "product#sales",
+          "polarity": "positive",
+          "from": 0,
+          "to": 4
+        },
+        {
+          "target": "需要",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 24,
+          "to": 26
+        }
+      ]
+    },
+    {
+      "sentence_id": 7,
+      "sentence": "高機能製品については、半導体・液晶製造装置向け関連製品の需要が高水準で推移したため、売上高は前連結会計年度に対し25.5％増の194億58百万円となりました",
+      "opinions": [
+        {
+          "target": "高機能製品",
+          "category": "product#sales",
+          "polarity": "positive",
+          "from": 0,
+          "to": 5
+        },
+        {
+          "target": "需要",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 28,
+          "to": 30
+        }
+      ]
+    },
+    {
+      "sentence_id": 8,
+      "sentence": "自動車部品については、北米を中心に海外需要が堅調に推移したため、売上高は前連結会計年度に対し6.4％増の378億３百万円となりました",
+      "opinions": [
+        {
+          "target": "自動車部品",
+          "category": "product#sales",
+          "polarity": "positive",
+          "from": 0,
+          "to": 5
+        },
+        {
+          "target": "海外需要",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 17,
+          "to": 21
+        }
+      ]
+    },
+    {
+      "sentence_id": 9,
+      "sentence": "建材については、巻付け耐火被覆材の需要が増加したことに加えフロアの大型物件の完成計上が寄与し、売上高は前連結会計年度に対し8.0％増の292億71百万円となりました",
+      "opinions": [
+        {
+          "target": "建材",
+          "category": "product#sales",
+          "polarity": "positive",
+          "from": 0,
+          "to": 2
+        },
+        {
+          "target": "需要",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 17,
+          "to": 19
+        }
+      ]
+    }
+  ]
+}

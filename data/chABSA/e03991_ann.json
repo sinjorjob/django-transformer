@@ -1,0 +1,242 @@
+{
+  "header": {
+    "document_id": "E03991",
+    "document_name": "株式会社エムジーホーム",
+    "doc_text": "訂正有価証券報告書",
+    "edi_id": "E03991",
+    "security_code": "88910",
+    "category33": "不動産業",
+    "category17": "不動産",
+    "scale": ""
+  },
+  "sentences": [
+    {
+      "sentence_id": 0,
+      "sentence": "①当期の経営成績の概況",
+      "opinions": []
+    },
+    {
+      "sentence_id": 1,
+      "sentence": "当連結会計年度における我が国経済は、政府の景気対策等の効果もあり緩やかな景気回復基調で推移しております",
+      "opinions": [
+        {
+          "target": "我が国経済",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 11,
+          "to": 16
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "sentence": "一方で米国の新政権誕生、EUの離脱問題、中国をはじめとする新興国の減速懸念など先行き不透明な状況が続いております",
+      "opinions": []
+    },
+    {
+      "sentence_id": 3,
+      "sentence": "この様な経済状況のもとで、当連結会計年度における業績は、売上高6,965百万円（前年同期は6,352百万円）、営業利益514百万円（前年同期は286百万円）、経常利益502百万円（前年同期は277百万円）、親会社株主に帰属する当期純利益409百万円（前年同期は232百万円）となり、親会社株主に帰属する当期純利益につきまして過去最高となりました",
+      "opinions": [
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 28,
+          "to": 31
+        },
+        {
+          "target": "営業利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 55,
+          "to": 59
+        },
+        {
+          "target": "経常利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 79,
+          "to": 83
+        },
+        {
+          "target": "当期純利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 113,
+          "to": 118
+        }
+      ]
+    },
+    {
+      "sentence_id": 4,
+      "sentence": "②事業の種類別セグメントの業績概要",
+      "opinions": []
+    },
+    {
+      "sentence_id": 5,
+      "sentence": "当社は、平成27年８月１日付でエムジー総合サービス株式会社（以下「総合サービス」という",
+      "opinions": []
+    },
+    {
+      "sentence_id": 6,
+      "sentence": "）の発行済株式の80％を取得し、当社の子会社といたしました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 7,
+      "sentence": "総合サービスは当社のモアグレースマンション及びその他の不動産の管理事業を行っており、これらを「不動産管理事業」とし、報告セグメントを従来の「分譲マンション事業」、「賃貸事業」及び「注文建築事業」の３区分から、「分譲マンション事業」、「賃貸事業」、「注文建築事業」及び「不動産管理事業」の４区分に変更しております",
+      "opinions": []
+    },
+    {
+      "sentence_id": 8,
+      "sentence": "そのため「不動産管理事業」につきましては前期比較をしておりません",
+      "opinions": []
+    },
+    {
+      "sentence_id": 9,
+      "sentence": "（分譲マンション事業）",
+      "opinions": []
+    },
+    {
+      "sentence_id": 10,
+      "sentence": "マンション業界は、マイナス金利政策の導入や住宅取得税制の維持により、需要は堅調に推移しておりますが、一方で建築資材及び工事労務費の高止まり、プロジェクト用地の仕入価格の高騰の影響を受け、販売価格が高騰し難しい局面を迎えております",
+      "opinions": [
+        {
+          "target": "需要",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 34,
+          "to": 36
+        },
+        {
+          "target": "建築資材",
+          "category": "NULL#cost",
+          "polarity": "negative",
+          "from": 53,
+          "to": 57
+        },
+        {
+          "target": "工事労務費",
+          "category": "NULL#cost",
+          "polarity": "negative",
+          "from": 59,
+          "to": 64
+        },
+        {
+          "target": "仕入価格",
+          "category": "NULL#cost",
+          "polarity": "negative",
+          "from": 79,
+          "to": 83
+        },
+        {
+          "target": "販売価格",
+          "category": "NULL#price",
+          "polarity": "positive",
+          "from": 93,
+          "to": 97
+        }
+      ]
+    },
+    {
+      "sentence_id": 11,
+      "sentence": "そのような環境の下、当期は上期完成物件２棟55戸、下期完成物件３棟90戸及び来期完成予定物件３棟128戸を発売し、前期末未契約物件１戸と合わせ204戸（前年同期の契約戸数は132戸）を成約し、146戸を引き渡しいたしました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 12,
+      "sentence": "この結果、売上高4,642百万円（前年同期は3,578百万円）、セグメント利益（営業利益）594百万円（前年同期は391百万円のセグメント利益）となっております",
+      "opinions": [
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 5,
+          "to": 8
+        },
+        {
+          "target": "セグメント利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 32,
+          "to": 39
+        }
+      ]
+    },
+    {
+      "sentence_id": 13,
+      "sentence": "（注文建築事業）",
+      "opinions": []
+    },
+    {
+      "sentence_id": 14,
+      "sentence": "注文建築事業につきましては、新築12棟及び大規模改修等28件の引渡しを行っております",
+      "opinions": []
+    },
+    {
+      "sentence_id": 15,
+      "sentence": "また、引渡し済み物件を含め、13件の工事について工事進行基準に基づき、売上を計上いたしました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 16,
+      "sentence": "以上より、売上高1,819百万円（前年同期は2,262百万円）、セグメント利益（営業利益）は132百万円（前年同期は149百万円のセグメント利益）となっております",
+      "opinions": [
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "negative",
+          "from": 5,
+          "to": 8
+        },
+        {
+          "target": "セグメント利益",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 32,
+          "to": 39
+        }
+      ]
+    },
+    {
+      "sentence_id": 17,
+      "sentence": "(不動産管理事業）",
+      "opinions": []
+    },
+    {
+      "sentence_id": 18,
+      "sentence": "不動産管理事業につきましては、分譲マンション204棟5,013戸の管理及び、賃貸物件の退去に伴うリフォーム268戸、マンションの大規模修繕のコンサルタント14件などにより、セグメント売上高436百万円、セグメント利益(営業利益）74百万円となっております",
+      "opinions": []
+    },
+    {
+      "sentence_id": 19,
+      "sentence": "（賃貸事業）",
+      "opinions": []
+    },
+    {
+      "sentence_id": 20,
+      "sentence": "賃貸事業につきましては、当社にて16戸のマンション、株式会社アーキッシュギャラリーにおいて４戸のマンションと１棟の戸建、エムジー総合サービス株式会社において土地１筆を事業に供しております",
+      "opinions": []
+    },
+    {
+      "sentence_id": 21,
+      "sentence": "その結果、売上高52百万円（前年同期は50百万円）、セグメント利益（営業利益）は22百万円（前年同期は30百万円）となっております",
+      "opinions": [
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 5,
+          "to": 8
+        },
+        {
+          "target": "セグメント利益",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 26,
+          "to": 33
+        }
+      ]
+    }
+  ]
+}

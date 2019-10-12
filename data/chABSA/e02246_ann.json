@@ -1,0 +1,293 @@
+{
+  "header": {
+    "document_id": "E02246",
+    "document_name": "株式会社ファルテック",
+    "doc_text": "有価証券報告書",
+    "edi_id": "E02246",
+    "security_code": "72150",
+    "category33": "輸送用機器",
+    "category17": "自動車・輸送機",
+    "scale": "7"
+  },
+  "sentences": [
+    {
+      "sentence_id": 0,
+      "sentence": "(1）概況",
+      "opinions": []
+    },
+    {
+      "sentence_id": 1,
+      "sentence": "当社グループを取り巻く経営環境として、中国を中心とした新興国経済の減速、英国のＥＵ離脱決定や米国の大統領選挙結果の影響等により為替は乱高下し、依然として先行き不透明な状況で推移しました",
+      "opinions": [
+        {
+          "target": "経営環境",
+          "category": "NULL#general",
+          "polarity": "neutral",
+          "from": 11,
+          "to": 15
+        },
+        {
+          "target": "新興国経済",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 27,
+          "to": 32
+        },
+        {
+          "target": "為替",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 63,
+          "to": 65
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "sentence": "また国内の景気は緩やかに回復基調にあり、当社の属する自動車業界の概況は国内四輪車生産台数及び販売台数共に前年を若干上回る結果となりました",
+      "opinions": [
+        {
+          "target": "景気",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 5,
+          "to": 7
+        },
+        {
+          "target": "国内四輪車生産台数",
+          "category": "NULL#amount",
+          "polarity": "positive",
+          "from": 35,
+          "to": 44
+        },
+        {
+          "target": "販売台数",
+          "category": "NULL#amount",
+          "polarity": "positive",
+          "from": 46,
+          "to": 50
+        }
+      ]
+    },
+    {
+      "sentence_id": 3,
+      "sentence": "このような情勢の中、当連結会計年度の売上高は、国内における売上高増があったものの海外子会社における円高による為替換算の影響等により、83,551百万円（前連結会計年度比0.7％減）となりました",
+      "opinions": [
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "negative",
+          "from": 18,
+          "to": 21
+        },
+        {
+          "target": "国内",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 23,
+          "to": 25
+        }
+      ]
+    },
+    {
+      "sentence_id": 4,
+      "sentence": "営業利益は、アジアセグメントでの大幅な収益向上があったものの、日本セグメントにおける新車準備費用増等の影響や英国子会社の新車立上げ費用増並びに生産安定化に向けた対策費用、安全衛生対策費用が増加したこと等により2,232百万円（同30.7％減）となりました",
+      "opinions": [
+        {
+          "target": "営業利益",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 0,
+          "to": 4
+        },
+        {
+          "target": "アジアセグメント",
+          "category": "business#sales",
+          "polarity": "positive",
+          "from": 6,
+          "to": 14
+        },
+        {
+          "target": "日本セグメント",
+          "category": "business#cost",
+          "polarity": "negative",
+          "from": 31,
+          "to": 38
+        }
+      ]
+    },
+    {
+      "sentence_id": 5,
+      "sentence": "経常利益は営業利益減等の影響により2,066百万円（同28.1％減）、親会社株主に帰属する当期純利益は、特別利益として138百万円の補助金収入を計上、特別損失として英国子会社等での減損損失370百万円やレジオネラ菌(※1)発生に伴う課徴金引当金繰入額82百万円等の486百万円を計上、また法人税等として629百万円を計上し、881百万円（同13.8％減）となりました",
+      "opinions": [
+        {
+          "target": "経常利益",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 0,
+          "to": 4
+        },
+        {
+          "target": "当期純利益",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 45,
+          "to": 50
+        }
+      ]
+    },
+    {
+      "sentence_id": 6,
+      "sentence": "※1　レジオネラ菌：土壌や河川など自然界に生息する「細菌」の一種",
+      "opinions": []
+    },
+    {
+      "sentence_id": 7,
+      "sentence": "空調設備の冷却水、給湯器の水などに発生し人体に感染する",
+      "opinions": []
+    },
+    {
+      "sentence_id": 8,
+      "sentence": "可能性があります",
+      "opinions": []
+    },
+    {
+      "sentence_id": 9,
+      "sentence": "感染すると高熱、咳、頭痛、筋肉痛等の症状を引き起こします",
+      "opinions": []
+    },
+    {
+      "sentence_id": 10,
+      "sentence": "セグメントの業績は次のとおりであります",
+      "opinions": []
+    },
+    {
+      "sentence_id": 11,
+      "sentence": "（日本）",
+      "opinions": []
+    },
+    {
+      "sentence_id": 12,
+      "sentence": "売上高（セグメント間売上高を含まない）は、自動車外装部品類において主要取引先の下半期拡販に伴う納入増があったことや自動車整備・車検機器類の納入増等により、61,993百万円（前連結会計年度比1.6％増）となりました",
+      "opinions": [
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 0,
+          "to": 3
+        },
+        {
+          "target": "自動車外装部品類",
+          "category": "product#amount",
+          "polarity": "positive",
+          "from": 21,
+          "to": 29
+        },
+        {
+          "target": "自動車整備",
+          "category": "product#amount",
+          "polarity": "positive",
+          "from": 57,
+          "to": 62
+        },
+        {
+          "target": "車検機器類",
+          "category": "product#amount",
+          "polarity": "positive",
+          "from": 63,
+          "to": 68
+        }
+      ]
+    },
+    {
+      "sentence_id": 13,
+      "sentence": "セグメント利益は、モデルチェンジに伴う新車準備費用増等の影響等により1,826百万円（同25.4％減）とな\nりました",
+      "opinions": [
+        {
+          "target": "セグメント利益",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 0,
+          "to": 7
+        }
+      ]
+    },
+    {
+      "sentence_id": 14,
+      "sentence": "（アジア）",
+      "opinions": []
+    },
+    {
+      "sentence_id": 15,
+      "sentence": "売上高（セグメント間売上高を含まない）は、円高による為替換算の影響等により11,155百万円（前連結会計年度比4.9％減）となりました",
+      "opinions": [
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "negative",
+          "from": 0,
+          "to": 3
+        }
+      ]
+    },
+    {
+      "sentence_id": 16,
+      "sentence": "セグメント利益は、グローバル標準の浸透に伴う合理化促進効果等により1,076百万円（同109.7％増）となり\nました",
+      "opinions": [
+        {
+          "target": "セグメント利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 0,
+          "to": 7
+        }
+      ]
+    },
+    {
+      "sentence_id": 17,
+      "sentence": "（北米他）",
+      "opinions": []
+    },
+    {
+      "sentence_id": 18,
+      "sentence": "売上高（セグメント間売上高を含まない）は、円高による為替換算の影響等により10,402百万円（前連結会計年度比8.9％減）となりました",
+      "opinions": [
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "negative",
+          "from": 0,
+          "to": 3
+        }
+      ]
+    },
+    {
+      "sentence_id": 19,
+      "sentence": "セグメント損失は、英国子会社の新車立上げ費用増並びに生産安定化に向けた対策費用や安全衛生対策費用が増加したこと等により670百万円（前連結会計年度は222百万円のセグメント利益）となりました",
+      "opinions": [
+        {
+          "target": "セグメント損失",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 0,
+          "to": 7
+        },
+        {
+          "target": "対策費用",
+          "category": "NULL#cost",
+          "polarity": "negative",
+          "from": 35,
+          "to": 39
+        },
+        {
+          "target": "安全衛生対策費用",
+          "category": "NULL#cost",
+          "polarity": "negative",
+          "from": 40,
+          "to": 48
+        }
+      ]
+    }
+  ]
+}

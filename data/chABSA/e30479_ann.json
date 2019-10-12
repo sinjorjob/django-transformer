@@ -1,0 +1,368 @@
+{
+  "header": {
+    "document_id": "E30479",
+    "document_name": "トレックス・セミコンダクター株式会社",
+    "doc_text": "有価証券報告書",
+    "edi_id": "E30479",
+    "security_code": "66160",
+    "category33": "電気機器",
+    "category17": "電機・精密",
+    "scale": ""
+  },
+  "sentences": [
+    {
+      "sentence_id": 0,
+      "sentence": "当連結会計年度における世界経済は、英国の欧州連合離脱決定や難民問題が影響した欧州経済は力強さが見られず、中国、インド等の新興国経済については鈍化状態が続いたものの、米国経済は労働市場や個人消費の改善が下支えとなり、全体としては緩やかな成長となりました",
+      "opinions": [
+        {
+          "target": "欧州経済",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 38,
+          "to": 42
+        },
+        {
+          "target": "新興国経済",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 60,
+          "to": 65
+        },
+        {
+          "target": "米国経済",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 82,
+          "to": 86
+        },
+        {
+          "target": "労働市場",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 87,
+          "to": 91
+        },
+        {
+          "target": "個人消費",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 92,
+          "to": 96
+        }
+      ]
+    },
+    {
+      "sentence_id": 1,
+      "sentence": "わが国経済においては、雇用や所得環境の改善にもかかわらず個人消費の低迷が続き、金融・財政政策も明確な効果を発揮するには至っておらず、更に、米国新政権の不透明な経済政策も重なり、景気は先行きに不透明感が残りました",
+      "opinions": [
+        {
+          "target": "雇用",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 11,
+          "to": 13
+        },
+        {
+          "target": "所得環境",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 14,
+          "to": 18
+        },
+        {
+          "target": "個人消費",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 28,
+          "to": 32
+        },
+        {
+          "target": "経済政策",
+          "category": "NULL#general",
+          "polarity": "neutral",
+          "from": 79,
+          "to": 83
+        },
+        {
+          "target": "先行き",
+          "category": "NULL#general",
+          "polarity": "neutral",
+          "from": 91,
+          "to": 94
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "sentence": "このような環境のなかで、当社グループは、「市場に適応した価値ある製品を創出し、豊かな社会の実現と地球環境の保全に貢献する」という経営理念のもと、電気機器の小型化・省電力化に「電源」の観点から取り組み、収益力の強化と持続的な成長の実現に向けて、以下の諸施策を継続的に推進してまいりました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 3,
+      "sentence": "・関西技術センターの開設をはじめとした開発リソースの拡充に向けた投資を実施し、戦略的提携先との共同開発を進める等、差別化の出来る高付加価値な製品を迅速にターゲット市場へ投入していくための施策を推進しました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 4,
+      "sentence": "・製品企画段階からのコスト分析の徹底、生産計画の効率化を進めるとともに、グループ内の製造子会社との協力体制を深め、同業他社に比して競争力のある製造コストと納期対応の実現に取り組みました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 5,
+      "sentence": "・米国デザインセンターの開設や海外販売子会社における営業・技術サポート担当者の充実を図り、顧客の要望や製品企画への迅速な対応に努めました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 6,
+      "sentence": "・品質保証部門における増員及び設備投資を実施するとともに、協力工場等との一層の関係強化を進め、ターゲット市場を意識した品質保証体制と各種認証制度への対応を図りました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 7,
+      "sentence": "・子会社化したフェニテックセミコンダクター株式会社とのシナジー効果を高め、グループ収益の最大化につなげるため、相互の人的交流や共同プロジェクトを推進しました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 8,
+      "sentence": "以上の結果、当連結会計年度の売上高は、フェニテックセミコンダクター株式会社を連結に取り込んだことにより、215億59百万円（前年同期比103.0％増）となりました",
+      "opinions": [
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 14,
+          "to": 17
+        }
+      ]
+    },
+    {
+      "sentence_id": 9,
+      "sentence": "販売費及び一般管理費が前年度に比べて増加しましたが、フェニテックセミコンダクター株式会社を連結に取り込んだことによる売上総利益の増加もあったことにより、営業利益は増加し12億51百万円（前年同期比9.8％増）、為替差損等の発生により経常利益は9億5百万円（前年同期比6.7％減）、親会社株主に帰属する当期純利益は29億30百万円（前年同期比404.9％増）となりました",
+      "opinions": [
+        {
+          "target": "販売費及び一般管理費",
+          "category": "NULL#cost",
+          "polarity": "negative",
+          "from": 0,
+          "to": 10
+        },
+        {
+          "target": "売上総利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 58,
+          "to": 63
+        },
+        {
+          "target": "営業利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 76,
+          "to": 80
+        },
+        {
+          "target": "経常利益",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 116,
+          "to": 120
+        },
+        {
+          "target": "当期純利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 150,
+          "to": 155
+        }
+      ]
+    },
+    {
+      "sentence_id": 10,
+      "sentence": "（製品別の売上高）　　　　　　　　　　　　　　　　　　　　　　        　　　　　　　（単位：百万円）",
+      "opinions": []
+    },
+    {
+      "sentence_id": 11,
+      "sentence": "（注）１．製品の内容は次のとおりであります",
+      "opinions": []
+    },
+    {
+      "sentence_id": 12,
+      "sentence": "ＶＤ………………ディテクタ(Voltage Ditector)",
+      "opinions": []
+    },
+    {
+      "sentence_id": 13,
+      "sentence": "ＶＲ………………レギュレータ(Voltage Regulator)",
+      "opinions": []
+    },
+    {
+      "sentence_id": 14,
+      "sentence": "ＤＣＤＣ…………ＤＣ／ＤＣコンバータ",
+      "opinions": []
+    },
+    {
+      "sentence_id": 15,
+      "sentence": "ディスクリート…トランジスタ、ダイオード、ＩＧＢＴ等",
+      "opinions": []
+    },
+    {
+      "sentence_id": 16,
+      "sentence": "その他……………マルチチップモジュール、各種センサー製品等",
+      "opinions": []
+    },
+    {
+      "sentence_id": 17,
+      "sentence": "２．当連結会計年度より、製品区分を見直しております",
+      "opinions": []
+    },
+    {
+      "sentence_id": 18,
+      "sentence": "主な変更点は、従来「その他」に含まれていた「ディスクリート」を新たな区分として分けて表示したことです",
+      "opinions": []
+    },
+    {
+      "sentence_id": 19,
+      "sentence": "前連結会計年度の数値についても見直し後の製品区分により比較しております",
+      "opinions": []
+    },
+    {
+      "sentence_id": 20,
+      "sentence": "セグメントの業績は、次のとおりであります",
+      "opinions": []
+    },
+    {
+      "sentence_id": 21,
+      "sentence": "①日本",
+      "opinions": []
+    },
+    {
+      "sentence_id": 22,
+      "sentence": "当連結会計年度は、主に産業機器、車載機器等の分野向けの売上が増加したこと、フェニテックセミコンダクター株式会社をセグメントに含めていることにより、売上高146億10百万円（前年同期比368.3％増）、セグメント利益10億77百万円（前年同期比2.5％減）となりました",
+      "opinions": [
+        {
+          "target": "分野向け",
+          "category": "product#sales",
+          "polarity": "positive",
+          "from": 22,
+          "to": 26
+        },
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 73,
+          "to": 76
+        },
+        {
+          "target": "セグメント利益",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 100,
+          "to": 107
+        }
+      ]
+    },
+    {
+      "sentence_id": 23,
+      "sentence": "なお、フェニテックセミコンダクター株式会社を含めていることによる売上高の増加額は113億78百万円となっております",
+      "opinions": []
+    },
+    {
+      "sentence_id": 24,
+      "sentence": "②アジア",
+      "opinions": []
+    },
+    {
+      "sentence_id": 25,
+      "sentence": "当連結会計年度は、主にデジタル家電機器、ウェアラブル機器等の分野向けの売上が増加した一方、PC機器等の分野向けの売上が低迷し、更に為替換算等の影響が出たことにより、売上高55億51百万円（前年同期比8.1％減）、セグメント利益1億29百万円（前年同期はセグメント利益604千円）となりました",
+      "opinions": [
+        {
+          "target": "分野向け",
+          "category": "product#sales",
+          "polarity": "positive",
+          "from": 30,
+          "to": 34
+        },
+        {
+          "target": "分野向け",
+          "category": "product#sales",
+          "polarity": "negative",
+          "from": 51,
+          "to": 55
+        },
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "negative",
+          "from": 82,
+          "to": 85
+        },
+        {
+          "target": "セグメント利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 106,
+          "to": 113
+        }
+      ]
+    },
+    {
+      "sentence_id": 26,
+      "sentence": "③欧州",
+      "opinions": []
+    },
+    {
+      "sentence_id": 27,
+      "sentence": "当連結会計年度は、主に産業機器等の分野向けの売上が増加しましたが、為替換算等の影響が出たことにより、売上高8億9百万円（前年同期比4.1％減）、セグメント利益41百万円（前年同期比23.5％減）となりました",
+      "opinions": [
+        {
+          "target": "分野向け",
+          "category": "product#sales",
+          "polarity": "positive",
+          "from": 17,
+          "to": 21
+        }
+      ]
+    },
+    {
+      "sentence_id": 28,
+      "sentence": "④北米",
+      "opinions": []
+    },
+    {
+      "sentence_id": 29,
+      "sentence": "当連結会計年度は、主に産業機器等の分野向けの売上が増加した一方、家電機器等の分野向けの売上が低迷し、更に為替換算等の影響が出たことにより、売上高5億88百万円（前年同期比4.4％減）、セグメント利益17百万円（前年同期はセグメント損失43百万円）となりました",
+      "opinions": [
+        {
+          "target": "分野向け",
+          "category": "product#sales",
+          "polarity": "positive",
+          "from": 17,
+          "to": 21
+        },
+        {
+          "target": "分野向け",
+          "category": "product#sales",
+          "polarity": "negative",
+          "from": 38,
+          "to": 42
+        },
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "negative",
+          "from": 69,
+          "to": 72
+        },
+        {
+          "target": "セグメント利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 92,
+          "to": 99
+        }
+      ]
+    }
+  ]
+}

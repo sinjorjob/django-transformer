@@ -1,0 +1,319 @@
+{
+  "header": {
+    "document_id": "E00184",
+    "document_name": "西部電気工業株式会社",
+    "doc_text": "有価証券報告書",
+    "edi_id": "E00184",
+    "security_code": "19370",
+    "category33": "建設業",
+    "category17": "建設・資材",
+    "scale": "7"
+  },
+  "sentences": [
+    {
+      "sentence_id": 0,
+      "sentence": "国内経済は、個人消費や設備投資で一部遅れはあったものの、雇用情勢及び企業収益の改善等により、緩やかな回復基調で推移するとともに、九州・沖縄における経済状況も、被災地における挽回生産の継続や消費者マインドの改善等に伴い、緩やかに回復してきています",
+      "opinions": [
+        {
+          "target": "国内経済",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 0,
+          "to": 4
+        },
+        {
+          "target": "個人消費",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 6,
+          "to": 10
+        },
+        {
+          "target": "設備投資",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 11,
+          "to": 15
+        },
+        {
+          "target": "雇用情勢",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 28,
+          "to": 32
+        },
+        {
+          "target": "企業収益",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 34,
+          "to": 38
+        },
+        {
+          "target": "経済状況",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 73,
+          "to": 77
+        },
+        {
+          "target": "消費者マインド",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 94,
+          "to": 101
+        }
+      ]
+    },
+    {
+      "sentence_id": 1,
+      "sentence": "当社グループの主要な事業領域であります情報通信分野におきましては、光アクセス等の固定系通信工事が減少する一方、光コラボレーションモデルによる新たなサービスの普及、クラウドサービス、ＩｏＴの急速な拡大等が着実に図られてきており、情報通信分野以外の公共・民需系分野におきましても、国土強靭化施策の推進や設備の老朽化対策に伴う社会インフラ投資の拡大等が期待されております",
+      "opinions": [
+        {
+          "target": "固定系通信工事",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 40,
+          "to": 47
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "sentence": "こうした状況の中、当社グループは「収益構造の変革による経営基盤の確立」及び「安定配当＋業績連動配当の実施」を経営方針とする中期経営計画を昨年５月に策定・公表し、その実現に向けて、コンプライアンスの徹底及び安全の確保と品質の向上等による企業力の強化をベースに、既存事業での収益確保と新たなビジネスの展開、システム化やＫＡＩＺＥＮ活動の推進等による徹底した効率化と生産性の向上、グループ各社相互間の連携強化によるグループ経営の推進等に努めてまいりました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 3,
+      "sentence": "当連結会計年度の業績につきましては、受注高は、情報通信工事業及び設備工事等の増加と新規連結によるその他の事業が順調に推移したことにより、534億９千８百万円（前期比4.6％増）となり、完成工事高は、その他の事業は増加しましたが、情報通信工事業における前期繰越工事や社会インフラ関連工事の減少等により、504億３千８百万円（前期比2.0％減）となりました",
+      "opinions": [
+        {
+          "target": "受注高",
+          "category": "NULL#amount",
+          "polarity": "positive",
+          "from": 18,
+          "to": 21
+        },
+        {
+          "target": "情報通信工事業",
+          "category": "business#amount",
+          "polarity": "positive",
+          "from": 23,
+          "to": 30
+        },
+        {
+          "target": "設備工事",
+          "category": "product#amount",
+          "polarity": "positive",
+          "from": 32,
+          "to": 36
+        },
+        {
+          "target": "事業",
+          "category": "business#general",
+          "polarity": "positive",
+          "from": 52,
+          "to": 54
+        },
+        {
+          "target": "完成工事高",
+          "category": "NULL#sales",
+          "polarity": "negative",
+          "from": 92,
+          "to": 97
+        },
+        {
+          "target": "事業",
+          "category": "business#amount",
+          "polarity": "positive",
+          "from": 103,
+          "to": 105
+        },
+        {
+          "target": "前期繰越工事",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 125,
+          "to": 131
+        },
+        {
+          "target": "社会インフラ関連工事",
+          "category": "product#amount",
+          "polarity": "negative",
+          "from": 132,
+          "to": 142
+        }
+      ]
+    },
+    {
+      "sentence_id": 4,
+      "sentence": "損益につきましては、完成工事高は減少したものの、工事原価率の改善等により営業利益は11億２百万円（前期比189.5％増）、経常利益は13億８千３百万円（前期比114.9％増）、親会社株主に帰属する当期純利益は８億３百万円（前期比211.7％増）となりました",
+      "opinions": [
+        {
+          "target": "完成工事高",
+          "category": "NULL#sales",
+          "polarity": "negative",
+          "from": 10,
+          "to": 15
+        },
+        {
+          "target": "工事原価率",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 24,
+          "to": 29
+        },
+        {
+          "target": "営業利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 36,
+          "to": 40
+        },
+        {
+          "target": "経常利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 61,
+          "to": 65
+        },
+        {
+          "target": "当期純利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 98,
+          "to": 103
+        }
+      ]
+    },
+    {
+      "sentence_id": 5,
+      "sentence": "セグメントの業績を示すと、次のとおりであります",
+      "opinions": []
+    },
+    {
+      "sentence_id": 6,
+      "sentence": "① 情報通信工事業",
+      "opinions": []
+    },
+    {
+      "sentence_id": 7,
+      "sentence": "通信設備の健全化工事、台風・豪雨災害の復旧工事、保守業務及び移動体の基地局建設工事等の受注は増加しましたが、光コラボレーションモデル等の需要変動による光開通工事、社会インフラ整備工事などの完成工事高が減少したことにより、受注高は394億１千６百万円（前期比2.8％増）、完成工事高は372億９千５百万円（前期比4.0％減）となりました",
+      "opinions": [
+        {
+          "target": "健全化工事",
+          "category": "product#amount",
+          "polarity": "positive",
+          "from": 5,
+          "to": 10
+        },
+        {
+          "target": "復旧工事",
+          "category": "product#amount",
+          "polarity": "positive",
+          "from": 19,
+          "to": 23
+        },
+        {
+          "target": "保守業務",
+          "category": "product#amount",
+          "polarity": "positive",
+          "from": 24,
+          "to": 28
+        },
+        {
+          "target": "基地局建設工事",
+          "category": "product#amount",
+          "polarity": "positive",
+          "from": 34,
+          "to": 41
+        },
+        {
+          "target": "光開通工事",
+          "category": "product#sales",
+          "polarity": "negative",
+          "from": 75,
+          "to": 80
+        },
+        {
+          "target": "社会インフラ整備工事",
+          "category": "product#sales",
+          "polarity": "negative",
+          "from": 81,
+          "to": 91
+        },
+        {
+          "target": "受注高",
+          "category": "NULL#amount",
+          "polarity": "positive",
+          "from": 110,
+          "to": 113
+        },
+        {
+          "target": "完成工事高",
+          "category": "NULL#sales",
+          "polarity": "negative",
+          "from": 135,
+          "to": 140
+        }
+      ]
+    },
+    {
+      "sentence_id": 8,
+      "sentence": "② ソリューション事業",
+      "opinions": []
+    },
+    {
+      "sentence_id": 9,
+      "sentence": "熊本地震などにより上期の受注は遅れましたが、受注高は63億３千７百万円（前期比0.8％増）、完成工事高は59億９千７百万円（前期比4.4％減）となりました",
+      "opinions": [
+        {
+          "target": "受注",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 12,
+          "to": 14
+        },
+        {
+          "target": "受注高",
+          "category": "NULL#amount",
+          "polarity": "positive",
+          "from": 22,
+          "to": 25
+        },
+        {
+          "target": "完成工事高",
+          "category": "NULL#sales",
+          "polarity": "negative",
+          "from": 46,
+          "to": 51
+        }
+      ]
+    },
+    {
+      "sentence_id": 10,
+      "sentence": "③ その他",
+      "opinions": []
+    },
+    {
+      "sentence_id": 11,
+      "sentence": "熊本地震の復旧工事や太陽光の大型案件の受注などにより、受注高は77億４千５百万円（前期比18.6％増）、完成工事高は71億４千５百万円（前期比12.7％増）となりました",
+      "opinions": [
+        {
+          "target": "受注高",
+          "category": "NULL#amount",
+          "polarity": "positive",
+          "from": 27,
+          "to": 30
+        },
+        {
+          "target": "完成工事高",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 52,
+          "to": 57
+        }
+      ]
+    }
+  ]
+}

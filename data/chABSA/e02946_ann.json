@@ -1,0 +1,317 @@
+{
+  "header": {
+    "document_id": "E02946",
+    "document_name": "株式会社トーメンデバイス",
+    "doc_text": "有価証券報告書",
+    "edi_id": "E02946",
+    "security_code": "27370",
+    "category33": "卸売業",
+    "category17": "商社・卸売",
+    "scale": "7"
+  },
+  "sentences": [
+    {
+      "sentence_id": 0,
+      "sentence": "当連結会計年度におけるわが国経済は、緩やかな景気の回復基調が続いております",
+      "opinions": [
+        {
+          "target": "わが国経済",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 11,
+          "to": 16
+        }
+      ]
+    },
+    {
+      "sentence_id": 1,
+      "sentence": "企業では、収益環境の改善が持続しており、雇用所得環境も改善が続いております",
+      "opinions": [
+        {
+          "target": "収益環境",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 5,
+          "to": 9
+        },
+        {
+          "target": "雇用所得環境",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 20,
+          "to": 26
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "sentence": "個人消費は力強さに欠けるものの、緩やかな回復傾向が続いております",
+      "opinions": [
+        {
+          "target": "個人消費",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 0,
+          "to": 4
+        }
+      ]
+    },
+    {
+      "sentence_id": 3,
+      "sentence": "また海外経済は、米国の雇用環境が改善している一方で、新政権における経済政策の動向、中国をはじめとする新興国経済の減速、英国のEU離脱問題などにより、引き続き先行き不透明な状況が続いております",
+      "opinions": [
+        {
+          "target": "海外経済",
+          "category": "NULL#general",
+          "polarity": "neutral",
+          "from": 2,
+          "to": 6
+        },
+        {
+          "target": "雇用環境",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 11,
+          "to": 15
+        },
+        {
+          "target": "新興国経済",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 50,
+          "to": 55
+        }
+      ]
+    },
+    {
+      "sentence_id": 4,
+      "sentence": "エレクトロニクス業界におきましては、デジタルカメラ、PC、レコーダー、テレビ等、スマートフォン以外のデジタル家電需要が低調気味であるものの、車載や産業機械向けなど電子部品・デバイス類の用途が拡大していることを背景に、昨年後半から世界の半導体出荷額は急増しております",
+      "opinions": [
+        {
+          "target": "デジタル家電需要",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 50,
+          "to": 58
+        },
+        {
+          "target": "用途",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 92,
+          "to": 94
+        },
+        {
+          "target": "半導体出荷額",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 117,
+          "to": 123
+        }
+      ]
+    },
+    {
+      "sentence_id": 5,
+      "sentence": "その一方、DRAM及びNAND FLASHはタイト感が強まり、価格も上昇し、物量の確保が困難な状況が続いております",
+      "opinions": [
+        {
+          "target": "DRAM",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 5,
+          "to": 9
+        },
+        {
+          "target": "NAND FLASH",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 11,
+          "to": 21
+        },
+        {
+          "target": "価格",
+          "category": "NULL#cost",
+          "polarity": "negative",
+          "from": 31,
+          "to": 33
+        },
+        {
+          "target": "確保",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 41,
+          "to": 43
+        }
+      ]
+    },
+    {
+      "sentence_id": 6,
+      "sentence": "このような状況下、当社グループは、物量の確保に努め、国内ではSSD、中国市場ではスマートフォン向けにCIS（CMOSイメージセンサ）の販売に注力いたしました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 7,
+      "sentence": "しかし、国内コンシューマー市場中心に当社グループを取り巻く市場環境は厳しく、また、急速に進んだ為替相場の変動により、売上高は1,566億77百万円（前年同期比17.3％減）、営業利益は12億52百万円（同34.3％減）、経常利益は16億90百万円（同5.0％減）、親会社株主に帰属する当期純利益は12億30百万円（同4.5％増）となりました",
+      "opinions": [
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "negative",
+          "from": 58,
+          "to": 61
+        },
+        {
+          "target": "営業利益",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 87,
+          "to": 91
+        },
+        {
+          "target": "経常利益",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 110,
+          "to": 114
+        },
+        {
+          "target": "当期純利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 142,
+          "to": 147
+        }
+      ]
+    },
+    {
+      "sentence_id": 8,
+      "sentence": "当社は、米ドル建ての外貨建取引については、為替予約により為替相場の変動リスクを回避しております",
+      "opinions": []
+    },
+    {
+      "sentence_id": 9,
+      "sentence": "為替相場が急速に変動した場合、仕入と売上の計上時の為替レート差が生じ、円高の場合は、売上総利益、営業利益は減益に、円安の場合は増益になります",
+      "opinions": []
+    },
+    {
+      "sentence_id": 10,
+      "sentence": "しかし、営業外収益にて見合いの為替差損益が発生することにより、経常利益においては、概ね、契約時点で見込んだ利益額が計上されます（当社は「金融商品に関する会計基準」における原則的処理方法によるヘッジ会計を適用しており、特例としての振当処理は行っておりません）",
+      "opinions": []
+    },
+    {
+      "sentence_id": 11,
+      "sentence": "なお、当社子会社において発生しておりました未回収債権を当連結会計年度において回収したことにより、販売費及び一般管理費において貸倒引当金戻入益２億81百万円を計上しております",
+      "opinions": []
+    },
+    {
+      "sentence_id": 12,
+      "sentence": "また、当連結会計年度のセグメント別の業績は、次のとおりであります",
+      "opinions": []
+    },
+    {
+      "sentence_id": 13,
+      "sentence": "（日本）",
+      "opinions": []
+    },
+    {
+      "sentence_id": 14,
+      "sentence": "PC、サーバー、ストレージ向け中心にSSDの拡販を行いましたが、国内コンシューマー市場の低迷とDRAM中心に物量の確保に苦戦し、また、急速に進んだ為替相場の変動により、仕入と売上の計上時の為替レート差が生じたため、このセグメントの売上高は753億81百万円（前年同期比16.0％減）、セグメント利益は４億47百万円（同63.5％減）となりました",
+      "opinions": [
+        {
+          "target": "国内コンシューマー市場",
+          "category": "market#general",
+          "polarity": "negative",
+          "from": 32,
+          "to": 43
+        },
+        {
+          "target": "確保",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 57,
+          "to": 59
+        },
+        {
+          "target": "セグメント",
+          "category": "business#sales",
+          "polarity": "negative",
+          "from": 109,
+          "to": 114
+        },
+        {
+          "target": "セグメント",
+          "category": "business#profit",
+          "polarity": "negative",
+          "from": 109,
+          "to": 114
+        },
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "negative",
+          "from": 115,
+          "to": 118
+        }
+      ]
+    },
+    {
+      "sentence_id": 15,
+      "sentence": "（海外）",
+      "opinions": []
+    },
+    {
+      "sentence_id": 16,
+      "sentence": "スマートフォン向けにCIS（CMOSイメージセンサ）の販売が順調であったものの、テレビ、モニター向け液晶パネルの売上が伸びず、NANDも物量確保の問題で販売が低迷しました",
+      "opinions": [
+        {
+          "target": "CIS",
+          "category": "product#amount",
+          "polarity": "positive",
+          "from": 10,
+          "to": 13
+        },
+        {
+          "target": "液晶パネル",
+          "category": "product#amount",
+          "polarity": "negative",
+          "from": 50,
+          "to": 55
+        },
+        {
+          "target": "NAND",
+          "category": "product#amount",
+          "polarity": "negative",
+          "from": 63,
+          "to": 67
+        }
+      ]
+    },
+    {
+      "sentence_id": 17,
+      "sentence": "しかし、経費削減の効果や販売費及び一般管理費において貸倒引当金戻入益を計上したことも寄与し、このセグメントの売上高は812億96百万円（同18.4％減）、セグメント利益は８億２百万円（同15.5％増）となりました",
+      "opinions": [
+        {
+          "target": "セグメント",
+          "category": "business#sales",
+          "polarity": "negative",
+          "from": 48,
+          "to": 53
+        },
+        {
+          "target": "セグメント",
+          "category": "business#profit",
+          "polarity": "positive",
+          "from": 48,
+          "to": 53
+        },
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "negative",
+          "from": 54,
+          "to": 57
+        }
+      ]
+    }
+  ]
+}

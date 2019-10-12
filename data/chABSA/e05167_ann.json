@@ -1,0 +1,297 @@
+{
+  "header": {
+    "document_id": "E05167",
+    "document_name": "東洋ビジネスエンジニアリング株式会社",
+    "doc_text": "有価証券報告書",
+    "edi_id": "E05167",
+    "security_code": "48280",
+    "category33": "情報・通信業",
+    "category17": "情報通信・サービスその他",
+    "scale": "7"
+  },
+  "sentences": [
+    {
+      "sentence_id": 0,
+      "sentence": "当連結会計年度におけるわが国経済は、輸出が持ち直し、企業収益が改善を続けるもとで設備投資も緩やかな増加基調を示すなど、景気は緩やかな回復を続けました",
+      "opinions": [
+        {
+          "target": "輸出",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 18,
+          "to": 20
+        },
+        {
+          "target": "企業収益",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 26,
+          "to": 30
+        },
+        {
+          "target": "設備投資",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 40,
+          "to": 44
+        },
+        {
+          "target": "景気",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 59,
+          "to": 61
+        }
+      ]
+    },
+    {
+      "sentence_id": 1,
+      "sentence": "情報サービス産業におきましても、企業収益の改善を背景に、情報化投資全体としては緩やかに増加しました",
+      "opinions": [
+        {
+          "target": "企業収益",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 16,
+          "to": 20
+        },
+        {
+          "target": "情報化投資",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 28,
+          "to": 33
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "sentence": "このような状況のもと、当社グループは、コンサルティングサービス、ソフトウェア製品、システム構築、運用・保守サービス、クラウドサービス等、顧客の経営課題解決に貢献する付加価値の高いソリューションの提供に努めました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 3,
+      "sentence": "当連結会計年度におきましては、ERPシステムと多様なシステム・サービスとを連携した複合型ソリューションの提供を一層推進するとともに、取扱い製品の拡充に注力し、IoT（Internet of Things）やクラウドを活用した新規領域ソリューションの提供力強化を図りました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 4,
+      "sentence": "また、既存顧客を中心に、顧客ニーズを捉えた積極的な提案活動に努めました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 5,
+      "sentence": "自社開発ERPパッケージにつきましては、長年にわたり培った知見とノウハウを活用し、主力製品を全面的に刷新した「mcframe 7」の提供を開始するとともに、設計と製造の情報連携を実現する新製品の提供にも取り組みました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 6,
+      "sentence": "これら新製品の提供により、グローバルサプライチェーンの可視化といった、グローバルに事業を展開する顧客ニーズへの対応力強化を図り、「MCFrame」ブランドの訴求力向上に努めました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 7,
+      "sentence": "また、事業基盤の強化にあたり、先端技術を活用した多様なサービスの提供体制、自社製品のライセンスビジネス遂行体制、ならびに新製品・新サービスの企画・開発体制を整備いたしました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 8,
+      "sentence": "当連結会計年度の業績につきましては、受注高12,882百万円（前年同期比0.2％減）、売上高13,289百万円（前年同期比5.9％増）となりました",
+      "opinions": [
+        {
+          "target": "受注高",
+          "category": "NULL#amount",
+          "polarity": "negative",
+          "from": 18,
+          "to": 21
+        },
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 43,
+          "to": 46
+        }
+      ]
+    },
+    {
+      "sentence_id": 9,
+      "sentence": "利益面につきましては、営業利益715百万円（前年同期比34.6％増）、経常利益712百万円（前年同期比34.8％増）、親会社株主に帰属する当期純利益は438百万円（前年同期比38.5％増）となり、それぞれ、平成14年３月期以来15期ぶりに過去最高を更新いたしました",
+      "opinions": [
+        {
+          "target": "営業利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 11,
+          "to": 15
+        },
+        {
+          "target": "経常利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 35,
+          "to": 39
+        },
+        {
+          "target": "当期純利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 69,
+          "to": 74
+        }
+      ]
+    },
+    {
+      "sentence_id": 10,
+      "sentence": "セグメント別の業績は次のとおりです",
+      "opinions": []
+    },
+    {
+      "sentence_id": 11,
+      "sentence": "①　ソリューション事業",
+      "opinions": []
+    },
+    {
+      "sentence_id": 12,
+      "sentence": "他社開発ERPパッケージ製品をベースとしたコンサルティング、システム構築につきましては、顧客のグローバル展開支援や情報の可視化を図る複合型ソリューションの提供を推進いたしました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 13,
+      "sentence": "既存顧客との関係強化と新規顧客の開拓に取り組み、製薬、化学、食品、機械、電機・電子等の多様な業界から受注を獲得いたしました",
+      "opinions": [
+        {
+          "target": "受注",
+          "category": "NULL#amount",
+          "polarity": "positive",
+          "from": 50,
+          "to": 52
+        }
+      ]
+    },
+    {
+      "sentence_id": 14,
+      "sentence": "また、着実なプロジェクトの遂行による採算性の向上に努めました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 15,
+      "sentence": "当セグメントの受注高は8,397百万円（前年同期比3.5％増）、売上高は8,663百万円（前年同期比8.7％増）、セグメント利益は1,104百万円(前年同期比39.6％増)となりました",
+      "opinions": [
+        {
+          "target": "受注高",
+          "category": "NULL#amount",
+          "polarity": "positive",
+          "from": 7,
+          "to": 10
+        },
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 32,
+          "to": 35
+        },
+        {
+          "target": "セグメント利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 57,
+          "to": 64
+        }
+      ]
+    },
+    {
+      "sentence_id": 16,
+      "sentence": "②　プロダクト事業",
+      "opinions": []
+    },
+    {
+      "sentence_id": 17,
+      "sentence": "自社開発ERPパッケージ「MCFrame」および「A.S.I.A.」につきましては、販売体制の一層の充実と顧客・ビジネスパートナーとの継続的な関係強化を推進いたしました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 18,
+      "sentence": "さらに、新製品「mcframe 7」の開発など、自社製品の更なる高付加価値化に取り組みました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 19,
+      "sentence": "当セグメントの受注高は4,175百万円（前年同期比6.1％減）、売上高は4,321百万円（前年同期比2.6％増）、セグメント利益は1,156百万円（前年同期比23.3％増）となりました",
+      "opinions": [
+        {
+          "target": "受注高",
+          "category": "NULL#amount",
+          "polarity": "negative",
+          "from": 7,
+          "to": 10
+        },
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 32,
+          "to": 35
+        },
+        {
+          "target": "セグメント利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 57,
+          "to": 64
+        }
+      ]
+    },
+    {
+      "sentence_id": 20,
+      "sentence": "ライセンス売上高は当連結会計年度も過去最高を更新し、1,866百万円（前年同期比9.2％増）となりました",
+      "opinions": [
+        {
+          "target": "ライセンス売上高",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 0,
+          "to": 8
+        }
+      ]
+    },
+    {
+      "sentence_id": 21,
+      "sentence": "③　システムサポート事業",
+      "opinions": []
+    },
+    {
+      "sentence_id": 22,
+      "sentence": "東洋ビジネスシステムサービス株式会社が展開する運用・保守等のシステムサポート事業につきましては、引き続きシステムのライフサイクルサポートの充実に努めました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 23,
+      "sentence": "当セグメントの受注高は308百万円（前年同期比11.9％減）、売上高は305百万円（前年同期比16.3％減）、セグメント利益は67百万円(前年同期比51.0％増)となりました",
+      "opinions": [
+        {
+          "target": "受注高",
+          "category": "NULL#amount",
+          "polarity": "negative",
+          "from": 7,
+          "to": 10
+        },
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "negative",
+          "from": 31,
+          "to": 34
+        },
+        {
+          "target": "セグメント利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 55,
+          "to": 62
+        }
+      ]
+    }
+  ]
+}

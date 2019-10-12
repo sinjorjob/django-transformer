@@ -1,0 +1,208 @@
+{
+  "header": {
+    "document_id": "E00541",
+    "document_name": "Ｏａｋキャピタル株式会社",
+    "doc_text": "有価証券報告書",
+    "edi_id": "E00541",
+    "security_code": "31130",
+    "category33": "証券、商品先物取引業",
+    "category17": "金融（除く銀行）",
+    "scale": ""
+  },
+  "sentences": [
+    {
+      "sentence_id": 0,
+      "sentence": "当期（2016年４月１日から2017年３月31日まで）の個別業績は、営業収益（売上高）89億58百万円、営業利益９億61百万円、経常利益９億37百万円、当期純利益10億７百万円となり、連結業績は、売上高89億58百万円、営業利益９億55百万円、経常利益８億15百万円、親会社株主に帰属する当期純利益８億85百万円となり、前期と比較して増収増益となりました",
+      "opinions": [
+        {
+          "target": "営業収益",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 34,
+          "to": 38
+        },
+        {
+          "target": "営業利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 52,
+          "to": 56
+        },
+        {
+          "target": "経常利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 64,
+          "to": 68
+        },
+        {
+          "target": "当期純利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 76,
+          "to": 81
+        },
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 98,
+          "to": 101
+        },
+        {
+          "target": "営業利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 110,
+          "to": 114
+        },
+        {
+          "target": "経常利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 122,
+          "to": 126
+        },
+        {
+          "target": "当期純利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 144,
+          "to": 149
+        }
+      ]
+    },
+    {
+      "sentence_id": 1,
+      "sentence": "当期における国内株式市場は、年初から米国の利上げと為替の影響から乱高下の相場となり、英国のＥＵ離脱決定により最安値をつけましたが、トランプ政権発足以降、経済対策への期待感から上向いてまいりました",
+      "opinions": [
+        {
+          "target": "国内株式市場",
+          "category": "market#general",
+          "polarity": "positive",
+          "from": 6,
+          "to": 12
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "sentence": "その結果、日経平均株価は12月に年初来高値を更新し、大納会は19,114円と前年末を上回り、年間では５年連続の上昇となりました",
+      "opinions": [
+        {
+          "target": "日経平均株価",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 5,
+          "to": 11
+        }
+      ]
+    },
+    {
+      "sentence_id": 3,
+      "sentence": "（投資銀行業務の役割）",
+      "opinions": []
+    },
+    {
+      "sentence_id": 4,
+      "sentence": "当社の投資銀行業務は、新興及び中堅上場企業の財務支援を通して、成長戦略及び事業再生や成長戦略に必要なＭ＆Ａ、並びに事業提携などの事業戦略の支援・助言を行っております",
+      "opinions": []
+    },
+    {
+      "sentence_id": 5,
+      "sentence": "当社が実施する上場企業向けエクイティファイナンスの引受け業務は、日本経済の成長において重要な役割を担っており、出資先企業の企業価値向上へ導くことが当社の使命であります",
+      "opinions": []
+    },
+    {
+      "sentence_id": 6,
+      "sentence": "また当社は、エクイティファイナンスの引受けに際し、金融庁や証券取引所の定める厳正かつ公正なルールに従い、株式市場に対し透明性を重視するとともに、公正な資金調達の担い手として実施しております",
+      "opinions": []
+    },
+    {
+      "sentence_id": 7,
+      "sentence": "（投資銀行業務の成果）",
+      "opinions": []
+    },
+    {
+      "sentence_id": 8,
+      "sentence": "当期は出資先企業に対して、事業再生及びイノベーションを目的とした成長戦略の立案、Ｍ＆Ａの助言、ＩＲ支援など様々な支援業務に取り組み、価値向上の後押しを実施して一定の成果をあげることができ、業績は増収増益となりました",
+      "opinions": [
+        {
+          "target": "業績",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 94,
+          "to": 96
+        }
+      ]
+    },
+    {
+      "sentence_id": 9,
+      "sentence": "しかしながら、株式市場の変動等の要因もあり投資収益率は前期と比較して下回りました",
+      "opinions": [
+        {
+          "target": "投資収益率",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 21,
+          "to": 26
+        }
+      ]
+    },
+    {
+      "sentence_id": 10,
+      "sentence": "（投資分野の多角化展開）",
+      "opinions": []
+    },
+    {
+      "sentence_id": 11,
+      "sentence": "当社は、将来の金融市場の潮流を捉え、変動する外部環境であっても成長し続ける投資銀行を目指し、経営戦略である投資領域の拡大を目的に、事業会社の買収、海外投資の拡大、国内外のブランド企業への投資など投資事業構造のイノベーションを推進してまいります",
+      "opinions": []
+    },
+    {
+      "sentence_id": 12,
+      "sentence": "引き続き金融市場は欧米の政治経済の不安定要因などがあり、予断を許さぬ環境ではありますが、これらの動向を注視しながら、事業の拡大への取り組みにより、成長力・収益力・安定力を強固にし、「企業価値」と「株主価値」を更に高めてまいります",
+      "opinions": []
+    },
+    {
+      "sentence_id": 13,
+      "sentence": "以上の活動の結果、キャピタルゲインは18億73百万円となり、投資収益率は27.2％となりました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 14,
+      "sentence": "これらの詳細は、以下のとおりであります",
+      "opinions": []
+    },
+    {
+      "sentence_id": 15,
+      "sentence": "（注）前連結会計年度につきましては、参考情報として個別財務諸表に基づく数値を記載しております",
+      "opinions": []
+    },
+    {
+      "sentence_id": 16,
+      "sentence": "・営業投資有価証券残高",
+      "opinions": []
+    },
+    {
+      "sentence_id": 17,
+      "sentence": "（注）前連結会計年度につきましては、参考情報として個別財務諸表に基づく数値を記載しております",
+      "opinions": []
+    },
+    {
+      "sentence_id": 18,
+      "sentence": "・エクイティファイナンス引受残高",
+      "opinions": []
+    },
+    {
+      "sentence_id": 19,
+      "sentence": "（注）前連結会計年度につきましては、参考情報として個別財務諸表に基づく数値を記載しております",
+      "opinions": []
+    },
+    {
+      "sentence_id": 20,
+      "sentence": "（注）前連結会計年度につきましては、参考情報として個別財務諸表に基づく数値を記載しております",
+      "opinions": []
+    }
+  ]
+}

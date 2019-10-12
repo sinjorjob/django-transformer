@@ -1,0 +1,221 @@
+{
+  "header": {
+    "document_id": "E01546",
+    "document_name": "木村化工機株式会社",
+    "doc_text": "有価証券報告書",
+    "edi_id": "E01546",
+    "security_code": "63780",
+    "category33": "機械",
+    "category17": "機械",
+    "scale": "7"
+  },
+  "sentences": [
+    {
+      "sentence_id": 0,
+      "sentence": "当連結会計年度におけるわが国経済は、企業収益は底堅く推移し、雇用情勢の改善傾向が続く等、緩やかな回復基調で推移しましたが、新興国経済の景気減速、英国のＥＵ離脱および米国新政権の政策運営による影響の不確実性から、先行き不透明な状況が続いております",
+      "opinions": [
+        {
+          "target": "わが国経済",
+          "category": "NULL#general",
+          "polarity": "neutral",
+          "from": 11,
+          "to": 16
+        },
+        {
+          "target": "企業収益",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 18,
+          "to": 22
+        },
+        {
+          "target": "雇用情勢",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 30,
+          "to": 34
+        },
+        {
+          "target": "新興国経済",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 61,
+          "to": 66
+        }
+      ]
+    },
+    {
+      "sentence_id": 1,
+      "sentence": "また、当社の業績に影響のある国内向け設備投資につきましては、一部の企業や業種では主要製品の増産等を計画する新規設備投資の動きがありましたが、多くの企業では依然として設備投資意欲は高まらず、慎重な姿勢が維持され、既存設備の維持・更新が中心となりました",
+      "opinions": [
+        {
+          "target": "設備投資",
+          "category": "NULL#general",
+          "polarity": "neutral",
+          "from": 18,
+          "to": 22
+        },
+        {
+          "target": "設備投資意欲",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 82,
+          "to": 88
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "sentence": "このような状況のもと、受注高は21,099百万円と前連結会計年度に比べ 3,815百万円の増加（＋22.1％）となりましたが、売上高は17,331百万円と前連結会計年度に比べ 3,250百万円の減少（△15.8％）となりました",
+      "opinions": [
+        {
+          "target": "受注高",
+          "category": "NULL#amount",
+          "polarity": "positive",
+          "from": 11,
+          "to": 14
+        },
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "negative",
+          "from": 63,
+          "to": 66
+        }
+      ]
+    },
+    {
+      "sentence_id": 3,
+      "sentence": "損益面につきましては、営業利益は 951百万円と前連結会計年度に比べ 260百万円の減少（△21.5％）、経常利益は 975百万円と前連結会計年度に比べ 185百万円の減少（△ 16.0％）となり、親会社株主に帰属する当期純利益は 631百万円と前連結会計年度に比べ28百万円の減少（△ 4.3％）となりました",
+      "opinions": [
+        {
+          "target": "営業利益",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 11,
+          "to": 15
+        },
+        {
+          "target": "経常利益",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 53,
+          "to": 57
+        },
+        {
+          "target": "当期純利益",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 109,
+          "to": 114
+        }
+      ]
+    },
+    {
+      "sentence_id": 4,
+      "sentence": "セグメントの業績は、次のとおりであります",
+      "opinions": []
+    },
+    {
+      "sentence_id": 5,
+      "sentence": "化学機械装置の設計・製作・据付工事を行うエンジニアリング事業につきましては、営業体制の強化を行うとともに、設備投資を計画する顧客を中心に技術力を前面に打ち出した企画提案型の営業活動を積極的に展開し、大型案件を含む受注の確保に注力しました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 6,
+      "sentence": "その結果、受注高は 8,526百万円と前連結会計年度に比べ 1,531百万円の増加（＋21.9％）、売上高は 6,356百万円と前連結会計年度に比べ 3,191百万円の減少（△33.4％）となり、セグメント損失（営業損失）は66百万円（前連結会計年度はセグメント利益（営業利益）74百万円）となりました",
+      "opinions": [
+        {
+          "target": "受注高",
+          "category": "NULL#amount",
+          "polarity": "positive",
+          "from": 5,
+          "to": 8
+        },
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "negative",
+          "from": 50,
+          "to": 53
+        },
+        {
+          "target": "セグメント損失（営業損失）",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 98,
+          "to": 111
+        }
+      ]
+    },
+    {
+      "sentence_id": 7,
+      "sentence": "化学機械装置の現地工事・メンテナンス業務を行う化工機事業につきましては、顧客が設備投資に対し慎重な姿勢を維持し、既存設備の効率性の向上や保全・更新の各工事が主たる業務となりましたが、設備投資を計画する顧客に対しては積極的な営業活動を展開し、受注および売上増加を図りました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 8,
+      "sentence": "その結果、受注高は 8,865百万円と前連結会計年度に比べ 1,712百万円の増加（＋23.9％）、売上高は 7,601百万円と前連結会計年度に比べ 503百万円の増加（＋ 7.1％）となり、セグメント利益（営業利益）は 781百万円と前連結会計年度に比べ 197百万円の増加（＋33.9％）となりました",
+      "opinions": [
+        {
+          "target": "受注高",
+          "category": "NULL#amount",
+          "polarity": "positive",
+          "from": 5,
+          "to": 8
+        },
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 50,
+          "to": 53
+        },
+        {
+          "target": "セグメント利益（営業利益）",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 96,
+          "to": 109
+        }
+      ]
+    },
+    {
+      "sentence_id": 9,
+      "sentence": "原子力を含むエネルギー・環境関連機器の設計・製作・設置工事を行うエネルギー・環境事業につきましては、主として福島第一原子力発電所関連業務の設計・製作・設備の受注および売上に注力しました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 10,
+      "sentence": "また、年央以降、原子力発電所の再稼働および安全審査後の核燃料サイクル施設関連業務の受注に注力しました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 11,
+      "sentence": "その結果、受注高は 3,708百万円と前連結会計年度に比べ 571百万円の増加（＋18.2％）、売上高は 3,373百万円と前連結会計年度に比べ 562百万円の減少（△14.3％）となり、セグメント利益（営業利益）は 235百万円と前連結会計年度に比べ 317百万円の減少（△57.4％）となりました",
+      "opinions": [
+        {
+          "target": "受注高",
+          "category": "NULL#amount",
+          "polarity": "positive",
+          "from": 5,
+          "to": 8
+        },
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "negative",
+          "from": 48,
+          "to": 51
+        },
+        {
+          "target": "セグメント利益（営業利益）",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 94,
+          "to": 107
+        }
+      ]
+    }
+  ]
+}

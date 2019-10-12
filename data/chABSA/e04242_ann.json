@@ -1,0 +1,468 @@
+{
+  "header": {
+    "document_id": "E04242",
+    "document_name": "明治海運株式会社",
+    "doc_text": "有価証券報告書",
+    "edi_id": "E04242",
+    "security_code": "91150",
+    "category33": "海運業",
+    "category17": "運輸・物流",
+    "scale": "7"
+  },
+  "sentences": [
+    {
+      "sentence_id": 0,
+      "sentence": "〈経済環境〉\n　当連結会計年度における世界経済は、年前半の米国経済の足踏みや英国のEU離脱決定による金融市場の混乱等を背景に減速したものの、年後半はトランプ新政権が掲げた大型減税、インフラ投資等の政策への期待により米国経済は持ち直し、英国のEU離脱への主要国中央銀行による迅速な対応によって緩やかに回復が進みました",
+      "opinions": [
+        {
+          "target": "世界経済",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 19,
+          "to": 23
+        },
+        {
+          "target": "米国経済",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 29,
+          "to": 33
+        },
+        {
+          "target": "金融市場",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 50,
+          "to": 54
+        },
+        {
+          "target": "米国経済",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 107,
+          "to": 111
+        }
+      ]
+    },
+    {
+      "sentence_id": 1,
+      "sentence": "しかしながら、通年では2015年を若干下回る２％台前半の成長に鈍化しました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 2,
+      "sentence": "中国経済はリーマンショック直後以来の低水準ながら６％台後半の成長率で下げ止まっています",
+      "opinions": [
+        {
+          "target": "中国経済",
+          "category": "NULL#general",
+          "polarity": "neutral",
+          "from": 0,
+          "to": 4
+        }
+      ]
+    },
+    {
+      "sentence_id": 3,
+      "sentence": "ロシア・ブラジル等の資源国家は景気後退が続きましたが、資源価格の緩やかな回復に伴い状況は好転し、復調の兆しが見られました",
+      "opinions": [
+        {
+          "target": "資源国家",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 10,
+          "to": 14
+        },
+        {
+          "target": "資源価格",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 27,
+          "to": 31
+        }
+      ]
+    },
+    {
+      "sentence_id": 4,
+      "sentence": "一方、我が国経済は、雇用・所得環境の改善がみられ緩やかな回復基調が続きましたが、企業の設備投資や個人消費といった支出面への波及は不十分であり、踊り場から脱することはできていません",
+      "opinions": [
+        {
+          "target": "我が国経済",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 3,
+          "to": 8
+        },
+        {
+          "target": "雇用",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 10,
+          "to": 12
+        },
+        {
+          "target": "所得環境",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 13,
+          "to": 17
+        },
+        {
+          "target": "設備投資",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 43,
+          "to": 47
+        },
+        {
+          "target": "個人消費",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 48,
+          "to": 52
+        }
+      ]
+    },
+    {
+      "sentence_id": 5,
+      "sentence": "<外航海運業>",
+      "opinions": []
+    },
+    {
+      "sentence_id": 6,
+      "sentence": "このような状況のもと、為替は対ドル円レート110円前後で始まりましたが、その後円高基調をたどり、年半ばには100円前後まで円高が進行しました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 7,
+      "sentence": "米国大統領選挙後は円安基調となり、年末にかけて115円前後で推移しましたが、2017年３月には110円に戻る動きとなりました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 8,
+      "sentence": "またバンカー価格は原油価格の上昇とともに、トン当たり170ドルから年末には320ドルに上昇しました",
+      "opinions": [
+        {
+          "target": "バンカー価格",
+          "category": "NULL#cost",
+          "polarity": "negative",
+          "from": 2,
+          "to": 8
+        },
+        {
+          "target": "原油価格",
+          "category": "NULL#cost",
+          "polarity": "negative",
+          "from": 9,
+          "to": 13
+        }
+      ]
+    },
+    {
+      "sentence_id": 9,
+      "sentence": "大型タンカー市況は、年初から日建て傭船料50,000ドル前後で推移しましたが、夏場に下落し、秋以降は再び回復という昨年に似た推移をたどりました",
+      "opinions": [
+        {
+          "target": "大型タンカー市況",
+          "category": "market#general",
+          "polarity": "neutral",
+          "from": 0,
+          "to": 8
+        }
+      ]
+    },
+    {
+      "sentence_id": 10,
+      "sentence": "新造船の流入圧力はあったものの、12月にOPECで減産が合意されるまで中東各国が増産を続けた結果、荷動きは堅調に推移しました",
+      "opinions": [
+        {
+          "target": "荷動き",
+          "category": "NULL#amount",
+          "polarity": "positive",
+          "from": 49,
+          "to": 52
+        }
+      ]
+    },
+    {
+      "sentence_id": 11,
+      "sentence": "バルカー市況は、2016年２月に全船型で記録的な安値を更新し、運賃傭船料指標（BDI）も1986年７月以来およそ30年ぶりに過去最低を記録しました",
+      "opinions": [
+        {
+          "target": "バルカー市況",
+          "category": "market#general",
+          "polarity": "negative",
+          "from": 0,
+          "to": 6
+        },
+        {
+          "target": "運賃傭船料指標（BDI）",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 31,
+          "to": 43
+        }
+      ]
+    },
+    {
+      "sentence_id": 12,
+      "sentence": "その後も船腹過剰は解消されていない状況であるものの、春以降は荷動きが少しずつ増加し、老齢船のスクラップも活発に推移し、市況は緩やかに上昇しています",
+      "opinions": [
+        {
+          "target": "荷動き",
+          "category": "NULL#amount",
+          "polarity": "positive",
+          "from": 30,
+          "to": 33
+        },
+        {
+          "target": "スクラップ",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 46,
+          "to": 51
+        },
+        {
+          "target": "市況",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 59,
+          "to": 61
+        }
+      ]
+    },
+    {
+      "sentence_id": 13,
+      "sentence": "いまだ健全な状況には届きませんが、2017年３月に入りそのペースを上げており、好ましい方向に進んでいます",
+      "opinions": []
+    },
+    {
+      "sentence_id": 14,
+      "sentence": "自動車船市況は、中近東、南米、アフリカ等資源国向けの自動車販売が伸びず日本出しは減少傾向となり、資源安と新興国の景気減速の影響で荷動きが低迷しています",
+      "opinions": [
+        {
+          "target": "自動車販売",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 26,
+          "to": 31
+        },
+        {
+          "target": "日本出し",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 35,
+          "to": 39
+        },
+        {
+          "target": "新興国",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 52,
+          "to": 55
+        },
+        {
+          "target": "荷動き",
+          "category": "NULL#amount",
+          "polarity": "negative",
+          "from": 64,
+          "to": 67
+        }
+      ]
+    },
+    {
+      "sentence_id": 15,
+      "sentence": "韓国ではストライキの影響を受けて韓国出し荷動きが激減、世界的に欧州、北米から極東向けの荷動きなどが影響を受けました",
+      "opinions": [
+        {
+          "target": "韓国出し荷動き",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 16,
+          "to": 23
+        }
+      ]
+    },
+    {
+      "sentence_id": 16,
+      "sentence": "そのため既存の4,000-5,000台積の中型船の需要が減り、ピーク時には待機船が20隻にのぼるなど、余剰感が出ています",
+      "opinions": [
+        {
+          "target": "需要",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 25,
+          "to": 27
+        }
+      ]
+    },
+    {
+      "sentence_id": 17,
+      "sentence": "この様な状況のもと、当連結会計年度の外航海運業部門は、平均為替レートが前年比約8.5円の円高となりましたが、新規参入のコンテナ船２隻をはじめ、バルカー、自動車船が各１隻と計４隻の新規稼働により、売上高は24,048百万円（前年同期比7.2％増）となり、船舶コストの減少もあり、外航海運業利益は4,043百万円（前年同期比40.7％増）となりました",
+      "opinions": [
+        {
+          "target": "外航海運業部門",
+          "category": "business#sales",
+          "polarity": "positive",
+          "from": 18,
+          "to": 25
+        },
+        {
+          "target": "外航海運業部門",
+          "category": "business#cost",
+          "polarity": "positive",
+          "from": 18,
+          "to": 25
+        },
+        {
+          "target": "外航海運業部門",
+          "category": "business#profit",
+          "polarity": "positive",
+          "from": 18,
+          "to": 25
+        }
+      ]
+    },
+    {
+      "sentence_id": 18,
+      "sentence": "また、当期第３四半期に発生した船舶売却に伴う減損損失に加えて、一部船舶の収益性低下による減損損失を計上し合計1,564百万円を特別損失に計上しています",
+      "opinions": [
+        {
+          "target": "一部船舶",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 31,
+          "to": 35
+        }
+      ]
+    },
+    {
+      "sentence_id": 19,
+      "sentence": "〈ホテル関連事業〉\n　ホテル関連事業部門では、国内外からの観光客の動きも殆ど落ち込むこともなく、宿泊部門は各ホテルとも堅調に推移しました",
+      "opinions": [
+        {
+          "target": "動き",
+          "category": "NULL#general",
+          "polarity": "neutral",
+          "from": 33,
+          "to": 35
+        },
+        {
+          "target": "宿泊部門",
+          "category": "business#general",
+          "polarity": "positive",
+          "from": 48,
+          "to": 52
+        }
+      ]
+    },
+    {
+      "sentence_id": 20,
+      "sentence": "宴会部門は、昨年度末から持ち直しの兆しが見え始め、婚礼・一般宴会共に好調に実績を伸ばしました",
+      "opinions": [
+        {
+          "target": "宴会部門",
+          "category": "business#general",
+          "polarity": "positive",
+          "from": 0,
+          "to": 4
+        },
+        {
+          "target": "婚礼",
+          "category": "product#general",
+          "polarity": "positive",
+          "from": 25,
+          "to": 27
+        },
+        {
+          "target": "一般宴会",
+          "category": "product#general",
+          "polarity": "positive",
+          "from": 28,
+          "to": 32
+        }
+      ]
+    },
+    {
+      "sentence_id": 21,
+      "sentence": "その結果、ホテル関連事業部門の売上高は12,835百万円（前年同期比2.2％増）となり、ホテル関連事業利益は1,510百万円（前年同期比17.4％増）を計上しました",
+      "opinions": [
+        {
+          "target": "ホテル関連事業部門",
+          "category": "business#sales",
+          "polarity": "positive",
+          "from": 5,
+          "to": 14
+        },
+        {
+          "target": "ホテル関連事業部門",
+          "category": "business#profit",
+          "polarity": "positive",
+          "from": 5,
+          "to": 14
+        }
+      ]
+    },
+    {
+      "sentence_id": 22,
+      "sentence": "〈不動産賃貸業〉\n　不動産賃貸業部門では、売上高は519百万円（前年同期比9.8％増）、不動産賃貸業利益は311百万円（前年同期比12.2％増）となりました",
+      "opinions": [
+        {
+          "target": "不動産賃貸業部門",
+          "category": "business#sales",
+          "polarity": "positive",
+          "from": 10,
+          "to": 18
+        },
+        {
+          "target": "不動産賃貸業部門",
+          "category": "business#profit",
+          "polarity": "positive",
+          "from": 10,
+          "to": 18
+        }
+      ]
+    },
+    {
+      "sentence_id": 23,
+      "sentence": "以上の結果、当連結会計年度において売上高は37,404百万円（前年同期比5.5％増）、営業利益は5,865百万円（前年同期比32.1％増）、経常利益は4,551百万円（前年同期比7.4％増）となり、特別損失には前述の減損損失1,564百万円を計上し、親会社株主に帰属する当期純利益は1,159百万円（前年同期比9.0％増）になりました",
+      "opinions": [
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 17,
+          "to": 20
+        },
+        {
+          "target": "営業利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 43,
+          "to": 47
+        },
+        {
+          "target": "経常利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 70,
+          "to": 74
+        },
+        {
+          "target": "特別損失",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 99,
+          "to": 103
+        },
+        {
+          "target": "当期純利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 135,
+          "to": 140
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,306 @@
+{
+  "header": {
+    "document_id": "E04503",
+    "document_name": "北陸電力株式会社",
+    "doc_text": "有価証券報告書",
+    "edi_id": "E04503",
+    "security_code": "95050",
+    "category33": "電気・ガス業",
+    "category17": "電力・ガス",
+    "scale": "4"
+  },
+  "sentences": [
+    {
+      "sentence_id": 0,
+      "sentence": "当連結会計年度の我が国経済は、設備投資に持ち直しの動きがみられたほか、良好な雇用環境の継続などにより、緩やかな回復基調が続いた",
+      "opinions": [
+        {
+          "target": "我が国経済",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 8,
+          "to": 13
+        },
+        {
+          "target": "設備投資",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 15,
+          "to": 19
+        },
+        {
+          "target": "雇用環境",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 38,
+          "to": 42
+        }
+      ]
+    },
+    {
+      "sentence_id": 1,
+      "sentence": "また、期の後半に入り、海外経済の緩やかな回復を背景として輸出や生産が持ち直した",
+      "opinions": [
+        {
+          "target": "海外経済",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 11,
+          "to": 15
+        },
+        {
+          "target": "輸出",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 28,
+          "to": 30
+        },
+        {
+          "target": "生産",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 31,
+          "to": 33
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "sentence": "北陸地域の経済は、個人消費において一部に鈍さがみられたものの、北陸新幹線による交流人口増加の効果もあり、回復を続けた",
+      "opinions": [
+        {
+          "target": "経済",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 5,
+          "to": 7
+        },
+        {
+          "target": "個人消費",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 9,
+          "to": 13
+        }
+      ]
+    },
+    {
+      "sentence_id": 3,
+      "sentence": "このような経済情勢の中、当連結会計年度の収支については、売上高（営業収益）は、電気事業において、小売販売電力量の増加や再生可能エネルギー発電促進賦課金が増加したものの、燃料費調整額が減少したことに加え、電気事業以外における請負工事等の受注の減少などから、5,425億円（前期比99.6％）となり、これに営業外収益を加えた経常収益は5,465億円（同99.8％）となった",
+      "opinions": [
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "negative",
+          "from": 28,
+          "to": 31
+        },
+        {
+          "target": "電気事業",
+          "category": "business#amount",
+          "polarity": "positive",
+          "from": 39,
+          "to": 43
+        },
+        {
+          "target": "電気事業",
+          "category": "business#general",
+          "polarity": "positive",
+          "from": 39,
+          "to": 43
+        },
+        {
+          "target": "燃料費調整額",
+          "category": "NULL#price",
+          "polarity": "negative",
+          "from": 84,
+          "to": 90
+        },
+        {
+          "target": "請負工事",
+          "category": "product#amount",
+          "polarity": "negative",
+          "from": 111,
+          "to": 115
+        },
+        {
+          "target": "経常収益",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 160,
+          "to": 164
+        }
+      ]
+    },
+    {
+      "sentence_id": 4,
+      "sentence": "また、経常利益は、電気事業において、資材調達価格低減をはじめ経費全般にわたる徹底した効率化に努めたものの、高経年設備等に係る修繕費の増加、金利低下に伴う退職給付費用の増加及び水力発電量の減少などにより、20億円（同7.2％）となった",
+      "opinions": [
+        {
+          "target": "経常利益",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 3,
+          "to": 7
+        },
+        {
+          "target": "修繕費",
+          "category": "NULL#cost",
+          "polarity": "negative",
+          "from": 62,
+          "to": 65
+        },
+        {
+          "target": "退職給付費用",
+          "category": "NULL#cost",
+          "polarity": "negative",
+          "from": 76,
+          "to": 82
+        },
+        {
+          "target": "水力発電量",
+          "category": "NULL#amount",
+          "polarity": "negative",
+          "from": 87,
+          "to": 92
+        }
+      ]
+    },
+    {
+      "sentence_id": 5,
+      "sentence": "これに、渇水準備金を取崩し、法人税等を計上した結果、親会社株主に帰属する当期純損益は６億円の損失（前期は親会社株主に帰属する当期純利益128億円）となった",
+      "opinions": [
+        {
+          "target": "当期純損益",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 36,
+          "to": 41
+        }
+      ]
+    },
+    {
+      "sentence_id": 6,
+      "sentence": "セグメントの業績（セグメント間の内部取引消去前）は、次のとおりである",
+      "opinions": []
+    },
+    {
+      "sentence_id": 7,
+      "sentence": "①　電気事業",
+      "opinions": []
+    },
+    {
+      "sentence_id": 8,
+      "sentence": "売上高は、燃料費調整額が減少したものの、小売販売電力量の増加に加え、再生可能エネルギー発電促進賦課金が増加したことなどから、4,967億円（前期比100.8％）となった",
+      "opinions": [
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 0,
+          "to": 3
+        },
+        {
+          "target": "燃料費調整額",
+          "category": "NULL#price",
+          "polarity": "negative",
+          "from": 5,
+          "to": 11
+        },
+        {
+          "target": "小売販売電力量",
+          "category": "NULL#amount",
+          "polarity": "positive",
+          "from": 20,
+          "to": 27
+        },
+        {
+          "target": "再生可能エネルギー発電促進賦課金",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 34,
+          "to": 50
+        }
+      ]
+    },
+    {
+      "sentence_id": 9,
+      "sentence": "また、営業利益は、資材調達価格低減をはじめ経費全般にわたる徹底した効率化に努めたものの、高経年設備等に係る修繕費の増加、金利低下に伴う退職給付費用の増加及び水力発電量の減少などにより、29億円（同10.1％）となった",
+      "opinions": [
+        {
+          "target": "営業利益",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 3,
+          "to": 7
+        },
+        {
+          "target": "修繕費",
+          "category": "NULL#cost",
+          "polarity": "negative",
+          "from": 53,
+          "to": 56
+        },
+        {
+          "target": "退職給付費用",
+          "category": "NULL#cost",
+          "polarity": "negative",
+          "from": 67,
+          "to": 73
+        },
+        {
+          "target": "水力発電量",
+          "category": "NULL#amount",
+          "polarity": "negative",
+          "from": 78,
+          "to": 83
+        }
+      ]
+    },
+    {
+      "sentence_id": 10,
+      "sentence": "②　その他",
+      "opinions": []
+    },
+    {
+      "sentence_id": 11,
+      "sentence": "売上高は、請負工事等の受注の減少などから、前連結会計年度に比べ63億円減の949億円（前期比 93.8％）、営業費用は、前連結会計年度に比べ50億円減の873億円（同 94.6％）となった",
+      "opinions": [
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "negative",
+          "from": 0,
+          "to": 3
+        },
+        {
+          "target": "請負工事",
+          "category": "product#amount",
+          "polarity": "negative",
+          "from": 5,
+          "to": 9
+        },
+        {
+          "target": "営業費用",
+          "category": "NULL#cost",
+          "polarity": "positive",
+          "from": 54,
+          "to": 58
+        }
+      ]
+    },
+    {
+      "sentence_id": 12,
+      "sentence": "この結果、営業利益は76億円（同 85.3％）となった",
+      "opinions": [
+        {
+          "target": "営業利益",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 5,
+          "to": 9
+        }
+      ]
+    }
+  ]
+}

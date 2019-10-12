@@ -1,0 +1,335 @@
+{
+  "header": {
+    "document_id": "E02414",
+    "document_name": "株式会社シード",
+    "doc_text": "有価証券報告書",
+    "edi_id": "E02414",
+    "security_code": "77430",
+    "category33": "精密機器",
+    "category17": "電機・精密",
+    "scale": "7"
+  },
+  "sentences": [
+    {
+      "sentence_id": 0,
+      "sentence": "当連結会計年度におけるわが国経済は、円高の一巡や海外経済回復に伴う企業収益の改善を受け、設備投資等で回復の動きが見られ、個人消費も雇用所得環境の改善を背景に持ち直しており、景気は緩やかな回復基調が続いております",
+      "opinions": [
+        {
+          "target": "企業収益",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 33,
+          "to": 37
+        },
+        {
+          "target": "設備投資",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 44,
+          "to": 48
+        },
+        {
+          "target": "個人消費",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 60,
+          "to": 64
+        },
+        {
+          "target": "雇用所得環境",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 65,
+          "to": 71
+        },
+        {
+          "target": "景気",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 86,
+          "to": 88
+        }
+      ]
+    },
+    {
+      "sentence_id": 1,
+      "sentence": "コンタクトレンズ業界におきましては、視力補正が必要な方々の生活においてコンタクトレンズが“必需品”として定着している環境を背景にして、１日使い捨てタイプへのシフトが続いていることや、遠近両用やサークルレンズの伸長もあり、市場は緩やかながら成長基調にあるものと推測されます",
+      "opinions": [
+        {
+          "target": "コンタクトレンズ業界",
+          "category": "market#general",
+          "polarity": "positive",
+          "from": 0,
+          "to": 10
+        },
+        {
+          "target": "遠近両用",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 91,
+          "to": 95
+        },
+        {
+          "target": "サークルレンズ",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 96,
+          "to": 103
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "sentence": "しかしながら、シリコーンハイドロゲル素材の新商品投入や乱視用、遠近両用のラインアップ強化等、メーカー間の競合環境は激化しております",
+      "opinions": [
+        {
+          "target": "競合環境",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 52,
+          "to": 56
+        }
+      ]
+    },
+    {
+      "sentence_id": 3,
+      "sentence": "このような状況の中、当社グループは、３ヶ年中期経営計画の中間期である今年度につきましても前期から引き続き、「販売戦略」、「商品戦略」、「生産・開発力強化」、「管理体制強化」を最重要施策として、変化する市場や将来の競争力強化に結実すべく積極的に経営資源を投下していくこととし、既存商品のスペック拡充やブランド認知度向上を図り、国産ならではの開発力、品質・安全性の高さを、お客様より信頼をいただくことでシェア拡大に繋げ、収益性の改善、事業基盤の強化に努めてまいりました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 4,
+      "sentence": "この結果、当連結会計年度の売上高は24,463百万円（前期比12.1％増）と増収となり、利益につきましても、営業利益1,518百万円（前期比69.6％増）、経常利益1,364百万円（前期比63.5％増）、親会社株主に帰属する当期純利益876百万円（前期比77.9％増）と増益となりました",
+      "opinions": [
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 13,
+          "to": 16
+        },
+        {
+          "target": "営業利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 54,
+          "to": 58
+        },
+        {
+          "target": "経常利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 78,
+          "to": 82
+        },
+        {
+          "target": "当期純利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 112,
+          "to": 117
+        }
+      ]
+    },
+    {
+      "sentence_id": 5,
+      "sentence": "セグメントの業績は次のとおりであります",
+      "opinions": []
+    },
+    {
+      "sentence_id": 6,
+      "sentence": "（コンタクトレンズ・ケア用品）",
+      "opinions": []
+    },
+    {
+      "sentence_id": 7,
+      "sentence": "純国産使い捨てコンタクトレンズであるピュアシリーズを中心に、国産の品質力やきめ細やかな対応力を国内外に積極的にアピールしてまいりました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 8,
+      "sentence": "また、瞳を際立たせるサークルレンズ「シードアイコフレワンデーＵＶ」と「ヒロインメイクワンデーＵＶ」等サークルレンズにつきましても、国内外において積極的な営業・広告活動を展開してまいりました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 9,
+      "sentence": "この結果、主力カテゴリーである１日使い捨てコンタクトレンズにおいては、前期より注力しておりますスペック拡充や広告宣伝効果等により「ワンデーピュアシリーズ」の乱視用を中心に伸長しており、「ワンデーピュアシリーズ」が前期対比で23％の増加となりました",
+      "opinions": [
+        {
+          "target": "乱視用",
+          "category": "product#sales",
+          "polarity": "positive",
+          "from": 78,
+          "to": 81
+        },
+        {
+          "target": "ワンデーピュアシリーズ",
+          "category": "product#sales",
+          "polarity": "positive",
+          "from": 93,
+          "to": 104
+        }
+      ]
+    },
+    {
+      "sentence_id": 10,
+      "sentence": "また、サークルレンズの主力商品である「アイコフレワンデーＵＶ」についても前期対比で５％上回りました",
+      "opinions": [
+        {
+          "target": "アイコフレワンデーＵＶ",
+          "category": "product#sales",
+          "polarity": "positive",
+          "from": 19,
+          "to": 30
+        }
+      ]
+    },
+    {
+      "sentence_id": 11,
+      "sentence": "（※比率は卸売ベース）",
+      "opinions": []
+    },
+    {
+      "sentence_id": 12,
+      "sentence": "ケア用品につきましても、流通在庫の消化や新規導入企業の獲得により前年同期を上回り、これによりセグメント全体の売上高は23,249百万円（前期比12.8％増）と増収となりました",
+      "opinions": [
+        {
+          "target": "ケア用品",
+          "category": "product#sales",
+          "polarity": "positive",
+          "from": 0,
+          "to": 4
+        },
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 54,
+          "to": 57
+        }
+      ]
+    },
+    {
+      "sentence_id": 13,
+      "sentence": "人件費や研究開発費の増加に伴い、販管費全体も増加しておりますものの、売上高伸長に伴う粗利益増加により営業利益につきましては、2,243百万円（前期比38.2％増）と増益となりました",
+      "opinions": [
+        {
+          "target": "人件費",
+          "category": "NULL#cost",
+          "polarity": "negative",
+          "from": 0,
+          "to": 3
+        },
+        {
+          "target": "研究開発費",
+          "category": "NULL#cost",
+          "polarity": "negative",
+          "from": 4,
+          "to": 9
+        },
+        {
+          "target": "販管費",
+          "category": "NULL#cost",
+          "polarity": "negative",
+          "from": 16,
+          "to": 19
+        },
+        {
+          "target": "営業利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 50,
+          "to": 54
+        }
+      ]
+    },
+    {
+      "sentence_id": 14,
+      "sentence": "（眼鏡）",
+      "opinions": []
+    },
+    {
+      "sentence_id": 15,
+      "sentence": "主力フレームの「ビビッドムーン」や「プラスミックス」を中心に、代理店の効率的な活用や展示会に出展する等、新販路の開拓や既存得意先での取引量拡大とともに、眼鏡レンズの販売終了により事業損益の改善に努めてまいりました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 16,
+      "sentence": "この結果、主力フレーム新作モデルの配荷等が進み、フレーム単体では前年を上回る売上を計上できたものの、眼鏡レンズ終売による減収分をカバーするまでには至らず、売上高全体は884百万円（前期比1.0％減）となりました",
+      "opinions": [
+        {
+          "target": "主力フレーム新作モデル",
+          "category": "product#amount",
+          "polarity": "positive",
+          "from": 5,
+          "to": 16
+        },
+        {
+          "target": "フレーム単体",
+          "category": "product#sales",
+          "polarity": "positive",
+          "from": 24,
+          "to": 30
+        },
+        {
+          "target": "眼鏡レンズ終売",
+          "category": "NULL#sales",
+          "polarity": "negative",
+          "from": 50,
+          "to": 57
+        },
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "negative",
+          "from": 77,
+          "to": 80
+        }
+      ]
+    },
+    {
+      "sentence_id": 17,
+      "sentence": "また、フレーム事業一本化による経費削減や合理化策の効果は第３四半期累計期間まで着実に現れていたものの、当期末において在庫の評価減を約36百万円計上したことで、営業損失41百万円（前期営業損失98百万円）となりました",
+      "opinions": [
+        {
+          "target": "在庫",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 58,
+          "to": 60
+        },
+        {
+          "target": "営業損失",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 79,
+          "to": 83
+        }
+      ]
+    },
+    {
+      "sentence_id": 18,
+      "sentence": "（その他）",
+      "opinions": []
+    },
+    {
+      "sentence_id": 19,
+      "sentence": "その他につきましては、売上高は329百万円（前期比0.4％減）とほぼ前年同期並みとなり、営業損失６百万円（前期営業損失71百万円）となりました",
+      "opinions": [
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "neutral",
+          "from": 11,
+          "to": 14
+        },
+        {
+          "target": "営業損失",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 44,
+          "to": 48
+        }
+      ]
+    }
+  ]
+}

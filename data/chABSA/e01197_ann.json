@@ -1,0 +1,178 @@
+{
+  "header": {
+    "document_id": "E01197",
+    "document_name": "チヨダウーテ株式会社",
+    "doc_text": "有価証券報告書",
+    "edi_id": "E01197",
+    "security_code": "53870",
+    "category33": "ガラス・土石製品",
+    "category17": "建設・資材",
+    "scale": ""
+  },
+  "sentences": [
+    {
+      "sentence_id": 0,
+      "sentence": "当連結会計年度におけるわが国の経済は、当初は足踏み状態が続いたものの、雇用・所得環境の改善を背景に個人消費に持ち直しの動きがみられるなど、緩やかな回復基調となりました",
+      "opinions": [
+        {
+          "target": "経済",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 15,
+          "to": 17
+        },
+        {
+          "target": "雇用",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 35,
+          "to": 37
+        },
+        {
+          "target": "所得環境",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 38,
+          "to": 42
+        },
+        {
+          "target": "個人消費",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 49,
+          "to": 53
+        }
+      ]
+    },
+    {
+      "sentence_id": 1,
+      "sentence": "また、世界経済は新興国の景気減速や英国のＥＵ離脱問題等不透明なリスク要因を抱えながらも、米国景気が牽引し緩やかな拡大基調が続きました",
+      "opinions": [
+        {
+          "target": "世界経済",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 3,
+          "to": 7
+        },
+        {
+          "target": "新興国",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 8,
+          "to": 11
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "sentence": "住宅市場におきましては、年度末にかけて鈍化の動きがみられましたが、日銀のマイナス金利導入に伴う住宅ローン金利の低下もあり、貸家を中心に概ね堅調に推移し、平成28年度の新設住宅着工戸数は974千戸（前年度比5.8％増）となりました",
+      "opinions": [
+        {
+          "target": "住宅市場",
+          "category": "market#general",
+          "polarity": "positive",
+          "from": 0,
+          "to": 4
+        }
+      ]
+    },
+    {
+      "sentence_id": 3,
+      "sentence": "石膏ボード業界におきましては、平成28年度の製品出荷量は504百万㎡（前年度比0.7％増）と前年水準をやや上回りました",
+      "opinions": [
+        {
+          "target": "石膏ボード業界",
+          "category": "market#general",
+          "polarity": "positive",
+          "from": 0,
+          "to": 7
+        }
+      ]
+    },
+    {
+      "sentence_id": 4,
+      "sentence": "しかしながら、新設住宅着工戸数の押し上げ要因が主に貸家であることから一棟当たりの石膏ボード使用量が伸び悩むという一面も窺われました",
+      "opinions": [
+        {
+          "target": "石膏ボード使用量",
+          "category": "NULL#amount",
+          "polarity": "negative",
+          "from": 40,
+          "to": 48
+        }
+      ]
+    },
+    {
+      "sentence_id": 5,
+      "sentence": "当社グループにおきましては、昨年春に東京支店を支社に昇格させ、営業と営業支援部門を同一拠点に集約し効率化を図るとともに、顧客向けの製品取扱いの研修会を充実させる等サービス向上に努めてまいりました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 6,
+      "sentence": "また、千葉工場で実施したドライヤー熱効率改善工事を他工場に展開する等、各工場における生産体制の見直しによる合理化・効率化対策を継続して進めているところであります",
+      "opinions": []
+    },
+    {
+      "sentence_id": 7,
+      "sentence": "更に石膏ボード以外でも断熱性・防火性に優れた断熱材アースウールの販売を新たに開始しており、これまでのケイ酸カルシウム板や鋼製下地材等の拡販もあわせて収益確保に取り組んでまいりました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 8,
+      "sentence": "この結果、当社グループにおける業績は、売上高は308億61百万円（前年同期比3.2％増）となりました",
+      "opinions": [
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 19,
+          "to": 22
+        }
+      ]
+    },
+    {
+      "sentence_id": 9,
+      "sentence": "また、営業利益は５億87百万円（前年同期比9.6％増）、経常利益は５億77百万円（前年同期比6.3％増）となりました",
+      "opinions": [
+        {
+          "target": "営業利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 3,
+          "to": 7
+        },
+        {
+          "target": "経常利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 28,
+          "to": 32
+        }
+      ]
+    },
+    {
+      "sentence_id": 10,
+      "sentence": "親会社株主に帰属する当期純利益は前期計上した東京支店の譲渡による固定資産売却益の影響により、４億29百万円（前年同期比54.3％減）と減少しました",
+      "opinions": [
+        {
+          "target": "当期純利益",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 10,
+          "to": 15
+        }
+      ]
+    },
+    {
+      "sentence_id": 11,
+      "sentence": "当社グループは、単一セグメントであるため、セグメントの業績は記載を省略しております",
+      "opinions": []
+    },
+    {
+      "sentence_id": 12,
+      "sentence": "また、事業部門等の区分による記載は「石膏ボード」と「その他」の区分により記載しており、業務区分については記載が困難なため記載を省略しております",
+      "opinions": []
+    }
+  ]
+}

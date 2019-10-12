@@ -1,0 +1,961 @@
+{
+  "header": {
+    "document_id": "E01244",
+    "document_name": "日立金属株式会社",
+    "doc_text": "有価証券報告書",
+    "edi_id": "E01244",
+    "security_code": "54860",
+    "category33": "鉄鋼",
+    "category17": "鉄鋼・非鉄",
+    "scale": "4"
+  },
+  "sentences": [
+    {
+      "sentence_id": 0,
+      "sentence": "当連結会計年度における世界経済は、先進国を中心に緩やかな回復基調が続きました",
+      "opinions": [
+        {
+          "target": "世界経済",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 11,
+          "to": 15
+        }
+      ]
+    },
+    {
+      "sentence_id": 1,
+      "sentence": "米国では個人消費や雇用情勢が好調を維持し、景気は堅調に推移しました",
+      "opinions": [
+        {
+          "target": "個人消費",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 4,
+          "to": 8
+        },
+        {
+          "target": "雇用情勢",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 9,
+          "to": 13
+        },
+        {
+          "target": "景気",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 21,
+          "to": 23
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "sentence": "欧州では企業部門の一部に改善の遅れがみられましたが、景気の緩やかな回復が続きました",
+      "opinions": [
+        {
+          "target": "一部",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 9,
+          "to": 11
+        },
+        {
+          "target": "景気",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 26,
+          "to": 28
+        }
+      ]
+    },
+    {
+      "sentence_id": 3,
+      "sentence": "中国では各種政策の効果により、景気の持ち直しの動きがみられたほか、新興国経済も総じて緩やかな回復傾向が続きました",
+      "opinions": [
+        {
+          "target": "景気",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 15,
+          "to": 17
+        },
+        {
+          "target": "新興国経済",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 33,
+          "to": 38
+        }
+      ]
+    },
+    {
+      "sentence_id": 4,
+      "sentence": "こうした中、我が国の経済は、新興国経済の成長鈍化の影響等から輸出・生産面に鈍さがみられましたが、雇用・所得環境の改善を背景に緩やかながらも回復基調となりました",
+      "opinions": [
+        {
+          "target": "経済",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 10,
+          "to": 12
+        },
+        {
+          "target": "新興国経済",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 14,
+          "to": 19
+        },
+        {
+          "target": "輸出",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 30,
+          "to": 32
+        },
+        {
+          "target": "生産面",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 33,
+          "to": 36
+        },
+        {
+          "target": "雇用",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 48,
+          "to": 50
+        },
+        {
+          "target": "所得環境",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 51,
+          "to": 55
+        }
+      ]
+    },
+    {
+      "sentence_id": 5,
+      "sentence": "当社グループの関連業界では、自動車は、米国で好調な新車販売が高止まり局面に入った一方で、国内需要が年末以降、増加に転じたことや、中国・欧州で需要が伸長した結果、全体としては前年同期と比較して増加しました",
+      "opinions": [
+        {
+          "target": "自動車",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 14,
+          "to": 17
+        },
+        {
+          "target": "新車販売",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 25,
+          "to": 29
+        },
+        {
+          "target": "国内需要",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 44,
+          "to": 48
+        },
+        {
+          "target": "需要",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 70,
+          "to": 72
+        }
+      ]
+    },
+    {
+      "sentence_id": 6,
+      "sentence": "鉄鋼は、新興国経済の成長鈍化の影響等により世界の鉄鋼需要が総じて停滞しましたが、国内では年明け以降、建設部門向け等で明るい兆しがみられました",
+      "opinions": [
+        {
+          "target": "新興国経済",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 4,
+          "to": 9
+        },
+        {
+          "target": "鉄鋼需要",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 24,
+          "to": 28
+        },
+        {
+          "target": "建設部門向け",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 50,
+          "to": 56
+        }
+      ]
+    },
+    {
+      "sentence_id": 7,
+      "sentence": "住宅着工戸数は、米国・国内ともに増加しました",
+      "opinions": [
+        {
+          "target": "住宅着工戸数",
+          "category": "NULL#amount",
+          "polarity": "positive",
+          "from": 0,
+          "to": 6
+        }
+      ]
+    },
+    {
+      "sentence_id": 8,
+      "sentence": "エレクトロニクス関連では、家電は年度後半に入って国内を中心に需要が増加し、携帯端末も年度末に向かって回復がみられました",
+      "opinions": [
+        {
+          "target": "需要",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 30,
+          "to": 32
+        },
+        {
+          "target": "携帯端末",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 37,
+          "to": 41
+        }
+      ]
+    },
+    {
+      "sentence_id": 9,
+      "sentence": "このような状況のもと、当連結会計年度における当社グループの業績は原材料価格の下落（価格スライド制）や為替相場の円高基調および需要減少の影響等により、前年同期に比べ売上収益は10.5％減の910,486百万円、調整後営業利益は10,078百万円減の65,983百万円、営業利益は31,687百万円減の68,267百万円となりました",
+      "opinions": [
+        {
+          "target": "原材料価格",
+          "category": "NULL#cost",
+          "polarity": "positive",
+          "from": 32,
+          "to": 37
+        },
+        {
+          "target": "売上収益",
+          "category": "NULL#sales",
+          "polarity": "negative",
+          "from": 81,
+          "to": 85
+        },
+        {
+          "target": "調整後営業利益",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 104,
+          "to": 111
+        },
+        {
+          "target": "営業利益",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 133,
+          "to": 137
+        }
+      ]
+    },
+    {
+      "sentence_id": 10,
+      "sentence": "営業利益の減少は主に、売上総利益の減少に加え、前連結会計年度において、日立ツール株式会社（現 三菱日立ツール株式会社）の発行済株式総数の51％に相当する株式を三菱マテリアル株式会社に2015年４月１日付で譲渡したこと等により、その他の収益として事業再編等利益30,232百万円を計上したことによるものです",
+      "opinions": [
+        {
+          "target": "営業利益",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 0,
+          "to": 4
+        },
+        {
+          "target": "売上総利益",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 11,
+          "to": 16
+        }
+      ]
+    },
+    {
+      "sentence_id": 11,
+      "sentence": "税引前当期利益は前年同期比30,217百万円減の66,016百万円、親会社株主に帰属する当期利益は前年同期比18,463百万円減の50,593百万円となりました",
+      "opinions": [
+        {
+          "target": "税引前当期利益",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 0,
+          "to": 7
+        },
+        {
+          "target": "当期利益",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 44,
+          "to": 48
+        }
+      ]
+    },
+    {
+      "sentence_id": 12,
+      "sentence": "セグメントの業績は、次のとおりです",
+      "opinions": []
+    },
+    {
+      "sentence_id": 13,
+      "sentence": "各セグメントの売上収益は、セグメント間の内部売上収益を含んでおります",
+      "opinions": []
+    },
+    {
+      "sentence_id": 14,
+      "sentence": "なお、当社グループは、当連結会計年度から、報告セグメントに関する事業および連結子会社の社内管理区分を一部変更するとともに、調整額に含めていた全社の一般管理費のうち研究費等を、予算に基づいて、各報告セグメントへ配賦する方法に変更しております",
+      "opinions": []
+    },
+    {
+      "sentence_id": 15,
+      "sentence": "詳細は、「第５　経理の状況　１連結財務諸表等　連結財務諸表注記　注４．セグメント情報」をご確認ください",
+      "opinions": []
+    },
+    {
+      "sentence_id": 16,
+      "sentence": "以下の前年同期との比較においては、前年同期の数値を変更後のセグメント区分に組み替えた数値で比較しております",
+      "opinions": []
+    },
+    {
+      "sentence_id": 17,
+      "sentence": "高級金属製品",
+      "opinions": []
+    },
+    {
+      "sentence_id": 18,
+      "sentence": "当セグメントの売上収益は、前年同期比8.5％減の234,725百万円となり、調整後営業利益は前年同期比3,525百万円減の23,503百万円となりました",
+      "opinions": [
+        {
+          "target": "売上収益",
+          "category": "NULL#sales",
+          "polarity": "negative",
+          "from": 7,
+          "to": 11
+        },
+        {
+          "target": "調整後営業利益",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 38,
+          "to": 45
+        }
+      ]
+    },
+    {
+      "sentence_id": 19,
+      "sentence": "また、営業利益は、売上収益が減少した影響のほか、前連結会計年度に日立ツール株式会社（現 三菱日立ツール株式会社）の株式を譲渡したことに伴う事業再編等利益25,931百万円を計上したことから、前年同期比31,793百万円減少し、21,277百万円となりました",
+      "opinions": [
+        {
+          "target": "営業利益",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 3,
+          "to": 7
+        },
+        {
+          "target": "売上収益",
+          "category": "NULL#sales",
+          "polarity": "negative",
+          "from": 9,
+          "to": 13
+        }
+      ]
+    },
+    {
+      "sentence_id": 20,
+      "sentence": "特殊鋼については、工具鋼は、第１四半期連結会計期間においてアジアを中心とする経済減速の影響を受けた在庫調整があり、前年同期を下回りました",
+      "opinions": [
+        {
+          "target": "工具鋼",
+          "category": "product#general",
+          "polarity": "negative",
+          "from": 9,
+          "to": 12
+        },
+        {
+          "target": "アジア",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 29,
+          "to": 32
+        }
+      ]
+    },
+    {
+      "sentence_id": 21,
+      "sentence": "産業機器材料は、自動車関連の環境親和製品等の需要が増加したほか、その他産業部材も堅調に推移しました",
+      "opinions": [
+        {
+          "target": "環境親和製品",
+          "category": "product#amount",
+          "polarity": "positive",
+          "from": 14,
+          "to": 20
+        },
+        {
+          "target": "その他産業部材",
+          "category": "product#general",
+          "polarity": "positive",
+          "from": 32,
+          "to": 39
+        }
+      ]
+    },
+    {
+      "sentence_id": 22,
+      "sentence": "航空機関連材料およびエネルギー関連材料は、需要の端境期となりました",
+      "opinions": [
+        {
+          "target": "航空機関連材料",
+          "category": "product#amount",
+          "polarity": "negative",
+          "from": 0,
+          "to": 7
+        },
+        {
+          "target": "エネルギー関連材料",
+          "category": "product#amount",
+          "polarity": "negative",
+          "from": 10,
+          "to": 19
+        }
+      ]
+    },
+    {
+      "sentence_id": 23,
+      "sentence": "電子材料は、ディスプレイ関連材料が低調でした",
+      "opinions": [
+        {
+          "target": "ディスプレイ関連材料",
+          "category": "product#general",
+          "polarity": "negative",
+          "from": 6,
+          "to": 16
+        }
+      ]
+    },
+    {
+      "sentence_id": 24,
+      "sentence": "ロールについては、高付加価値製品に経営資源を集中することを目的に、2016年９月１日をもって宝鋼日立金属軋グン（南通）有限公司の生産を打ち切りました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 25,
+      "sentence": "また、射出成形機用部品は、携帯端末の需要減少の影響を受けました",
+      "opinions": [
+        {
+          "target": "携帯端末",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 13,
+          "to": 17
+        }
+      ]
+    },
+    {
+      "sentence_id": 26,
+      "sentence": "この結果、ロール全体としては前年同期と比べて減少しました",
+      "opinions": [
+        {
+          "target": "ロール",
+          "category": "product#general",
+          "polarity": "negative",
+          "from": 5,
+          "to": 8
+        }
+      ]
+    },
+    {
+      "sentence_id": 27,
+      "sentence": "軟質磁性材料およびその応用品については、主力のアモルファス金属材料でインド向けが増加しましたが、中国向けの減少により、全体として前年同期を下回りました",
+      "opinions": [
+        {
+          "target": "軟質磁性材料",
+          "category": "product#general",
+          "polarity": "negative",
+          "from": 0,
+          "to": 6
+        },
+        {
+          "target": "応用品",
+          "category": "product#general",
+          "polarity": "negative",
+          "from": 11,
+          "to": 14
+        },
+        {
+          "target": "インド向け",
+          "category": "product#amount",
+          "polarity": "positive",
+          "from": 34,
+          "to": 39
+        },
+        {
+          "target": "中国向け",
+          "category": "product#amount",
+          "polarity": "negative",
+          "from": 48,
+          "to": 52
+        }
+      ]
+    },
+    {
+      "sentence_id": 28,
+      "sentence": "磁性材料",
+      "opinions": []
+    },
+    {
+      "sentence_id": 29,
+      "sentence": "当セグメントの売上収益は、前年同期比5.2％減の99,756百万円となり、調整後営業利益は前年同期比2,392百万円増の9,314百万円となりました",
+      "opinions": [
+        {
+          "target": "売上収益",
+          "category": "NULL#sales",
+          "polarity": "negative",
+          "from": 7,
+          "to": 11
+        },
+        {
+          "target": "調整後営業利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 37,
+          "to": 44
+        }
+      ]
+    },
+    {
+      "sentence_id": 30,
+      "sentence": "また、営業利益は、前年同期比2,274百万円増加し、9,301百万円となりました",
+      "opinions": [
+        {
+          "target": "営業利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 3,
+          "to": 7
+        }
+      ]
+    },
+    {
+      "sentence_id": 31,
+      "sentence": "希土類磁石については、電動パワーステアリングおよびハイブリッド自動車向け等の自動車用電装部品の需要が好調に推移し、産業機器および家電関連の需要も前年同期を上回りました",
+      "opinions": [
+        {
+          "target": "電動パワーステアリング",
+          "category": "product#amount",
+          "polarity": "positive",
+          "from": 11,
+          "to": 22
+        },
+        {
+          "target": "電装部品",
+          "category": "product#amount",
+          "polarity": "positive",
+          "from": 42,
+          "to": 46
+        },
+        {
+          "target": "産業機器",
+          "category": "product#amount",
+          "polarity": "positive",
+          "from": 57,
+          "to": 61
+        },
+        {
+          "target": "家電関連",
+          "category": "product#amount",
+          "polarity": "positive",
+          "from": 64,
+          "to": 68
+        }
+      ]
+    },
+    {
+      "sentence_id": 32,
+      "sentence": "フェライト磁石については、自動車用電装部品、家電用部品ともに好調に推移しました",
+      "opinions": [
+        {
+          "target": "電装部品",
+          "category": "product#general",
+          "polarity": "positive",
+          "from": 17,
+          "to": 21
+        },
+        {
+          "target": "部品",
+          "category": "product#general",
+          "polarity": "positive",
+          "from": 25,
+          "to": 27
+        }
+      ]
+    },
+    {
+      "sentence_id": 33,
+      "sentence": "しかしながら、当セグメント全体の売上収益としては原材料価格の下落（価格スライド制）や為替相場の円高基調の影響で前年同期を下回りました",
+      "opinions": [
+        {
+          "target": "売上収益",
+          "category": "NULL#sales",
+          "polarity": "negative",
+          "from": 16,
+          "to": 20
+        },
+        {
+          "target": "原材料価格",
+          "category": "NULL#cost",
+          "polarity": "positive",
+          "from": 24,
+          "to": 29
+        }
+      ]
+    },
+    {
+      "sentence_id": 34,
+      "sentence": "高級機能部品",
+      "opinions": []
+    },
+    {
+      "sentence_id": 35,
+      "sentence": "当セグメントの売上収益は、前年同期比8.7％減の333,509百万円となり、調整後営業利益は前年同期比8,662百万円減の17,453百万円となりました",
+      "opinions": [
+        {
+          "target": "売上収益",
+          "category": "NULL#sales",
+          "polarity": "negative",
+          "from": 7,
+          "to": 11
+        },
+        {
+          "target": "調整後営業利益",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 38,
+          "to": 45
+        }
+      ]
+    },
+    {
+      "sentence_id": 36,
+      "sentence": "また、営業利益は、前年同期比7,688百万円減少し、15,920百万円となりました",
+      "opinions": [
+        {
+          "target": "営業利益",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 3,
+          "to": 7
+        }
+      ]
+    },
+    {
+      "sentence_id": 37,
+      "sentence": "自動車用鋳物については、北米において、ピックアップトラック向けは高水準を維持しましたが、新興国経済の減速や穀物・原油価格が低調に推移した影響等を受け、農業機械・建設機械向けの需要が減少したため、全体としては前年同期と比較して減少しました",
+      "opinions": [
+        {
+          "target": "鋳物",
+          "category": "product#amount",
+          "polarity": "negative",
+          "from": 4,
+          "to": 6
+        },
+        {
+          "target": "ピックアップトラック向け",
+          "category": "product#general",
+          "polarity": "positive",
+          "from": 19,
+          "to": 31
+        },
+        {
+          "target": "新興国経済",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 44,
+          "to": 49
+        },
+        {
+          "target": "穀物・原油価格",
+          "category": "NULL#price",
+          "polarity": "negative",
+          "from": 53,
+          "to": 60
+        },
+        {
+          "target": "需要",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 87,
+          "to": 89
+        }
+      ]
+    },
+    {
+      "sentence_id": 38,
+      "sentence": "耐熱鋳造部品は、米国・アジア向けが大きく伸長し、前年同期を上回りました",
+      "opinions": [
+        {
+          "target": "耐熱鋳造部品",
+          "category": "product#general",
+          "polarity": "positive",
+          "from": 0,
+          "to": 6
+        },
+        {
+          "target": "米国・アジア向け",
+          "category": "product#general",
+          "polarity": "positive",
+          "from": 8,
+          "to": 16
+        }
+      ]
+    },
+    {
+      "sentence_id": 39,
+      "sentence": "アルミホイールは、出荷量が減少したほか、為替相場が円高基調となった影響により、前年同期を下回りました",
+      "opinions": [
+        {
+          "target": "アルミホイール",
+          "category": "product#amount",
+          "polarity": "negative",
+          "from": 0,
+          "to": 7
+        },
+        {
+          "target": "アルミホイール",
+          "category": "product#general",
+          "polarity": "negative",
+          "from": 0,
+          "to": 7
+        }
+      ]
+    },
+    {
+      "sentence_id": 40,
+      "sentence": "配管機器については、継手類は、国内・海外とも住宅着工戸数の増加に伴い住宅向けの需要が順調に推移しましたが、国内で大規模建設工事の遅れの影響もあり、全体としては前年同期と比較して減少しました",
+      "opinions": [
+        {
+          "target": "継手類",
+          "category": "product#general",
+          "polarity": "negative",
+          "from": 10,
+          "to": 13
+        },
+        {
+          "target": "住宅着工戸数",
+          "category": "NULL#amount",
+          "polarity": "positive",
+          "from": 22,
+          "to": 28
+        },
+        {
+          "target": "住宅向け",
+          "category": "product#amount",
+          "polarity": "positive",
+          "from": 34,
+          "to": 38
+        },
+        {
+          "target": "大規模建設工事",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 56,
+          "to": 63
+        }
+      ]
+    },
+    {
+      "sentence_id": 41,
+      "sentence": "電線材料",
+      "opinions": []
+    },
+    {
+      "sentence_id": 42,
+      "sentence": "当セグメントの売上収益は、前年同期比16.3％減の241,392百万円となり、調整後営業利益は前年同期比309百万円減の14,715百万円となりました",
+      "opinions": [
+        {
+          "target": "売上収益",
+          "category": "NULL#sales",
+          "polarity": "negative",
+          "from": 7,
+          "to": 11
+        },
+        {
+          "target": "調整後営業利益",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 39,
+          "to": 46
+        }
+      ]
+    },
+    {
+      "sentence_id": 43,
+      "sentence": "また、当セグメントでは、事業ポートフォリオ刷新を目的として、以下の施策を実行しました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 44,
+      "sentence": "まず、情報システム事業（情報ネットワーク事業およびワイヤレスアンテナ事業並びに当社が保有する日立電線ネットワークス株式会社の発行済株式の全て）を2016年12月1日付で譲渡しました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 45,
+      "sentence": "また、市場環境の変化に対し迅速に経営判断を行うことを目的に、2017年1月5日付で、当社と住友金属鉱山株式会社（以下、「住友金属鉱山」という",
+      "opinions": []
+    },
+    {
+      "sentence_id": 46,
+      "sentence": "）との合弁会社で当社の持分法適用会社であったSHマテリアル株式会社の発行済株式のうち、当社の保有する株式の全てを住友金属鉱山に譲渡し、併せて当社と住友金属鉱山の合弁会社で当社の持分法適用会社であった株式会社SHカッパ―プロダクツ（以下、「SHカッパ―プロダクツ」という",
+      "opinions": []
+    },
+    {
+      "sentence_id": 47,
+      "sentence": "）の発行済株式のうち、住友金属鉱山の保有する株式の全てを取得し、SHカッパ―プロダクツを当社の完全子会社としました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 48,
+      "sentence": "これらの施策等に伴い、当連結会計年度において、事業再編等利益を8,417百万円計上いたしました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 49,
+      "sentence": "この結果、営業利益は前年同期比4,974百万円増加し、20,953百万円となりました",
+      "opinions": [
+        {
+          "target": "営業利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 5,
+          "to": 9
+        }
+      ]
+    },
+    {
+      "sentence_id": 50,
+      "sentence": "事業ごとの状況をみますと、電線については、巻線や建設向けが減少しましたが、注力分野である鉄道車両用電線が中国向けを中心に大きく伸長しました",
+      "opinions": [
+        {
+          "target": "巻線",
+          "category": "product#general",
+          "polarity": "negative",
+          "from": 21,
+          "to": 23
+        },
+        {
+          "target": "建設向け",
+          "category": "product#general",
+          "polarity": "negative",
+          "from": 24,
+          "to": 28
+        },
+        {
+          "target": "電線",
+          "category": "product#general",
+          "polarity": "positive",
+          "from": 49,
+          "to": 51
+        }
+      ]
+    },
+    {
+      "sentence_id": 51,
+      "sentence": "機能品については、自動車部品は、自動車用電装部品、ブレーキホースとも堅調でした",
+      "opinions": [
+        {
+          "target": "電装部品",
+          "category": "product#general",
+          "polarity": "positive",
+          "from": 20,
+          "to": 24
+        },
+        {
+          "target": "ブレーキホース",
+          "category": "product#general",
+          "polarity": "positive",
+          "from": 25,
+          "to": 32
+        }
+      ]
+    },
+    {
+      "sentence_id": 52,
+      "sentence": "医療用プローブケーブルは、海外向けの需要が減少し、前年同期を下回りました",
+      "opinions": [
+        {
+          "target": "プローブケーブル",
+          "category": "product#general",
+          "polarity": "negative",
+          "from": 3,
+          "to": 11
+        },
+        {
+          "target": "海外向け",
+          "category": "product#general",
+          "polarity": "negative",
+          "from": 13,
+          "to": 17
+        }
+      ]
+    },
+    {
+      "sentence_id": 53,
+      "sentence": "その他",
+      "opinions": []
+    },
+    {
+      "sentence_id": 54,
+      "sentence": "当セグメントの売上収益は、前年同期比16.5％減の2,963百万円となり、調整後営業利益は前年同期比65百万円減の253百万円となりました",
+      "opinions": [
+        {
+          "target": "売上収益",
+          "category": "NULL#sales",
+          "polarity": "negative",
+          "from": 7,
+          "to": 11
+        },
+        {
+          "target": "調整後営業利益",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 37,
+          "to": 44
+        }
+      ]
+    },
+    {
+      "sentence_id": 55,
+      "sentence": "また、営業利益は、前年同期比188百万円増加し、331百万円となりました",
+      "opinions": [
+        {
+          "target": "営業利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 3,
+          "to": 7
+        }
+      ]
+    },
+    {
+      "sentence_id": 56,
+      "sentence": "（注）「調整後営業利益」は、連結損益計算書に表示している営業利益からその他の収益、その他の費用を除いた指標です",
+      "opinions": []
+    }
+  ]
+}

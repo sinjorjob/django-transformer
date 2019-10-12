@@ -1,0 +1,239 @@
+{
+  "header": {
+    "document_id": "E30066",
+    "document_name": "アズマハウス株式会社",
+    "doc_text": "訂正有価証券報告書",
+    "edi_id": "E30066",
+    "security_code": "32930",
+    "category33": "不動産業",
+    "category17": "不動産",
+    "scale": ""
+  },
+  "sentences": [
+    {
+      "sentence_id": 0,
+      "sentence": "当事業年度におけるわが国経済は、政府・日銀の経済施策の継続により、景気が下支えられ全体として緩やかな回復基調を維持しましたが、一方で、消費支出の伸び悩みや不安定な世界情勢により、先行きは依然不透明な状況は続いております",
+      "opinions": [
+        {
+          "target": "わが国経済",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 9,
+          "to": 14
+        },
+        {
+          "target": "景気",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 33,
+          "to": 35
+        },
+        {
+          "target": "消費支出",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 67,
+          "to": 71
+        },
+        {
+          "target": "世界情勢",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 81,
+          "to": 85
+        },
+        {
+          "target": "先行き",
+          "category": "NULL#general",
+          "polarity": "neutral",
+          "from": 89,
+          "to": 92
+        }
+      ]
+    },
+    {
+      "sentence_id": 1,
+      "sentence": "このような環境の中、当社におきましても３つの基本戦略である、「既存事業の深耕」、「マーケットエリア拡大」、「多角化推進」により競争力の強化を図り、これらの結果、当事業年度における業績は、売上高は",
+      "opinions": []
+    },
+    {
+      "sentence_id": 2,
+      "sentence": "123億49百万円（前年同期比13.0％増）、営業利益は15億63百万円（前年同期比31.1％増）、売上高営業利益率は12.7％（前年同期10.9％）、経常利益は15億57百万円（前年同期比31.2％増）、当期純利益は９億40百万円（前年同期比20.4％増）となりました",
+      "opinions": [
+        {
+          "target": "営業利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 23,
+          "to": 27
+        },
+        {
+          "target": "売上高営業利益率",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 50,
+          "to": 58
+        },
+        {
+          "target": "経常利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 76,
+          "to": 80
+        },
+        {
+          "target": "当期純利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 103,
+          "to": 108
+        }
+      ]
+    },
+    {
+      "sentence_id": 3,
+      "sentence": "セグメントごとの販売状況は次のとおりであります",
+      "opinions": []
+    },
+    {
+      "sentence_id": 4,
+      "sentence": "(注) １．セグメント間取引については相殺消去しております",
+      "opinions": []
+    },
+    {
+      "sentence_id": 5,
+      "sentence": "２．主たる販売先は不特定多数の一般消費者であり、相手先別販売実績に対する割合が100分の10以上の販売先はありません",
+      "opinions": []
+    },
+    {
+      "sentence_id": 6,
+      "sentence": "３．上記の金額に消費税等は含まれておりません",
+      "opinions": []
+    },
+    {
+      "sentence_id": 7,
+      "sentence": "セグメント別の業績は次のとおりであります",
+      "opinions": []
+    },
+    {
+      "sentence_id": 8,
+      "sentence": "① 不動産・建設事業",
+      "opinions": []
+    },
+    {
+      "sentence_id": 9,
+      "sentence": "不動産・建設事業は、土地分譲321件、建物販売231件、中古住宅販売49件の販売を行いました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 10,
+      "sentence": "その結果、売上高は87億96百万円（前年同期比111.0％）、セグメント利益は９億50百万円（前年同期比155.1％）となりました",
+      "opinions": [
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 5,
+          "to": 8
+        },
+        {
+          "target": "セグメント利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 31,
+          "to": 38
+        }
+      ]
+    },
+    {
+      "sentence_id": 11,
+      "sentence": "② 不動産賃貸事業",
+      "opinions": []
+    },
+    {
+      "sentence_id": 12,
+      "sentence": "不動産賃貸事業は、居住用物件985件、テナントその他物件236件を保有し、賃貸経営、賃貸管理及び賃貸仲介を行いました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 13,
+      "sentence": "その結果、売上高は17億98百万円（前年同期比110.8％）、セグメント利益は６億49百万円（前年同期比109.6％）となりました",
+      "opinions": [
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 5,
+          "to": 8
+        },
+        {
+          "target": "セグメント利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 31,
+          "to": 38
+        }
+      ]
+    },
+    {
+      "sentence_id": 14,
+      "sentence": "③ 土地有効活用事業",
+      "opinions": []
+    },
+    {
+      "sentence_id": 15,
+      "sentence": "土地有効活用事業は、注文建築１件、戸建賃貸15件、その他６件の販売を行いました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 16,
+      "sentence": "その結果、売上高は９億76百万円（前年同期比146.9％）、セグメント利益１億11百万円（前年同期比139.1％）となりました",
+      "opinions": [
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 5,
+          "to": 8
+        },
+        {
+          "target": "セグメント利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 30,
+          "to": 37
+        }
+      ]
+    },
+    {
+      "sentence_id": 17,
+      "sentence": "④ ホテル事業",
+      "opinions": []
+    },
+    {
+      "sentence_id": 18,
+      "sentence": "ホテル事業は、３箇所のビジネスホテル、３箇所の飲食店舗を運営しました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 19,
+      "sentence": "その結果、売上高は７億78百万円（前年同期比108.4％）、セグメント利益は１億29百万円（前年同期比74.7％）となりました",
+      "opinions": [
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 5,
+          "to": 8
+        },
+        {
+          "target": "セグメント利益",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 30,
+          "to": 37
+        }
+      ]
+    }
+  ]
+}

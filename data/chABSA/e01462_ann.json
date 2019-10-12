@@ -1,0 +1,278 @@
+{
+  "header": {
+    "document_id": "E01462",
+    "document_name": "サンコーテクノ株式会社",
+    "doc_text": "有価証券報告書",
+    "edi_id": "E01462",
+    "security_code": "34350",
+    "category33": "金属製品",
+    "category17": "建設・資材",
+    "scale": ""
+  },
+  "sentences": [
+    {
+      "sentence_id": 0,
+      "sentence": "当連結会計年度における我が国経済は、個人消費の改善に遅れがみられたものの、政府による経済政策等により、企業収益や雇用情勢の改善がみられ、景気は緩やかな回復基調となりました",
+      "opinions": [
+        {
+          "target": "個人消費",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 18,
+          "to": 22
+        },
+        {
+          "target": "企業収益",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 51,
+          "to": 55
+        },
+        {
+          "target": "雇用情勢",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 56,
+          "to": 60
+        },
+        {
+          "target": "景気",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 68,
+          "to": 70
+        }
+      ]
+    },
+    {
+      "sentence_id": 1,
+      "sentence": "当社グループが関連する建設市場におきましては、民間設備投資・公共投資ともに底堅い動きがみられた一方で、技能労働者の慢性的な不足等による建築着工量の減少・地域格差がみられました",
+      "opinions": [
+        {
+          "target": "民間設備投資",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 23,
+          "to": 29
+        },
+        {
+          "target": "公共投資",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 30,
+          "to": 34
+        },
+        {
+          "target": "技能労働者",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 51,
+          "to": 56
+        },
+        {
+          "target": "建築着工量",
+          "category": "NULL#amount",
+          "polarity": "negative",
+          "from": 67,
+          "to": 72
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "sentence": "加えて、太陽光発電設備の着工量の減少も影響し、当社グループを取り巻く経営環境は依然として厳しい状況が続きました",
+      "opinions": [
+        {
+          "target": "着工量",
+          "category": "NULL#amount",
+          "polarity": "negative",
+          "from": 12,
+          "to": 15
+        },
+        {
+          "target": "経営環境",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 34,
+          "to": 38
+        }
+      ]
+    },
+    {
+      "sentence_id": 3,
+      "sentence": "この結果、当連結会計年度の売上高は15,497百万円（前連結会計年度年比6.9％減）、営業利益1,124百万円（同16.0％減）、経常利益1,119百万円（同10.9％減）、親会社株主に帰属する当期純利益は790百万円（同2.4％減）となりました",
+      "opinions": [
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "negative",
+          "from": 13,
+          "to": 16
+        },
+        {
+          "target": "営業利益",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 43,
+          "to": 47
+        },
+        {
+          "target": "経常利益",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 65,
+          "to": 69
+        },
+        {
+          "target": "当期純利益",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 97,
+          "to": 102
+        }
+      ]
+    },
+    {
+      "sentence_id": 4,
+      "sentence": "各セグメントの業績は以下のとおりであります",
+      "opinions": []
+    },
+    {
+      "sentence_id": 5,
+      "sentence": "① ファスニング事業",
+      "opinions": []
+    },
+    {
+      "sentence_id": 6,
+      "sentence": "各種設備工事等の需要回復に伴い、当社の主力製品である金属系あと施工アンカーの販売は比較的堅調に推移いたしました",
+      "opinions": [
+        {
+          "target": "各種設備工事",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 0,
+          "to": 6
+        },
+        {
+          "target": "あと施工アンカー",
+          "category": "product#amount",
+          "polarity": "positive",
+          "from": 29,
+          "to": 37
+        }
+      ]
+    },
+    {
+      "sentence_id": 7,
+      "sentence": "一方、太陽光関連の売上高が大幅に減少したほか、耐震工事等が減少したことで、接着系あと施工アンカーの販売が低調に推移いたしました",
+      "opinions": [
+        {
+          "target": "太陽光関連",
+          "category": "product#sales",
+          "polarity": "negative",
+          "from": 3,
+          "to": 8
+        },
+        {
+          "target": "耐震工事",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 23,
+          "to": 27
+        },
+        {
+          "target": "あと施工アンカー",
+          "category": "product#amount",
+          "polarity": "negative",
+          "from": 40,
+          "to": 48
+        }
+      ]
+    },
+    {
+      "sentence_id": 8,
+      "sentence": "この結果、当セグメントの売上高は11,859百万円（前連結会計年度比5.9％減）、セグメント利益は1,546百万円（同10.7％減）となりました",
+      "opinions": [
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "negative",
+          "from": 12,
+          "to": 15
+        },
+        {
+          "target": "セグメント利益",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 41,
+          "to": 48
+        }
+      ]
+    },
+    {
+      "sentence_id": 9,
+      "sentence": "② 機能材事業",
+      "opinions": []
+    },
+    {
+      "sentence_id": 10,
+      "sentence": "アルコール測定器の販売は好調に推移いたしました",
+      "opinions": [
+        {
+          "target": "アルコール測定器",
+          "category": "product#amount",
+          "polarity": "positive",
+          "from": 0,
+          "to": 8
+        }
+      ]
+    },
+    {
+      "sentence_id": 11,
+      "sentence": "一方、電動油圧工具関連は、国内販売が低調に推移したほか、FRPシート関連に含まれる二重床等の複合材料の販売や、電子基板関連の販売が減少いたしました",
+      "opinions": [
+        {
+          "target": "国内販売",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 13,
+          "to": 17
+        },
+        {
+          "target": "複合材料",
+          "category": "product#amount",
+          "polarity": "negative",
+          "from": 46,
+          "to": 50
+        },
+        {
+          "target": "電子基板関連",
+          "category": "product#amount",
+          "polarity": "negative",
+          "from": 55,
+          "to": 61
+        }
+      ]
+    },
+    {
+      "sentence_id": 12,
+      "sentence": "この結果、当セグメントの売上高は3,637百万円（同10.0％減）、セグメント利益は444百万円（同10.6％減）となりました",
+      "opinions": [
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "negative",
+          "from": 12,
+          "to": 15
+        },
+        {
+          "target": "セグメント利益",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 34,
+          "to": 41
+        }
+      ]
+    }
+  ]
+}

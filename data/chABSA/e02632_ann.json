@@ -1,0 +1,431 @@
+{
+  "header": {
+    "document_id": "E02632",
+    "document_name": "株式会社メディパルホールディングス",
+    "doc_text": "有価証券報告書",
+    "edi_id": "E02632",
+    "security_code": "74590",
+    "category33": "卸売業",
+    "category17": "商社・卸売",
+    "scale": "4"
+  },
+  "sentences": [
+    {
+      "sentence_id": 0,
+      "sentence": "当連結会計年度におけるわが国経済は、海外景気の下振れ懸念があるものの、政府による経済政策の効果、雇用・所得環境の改善などにより、緩やかな回復基調で推移いたしました",
+      "opinions": [
+        {
+          "target": "わが国経済",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 11,
+          "to": 16
+        },
+        {
+          "target": "海外景気",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 18,
+          "to": 22
+        },
+        {
+          "target": "雇用",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 48,
+          "to": 50
+        },
+        {
+          "target": "所得環境",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 51,
+          "to": 55
+        }
+      ]
+    },
+    {
+      "sentence_id": 1,
+      "sentence": "このような経済状況の中、当社グループでは「医療と健康、美」の流通で社会に貢献する新しい卸の形をめざし、３か年にわたる「２０１９メディパル中期ビジョン　Change the 卸 next － 革新と創造」を策定しております",
+      "opinions": []
+    },
+    {
+      "sentence_id": 2,
+      "sentence": "既存事業のさらなる効率化と機能の拡充、全国のインフラと人材を活用した新規事業の拡大をいっそう進めるとともに、グループ各社の機能・資源を活かした成長分野の事業展開を行うことにより収益基盤を拡大し、当社グループの持続的な成長を実現してまいります",
+      "opinions": []
+    },
+    {
+      "sentence_id": 3,
+      "sentence": "本ビジョンに沿った取組みとして、平成28年４月、グループ内の事業統合により食品加工原材料等卸売事業を行うメディパルフーズ株式会社（札幌市中央区）が発足いたしました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 4,
+      "sentence": "５月には希少疾病用医薬品などのスペシャリティ医薬品の流通における企画・提案を行うＳＰＬｉｎｅ株式会社（東京都中央区）を立ち上げ、６月にはアプリ開発企業でデジタルヘルスケア分野に強みをもつ株式会社エムティーアイ（東京都新宿区）と資本業務提携を行いました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 5,
+      "sentence": "また、７月には調剤薬局経営支援などを行う株式会社プレサスキューブ（東京都港区）を合弁会社として設立いたしました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 6,
+      "sentence": "さらに、平成29年３月に株式会社産業革新機構（東京都千代田区）、武田薬品工業株式会社（大阪市中央区）との共同出資による創薬ベンチャー企業として、株式会社スコヒアファーマ（神奈川県藤沢市）を設立いたしました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 7,
+      "sentence": "当連結会計年度における経営成績は、売上高３兆639億円（前期比1.2％増）、営業利益396億50百万円（前期比6.2％減）、経常利益533億60百万円（前期比3.2％減）、親会社株主に帰属する当期純利益290億11百万円（前期比5.7％減）となりました",
+      "opinions": [
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 17,
+          "to": 20
+        },
+        {
+          "target": "営業利益",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 38,
+          "to": 42
+        },
+        {
+          "target": "経常利益",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 62,
+          "to": 66
+        },
+        {
+          "target": "当期純利益",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 96,
+          "to": 101
+        }
+      ]
+    },
+    {
+      "sentence_id": 8,
+      "sentence": "セグメントの業績は次のとおりであります",
+      "opinions": []
+    },
+    {
+      "sentence_id": 9,
+      "sentence": "医療用医薬品等卸売事業",
+      "opinions": []
+    },
+    {
+      "sentence_id": 10,
+      "sentence": "医療用医薬品等の販売は、需要が拡大する後発医薬品（ジェネリック医薬品）や新薬に積極的な取組みを行ったものの、平成28年４月に実施された薬価引下げやＣ型肝炎治療薬の需要がピークアウトしたことなどにより市場がマイナス成長となり、厳しい状況で推移いたしました",
+      "opinions": [
+        {
+          "target": "医療用医薬品",
+          "category": "product#amount",
+          "polarity": "negative",
+          "from": 0,
+          "to": 6
+        },
+        {
+          "target": "需要",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 81,
+          "to": 83
+        },
+        {
+          "target": "市場",
+          "category": "market#general",
+          "polarity": "negative",
+          "from": 99,
+          "to": 101
+        }
+      ]
+    },
+    {
+      "sentence_id": 11,
+      "sentence": "本事業では、国民にとって安全・安心な医療を支える社会インフラとして、製薬企業から患者さんに至るまでのサプライチェーン全体の最適化・効率化を図るべく、卸機能を最大限に発揮するためのさまざまな取組みと投資を積極的に行っております",
+      "opinions": []
+    },
+    {
+      "sentence_id": 12,
+      "sentence": "物流基盤の強化については、ＡＬＣ※１の全国拡大を当社の完全子会社である各事業会社が進めており、平成28年７月に株式会社アトルの「福岡ＡＬＣ」（福岡市東区）、平成29年３月には株式会社メディセオの「埼玉ＡＬＣ」（埼玉県三郷市）、株式会社エバルスの「岡山ＡＬＣ」（岡山県都窪郡）が新たに稼働いたしました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 13,
+      "sentence": "また、ＡＬＣが稼働するエリアにおいてＦＬＣ※２の設置を進めるとともに、ＡＬＣと連動して調剤薬局における医薬品の品切れ防止や業務効率の改善などを実現する調剤薬局業務サポートシステム「ＰＲＥＳＵＳ®（プレサス）※３」の普及に取り組んでおります",
+      "opinions": []
+    },
+    {
+      "sentence_id": 14,
+      "sentence": "営業面の強化については、2,000人規模に拡大したＭＲ認定試験合格者を、高い専門知識とスキルをもつＡＲ※４として任命し、新たなプロモーション活動に取り組んでおります",
+      "opinions": []
+    },
+    {
+      "sentence_id": 15,
+      "sentence": "また、全国の事業拠点やＡＲなどの人材を活用し、医薬品の製造販売後調査（ＰＭＳ）の一部を製薬企業から受託する事業を展開しております",
+      "opinions": []
+    },
+    {
+      "sentence_id": 16,
+      "sentence": "これらの結果、医療用医薬品等卸売事業における売上高は２兆851億75百万円（前期比1.8％減）、営業利益は186億70百万円（前期比23.9％減）となりました",
+      "opinions": [
+        {
+          "target": "医療用医薬品等卸売事業",
+          "category": "business#sales",
+          "polarity": "negative",
+          "from": 7,
+          "to": 18
+        },
+        {
+          "target": "医療用医薬品等卸売事業",
+          "category": "business#profit",
+          "polarity": "negative",
+          "from": 7,
+          "to": 18
+        }
+      ]
+    },
+    {
+      "sentence_id": 17,
+      "sentence": "[用語解説]",
+      "opinions": []
+    },
+    {
+      "sentence_id": 18,
+      "sentence": "※１ ＡＬＣ（Area Logistics Center）とは、医療用医薬品や医療材料などを扱う高機能物流センターで、",
+      "opinions": []
+    },
+    {
+      "sentence_id": 19,
+      "sentence": "主に調剤薬局、病院、診療所に商品を供給しております",
+      "opinions": []
+    },
+    {
+      "sentence_id": 20,
+      "sentence": "※２ ＦＬＣ（Front Logistics Center）とは、ＡＬＣと連携して、顧客に近い場所で商品の安定供給を支える",
+      "opinions": []
+    },
+    {
+      "sentence_id": 21,
+      "sentence": "営業兼物流拠点であります",
+      "opinions": []
+    },
+    {
+      "sentence_id": 22,
+      "sentence": "※３ ＰＲＥＳＵＳ®（Pharmacy Real-time Support System）とは、ＡＬＣと連動して、需要予測による自動発注",
+      "opinions": []
+    },
+    {
+      "sentence_id": 23,
+      "sentence": "や在庫管理などを行うオールインワンのシステムで、調剤薬局内の各種業務をサポートしております",
+      "opinions": []
+    },
+    {
+      "sentence_id": 24,
+      "sentence": "※４ ＡＲ（Assist Representatives）とは、ＭＲ認定試験に合格したＭＳ（医薬品卸売業の営業担当者）や",
+      "opinions": []
+    },
+    {
+      "sentence_id": 25,
+      "sentence": "薬剤師などに付与した社内呼称であります",
+      "opinions": []
+    },
+    {
+      "sentence_id": 26,
+      "sentence": "化粧品・日用品、一般用医薬品卸売事業",
+      "opinions": []
+    },
+    {
+      "sentence_id": 27,
+      "sentence": "化粧品・日用品、一般用医薬品の販売は、雇用環境の改善などを背景に、消費マインドの改善に伴う個人消費の持ち直しなどにより、市場環境は堅調に推移いたしました",
+      "opinions": [
+        {
+          "target": "雇用環境",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 19,
+          "to": 23
+        },
+        {
+          "target": "消費マインド",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 33,
+          "to": 39
+        },
+        {
+          "target": "個人消費",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 45,
+          "to": 49
+        },
+        {
+          "target": "市場環境",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 60,
+          "to": 64
+        }
+      ]
+    },
+    {
+      "sentence_id": 28,
+      "sentence": "このような環境の中、当社の連結子会社である株式会社ＰＡＬＴＡＣでは、「顧客満足の最大化と流通コストの最小化」をコーポレートスローガンに、人々の生活に密着した「美と健康」に関する商品をフルラインで提供する中間流通業として、サプライチェーン全体の最適化・効率化をめざした取組みを行っております",
+      "opinions": []
+    },
+    {
+      "sentence_id": 29,
+      "sentence": "また、小売業の効果的な品揃えや販売活動を支援する営業体制の強化、及び安心・安全で高品質・ローコスト物流機能の強化を図り、平時の安定供給はもとより有事の際にも「止めない物流」体制により、小売業ひいては消費者の皆さまへローコストかつ安定的に商品をお届けする取組みを行っております",
+      "opinions": []
+    },
+    {
+      "sentence_id": 30,
+      "sentence": "当連結会計年度は、全国市場の３分の１を占める最大市場の関東エリアにおいて「物流・営業・管理」のそれぞれの視点から強化、改善に取り組んでまいりました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 31,
+      "sentence": "物流面については、交通の要衝である埼玉県白岡市において、「ＲＤＣ関東※１」の隣接地に「ＦＤＣ白岡※２」を平成29年３月から稼働させ、生産性向上・出荷能力の拡大を図りました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 32,
+      "sentence": "また、営業・管理面については、関東エリアのコントロールセンターの役割を担う事務所ビルを東京都北区に開設し、拠点の統合や仕入部門の強化などを図りました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 33,
+      "sentence": "さらに、「ＦＤＣ広島（仮称）」（広島市佐伯区）の建設及び「ＲＤＣ沖縄」（沖縄県うるま市）の増設など、基盤強化に向けた設備投資を計画どおりに進めております",
+      "opinions": []
+    },
+    {
+      "sentence_id": 34,
+      "sentence": "これらの結果、化粧品・日用品、一般用医薬品卸売事業における売上高は9,220億95百万円（前期比7.2％増）、営業利益は191億14百万円（前期比17.4％増）となりました",
+      "opinions": [
+        {
+          "target": "化粧品・日用品、一般用医薬品卸売事業",
+          "category": "business#sales",
+          "polarity": "positive",
+          "from": 7,
+          "to": 25
+        },
+        {
+          "target": "化粧品・日用品、一般用医薬品卸売事業",
+          "category": "business#profit",
+          "polarity": "positive",
+          "from": 7,
+          "to": 25
+        }
+      ]
+    },
+    {
+      "sentence_id": 35,
+      "sentence": "[用語解説]",
+      "opinions": []
+    },
+    {
+      "sentence_id": 36,
+      "sentence": "※１ ＲＤＣ（Regional Distribution Center）とは、化粧品・日用品、一般用医薬品などを扱う大型物流セン",
+      "opinions": []
+    },
+    {
+      "sentence_id": 37,
+      "sentence": "ターで、小売業に商品を供給しております",
+      "opinions": []
+    },
+    {
+      "sentence_id": 38,
+      "sentence": "※２ ＦＤＣ（Front Distribution Center）とは、発注頻度の高いケース商品を在庫し、ＲＤＣを支援する",
+      "opinions": []
+    },
+    {
+      "sentence_id": 39,
+      "sentence": "物流センターであります",
+      "opinions": []
+    },
+    {
+      "sentence_id": 40,
+      "sentence": "動物用医薬品・食品加工原材料等卸売事業",
+      "opinions": []
+    },
+    {
+      "sentence_id": 41,
+      "sentence": "動物用医薬品の販売は、畜産向け市場において家畜の疾病予防や食肉の品質向上につながる飼料添加物に積極的な取組みを行ったこと、また、コンパニオンアニマル※向け市場において新商品の皮膚疾患治療薬や高齢化に関わる商品等を中心に取り組んだことなどにより、順調に推移いたしました",
+      "opinions": [
+        {
+          "target": "動物用医薬品",
+          "category": "product#amount",
+          "polarity": "positive",
+          "from": 0,
+          "to": 6
+        }
+      ]
+    },
+    {
+      "sentence_id": 42,
+      "sentence": "食品加工原材料等の販売は、グループ内の事業統合で仕入・販売ルートが全国に拡大したことにより、順調に推移いたしました",
+      "opinions": [
+        {
+          "target": "食品加工原材料",
+          "category": "product#amount",
+          "polarity": "positive",
+          "from": 0,
+          "to": 7
+        },
+        {
+          "target": "仕入・販売ルート",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 24,
+          "to": 32
+        }
+      ]
+    },
+    {
+      "sentence_id": 43,
+      "sentence": "これらの結果、動物用医薬品・食品加工原材料等卸売事業における売上高は597億62百万円（前期比26.7％増）、営業利益は11億50百万円（前期比23.9％増）となりました",
+      "opinions": [
+        {
+          "target": "動物用医薬品・食品加工原材料等卸売事業",
+          "category": "business#sales",
+          "polarity": "positive",
+          "from": 7,
+          "to": 26
+        },
+        {
+          "target": "動物用医薬品・食品加工原材料等卸売事業",
+          "category": "business#profit",
+          "polarity": "positive",
+          "from": 7,
+          "to": 26
+        }
+      ]
+    },
+    {
+      "sentence_id": 44,
+      "sentence": "[用語解説]",
+      "opinions": []
+    },
+    {
+      "sentence_id": 45,
+      "sentence": "※ コンパニオンアニマルとは、伴侶動物とも表現され、日常生活の中で人とより密接な関係を保つような動物を",
+      "opinions": []
+    },
+    {
+      "sentence_id": 46,
+      "sentence": "指しております",
+      "opinions": []
+    },
+    {
+      "sentence_id": 47,
+      "sentence": "（注）セグメントの売上高には、セグメント間の内部売上高を含んでおります",
+      "opinions": []
+    }
+  ]
+}

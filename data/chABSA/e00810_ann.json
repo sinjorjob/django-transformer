@@ -1,0 +1,301 @@
+{
+  "header": {
+    "document_id": "E00810",
+    "document_name": "田岡化学工業株式会社",
+    "doc_text": "有価証券報告書",
+    "edi_id": "E00810",
+    "security_code": "41130",
+    "category33": "化学",
+    "category17": "素材・化学",
+    "scale": ""
+  },
+  "sentences": [
+    {
+      "sentence_id": 0,
+      "sentence": "当連結会計年度におけるわが国経済は、為替相場および株式相場が不安定な状況にありましたが、政府の各種経済政策による下支えや原油価格の下落にも支えられ、緩やかな回復基調が持続してまいりました",
+      "opinions": [
+        {
+          "target": "わが国経済",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 11,
+          "to": 16
+        },
+        {
+          "target": "為替相場",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 18,
+          "to": 22
+        },
+        {
+          "target": "株式相場",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 25,
+          "to": 29
+        },
+        {
+          "target": "原油価格",
+          "category": "NULL#price",
+          "polarity": "negative",
+          "from": 60,
+          "to": 64
+        }
+      ]
+    },
+    {
+      "sentence_id": 1,
+      "sentence": "また世界経済は、中国をはじめとする新興国は緩やかな成長が続いているものの、米国においては新政権移行に伴い不安要素が払拭できないままであり、加えて欧州経済においても英国のＥＵ離脱問題を抱えていることから依然として不透明な状況が続きました",
+      "opinions": [
+        {
+          "target": "世界経済",
+          "category": "NULL#general",
+          "polarity": "neutral",
+          "from": 2,
+          "to": 6
+        },
+        {
+          "target": "新興国",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 17,
+          "to": 20
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "sentence": "このような状況の中で当社グループは、年度前半の円高の進展ならびに原油価格の下落の影響を受けつつも当連結会計年度から３年間を対象期間とした中期経営計画の基本方針に沿って、販売価格の適正化、積極的な拡販努力、製造合理化などによる一層の業績改善に注力してまいりました",
+      "opinions": [
+        {
+          "target": "原油価格",
+          "category": "NULL#price",
+          "polarity": "negative",
+          "from": 32,
+          "to": 36
+        }
+      ]
+    },
+    {
+      "sentence_id": 3,
+      "sentence": "この結果、当連結会計年度の当社グループの売上高は、210億円（前連結会計年度比84百万円、0.4％増）となりました",
+      "opinions": [
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 20,
+          "to": 23
+        }
+      ]
+    },
+    {
+      "sentence_id": 4,
+      "sentence": "損益につきましては、営業利益は18億８百万円（同１百万円、0.1％減）、経常利益は18億28百万円（同18百万円、1.0％増）、親会社株主に帰属する当期純利益は12億62百万円（同１億52百万円、13.7％増）となりました",
+      "opinions": [
+        {
+          "target": "営業利益",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 10,
+          "to": 14
+        },
+        {
+          "target": "経常利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 36,
+          "to": 40
+        },
+        {
+          "target": "当期純利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 74,
+          "to": 79
+        }
+      ]
+    },
+    {
+      "sentence_id": 5,
+      "sentence": "セグメント別の売上高の概況",
+      "opinions": []
+    },
+    {
+      "sentence_id": 6,
+      "sentence": "当セグメントの売上高は205億12百万円となり、前連結会計年度に比べ36百万円の増収となりました",
+      "opinions": [
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 7,
+          "to": 10
+        }
+      ]
+    },
+    {
+      "sentence_id": 7,
+      "sentence": "（精密化学品部門）",
+      "opinions": []
+    },
+    {
+      "sentence_id": 8,
+      "sentence": "農薬中間体の出荷数量は増加したものの、医薬中間体や電子材料の出荷数量が減少したことにより、売上高は103億25百万円となり、前連結会計年度に比べ97百万円の減収（前連結会計年度比0.9％減）となりました",
+      "opinions": [
+        {
+          "target": "農薬中間体",
+          "category": "product#amount",
+          "polarity": "positive",
+          "from": 0,
+          "to": 5
+        },
+        {
+          "target": "医薬中間体",
+          "category": "product#amount",
+          "polarity": "negative",
+          "from": 19,
+          "to": 24
+        },
+        {
+          "target": "電子材料",
+          "category": "product#amount",
+          "polarity": "negative",
+          "from": 25,
+          "to": 29
+        },
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "negative",
+          "from": 45,
+          "to": 48
+        }
+      ]
+    },
+    {
+      "sentence_id": 9,
+      "sentence": "（機能材部門）",
+      "opinions": []
+    },
+    {
+      "sentence_id": 10,
+      "sentence": "接着剤・ゴム薬品ともに出荷数量が増加したため、売上高は36億４百万円となり、前連結会計年度に比べ１億95百万円の増収（同5.7％増）となりました",
+      "opinions": [
+        {
+          "target": "接着剤",
+          "category": "product#amount",
+          "polarity": "positive",
+          "from": 0,
+          "to": 3
+        },
+        {
+          "target": "ゴム薬品",
+          "category": "product#amount",
+          "polarity": "positive",
+          "from": 4,
+          "to": 8
+        },
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 23,
+          "to": 26
+        }
+      ]
+    },
+    {
+      "sentence_id": 11,
+      "sentence": "（機能樹脂部門）",
+      "opinions": []
+    },
+    {
+      "sentence_id": 12,
+      "sentence": "ワニスの出荷数量が増加したため、売上高は19億79百万円となり、前連結会計年度に比べ64百万円の増収（同3.3％増）となりました",
+      "opinions": [
+        {
+          "target": "ワニス",
+          "category": "product#amount",
+          "polarity": "positive",
+          "from": 0,
+          "to": 3
+        },
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 16,
+          "to": 19
+        }
+      ]
+    },
+    {
+      "sentence_id": 13,
+      "sentence": "（化成品部門）",
+      "opinions": []
+    },
+    {
+      "sentence_id": 14,
+      "sentence": "可塑剤の出荷数量は増加したものの、原料価格の下落に伴う販売価格の引き下げにより、売上高は46億３百万円となり、前連結会計年度に比べ１億25百万円の減収（同2.7％減）となりました",
+      "opinions": [
+        {
+          "target": "可塑剤",
+          "category": "NULL#amount",
+          "polarity": "positive",
+          "from": 0,
+          "to": 3
+        },
+        {
+          "target": "原料価格",
+          "category": "NULL#price",
+          "polarity": "negative",
+          "from": 17,
+          "to": 21
+        },
+        {
+          "target": "販売価格",
+          "category": "NULL#price",
+          "polarity": "negative",
+          "from": 27,
+          "to": 31
+        },
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "negative",
+          "from": 40,
+          "to": 43
+        }
+      ]
+    },
+    {
+      "sentence_id": 15,
+      "sentence": "化学分析受託事業は、作業環境測定や排ガス測定の増加により、売上高は４億88百万円となり、前連結会計年度に比べ47百万円の増収（同10.8％増）となりました",
+      "opinions": [
+        {
+          "target": "化学分析受託事業",
+          "category": "business#sales",
+          "polarity": "positive",
+          "from": 0,
+          "to": 8
+        },
+        {
+          "target": "作業環境測定",
+          "category": "product#amount",
+          "polarity": "positive",
+          "from": 10,
+          "to": 16
+        },
+        {
+          "target": "排ガス測定",
+          "category": "product#amount",
+          "polarity": "positive",
+          "from": 17,
+          "to": 22
+        }
+      ]
+    }
+  ]
+}

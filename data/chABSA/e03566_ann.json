@@ -1,0 +1,367 @@
+{
+  "header": {
+    "document_id": "E03566",
+    "document_name": "株式会社　北國銀行",
+    "doc_text": "有価証券報告書",
+    "edi_id": "E03566",
+    "security_code": "83630",
+    "category33": "銀行業",
+    "category17": "銀行",
+    "scale": "6"
+  },
+  "sentences": [
+    {
+      "sentence_id": 0,
+      "sentence": "当期の当地経済をみますと、北陸新幹線開業から２年が経過しましたが、今なお国内の観光客のみならず外国人観光客が数多く訪れ、地域の活性化が鮮明に表れております",
+      "opinions": [
+        {
+          "target": "地域",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 60,
+          "to": 62
+        }
+      ]
+    },
+    {
+      "sentence_id": 1,
+      "sentence": "製造業においては、繊維関連が弱含んでいるものの、工作機械やスマートフォン向け電子デバイス関連が持ち直したほか、ジェネリック医薬品を中心とした化学関連が高水準にあったことから、当期は順調に推移しました",
+      "opinions": [
+        {
+          "target": "繊維関連",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 9,
+          "to": 13
+        },
+        {
+          "target": "工作機械",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 24,
+          "to": 28
+        },
+        {
+          "target": "電子デバイス関連",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 38,
+          "to": 46
+        },
+        {
+          "target": "化学関連",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 70,
+          "to": 74
+        },
+        {
+          "target": "当期",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 87,
+          "to": 89
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "sentence": "非製造業においては、新車販売に持ち直しの動きが見られ、住宅関連も緩やかに回復いたしました",
+      "opinions": [
+        {
+          "target": "新車販売",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 10,
+          "to": 14
+        },
+        {
+          "target": "住宅関連",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 27,
+          "to": 31
+        }
+      ]
+    },
+    {
+      "sentence_id": 3,
+      "sentence": "雇用情勢については全国と比しても高水準にあり、雇用・所得環境は着実に改善しました",
+      "opinions": [
+        {
+          "target": "雇用情勢",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 0,
+          "to": 4
+        },
+        {
+          "target": "雇用",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 23,
+          "to": 25
+        },
+        {
+          "target": "所得環境",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 26,
+          "to": 30
+        }
+      ]
+    },
+    {
+      "sentence_id": 4,
+      "sentence": "このように当地経済は、北陸新幹線開業以後、その効果を持続させながら、緩やかな回復基調が続きました",
+      "opinions": [
+        {
+          "target": "当地経済",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 5,
+          "to": 9
+        }
+      ]
+    },
+    {
+      "sentence_id": 5,
+      "sentence": "このような環境の中、北國銀行グループの平成29年３月期の連結ベースの経営成績は以下の通りとなりました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 6,
+      "sentence": "主要勘定では、預金（譲渡性預金含む）は、個人預金及び法人預金が順調に推移し、前期末比1,179億円増加の３兆2,940億円となりました",
+      "opinions": [
+        {
+          "target": "預金",
+          "category": "product#amount",
+          "polarity": "positive",
+          "from": 7,
+          "to": 9
+        },
+        {
+          "target": "個人預金",
+          "category": "product#amount",
+          "polarity": "positive",
+          "from": 20,
+          "to": 24
+        },
+        {
+          "target": "法人預金",
+          "category": "product#amount",
+          "polarity": "positive",
+          "from": 26,
+          "to": 30
+        }
+      ]
+    },
+    {
+      "sentence_id": 7,
+      "sentence": "貸出金は、中小企業貸出や消費者ローンは増加しましたが、大企業貸出や地公体向け貸出が減少し、前期末比128億円減少の２兆3,154億円となりました",
+      "opinions": [
+        {
+          "target": "貸出金",
+          "category": "product#amount",
+          "polarity": "negative",
+          "from": 0,
+          "to": 3
+        },
+        {
+          "target": "中小企業貸出",
+          "category": "product#amount",
+          "polarity": "positive",
+          "from": 5,
+          "to": 11
+        },
+        {
+          "target": "消費者ローン",
+          "category": "product#amount",
+          "polarity": "positive",
+          "from": 12,
+          "to": 18
+        },
+        {
+          "target": "企業貸出",
+          "category": "product#amount",
+          "polarity": "negative",
+          "from": 28,
+          "to": 32
+        },
+        {
+          "target": "貸出",
+          "category": "product#amount",
+          "polarity": "negative",
+          "from": 38,
+          "to": 40
+        }
+      ]
+    },
+    {
+      "sentence_id": 8,
+      "sentence": "有価証券は前期末比862億円増加の１兆1,043億円となりました",
+      "opinions": [
+        {
+          "target": "有価証券",
+          "category": "product#amount",
+          "polarity": "positive",
+          "from": 0,
+          "to": 4
+        }
+      ]
+    },
+    {
+      "sentence_id": 9,
+      "sentence": "損益面におきましては、経常収益は、貸出金利息や有価証券売却益の減少により、前期比72億73百万円減少の674億13百万円となりました",
+      "opinions": [
+        {
+          "target": "経常収益",
+          "category": "NULL#sales",
+          "polarity": "negative",
+          "from": 11,
+          "to": 15
+        },
+        {
+          "target": "貸出金利息",
+          "category": "NULL#sales",
+          "polarity": "negative",
+          "from": 17,
+          "to": 22
+        },
+        {
+          "target": "有価証券売却益",
+          "category": "NULL#sales",
+          "polarity": "negative",
+          "from": 23,
+          "to": 30
+        }
+      ]
+    },
+    {
+      "sentence_id": 10,
+      "sentence": "経常費用は、貸倒引当金繰入額の減少により、前期比55億39百万円減少の515億45百万円となりました",
+      "opinions": [
+        {
+          "target": "経常費用",
+          "category": "NULL#cost",
+          "polarity": "positive",
+          "from": 0,
+          "to": 4
+        },
+        {
+          "target": "貸倒引当金繰入額",
+          "category": "NULL#cost",
+          "polarity": "positive",
+          "from": 6,
+          "to": 14
+        }
+      ]
+    },
+    {
+      "sentence_id": 11,
+      "sentence": "この結果、経常利益は前期比17億33百万円減少の158億67百万円となり、親会社株主に帰属する当期純利益は、法人税、住民税及び事業税の減少を主因に、前期比12億82百万円増加の108億51百万円となりました",
+      "opinions": [
+        {
+          "target": "経常利益",
+          "category": "NULL#sales",
+          "polarity": "negative",
+          "from": 5,
+          "to": 9
+        },
+        {
+          "target": "当期純利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 47,
+          "to": 52
+        },
+        {
+          "target": "法人税",
+          "category": "NULL#cost",
+          "polarity": "positive",
+          "from": 54,
+          "to": 57
+        },
+        {
+          "target": "住民税",
+          "category": "NULL#cost",
+          "polarity": "positive",
+          "from": 58,
+          "to": 61
+        },
+        {
+          "target": "事業税",
+          "category": "NULL#cost",
+          "polarity": "positive",
+          "from": 63,
+          "to": 66
+        }
+      ]
+    },
+    {
+      "sentence_id": 12,
+      "sentence": "また、当行単独の損益でも連結ベースと同様の理由により、経常利益は前期比26億18百万円減少の140億20百万円、当期純利益は前期比４億77百万円増加の101億７百万円となりました",
+      "opinions": [
+        {
+          "target": "経常利益",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 27,
+          "to": 31
+        },
+        {
+          "target": "当期純利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 56,
+          "to": 61
+        }
+      ]
+    },
+    {
+      "sentence_id": 13,
+      "sentence": "なお、自己資本比率（国際統一基準）は連結ベースで12.60％、当行単独で12.46％となっております",
+      "opinions": []
+    },
+    {
+      "sentence_id": 14,
+      "sentence": "セグメント情報につきましては、銀行業では、経常収益は前期比76億63百万円減少の579億70百万円、セグメント利益は前期比20億13百万円減少の151億７百万円となりました",
+      "opinions": [
+        {
+          "target": "銀行業",
+          "category": "business#sales",
+          "polarity": "negative",
+          "from": 15,
+          "to": 18
+        },
+        {
+          "target": "銀行業",
+          "category": "business#profit",
+          "polarity": "negative",
+          "from": 15,
+          "to": 18
+        }
+      ]
+    },
+    {
+      "sentence_id": 15,
+      "sentence": "リース業では、経常収益は前期比３億69百万円増加の95億94百万円、セグメント利益は前期比２億91百万円増加の７億69百万円となりました",
+      "opinions": [
+        {
+          "target": "リース業",
+          "category": "business#sales",
+          "polarity": "positive",
+          "from": 0,
+          "to": 4
+        },
+        {
+          "target": "リース業",
+          "category": "business#profit",
+          "polarity": "positive",
+          "from": 0,
+          "to": 4
+        }
+      ]
+    }
+  ]
+}

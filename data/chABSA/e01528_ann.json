@@ -1,0 +1,393 @@
+{
+  "header": {
+    "document_id": "E01528",
+    "document_name": "東洋機械金属株式会社",
+    "doc_text": "有価証券報告書",
+    "edi_id": "E01528",
+    "security_code": "62100",
+    "category33": "機械",
+    "category17": "機械",
+    "scale": "7"
+  },
+  "sentences": [
+    {
+      "sentence_id": 0,
+      "sentence": "当連結会計年度（平成28年４月～平成29年３月）におけるわが国経済は、政府による継続的な経済政策効果を背景に企業収益や雇用・所得環境に改善の動きが見られ、景気は緩やかな回復基調となりました",
+      "opinions": [
+        {
+          "target": "企業収益",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 54,
+          "to": 58
+        },
+        {
+          "target": "雇用",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 59,
+          "to": 61
+        },
+        {
+          "target": "所得環境",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 62,
+          "to": 66
+        },
+        {
+          "target": "景気",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 77,
+          "to": 79
+        }
+      ]
+    },
+    {
+      "sentence_id": 1,
+      "sentence": "一方、海外では、英国ＥＵ離脱問題、米国新政権による政策運営の不確実性の高まりなどから、景気の先行きは不透明な状況で推移しました",
+      "opinions": [
+        {
+          "target": "政策運営",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 25,
+          "to": 29
+        },
+        {
+          "target": "先行き",
+          "category": "NULL#general",
+          "polarity": "neutral",
+          "from": 46,
+          "to": 49
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "sentence": "当社グループの事業に関連する市場は、国内では、企業収益の改善に伴い設備投資は増加して、需要は回復傾向にありました",
+      "opinions": [
+        {
+          "target": "企業収益",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 23,
+          "to": 27
+        },
+        {
+          "target": "設備投資",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 33,
+          "to": 37
+        },
+        {
+          "target": "需要",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 43,
+          "to": 45
+        }
+      ]
+    },
+    {
+      "sentence_id": 3,
+      "sentence": "海外では、欧州における生活関連用品向けの需要が堅調に推移しました",
+      "opinions": [
+        {
+          "target": "需要",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 20,
+          "to": 22
+        }
+      ]
+    },
+    {
+      "sentence_id": 4,
+      "sentence": "また、中国やその他のアジアでは景気の停滞感はあるものの、中国での自動車関連向けの需要が堅調に推移しました",
+      "opinions": [
+        {
+          "target": "景気",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 15,
+          "to": 17
+        },
+        {
+          "target": "需要",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 40,
+          "to": 42
+        }
+      ]
+    },
+    {
+      "sentence_id": 5,
+      "sentence": "このような市場環境の下で、当社グループは、国内では、生活用品関連及び自動車関連向けを中心に受注は増加しました",
+      "opinions": [
+        {
+          "target": "国内",
+          "category": "NULL#amount",
+          "polarity": "positive",
+          "from": 21,
+          "to": 23
+        },
+        {
+          "target": "生活用品関連",
+          "category": "product#amount",
+          "polarity": "positive",
+          "from": 26,
+          "to": 32
+        },
+        {
+          "target": "自動車関連向け",
+          "category": "product#amount",
+          "polarity": "positive",
+          "from": 34,
+          "to": 41
+        }
+      ]
+    },
+    {
+      "sentence_id": 6,
+      "sentence": "海外では、欧州における生活用品関連向けの受注が増加しました",
+      "opinions": [
+        {
+          "target": "生活用品関連向け",
+          "category": "product#amount",
+          "polarity": "positive",
+          "from": 11,
+          "to": 19
+        }
+      ]
+    },
+    {
+      "sentence_id": 7,
+      "sentence": "また、主要な需要先である中国やその他のアジアでは、ＩＴ・電子機器関連向けの受注は減少しましたが、中国における自動車関連向けの需要が堅調に推移し、受注は増加しました",
+      "opinions": [
+        {
+          "target": "中国",
+          "category": "NULL#amount",
+          "polarity": "positive",
+          "from": 12,
+          "to": 14
+        },
+        {
+          "target": "アジア",
+          "category": "NULL#amount",
+          "polarity": "positive",
+          "from": 19,
+          "to": 22
+        },
+        {
+          "target": "ＩＴ・電子機器関連向け",
+          "category": "product#amount",
+          "polarity": "negative",
+          "from": 25,
+          "to": 36
+        },
+        {
+          "target": "需要",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 62,
+          "to": 64
+        }
+      ]
+    },
+    {
+      "sentence_id": 8,
+      "sentence": "この結果、当連結会計年度の受注高は291億６千万円（前連結会計年度比12.4％増）、売上高は277億７百万円（同3.9％増）となりました",
+      "opinions": [
+        {
+          "target": "受注高",
+          "category": "NULL#amount",
+          "polarity": "positive",
+          "from": 13,
+          "to": 16
+        },
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 42,
+          "to": 45
+        }
+      ]
+    },
+    {
+      "sentence_id": 9,
+      "sentence": "このうち、国内売上高は95億６千３百万円（同8.5％増）、海外売上高は181億４千４百万円（同1.7％増）となり、海外比率は65.5％となりました",
+      "opinions": [
+        {
+          "target": "国内売上高",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 5,
+          "to": 10
+        },
+        {
+          "target": "海外売上高",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 29,
+          "to": 34
+        }
+      ]
+    },
+    {
+      "sentence_id": 10,
+      "sentence": "損益面につきましては、売上高の増加やコスト低減などに取組みました結果、営業利益は18億２千３百万円（同1.3％増）となりました",
+      "opinions": [
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 11,
+          "to": 14
+        },
+        {
+          "target": "コスト",
+          "category": "NULL#cost",
+          "polarity": "positive",
+          "from": 18,
+          "to": 21
+        },
+        {
+          "target": "営業利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 35,
+          "to": 39
+        }
+      ]
+    },
+    {
+      "sentence_id": 11,
+      "sentence": "また、経常利益は、18億２千２百万円（同0.5％増）、親会社株主に帰属する当期純利益は、15億５百万円（同19.2％減）となりました",
+      "opinions": [
+        {
+          "target": "経常利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 3,
+          "to": 7
+        },
+        {
+          "target": "当期純利益",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 37,
+          "to": 42
+        }
+      ]
+    },
+    {
+      "sentence_id": 12,
+      "sentence": "[射出成形機]",
+      "opinions": []
+    },
+    {
+      "sentence_id": 13,
+      "sentence": "国内は、生活用品関連や自動車関連向けの売上が増加しました",
+      "opinions": [
+        {
+          "target": "生活用品関連",
+          "category": "product#sales",
+          "polarity": "positive",
+          "from": 4,
+          "to": 10
+        },
+        {
+          "target": "自動車関連向け",
+          "category": "product#sales",
+          "polarity": "positive",
+          "from": 11,
+          "to": 18
+        }
+      ]
+    },
+    {
+      "sentence_id": 14,
+      "sentence": "海外では、中国やその他のアジアにおけるＩＴ・電子機器関連向けの小型機の売上は減少しましたが、欧州の生活用品関連や北米の自動車関連向けの中・大型機が堅調に推移し、売上は増加しました",
+      "opinions": [
+        {
+          "target": "小型機",
+          "category": "product#sales",
+          "polarity": "negative",
+          "from": 31,
+          "to": 34
+        },
+        {
+          "target": "生活用品関連",
+          "category": "product#general",
+          "polarity": "positive",
+          "from": 49,
+          "to": 55
+        },
+        {
+          "target": "中・大型機",
+          "category": "product#general",
+          "polarity": "positive",
+          "from": 67,
+          "to": 72
+        }
+      ]
+    },
+    {
+      "sentence_id": 15,
+      "sentence": "[ダイカストマシン]",
+      "opinions": []
+    },
+    {
+      "sentence_id": 16,
+      "sentence": "国内は、自動車関連向けを中心に売上は増加しました",
+      "opinions": [
+        {
+          "target": "国内",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 0,
+          "to": 2
+        },
+        {
+          "target": "自動車関連向け",
+          "category": "product#sales",
+          "polarity": "positive",
+          "from": 4,
+          "to": 11
+        }
+      ]
+    },
+    {
+      "sentence_id": 17,
+      "sentence": "海外では、中国やその他のアジアにおけるＩＴ・電子機器関連向けの売上は減少しましたが、中国や北米の自動車関連向けが好調であったため、売上は増加しました",
+      "opinions": [
+        {
+          "target": "海外",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 0,
+          "to": 2
+        },
+        {
+          "target": "ＩＴ・電子機器関連向け",
+          "category": "product#sales",
+          "polarity": "negative",
+          "from": 19,
+          "to": 30
+        },
+        {
+          "target": "自動車関連向け",
+          "category": "product#sales",
+          "polarity": "positive",
+          "from": 48,
+          "to": 55
+        }
+      ]
+    }
+  ]
+}

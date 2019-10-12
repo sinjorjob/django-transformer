@@ -1,0 +1,129 @@
+{
+  "header": {
+    "document_id": "E01398",
+    "document_name": "北沢産業株式会社",
+    "doc_text": "有価証券報告書",
+    "edi_id": "E01398",
+    "security_code": "99300",
+    "category33": "卸売業",
+    "category17": "商社・卸売",
+    "scale": "7"
+  },
+  "sentences": [
+    {
+      "sentence_id": 0,
+      "sentence": "当連結会計年度におけるわが国経済は、中国や欧州経済など世界経済の減速懸念に加え、英国のＥＵ離脱問題から金融及び株式市場に大きな不安を与え、円高・株安基調を招く等、先行き不透明な状況にあります",
+      "opinions": [
+        {
+          "target": "わが国経済",
+          "category": "NULL#general",
+          "polarity": "neutral",
+          "from": 11,
+          "to": 16
+        }
+      ]
+    },
+    {
+      "sentence_id": 1,
+      "sentence": "当社グループの当連結会計年度の経営成績は、売上高は１７０億８２百万円（前年同期比2.3％増）と前年同期と比し増収となったものの、販売費及び一般管理費の上昇の影響から、営業利益は３億８百万円（前年同期比19.2％減）、経常利益は３億６４百万円（前年同期比11.9％減）、と前年同期と比し減益となりました",
+      "opinions": [
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 21,
+          "to": 24
+        },
+        {
+          "target": "販売費及び一般管理費",
+          "category": "NULL#cost",
+          "polarity": "negative",
+          "from": 64,
+          "to": 74
+        },
+        {
+          "target": "営業利益",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 83,
+          "to": 87
+        },
+        {
+          "target": "経常利益",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 108,
+          "to": 112
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "sentence": "親会社株主に帰属する当期純利益につきましては２億３８百万円（前年同期は１億７９百万円の親会社株主に帰属する当期純利益）となりました",
+      "opinions": [
+        {
+          "target": "当期純利益",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 10,
+          "to": 15
+        }
+      ]
+    },
+    {
+      "sentence_id": 3,
+      "sentence": "セグメントの業績を示すと、次のとおりであります",
+      "opinions": []
+    },
+    {
+      "sentence_id": 4,
+      "sentence": "① 業務用厨房関連事業",
+      "opinions": []
+    },
+    {
+      "sentence_id": 5,
+      "sentence": "業務用厨房関連事業につきましては、売上高は１６７億４８百万円と前年同期に比し2.3％の増収、営業利益は７億２７百万円と前年同期に比し6.4％の減益となりました",
+      "opinions": [
+        {
+          "target": "業務用厨房関連事業",
+          "category": "business#sales",
+          "polarity": "positive",
+          "from": 0,
+          "to": 9
+        },
+        {
+          "target": "業務用厨房関連事業",
+          "category": "business#profit",
+          "polarity": "negative",
+          "from": 0,
+          "to": 9
+        }
+      ]
+    },
+    {
+      "sentence_id": 6,
+      "sentence": "② 不動産賃貸事業",
+      "opinions": []
+    },
+    {
+      "sentence_id": 7,
+      "sentence": "不動産賃貸事業につきましては、売上高は３億３４百万円と前年同期に比し0.2％の減収、営業利益は２億９百万円と前年同期に比し3.3％の増益となりました",
+      "opinions": [
+        {
+          "target": "不動産賃貸事業",
+          "category": "business#sales",
+          "polarity": "negative",
+          "from": 0,
+          "to": 7
+        },
+        {
+          "target": "不動産賃貸事業",
+          "category": "business#profit",
+          "polarity": "positive",
+          "from": 0,
+          "to": 7
+        }
+      ]
+    }
+  ]
+}

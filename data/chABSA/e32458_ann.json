@@ -1,0 +1,255 @@
+{
+  "header": {
+    "document_id": "E32458",
+    "document_name": "Ｄ．Ａ．コンソーシアムホールディングス株式会社",
+    "doc_text": "有価証券報告書",
+    "edi_id": "E32458",
+    "security_code": "65340",
+    "category33": "サービス業",
+    "category17": "情報通信・サービスその他",
+    "scale": ""
+  },
+  "sentences": [
+    {
+      "sentence_id": 0,
+      "sentence": "当社は、共同株式移転の方法により、平成28年10月３日付でデジタル・アドバタイジング・コンソーシアム株式会社及び株式会社アイレップの株式移転設立完全親会社として設立されました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 1,
+      "sentence": "当連結会計年度は、当社の前期がないため、前連結会計年度との対比は行っておりません",
+      "opinions": []
+    },
+    {
+      "sentence_id": 2,
+      "sentence": "経営成績の状況",
+      "opinions": []
+    },
+    {
+      "sentence_id": 3,
+      "sentence": "当連結会計年度における日本経済は、年度前半には、外需面において新興国経済の弱さや英国のEU離脱決定による欧州の政治経済の不透明感の高まり、地政学的リスク等、世界経済の景気減速の懸念が生じたほか、内需面についても、熊本地震の影響などにより個人消費及び民間設備投資が力強さを欠いた状況となりました",
+      "opinions": [
+        {
+          "target": "個人消費",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 118,
+          "to": 122
+        },
+        {
+          "target": "民間設備投資",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 124,
+          "to": 130
+        }
+      ]
+    },
+    {
+      "sentence_id": 4,
+      "sentence": "一方、年度後半にかけては、トランプ政権の政策運営や欧州政治情勢の不透明感はあるものの、円安傾向や株価の回復、資源価格の上昇などを受けて国内企業の業況感は改善をみせ、人手不足を背景とした雇用環境の改善により消費も持ち直しの傾向にあり、全体として緩やかな回復基調が続きました",
+      "opinions": [
+        {
+          "target": "政策運営",
+          "category": "NULL#general",
+          "polarity": "neutral",
+          "from": 20,
+          "to": 24
+        },
+        {
+          "target": "欧州政治情勢",
+          "category": "NULL#general",
+          "polarity": "neutral",
+          "from": 25,
+          "to": 31
+        },
+        {
+          "target": "株価",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 48,
+          "to": 50
+        },
+        {
+          "target": "資源価格",
+          "category": "NULL#price",
+          "polarity": "positive",
+          "from": 54,
+          "to": 58
+        },
+        {
+          "target": "業況感",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 72,
+          "to": 75
+        },
+        {
+          "target": "雇用環境",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 92,
+          "to": 96
+        },
+        {
+          "target": "消費",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 102,
+          "to": 104
+        }
+      ]
+    },
+    {
+      "sentence_id": 5,
+      "sentence": "上記のような経済環境のもと、日本の総広告費は2016年(平成28年)には、５年連続で前年実績を上回り、前年比101.9％の６兆2,880億円となりました",
+      "opinions": [
+        {
+          "target": "広告費",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 18,
+          "to": 21
+        }
+      ]
+    },
+    {
+      "sentence_id": 6,
+      "sentence": "当社グループの主力事業が属するインターネット広告市場は、当年度においても広告市場全体の伸びを上回る成長が続きました",
+      "opinions": [
+        {
+          "target": "インターネット広告市場",
+          "category": "market#general",
+          "polarity": "positive",
+          "from": 15,
+          "to": 26
+        }
+      ]
+    },
+    {
+      "sentence_id": 7,
+      "sentence": "インターネット広告費は前年比113.0％の１兆3,100億円となり、初めて総広告費の２割を超え、20.8％を占める規模となりました",
+      "opinions": [
+        {
+          "target": "インターネット広告費",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 0,
+          "to": 10
+        }
+      ]
+    },
+    {
+      "sentence_id": 8,
+      "sentence": "インターネット上のオンライン行動データと、リアルの購買データや位置情報データなどのオフラインデータを共に活用するなど広告配信方法の多様化に加え、ブランディングへの活用の拡がりも寄与し、運用型広告費は前年比118.6％の7,383億円と増加しました（広告市場データは株式会社電通「2016年(平成28年)日本の広告費」によります）",
+      "opinions": [
+        {
+          "target": "運用型広告費",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 92,
+          "to": 98
+        }
+      ]
+    },
+    {
+      "sentence_id": 9,
+      "sentence": "このような環境において、当社グループは、デジタル・アドバタイジング・コンソーシアム株式会社を中心とした「パートナー事業」、株式会社アイレップを中心とした「クライアント事業」の強化及び双方の連携関係を構築し、迅速かつ一体的な戦略策定を進め、経営統合のシナジー効果を発揮することにより、持続的な成長を目指しております",
+      "opinions": []
+    },
+    {
+      "sentence_id": 10,
+      "sentence": "その結果、当連結会計年度の業績は、売上高は184,779百万円、営業利益は6,928百万円となりました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 11,
+      "sentence": "経常利益は、連結子会社であるデジタル・アドバタイジング・コンソーシアム株式会社が持分法適用関連会社株式の減損処理に伴う特別損失を計上したことにより、営業外費用として持分法による投資損失を3,231百万円計上したため、3,728百万円、親会社株主に帰属する当期純利益は、209百万円となりました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 12,
+      "sentence": "また、当連結会計年度の各セグメントの概況は、以下のとおりであります",
+      "opinions": []
+    },
+    {
+      "sentence_id": 13,
+      "sentence": "（インターネット関連事業）",
+      "opinions": []
+    },
+    {
+      "sentence_id": 14,
+      "sentence": "インターネット関連事業は、デジタル・アドバタイジング・コンソーシアム株式会社を中心とし、主として広告会社・媒体社に対して広告サービス、広告関連ソリューション等を提供する事業分野である「パートナー事業」と、株式会社アイレップを中心とし、主として広告主（クライアント）に対してデジタルマーケティングを支援するサービスを提供する「クライアント事業」からなります",
+      "opinions": []
+    },
+    {
+      "sentence_id": 15,
+      "sentence": "当連結会計年度においては動画広告やスマートデバイス広告、データを活用した運用型広告取引の売上増加が全体の売上の伸長を牽引いたしました",
+      "opinions": [
+        {
+          "target": "動画広告",
+          "category": "product#sales",
+          "polarity": "positive",
+          "from": 12,
+          "to": 16
+        },
+        {
+          "target": "スマートデバイス広告",
+          "category": "product#sales",
+          "polarity": "positive",
+          "from": 17,
+          "to": 27
+        },
+        {
+          "target": "運用型広告取引",
+          "category": "product#sales",
+          "polarity": "positive",
+          "from": 36,
+          "to": 43
+        }
+      ]
+    },
+    {
+      "sentence_id": 16,
+      "sentence": "その結果、当連結会計年度におけるインターネット関連事業の売上高は183,149百万円、セグメント利益は6,522百万円となりました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 17,
+      "sentence": "（インベストメント事業）",
+      "opinions": []
+    },
+    {
+      "sentence_id": 18,
+      "sentence": "インベストメント事業は、主にキャピタルゲインの獲得を目的として、当社の事業領域と関連性のあるベンチャー企業等への投資を行っております",
+      "opinions": []
+    },
+    {
+      "sentence_id": 19,
+      "sentence": "当連結会計年度におきましては、連結子会社のデジタル・アドバタイジング・コンソーシアム株式会社及びユナイテッド株式会社において、インベストメント事業が好調に推移した結果、インベストメント事業の売上高は1,629百万円となり、セグメント利益は1,084百万円となりました",
+      "opinions": [
+        {
+          "target": "インベストメント事業",
+          "category": "business#general",
+          "polarity": "positive",
+          "from": 63,
+          "to": 73
+        },
+        {
+          "target": "インベストメント事業",
+          "category": "business#sales",
+          "polarity": "positive",
+          "from": 84,
+          "to": 94
+        },
+        {
+          "target": "インベストメント事業",
+          "category": "business#profit",
+          "polarity": "positive",
+          "from": 84,
+          "to": 94
+        }
+      ]
+    }
+  ]
+}

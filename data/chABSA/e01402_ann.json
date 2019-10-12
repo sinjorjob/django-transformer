@@ -1,0 +1,610 @@
+{
+  "header": {
+    "document_id": "E01402",
+    "document_name": "サンコール株式会社",
+    "doc_text": "有価証券報告書",
+    "edi_id": "E01402",
+    "security_code": "59850",
+    "category33": "金属製品",
+    "category17": "建設・資材",
+    "scale": "7"
+  },
+  "sentences": [
+    {
+      "sentence_id": 0,
+      "sentence": "≪全般的概要≫",
+      "opinions": []
+    },
+    {
+      "sentence_id": 1,
+      "sentence": "［経済及び事業環境］",
+      "opinions": []
+    },
+    {
+      "sentence_id": 2,
+      "sentence": "当連結会計年度におけるわが国経済は、企業収益や雇用・所得環境が改善し、個人消費も持ち直しつつあり総じて回復基調となりました",
+      "opinions": [
+        {
+          "target": "わが国経済",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 11,
+          "to": 16
+        },
+        {
+          "target": "企業収益",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 18,
+          "to": 22
+        },
+        {
+          "target": "雇用",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 23,
+          "to": 25
+        },
+        {
+          "target": "所得環境",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 26,
+          "to": 30
+        },
+        {
+          "target": "個人消費",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 35,
+          "to": 39
+        }
+      ]
+    },
+    {
+      "sentence_id": 3,
+      "sentence": "一方、世界の主要国では個人消費が経済成長を牽引し、米国では企業業況も堅調に推移し、欧州では輸出面でも緩やかな改善が見られました",
+      "opinions": [
+        {
+          "target": "個人消費",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 11,
+          "to": 15
+        },
+        {
+          "target": "企業業況",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 29,
+          "to": 33
+        },
+        {
+          "target": "輸出面",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 45,
+          "to": 48
+        }
+      ]
+    },
+    {
+      "sentence_id": 4,
+      "sentence": "また中国では政府の景気対策等により経済成長は横ばいとなりました",
+      "opinions": [
+        {
+          "target": "経済成長",
+          "category": "NULL#general",
+          "polarity": "neutral",
+          "from": 17,
+          "to": 21
+        }
+      ]
+    },
+    {
+      "sentence_id": 5,
+      "sentence": "当社グループの主な事業領域である自動車業界は、日本では軽自動車需要の低迷が続いたものの、普通自動車は各社の新車投入効果等もあり全体としては前年を上回る販売台数となりました",
+      "opinions": [
+        {
+          "target": "軽自動車需要",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 27,
+          "to": 33
+        },
+        {
+          "target": "販売台数",
+          "category": "NULL#amount",
+          "polarity": "positive",
+          "from": 75,
+          "to": 79
+        }
+      ]
+    },
+    {
+      "sentence_id": 6,
+      "sentence": "米国では原油安等を背景に主に中大型車販売が増加し、中国では小型車減税政策等が販売台数を押し上げました",
+      "opinions": [
+        {
+          "target": "中大型車販売",
+          "category": "NULL#amount",
+          "polarity": "positive",
+          "from": 14,
+          "to": 20
+        },
+        {
+          "target": "販売台数",
+          "category": "NULL#amount",
+          "polarity": "positive",
+          "from": 38,
+          "to": 42
+        }
+      ]
+    },
+    {
+      "sentence_id": 7,
+      "sentence": "このような環境の下、当社グループでは自動車関連の売上はミッションやエンジン用部品が伸長し、電子情報通信関連はＨＤＤ用サスペンションの新モデルが大幅に増加しプリンター関連の販売不振を吸収しました",
+      "opinions": [
+        {
+          "target": "ミッション",
+          "category": "product#sales",
+          "polarity": "positive",
+          "from": 27,
+          "to": 32
+        },
+        {
+          "target": "エンジン用部品",
+          "category": "product#sales",
+          "polarity": "positive",
+          "from": 33,
+          "to": 40
+        },
+        {
+          "target": "新モデル",
+          "category": "product#sales",
+          "polarity": "positive",
+          "from": 66,
+          "to": 70
+        },
+        {
+          "target": "プリンター関連",
+          "category": "product#sales",
+          "polarity": "negative",
+          "from": 77,
+          "to": 84
+        }
+      ]
+    },
+    {
+      "sentence_id": 8,
+      "sentence": "利益面では、メキシコ子会社の量産準備費用の増加や円高基調等のマイナス要素もありましたが、アジア及び国内子会社の原価改善等の効果が上回りました",
+      "opinions": [
+        {
+          "target": "メキシコ子会社",
+          "category": "company#cost",
+          "polarity": "negative",
+          "from": 6,
+          "to": 13
+        },
+        {
+          "target": "アジア",
+          "category": "company#cost",
+          "polarity": "positive",
+          "from": 44,
+          "to": 47
+        },
+        {
+          "target": "国内子会社",
+          "category": "company#cost",
+          "polarity": "positive",
+          "from": 49,
+          "to": 54
+        }
+      ]
+    },
+    {
+      "sentence_id": 9,
+      "sentence": "この結果、売上高379億80百万円（前連結会計年度比3.4％増）、営業利益22億50百万円（同6.5％増）となりました",
+      "opinions": [
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 5,
+          "to": 8
+        },
+        {
+          "target": "営業利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 33,
+          "to": 37
+        }
+      ]
+    },
+    {
+      "sentence_id": 10,
+      "sentence": "また経常利益は前年に比べ持分法による投資損失の影響が小さくなりましたが、円高及びメキシコペソ安により為替差損が膨らみ17億34百万円（同13.9％増）、親会社株主に帰属する当期純利益は10億93百万円（同4.9％増）となりました",
+      "opinions": [
+        {
+          "target": "為替差損",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 50,
+          "to": 54
+        },
+        {
+          "target": "当期純利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 86,
+          "to": 91
+        }
+      ]
+    },
+    {
+      "sentence_id": 11,
+      "sentence": "≪製品区分別の売上業績≫",
+      "opinions": []
+    },
+    {
+      "sentence_id": 12,
+      "sentence": "（自動車関連部品）",
+      "opinions": []
+    },
+    {
+      "sentence_id": 13,
+      "sentence": "［精密機能材料］",
+      "opinions": []
+    },
+    {
+      "sentence_id": 14,
+      "sentence": "精密機能材料では、弁ばね材料は中国市場での売上が増加し、国内では異形材販売が順調に推移しました",
+      "opinions": [
+        {
+          "target": "弁ばね材料",
+          "category": "product#sales",
+          "polarity": "positive",
+          "from": 9,
+          "to": 14
+        },
+        {
+          "target": "異形材販売",
+          "category": "business#sales",
+          "polarity": "positive",
+          "from": 32,
+          "to": 37
+        }
+      ]
+    },
+    {
+      "sentence_id": 15,
+      "sentence": "結果として、43億52百万円（前連結会計年度比4.0％増）となりました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 16,
+      "sentence": "［精密機能部品］",
+      "opinions": []
+    },
+    {
+      "sentence_id": 17,
+      "sentence": "精密機能部品では、安全装置用部品が前年に比べて減少しましたが、ミッションやエンジン用部品が伸長し、売上高は232億97百万円（前連結会計年度比3.6％増）となりました",
+      "opinions": [
+        {
+          "target": "部品",
+          "category": "product#amount",
+          "polarity": "negative",
+          "from": 14,
+          "to": 16
+        },
+        {
+          "target": "ミッション",
+          "category": "product#sales",
+          "polarity": "positive",
+          "from": 31,
+          "to": 36
+        },
+        {
+          "target": "部品",
+          "category": "product#amount",
+          "polarity": "positive",
+          "from": 42,
+          "to": 44
+        }
+      ]
+    },
+    {
+      "sentence_id": 18,
+      "sentence": "（電子情報通信関連部品）",
+      "opinions": []
+    },
+    {
+      "sentence_id": 19,
+      "sentence": "［サスペンション］",
+      "opinions": []
+    },
+    {
+      "sentence_id": 20,
+      "sentence": "ＨＤＤ用サスペンションは、既存製品の需要が回復し、新モデルについても旺盛な受注が継続したことから、売上高は50億９百万円（前連結会計年度比31.8％増）となりました",
+      "opinions": [
+        {
+          "target": "サスペンション",
+          "category": "product#sales",
+          "polarity": "positive",
+          "from": 4,
+          "to": 11
+        },
+        {
+          "target": "需要",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 18,
+          "to": 20
+        },
+        {
+          "target": "受注",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 37,
+          "to": 39
+        }
+      ]
+    },
+    {
+      "sentence_id": 21,
+      "sentence": "［プリンター関連］",
+      "opinions": []
+    },
+    {
+      "sentence_id": 22,
+      "sentence": "プリンター関連は、市場が冷え込んだ影響でプリンターローラーの需要が前年を大きく下回り、売上高は33億24百万円（前連結会計年度比22.6％減）となりました",
+      "opinions": [
+        {
+          "target": "プリンター関連",
+          "category": "product#sales",
+          "polarity": "negative",
+          "from": 0,
+          "to": 7
+        },
+        {
+          "target": "需要",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 30,
+          "to": 32
+        }
+      ]
+    },
+    {
+      "sentence_id": 23,
+      "sentence": "［デジトロ精密部品］",
+      "opinions": []
+    },
+    {
+      "sentence_id": 24,
+      "sentence": "デジトロ精密部品は、国内でプローブピン販売が増加したほか、米国子会社の光通信部品販売の持ち直しもあり、売上高は18億79百万円（前連結会計年度比2.6％増）となりました",
+      "opinions": [
+        {
+          "target": "デジトロ精密部品",
+          "category": "product#sales",
+          "polarity": "positive",
+          "from": 0,
+          "to": 8
+        },
+        {
+          "target": "プローブピン販売",
+          "category": "business#sales",
+          "polarity": "positive",
+          "from": 13,
+          "to": 21
+        },
+        {
+          "target": "光通信部品販売",
+          "category": "business#general",
+          "polarity": "positive",
+          "from": 35,
+          "to": 42
+        }
+      ]
+    },
+    {
+      "sentence_id": 25,
+      "sentence": "≪セグメント別の業績≫",
+      "opinions": []
+    },
+    {
+      "sentence_id": 26,
+      "sentence": "［日本］",
+      "opinions": []
+    },
+    {
+      "sentence_id": 27,
+      "sentence": "日本セグメントにおいては、自動車関連では弁ばね用材料のグローバル生産体制を進めたこと等により輸出販売は減少しましたが、ミッション用の高強度ばね製品の販売が年間を通して好調に推移しました",
+      "opinions": [
+        {
+          "target": "輸出販売",
+          "category": "NULL#amount",
+          "polarity": "negative",
+          "from": 46,
+          "to": 50
+        },
+        {
+          "target": "高強度ばね製品",
+          "category": "product#amount",
+          "polarity": "positive",
+          "from": 66,
+          "to": 73
+        }
+      ]
+    },
+    {
+      "sentence_id": 28,
+      "sentence": "またＨＤＤ用サスペンションは新モデルの販売が大幅に増加しました",
+      "opinions": [
+        {
+          "target": "ＨＤＤ用サスペンション",
+          "category": "product#amount",
+          "polarity": "positive",
+          "from": 2,
+          "to": 13
+        }
+      ]
+    },
+    {
+      "sentence_id": 29,
+      "sentence": "結果として、日本セグメントの売上高は271億17百万円（前連結会計年度比5.1％増）となり、セグメント利益は円高基調による為替の影響を受けましたが、主にサスペンションの増収効果が寄与し20億20百万円（同2.0％増）となりました",
+      "opinions": [
+        {
+          "target": "日本セグメント",
+          "category": "business#sales",
+          "polarity": "positive",
+          "from": 6,
+          "to": 13
+        },
+        {
+          "target": "日本セグメント",
+          "category": "business#profit",
+          "polarity": "positive",
+          "from": 6,
+          "to": 13
+        },
+        {
+          "target": "サスペンション",
+          "category": "product#sales",
+          "polarity": "positive",
+          "from": 76,
+          "to": 83
+        }
+      ]
+    },
+    {
+      "sentence_id": 30,
+      "sentence": "［北米］",
+      "opinions": []
+    },
+    {
+      "sentence_id": 31,
+      "sentence": "北米セグメントにおいては、米国子会社では自動車のエンジン用部品の販売が高水準を維持したことに加え光通信部品も回復基調となりました",
+      "opinions": [
+        {
+          "target": "部品",
+          "category": "product#amount",
+          "polarity": "positive",
+          "from": 29,
+          "to": 31
+        },
+        {
+          "target": "光通信部品",
+          "category": "product#amount",
+          "polarity": "positive",
+          "from": 48,
+          "to": 53
+        }
+      ]
+    },
+    {
+      "sentence_id": 32,
+      "sentence": "また当連結会計年度よりメキシコ子会社で弁ばね用材料及びエンジン用部品の量産供給を開始しました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 33,
+      "sentence": "その結果、セグメント売上高は50億29百万円（前連結会計年度比3.9％増）となりました",
+      "opinions": [
+        {
+          "target": "セグメント売上高",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 5,
+          "to": 13
+        }
+      ]
+    },
+    {
+      "sentence_id": 34,
+      "sentence": "利益面では、メキシコ子会社で量産準備費用が増加し、米国子会社では労働需給の逼迫等により安定した生産体制を整えることができずコスト高の供給が必要となったため、セグメント損失は３億75百万円（前連結会計年度は２億28百万円のセグメント損失）となりました",
+      "opinions": [
+        {
+          "target": "メキシコ子会社",
+          "category": "company#cost",
+          "polarity": "negative",
+          "from": 6,
+          "to": 13
+        },
+        {
+          "target": "労働需給",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 32,
+          "to": 36
+        },
+        {
+          "target": "セグメント損失",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 78,
+          "to": 85
+        }
+      ]
+    },
+    {
+      "sentence_id": 35,
+      "sentence": "［アジア］",
+      "opinions": []
+    },
+    {
+      "sentence_id": 36,
+      "sentence": "アジアセグメントにおいては、中国・タイ子会社では自動車エンジン用部品の販売が好調に推移し、香港子会社では光通信部品の販売が持ち直しました",
+      "opinions": [
+        {
+          "target": "部品",
+          "category": "product#amount",
+          "polarity": "positive",
+          "from": 32,
+          "to": 34
+        },
+        {
+          "target": "光通信部品",
+          "category": "product#amount",
+          "polarity": "positive",
+          "from": 52,
+          "to": 57
+        }
+      ]
+    },
+    {
+      "sentence_id": 37,
+      "sentence": "しかしながらプリンター関連では市場低迷により減収となりました",
+      "opinions": [
+        {
+          "target": "プリンター関連",
+          "category": "product#amount",
+          "polarity": "negative",
+          "from": 6,
+          "to": 13
+        }
+      ]
+    },
+    {
+      "sentence_id": 38,
+      "sentence": "結果として、アジアセグメントの売上高は90億20百万円（前連結会計年度比4.2％減）、セグメント利益は原価改善効果により12億33百万円（同17.6％増）となりました",
+      "opinions": [
+        {
+          "target": "アジアセグメント",
+          "category": "business#sales",
+          "polarity": "negative",
+          "from": 6,
+          "to": 14
+        },
+        {
+          "target": "アジアセグメント",
+          "category": "business#profit",
+          "polarity": "positive",
+          "from": 6,
+          "to": 14
+        }
+      ]
+    }
+  ]
+}

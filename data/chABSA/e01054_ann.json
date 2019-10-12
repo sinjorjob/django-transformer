@@ -1,0 +1,760 @@
+{
+  "header": {
+    "document_id": "E01054",
+    "document_name": "メック株式会社",
+    "doc_text": "有価証券報告書",
+    "edi_id": "E01054",
+    "security_code": "49710",
+    "category33": "化学",
+    "category17": "素材・化学",
+    "scale": "6"
+  },
+  "sentences": [
+    {
+      "sentence_id": 0,
+      "sentence": "当連結会計年度（平成28年４月１日～平成29年３月31日）におけるわが国経済は、雇用情勢の堅調な推移、個人消費の持ち直しの動き、輸出の回復、工業投資の増加等を背景に緩やかな回復基調にあったものの、米国の大統領政策の影響や、英国のEU離脱問題、世界的な地政学リスクの高まり、為替の動向等から景気の先行きは不透明であります",
+      "opinions": [
+        {
+          "target": "雇用情勢",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 40,
+          "to": 44
+        },
+        {
+          "target": "個人消費",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 51,
+          "to": 55
+        },
+        {
+          "target": "輸出",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 64,
+          "to": 66
+        },
+        {
+          "target": "工業投資",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 70,
+          "to": 74
+        },
+        {
+          "target": "地政学リスク",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 125,
+          "to": 131
+        },
+        {
+          "target": "先行き",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 147,
+          "to": 150
+        }
+      ]
+    },
+    {
+      "sentence_id": 1,
+      "sentence": "エレクトロニクス業界は、パソコンやタブレットPCの不況が続いており、スマートフォンは出荷台数の伸び率に鈍化が見られました",
+      "opinions": [
+        {
+          "target": "パソコン",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 12,
+          "to": 16
+        },
+        {
+          "target": "タブレットPC",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 17,
+          "to": 24
+        },
+        {
+          "target": "伸び率",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 47,
+          "to": 50
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "sentence": "スマートフォンに使用される電子部品は、電池の容量を大きくするスペース確保のために小型化が進められております",
+      "opinions": []
+    },
+    {
+      "sentence_id": 3,
+      "sentence": "そのため、電子部品を搭載する電子基板も高密度化の傾向にあり、技術革新が進んでおります",
+      "opinions": []
+    },
+    {
+      "sentence_id": 4,
+      "sentence": "IoT（Internet of Things:あらゆるものがインターネットでつながること）関連市場は引き続き高い成長が見込まれ、特に高周波用部品の需要は堅調に推移いたしました",
+      "opinions": [
+        {
+          "target": "関連市場",
+          "category": "market#general",
+          "polarity": "positive",
+          "from": 45,
+          "to": 49
+        },
+        {
+          "target": "需要",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 73,
+          "to": 75
+        }
+      ]
+    },
+    {
+      "sentence_id": 5,
+      "sentence": "自動運転車の技術も着実に進んでおり、使用されるレーザーやカメラ等のセンサー類の需要が大きく拡大しております",
+      "opinions": [
+        {
+          "target": "需要",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 39,
+          "to": 41
+        }
+      ]
+    },
+    {
+      "sentence_id": 6,
+      "sentence": "また、センサー類の小型化に伴い、ここでも想像以上に電子基板の高密度化が進んでおります",
+      "opinions": []
+    },
+    {
+      "sentence_id": 7,
+      "sentence": "このような環境のもと、当社グループは高密度電子基板向け製品の開発、販売に注力いたしました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 8,
+      "sentence": "特にスマートフォンやタブレットPC等のパッケージ基板向けに高いシェアを持つ超粗化剤「CZシリーズ」の改良・開発を加速し、販売を積極的に推進いたしました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 9,
+      "sentence": "CZは高い信頼性によりクルマ向けのセンサー類搭載基板に採用が広がっております",
+      "opinions": [
+        {
+          "target": "CZ",
+          "category": "product#general",
+          "polarity": "positive",
+          "from": 0,
+          "to": 2
+        }
+      ]
+    },
+    {
+      "sentence_id": 10,
+      "sentence": "また、エッチング法で高密度配線パターンを実現する「EXEシリーズ」は既にディスプレイ向けに高いシェアを獲得しておりますが、スマートフォンに搭載する電子基板向けにも順調に推移いたしました",
+      "opinions": [
+        {
+          "target": "EXEシリーズ",
+          "category": "product#general",
+          "polarity": "positive",
+          "from": 25,
+          "to": 32
+        }
+      ]
+    },
+    {
+      "sentence_id": 11,
+      "sentence": "スマートフォンやクルマ、HMD（Head Mounted Display）、ロボット等に使われるフレキシブル基板は配線の微細化が進んでおり、銅箔の種類を選ばずに粗化を実現する「UTシリーズ」は引き続き積極的に販売を進め、複数社の基板メーカーがテストを実施しております",
+      "opinions": []
+    },
+    {
+      "sentence_id": 12,
+      "sentence": "さらに、IoT時代の到来により今後拡大していく大量な情報処理に対応する高周波基板向けの「FlatBONDシリーズ」は顧客での安定的な量産が継続しており、今後も拡大の方向にあります",
+      "opinions": [
+        {
+          "target": "FlatBONDシリーズ",
+          "category": "product#amount",
+          "polarity": "positive",
+          "from": 44,
+          "to": 56
+        }
+      ]
+    },
+    {
+      "sentence_id": 13,
+      "sentence": "金属と樹脂とを直接接合する技術である「アマルファ」は一部の携帯端末の金属筐体を製造する工程で使用されておりますが、引き続き販路拡大に向け営業活動に取り組みました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 14,
+      "sentence": "売上高の内訳は、薬品売上高は88億62百万円（前年同期比１億43百万円、1.7％増）、資材売上高は２億39百万円（前年同期比85百万円、55.1%増）、機械売上高は１億30百万円（前年同期比47百万円、26.8％減）、その他売上高は26百万円（前年同期比０百万円、1.2%増）となりました",
+      "opinions": [
+        {
+          "target": "薬品売上高",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 8,
+          "to": 13
+        },
+        {
+          "target": "資材売上高",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 43,
+          "to": 48
+        },
+        {
+          "target": "機械売上高",
+          "category": "NULL#sales",
+          "polarity": "negative",
+          "from": 76,
+          "to": 81
+        },
+        {
+          "target": "その他売上高",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 109,
+          "to": 115
+        }
+      ]
+    },
+    {
+      "sentence_id": 15,
+      "sentence": "薬品売上高の内訳は、密着向上剤は52億12百万円、エッチング剤は30億５百万円、その他薬品は６億44百万円となりました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 16,
+      "sentence": "その結果、当連結会計年度の売上高は92億59百万円（前年同期比１億81百万円、2.0%増）となりました",
+      "opinions": [
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 13,
+          "to": 16
+        }
+      ]
+    },
+    {
+      "sentence_id": 17,
+      "sentence": "薬品の出荷数量は前年同期比で5.5%増加しており、当社薬品の使用は拡大しております",
+      "opinions": [
+        {
+          "target": "出荷数量",
+          "category": "NULL#amount",
+          "polarity": "positive",
+          "from": 3,
+          "to": 7
+        },
+        {
+          "target": "使用",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 30,
+          "to": 32
+        }
+      ]
+    },
+    {
+      "sentence_id": 18,
+      "sentence": "営業利益は18億87百万円（前年同期比２億98百万円、13.6%減）となりました",
+      "opinions": [
+        {
+          "target": "営業利益",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 0,
+          "to": 4
+        }
+      ]
+    },
+    {
+      "sentence_id": 19,
+      "sentence": "営業利益率は20.4%となり、前年同期の24.1%に比較し3.7ポイント減少いたしました",
+      "opinions": [
+        {
+          "target": "営業利益率",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 0,
+          "to": 5
+        }
+      ]
+    },
+    {
+      "sentence_id": 20,
+      "sentence": "営業利益減少の主な要因は、減価償却方法の変更により71百万円増加、尼崎事業所関連の減価償却費負担で64百万円減少ならびに移転費用や什器等の費用により96百万円減少したことであります",
+      "opinions": []
+    },
+    {
+      "sentence_id": 21,
+      "sentence": "経常利益は18億88百万円（前年同期比３億19百万円、14.5%減）となりました",
+      "opinions": [
+        {
+          "target": "経常利益",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 0,
+          "to": 4
+        }
+      ]
+    },
+    {
+      "sentence_id": 22,
+      "sentence": "税金等調整前当期純利益は18億75百万円（前年同期比２億78百万円、12.9%減）となり、親会社株主に帰属する当期純利益は16億42百万円（前年同期比１億27百万円、8.4%増）となりました",
+      "opinions": [
+        {
+          "target": "税金等調整前当期純利益",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 0,
+          "to": 11
+        },
+        {
+          "target": "当期純利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 55,
+          "to": 60
+        }
+      ]
+    },
+    {
+      "sentence_id": 23,
+      "sentence": "これは当連結会計年度に、日台租税協定の発効等により法人税等の負担率が12.4%（前年は29.7%）と低い数値となったことが主な要因であります",
+      "opinions": [
+        {
+          "target": "負担率",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 30,
+          "to": 33
+        }
+      ]
+    },
+    {
+      "sentence_id": 24,
+      "sentence": "なお、当連結会計年度は前年同期と比べ円高の影響で、売上高で６億78百万円、営業利益で３億69百万円減少となりました",
+      "opinions": [
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "negative",
+          "from": 25,
+          "to": 28
+        },
+        {
+          "target": "営業利益",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 37,
+          "to": 41
+        }
+      ]
+    },
+    {
+      "sentence_id": 25,
+      "sentence": "海外売上高比率は54.6%となりました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 26,
+      "sentence": "台湾ではパッケージ基板向け薬品売上が好調に推移いたしました",
+      "opinions": [
+        {
+          "target": "薬品売上",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 13,
+          "to": 17
+        }
+      ]
+    },
+    {
+      "sentence_id": 27,
+      "sentence": "中国はスマートフォンの電子基板向けにEXEシリーズが採用され、売上が拡大し、ヨーロッパも堅調に推移いたしました",
+      "opinions": [
+        {
+          "target": "中国",
+          "category": "business#sales",
+          "polarity": "positive",
+          "from": 0,
+          "to": 2
+        },
+        {
+          "target": "ヨーロッパ",
+          "category": "business#general",
+          "polarity": "positive",
+          "from": 38,
+          "to": 43
+        }
+      ]
+    },
+    {
+      "sentence_id": 28,
+      "sentence": "さらに当社は今後拡大する東南アジア市場を深耕するためにタイに６社目の子会社設立を決議いたしました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 29,
+      "sentence": "操業開始は、平成30年７月を予定しております",
+      "opinions": []
+    },
+    {
+      "sentence_id": 30,
+      "sentence": "キャッシュ・フローに関しては当連結会計年度末における現金及び現金同等物は前連結会計年度末にくらべて３億円増加し、37億23百万円となりました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 31,
+      "sentence": "この要因は営業活動によるキャッシュ・フローで16億33百万円得られ、投資活動によるキャッシュ・フローで24億61百万円使用し、財務活動によるキャッシュ・フローで11億28百万円得たことによります",
+      "opinions": []
+    },
+    {
+      "sentence_id": 32,
+      "sentence": "以上の結果、ROEは13.0%となり、前年同期比0.5ポイントの改善となりました",
+      "opinions": [
+        {
+          "target": "ROE",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 6,
+          "to": 9
+        }
+      ]
+    },
+    {
+      "sentence_id": 33,
+      "sentence": "これは、法人税等が低い数値となり、親会社株主に帰属する当期純利益が前年同期比8.4%増となったことによります",
+      "opinions": [
+        {
+          "target": "法人税",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 4,
+          "to": 7
+        },
+        {
+          "target": "当期純利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 27,
+          "to": 32
+        }
+      ]
+    },
+    {
+      "sentence_id": 34,
+      "sentence": "また、当社は政策保有株式の売却を取引先と折衝してまいりました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 35,
+      "sentence": "２社の持合いを解消し売却益21百万円を計上しております",
+      "opinions": []
+    },
+    {
+      "sentence_id": 36,
+      "sentence": "なお、株主還元といたしましては、配当金は前年対比１株当たり２円増配し、配当性向は23.6％となっております",
+      "opinions": []
+    },
+    {
+      "sentence_id": 37,
+      "sentence": "当期の自社株買いは20万株を実施いたしました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 38,
+      "sentence": "平成27年10月に着工した尼崎事業所は平成28年９月に竣工し、本社機能、研究開発、生産部門が順次移転し業務を開始いたしました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 39,
+      "sentence": "これらの機能を一拠点に集約し、意思決定が迅速化され、新製品開発のスピードがより加速すると確信しております",
+      "opinions": []
+    },
+    {
+      "sentence_id": 40,
+      "sentence": "IoT時代の到来、自動運転車等の実現によるセンサー類の大量使用やロボットや大量情報処理のため人工知能の本格的到来を見据え、より多くの製品開発によって新たな市場への投入を推進する所存です",
+      "opinions": []
+    },
+    {
+      "sentence_id": 41,
+      "sentence": "セグメントごとの業績は、次のとおりであります",
+      "opinions": []
+    },
+    {
+      "sentence_id": 42,
+      "sentence": "日本",
+      "opinions": []
+    },
+    {
+      "sentence_id": 43,
+      "sentence": "日本では、スマートフォン関係が好調であった東南アジア向けは順調に推移したものの、日本国内向けの薬品販売は低調に推移いたしました",
+      "opinions": [
+        {
+          "target": "スマートフォン関係",
+          "category": "product#general",
+          "polarity": "positive",
+          "from": 5,
+          "to": 14
+        },
+        {
+          "target": "東南アジア向け",
+          "category": "product#general",
+          "polarity": "positive",
+          "from": 21,
+          "to": 28
+        },
+        {
+          "target": "薬品販売",
+          "category": "NULL#sales",
+          "polarity": "negative",
+          "from": 47,
+          "to": 51
+        }
+      ]
+    },
+    {
+      "sentence_id": 44,
+      "sentence": "また、韓国向けは順調に推移していましたが、年後半からディスプレイ向けが減速いたしました",
+      "opinions": [
+        {
+          "target": "韓国向け",
+          "category": "product#general",
+          "polarity": "positive",
+          "from": 3,
+          "to": 7
+        },
+        {
+          "target": "ディスプレイ向け",
+          "category": "product#general",
+          "polarity": "negative",
+          "from": 26,
+          "to": 34
+        }
+      ]
+    },
+    {
+      "sentence_id": 45,
+      "sentence": "その結果、当連結会計年度の売上高は44億12百万円（前年同期比0.5%減）、セグメント利益は12億９百万円（前年同期比16.7%減）となりました",
+      "opinions": [
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "negative",
+          "from": 13,
+          "to": 16
+        },
+        {
+          "target": "セグメント利益",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 38,
+          "to": 45
+        }
+      ]
+    },
+    {
+      "sentence_id": 46,
+      "sentence": "台湾",
+      "opinions": []
+    },
+    {
+      "sentence_id": 47,
+      "sentence": "台湾では、スマートフォンやタブレット用パッケージ基板向けや高密度電子基板向け薬品が堅調に推移いたしました",
+      "opinions": [
+        {
+          "target": "パッケージ基板向け",
+          "category": "product#general",
+          "polarity": "positive",
+          "from": 19,
+          "to": 28
+        },
+        {
+          "target": "薬品",
+          "category": "product#general",
+          "polarity": "positive",
+          "from": 38,
+          "to": 40
+        }
+      ]
+    },
+    {
+      "sentence_id": 48,
+      "sentence": "一方、円高の影響により、利益は減少いたしました",
+      "opinions": [
+        {
+          "target": "利益",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 12,
+          "to": 14
+        }
+      ]
+    },
+    {
+      "sentence_id": 49,
+      "sentence": "その結果、当連結会計年度の売上高は19億88百万円（前年同期比5.9%増）、セグメント利益は２億22百万円（前年同期比1.3%減）となりました",
+      "opinions": [
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 13,
+          "to": 16
+        },
+        {
+          "target": "セグメント利益",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 38,
+          "to": 45
+        }
+      ]
+    },
+    {
+      "sentence_id": 50,
+      "sentence": "香港（香港、珠海）",
+      "opinions": []
+    },
+    {
+      "sentence_id": 51,
+      "sentence": "香港・珠海では、主として円高の影響に加えて、日本との取引条件の見直しもあり、売上、利益も減少いたしました",
+      "opinions": [
+        {
+          "target": "香港・珠海",
+          "category": "business#sales",
+          "polarity": "negative",
+          "from": 0,
+          "to": 5
+        },
+        {
+          "target": "香港・珠海",
+          "category": "business#profit",
+          "polarity": "negative",
+          "from": 0,
+          "to": 5
+        }
+      ]
+    },
+    {
+      "sentence_id": 52,
+      "sentence": "その結果、当連結会計年度の売上高は７億78百万円（前年同期比17.3%減）、セグメント利益は１億15百万円（前年同期比43.8%減）となりました",
+      "opinions": [
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "negative",
+          "from": 13,
+          "to": 16
+        },
+        {
+          "target": "セグメント利益",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 38,
+          "to": 45
+        }
+      ]
+    },
+    {
+      "sentence_id": 53,
+      "sentence": "中国（蘇州）",
+      "opinions": []
+    },
+    {
+      "sentence_id": 54,
+      "sentence": "蘇州では、スマートフォン用HDI基板向けの薬品が堅調に推移いたしました",
+      "opinions": [
+        {
+          "target": "薬品",
+          "category": "product#general",
+          "polarity": "positive",
+          "from": 21,
+          "to": 23
+        }
+      ]
+    },
+    {
+      "sentence_id": 55,
+      "sentence": "一方、円高の影響により、利益は減少いたしました",
+      "opinions": [
+        {
+          "target": "利益",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 12,
+          "to": 14
+        }
+      ]
+    },
+    {
+      "sentence_id": 56,
+      "sentence": "その結果、当連結会計年度の売上高は14億47百万円（前年同期比17.2%増）、セグメント利益は２億77百万円（前年同期比12.3%減）となりました",
+      "opinions": [
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 13,
+          "to": 16
+        },
+        {
+          "target": "セグメント利益",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 39,
+          "to": 46
+        }
+      ]
+    },
+    {
+      "sentence_id": 57,
+      "sentence": "欧州",
+      "opinions": []
+    },
+    {
+      "sentence_id": 58,
+      "sentence": "欧州では、基板検査機の売上が順調に推移いたしました",
+      "opinions": [
+        {
+          "target": "基板検査機",
+          "category": "product#sales",
+          "polarity": "positive",
+          "from": 5,
+          "to": 10
+        }
+      ]
+    },
+    {
+      "sentence_id": 59,
+      "sentence": "その結果、当連結会計年度の売上高は６億33百万円（前年同期比7.5%増）、セグメント利益は83百万円（前年同期比147.1%増）となりました",
+      "opinions": [
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 13,
+          "to": 16
+        },
+        {
+          "target": "セグメント利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 37,
+          "to": 44
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,858 @@
+{
+  "header": {
+    "document_id": "E04360",
+    "document_name": "郵船ロジスティクス株式会社",
+    "doc_text": "有価証券報告書",
+    "edi_id": "E04360",
+    "security_code": "93700",
+    "category33": "倉庫・運輸関連業",
+    "category17": "運輸・物流",
+    "scale": "7"
+  },
+  "sentences": [
+    {
+      "sentence_id": 0,
+      "sentence": "当連結会計年度の世界経済は、日本では個人消費が低迷も、海外経済の回復傾向を背景として緩やかに成長しました",
+      "opinions": [
+        {
+          "target": "世界経済",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 8,
+          "to": 12
+        },
+        {
+          "target": "個人消費",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 18,
+          "to": 22
+        }
+      ]
+    },
+    {
+      "sentence_id": 1,
+      "sentence": "米国では新政権による個人消費の押し上げがあったものの、政策実行への不確実性要素もあり先行き不透明な状況となりました",
+      "opinions": [
+        {
+          "target": "個人消費",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 10,
+          "to": 14
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "sentence": "欧州では、雇用が改善する等、緩やかながら景気の回復がみられました",
+      "opinions": [
+        {
+          "target": "雇用",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 5,
+          "to": 7
+        },
+        {
+          "target": "景気",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 20,
+          "to": 22
+        }
+      ]
+    },
+    {
+      "sentence_id": 3,
+      "sentence": "アジアでは、経済成長の鈍化が継続したものの、一部地域では持ち直しがみられました",
+      "opinions": [
+        {
+          "target": "経済成長",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 6,
+          "to": 10
+        },
+        {
+          "target": "一部地域",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 22,
+          "to": 26
+        }
+      ]
+    },
+    {
+      "sentence_id": 4,
+      "sentence": "このような世界経済において、国際物流市場は、海上貨物では底堅い荷動きとなり、航空貨物ではアジアを中心に底打ち感がみられました",
+      "opinions": [
+        {
+          "target": "海上貨物",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 22,
+          "to": 26
+        },
+        {
+          "target": "航空貨物",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 38,
+          "to": 42
+        }
+      ]
+    },
+    {
+      "sentence_id": 5,
+      "sentence": "当社グループは中期経営計画の成長戦略に基づき販売拡大を継続し、海上事業、航空事業ともに取扱いは大幅に増加しました",
+      "opinions": [
+        {
+          "target": "海上事業",
+          "category": "business#amount",
+          "polarity": "positive",
+          "from": 31,
+          "to": 35
+        },
+        {
+          "target": "航空事業",
+          "category": "business#amount",
+          "polarity": "positive",
+          "from": 36,
+          "to": 40
+        }
+      ]
+    },
+    {
+      "sentence_id": 6,
+      "sentence": "海上事業は計画通り進捗しましたが、航空事業は取扱いでは想定通りとなったものの、アジアで運賃の仕入れ高騰といった厳しい事業環境となりました",
+      "opinions": [
+        {
+          "target": "海上事業",
+          "category": "business#general",
+          "polarity": "positive",
+          "from": 0,
+          "to": 4
+        },
+        {
+          "target": "航空事業",
+          "category": "business#amount",
+          "polarity": "positive",
+          "from": 17,
+          "to": 21
+        },
+        {
+          "target": "航空事業",
+          "category": "business#cost",
+          "polarity": "negative",
+          "from": 17,
+          "to": 21
+        }
+      ]
+    },
+    {
+      "sentence_id": 7,
+      "sentence": "ロジスティクス事業では、一部のアジア新興国において経済の成長鈍化による影響がみられ、販売は力強さに欠けました",
+      "opinions": [
+        {
+          "target": "ロジスティクス事業",
+          "category": "business#amount",
+          "polarity": "negative",
+          "from": 0,
+          "to": 9
+        },
+        {
+          "target": "アジア新興国",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 15,
+          "to": 21
+        }
+      ]
+    },
+    {
+      "sentence_id": 8,
+      "sentence": "これらの結果、営業収益は前期比6.5％減の439,141百万円、営業利益は前期比53.4％減の4,224百万円、経常利益は前期比40.3％減の5,970百万円となりました",
+      "opinions": [
+        {
+          "target": "営業収益",
+          "category": "NULL#sales",
+          "polarity": "negative",
+          "from": 7,
+          "to": 11
+        },
+        {
+          "target": "営業利益",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 32,
+          "to": 36
+        },
+        {
+          "target": "経常利益",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 56,
+          "to": 60
+        }
+      ]
+    },
+    {
+      "sentence_id": 9,
+      "sentence": "日本において繰延税金資産の取崩しや固定資産の減損損失計上等もあり、親会社株主に帰属する当期純損失は2,511百万円（前期は親会社株主に帰属する当期純利益2,699百万円）となりました",
+      "opinions": [
+        {
+          "target": "当期純損失",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 43,
+          "to": 48
+        }
+      ]
+    },
+    {
+      "sentence_id": 10,
+      "sentence": "各セグメントの業績は以下のとおりであります",
+      "opinions": []
+    },
+    {
+      "sentence_id": 11,
+      "sentence": "①日本",
+      "opinions": []
+    },
+    {
+      "sentence_id": 12,
+      "sentence": "海上事業は、輸出では自動車関連部品や工作機械、電子・電気機器関連品等、輸入は自動車関連部品や衣料品、食品関連等の好調な取扱いが継続し、輸出取扱実績（TEU）は前期比29.5％増、輸入取扱件数は前期比14.3％増となりました",
+      "opinions": [
+        {
+          "target": "海上事業",
+          "category": "business#amount",
+          "polarity": "positive",
+          "from": 0,
+          "to": 4
+        },
+        {
+          "target": "工作機械",
+          "category": "product#amount",
+          "polarity": "positive",
+          "from": 18,
+          "to": 22
+        },
+        {
+          "target": "電子・電気機器関連品",
+          "category": "product#amount",
+          "polarity": "positive",
+          "from": 23,
+          "to": 33
+        },
+        {
+          "target": "自動車関連部品",
+          "category": "product#amount",
+          "polarity": "positive",
+          "from": 38,
+          "to": 45
+        },
+        {
+          "target": "衣料品",
+          "category": "product#amount",
+          "polarity": "positive",
+          "from": 46,
+          "to": 49
+        },
+        {
+          "target": "食品関連",
+          "category": "product#amount",
+          "polarity": "positive",
+          "from": 50,
+          "to": 54
+        },
+        {
+          "target": "輸入取扱件数",
+          "category": "NULL#amount",
+          "polarity": "positive",
+          "from": 89,
+          "to": 95
+        }
+      ]
+    },
+    {
+      "sentence_id": 13,
+      "sentence": "航空事業は、輸出は自動車関連部品やアジア向けを中心に電子・電気機器関連品等の荷動きに回復がみられ、取扱重量は前期比6.6％増となりました",
+      "opinions": [
+        {
+          "target": "輸出",
+          "category": "business#amount",
+          "polarity": "positive",
+          "from": 6,
+          "to": 8
+        },
+        {
+          "target": "荷動き",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 38,
+          "to": 41
+        }
+      ]
+    },
+    {
+      "sentence_id": 14,
+      "sentence": "輸入は、個人消費低迷の長期化が荷動きに影響したことに加え、医療機器関連品等の荷動きが期待に届かなかったこともあり、取扱件数は前期比1.4％減となりました",
+      "opinions": [
+        {
+          "target": "輸入",
+          "category": "business#amount",
+          "polarity": "negative",
+          "from": 0,
+          "to": 2
+        },
+        {
+          "target": "荷動き",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 38,
+          "to": 41
+        }
+      ]
+    },
+    {
+      "sentence_id": 15,
+      "sentence": "これらの結果、営業収益は82,816百万円（前期比0.6％減）、航空事業における事業環境の改善に時間を要したことに加え、一時費用を計上したことも影響し、セグメント損失（営業損失）は1,850百万円（前期はセグメント損失60百万円）となりました",
+      "opinions": [
+        {
+          "target": "営業収益",
+          "category": "NULL#sales",
+          "polarity": "negative",
+          "from": 7,
+          "to": 11
+        },
+        {
+          "target": "セグメント損失",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 76,
+          "to": 83
+        }
+      ]
+    },
+    {
+      "sentence_id": 16,
+      "sentence": "②米州",
+      "opinions": []
+    },
+    {
+      "sentence_id": 17,
+      "sentence": "海上事業は、輸出では自動車関連部品や食品関連等を中心とした荷動きが堅調に推移し、取扱実績（TEU）は前期比16.2％増、輸入は日用品等の取扱いが寄与し、取扱件数は前期比13.6％増となりました",
+      "opinions": [
+        {
+          "target": "輸出",
+          "category": "business#amount",
+          "polarity": "positive",
+          "from": 6,
+          "to": 8
+        },
+        {
+          "target": "荷動き",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 29,
+          "to": 32
+        },
+        {
+          "target": "輸入",
+          "category": "business#amount",
+          "polarity": "positive",
+          "from": 60,
+          "to": 62
+        }
+      ]
+    },
+    {
+      "sentence_id": 18,
+      "sentence": "航空事業は、自動車関連部品や航空機関連品等を取扱いましたが、活況な荷動きには至らず、輸出取扱重量は前期比0.4％減、輸入取扱件数は前期比2.2％増にとどまりました",
+      "opinions": [
+        {
+          "target": "航空事業",
+          "category": "business#amount",
+          "polarity": "negative",
+          "from": 0,
+          "to": 4
+        },
+        {
+          "target": "荷動き",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 33,
+          "to": 36
+        },
+        {
+          "target": "輸入取扱件数",
+          "category": "NULL#amount",
+          "polarity": "positive",
+          "from": 58,
+          "to": 64
+        }
+      ]
+    },
+    {
+      "sentence_id": 19,
+      "sentence": "ロジスティクス事業は、下期の荷動きに力強さがなく、コストの削減に努めましたが、内陸輸送における仕入れ環境の改善がみられず厳しい環境で推移しました",
+      "opinions": [
+        {
+          "target": "ロジスティクス事業",
+          "category": "business#general",
+          "polarity": "negative",
+          "from": 0,
+          "to": 9
+        },
+        {
+          "target": "荷動き",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 14,
+          "to": 17
+        },
+        {
+          "target": "仕入れ環境",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 47,
+          "to": 52
+        }
+      ]
+    },
+    {
+      "sentence_id": 20,
+      "sentence": "これらの結果、営業収益は95,973百万円（前期比18.4％減）、セグメント損失（営業損失）は505百万円（前期はセグメント利益62百万円）となりました",
+      "opinions": [
+        {
+          "target": "営業収益",
+          "category": "NULL#sales",
+          "polarity": "negative",
+          "from": 7,
+          "to": 11
+        },
+        {
+          "target": "セグメント損失",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 33,
+          "to": 40
+        }
+      ]
+    },
+    {
+      "sentence_id": 21,
+      "sentence": "なお、１ドルあたりの円換算レートは、当期が108.76円、前期が120.78円であります",
+      "opinions": []
+    },
+    {
+      "sentence_id": 22,
+      "sentence": "③欧州",
+      "opinions": []
+    },
+    {
+      "sentence_id": 23,
+      "sentence": "海上事業は、輸出で自動車関連部品や日用品等を中心に取扱いが伸張し、取扱実績（TEU）は前期比13.4％増となりました",
+      "opinions": [
+        {
+          "target": "海上事業",
+          "category": "business#amount",
+          "polarity": "positive",
+          "from": 0,
+          "to": 4
+        },
+        {
+          "target": "自動車関連部品",
+          "category": "product#amount",
+          "polarity": "positive",
+          "from": 9,
+          "to": 16
+        },
+        {
+          "target": "日用品",
+          "category": "product#amount",
+          "polarity": "positive",
+          "from": 17,
+          "to": 20
+        }
+      ]
+    },
+    {
+      "sentence_id": 24,
+      "sentence": "輸入では販売強化の効果もあり、自動車関連部品や電子・電気機器関連品等の取扱いが拡大し、取扱件数は前期比17.6％増となりました",
+      "opinions": [
+        {
+          "target": "輸入",
+          "category": "business#amount",
+          "polarity": "positive",
+          "from": 0,
+          "to": 2
+        },
+        {
+          "target": "自動車関連部品",
+          "category": "product#amount",
+          "polarity": "positive",
+          "from": 15,
+          "to": 22
+        },
+        {
+          "target": "電子・電気機器関連品",
+          "category": "product#amount",
+          "polarity": "positive",
+          "from": 23,
+          "to": 33
+        }
+      ]
+    },
+    {
+      "sentence_id": 25,
+      "sentence": "航空事業は、輸出で医療機器関連品等の出荷を取扱ったものの、前期のスポット出荷が剥落した影響もあり、取扱重量は前期比8.2％減となりました",
+      "opinions": [
+        {
+          "target": "航空事業",
+          "category": "business#amount",
+          "polarity": "negative",
+          "from": 0,
+          "to": 4
+        }
+      ]
+    },
+    {
+      "sentence_id": 26,
+      "sentence": "輸入はアジア発を中心に電子・電気機器関連品等の荷動きが堅調なものとなり、取扱件数は前期比8.6％増となりました",
+      "opinions": [
+        {
+          "target": "輸入",
+          "category": "business#amount",
+          "polarity": "positive",
+          "from": 0,
+          "to": 2
+        },
+        {
+          "target": "荷動き",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 23,
+          "to": 26
+        }
+      ]
+    },
+    {
+      "sentence_id": 27,
+      "sentence": "ロジスティクス事業では、下期に入り自動車関連部品や電子・電気機器関連品等の取扱いが順調に推移したことに加え、新規ビジネスを獲得しました",
+      "opinions": [
+        {
+          "target": "ロジスティクス事業",
+          "category": "business#general",
+          "polarity": "positive",
+          "from": 0,
+          "to": 9
+        },
+        {
+          "target": "自動車関連部品",
+          "category": "product#amount",
+          "polarity": "positive",
+          "from": 17,
+          "to": 24
+        },
+        {
+          "target": "電子・電気機器関連品",
+          "category": "product#amount",
+          "polarity": "positive",
+          "from": 25,
+          "to": 35
+        }
+      ]
+    },
+    {
+      "sentence_id": 28,
+      "sentence": "これらの結果、営業収益は93,941百万円（前期比11.8％減）、セグメント利益（営業利益）は業務改革によるコスト削減効果もあり691百万円（同33.4％増）となりました",
+      "opinions": [
+        {
+          "target": "営業収益",
+          "category": "NULL#sales",
+          "polarity": "negative",
+          "from": 7,
+          "to": 11
+        },
+        {
+          "target": "セグメント利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 33,
+          "to": 40
+        }
+      ]
+    },
+    {
+      "sentence_id": 29,
+      "sentence": "なお、１ユーロあたりの円換算レートは、当期が119.34円、前期が132.75円であります",
+      "opinions": []
+    },
+    {
+      "sentence_id": 30,
+      "sentence": "④東アジア",
+      "opinions": []
+    },
+    {
+      "sentence_id": 31,
+      "sentence": "海上事業は、輸出で積極的に販売拡大を推進し、日用品や電子・電気機器関連品、自動車関連部品等の出荷を取り込み、取扱実績（TEU）は前期比23.7％増と大きく伸長しました",
+      "opinions": [
+        {
+          "target": "海上事業",
+          "category": "business#amount",
+          "polarity": "positive",
+          "from": 0,
+          "to": 4
+        }
+      ]
+    },
+    {
+      "sentence_id": 32,
+      "sentence": "輸入は自動車関連部品等の底堅い荷動きに加え、電子・電気機器関連品の取扱いもあり、取扱件数は前期比3.6％増となりました",
+      "opinions": [
+        {
+          "target": "輸入",
+          "category": "business#amount",
+          "polarity": "positive",
+          "from": 0,
+          "to": 2
+        },
+        {
+          "target": "荷動き",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 15,
+          "to": 18
+        }
+      ]
+    },
+    {
+      "sentence_id": 33,
+      "sentence": "航空事業は、輸出で電子・電気機器関連品や自動車関連部品等の取扱いが順調に拡大し、前期比で取扱重量は21.1％増となりました",
+      "opinions": [
+        {
+          "target": "航空事業",
+          "category": "business#amount",
+          "polarity": "positive",
+          "from": 0,
+          "to": 4
+        },
+        {
+          "target": "電子・電気機器関連品",
+          "category": "product#amount",
+          "polarity": "positive",
+          "from": 9,
+          "to": 19
+        },
+        {
+          "target": "自動車関連部品",
+          "category": "product#amount",
+          "polarity": "positive",
+          "from": 20,
+          "to": 27
+        }
+      ]
+    },
+    {
+      "sentence_id": 34,
+      "sentence": "輸入は、電子・電気機器関連品の荷動きが回復したこともあり、取扱件数は前期比10.8％増となりました",
+      "opinions": [
+        {
+          "target": "輸入",
+          "category": "business#amount",
+          "polarity": "positive",
+          "from": 0,
+          "to": 2
+        },
+        {
+          "target": "荷動き",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 15,
+          "to": 18
+        }
+      ]
+    },
+    {
+      "sentence_id": 35,
+      "sentence": "ロジスティクス事業では、日用品や衣料品、食品関連等の荷動きは底堅く推移しましたが、域内の経済成長鈍化も影響し、荷動きは力強さに欠けるものとなりました",
+      "opinions": [
+        {
+          "target": "荷動き",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 26,
+          "to": 29
+        },
+        {
+          "target": "荷動き",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 55,
+          "to": 58
+        }
+      ]
+    },
+    {
+      "sentence_id": 36,
+      "sentence": "これらの結果、営業収益は91,428百万円（前期比7.0％増）、セグメント利益（営業利益）は、下期に入り航空運賃の仕入れ高騰といった事業環境の影響もあり、1,166百万円（同51.3％減）となりました",
+      "opinions": [
+        {
+          "target": "営業収益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 7,
+          "to": 11
+        },
+        {
+          "target": "セグメント利益",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 32,
+          "to": 39
+        }
+      ]
+    },
+    {
+      "sentence_id": 37,
+      "sentence": "⑤南アジア・オセアニア",
+      "opinions": []
+    },
+    {
+      "sentence_id": 38,
+      "sentence": "海上事業は、輸出で自動車関連部品や電子・電気機器関連品、日用品を中心に取扱いを拡大し、取扱実績（TEU）は前期比17.5％増となりました",
+      "opinions": [
+        {
+          "target": "海上事業",
+          "category": "business#amount",
+          "polarity": "positive",
+          "from": 0,
+          "to": 4
+        },
+        {
+          "target": "自動車関連部品",
+          "category": "product#amount",
+          "polarity": "positive",
+          "from": 9,
+          "to": 16
+        },
+        {
+          "target": "電子・電気機器関連品",
+          "category": "product#amount",
+          "polarity": "positive",
+          "from": 17,
+          "to": 27
+        },
+        {
+          "target": "日用品",
+          "category": "product#amount",
+          "polarity": "positive",
+          "from": 28,
+          "to": 31
+        }
+      ]
+    },
+    {
+      "sentence_id": 39,
+      "sentence": "輸入は、自動車関連部品や日用品等の荷動きがありましたが、取扱件数は前期比3.6％増にとどまりました",
+      "opinions": [
+        {
+          "target": "輸入",
+          "category": "business#amount",
+          "polarity": "positive",
+          "from": 0,
+          "to": 2
+        }
+      ]
+    },
+    {
+      "sentence_id": 40,
+      "sentence": "航空事業は、輸出で自動車関連部品、電子・電気機器関連品、衣料品の取扱いが順調に推移し、取扱重量は前期比18.3％増となりました",
+      "opinions": [
+        {
+          "target": "航空事業",
+          "category": "business#amount",
+          "polarity": "positive",
+          "from": 0,
+          "to": 4
+        },
+        {
+          "target": "自動車関連部品",
+          "category": "product#amount",
+          "polarity": "positive",
+          "from": 9,
+          "to": 16
+        },
+        {
+          "target": "電子・電気機器関連品",
+          "category": "product#amount",
+          "polarity": "positive",
+          "from": 17,
+          "to": 27
+        },
+        {
+          "target": "衣料品",
+          "category": "product#amount",
+          "polarity": "positive",
+          "from": 28,
+          "to": 31
+        }
+      ]
+    },
+    {
+      "sentence_id": 41,
+      "sentence": "輸入は、電子・電気機器関連品や自動車関連部品等は底堅い荷動きとなりましたが、取扱件数は前期比3.7％増にとどまりました",
+      "opinions": [
+        {
+          "target": "輸入",
+          "category": "business#amount",
+          "polarity": "positive",
+          "from": 0,
+          "to": 2
+        },
+        {
+          "target": "荷動き",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 27,
+          "to": 30
+        }
+      ]
+    },
+    {
+      "sentence_id": 42,
+      "sentence": "ロジスティクス事業では、経済の成長鈍化による影響が新興国の一部地域でみられましたが、カンボジア等、今後大きく成長が見込まれる地域への投資を継続し事業を拡大しました",
+      "opinions": [
+        {
+          "target": "経済",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 12,
+          "to": 14
+        }
+      ]
+    },
+    {
+      "sentence_id": 43,
+      "sentence": "これらの結果、営業収益は90,652百万円（前期比3.1％減）、セグメント利益（営業利益）は4,817百万円（同22.9％減）となりました",
+      "opinions": [
+        {
+          "target": "営業収益",
+          "category": "NULL#sales",
+          "polarity": "negative",
+          "from": 7,
+          "to": 11
+        },
+        {
+          "target": "セグメント利益",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 32,
+          "to": 39
+        }
+      ]
+    }
+  ]
+}

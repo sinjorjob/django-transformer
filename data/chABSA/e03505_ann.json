@@ -1,0 +1,598 @@
+{
+  "header": {
+    "document_id": "E03505",
+    "document_name": "ホリイフードサービス株式会社",
+    "doc_text": "有価証券報告書",
+    "edi_id": "E03505",
+    "security_code": "30770",
+    "category33": "小売業",
+    "category17": "小売",
+    "scale": ""
+  },
+  "sentences": [
+    {
+      "sentence_id": 0,
+      "sentence": "当事業年度の我が国の経済は、為替が若干不安定な動きを見せる状況にありますが、企業収益は堅調に推移しており、雇用情勢及び所得環境も改善傾向にあります",
+      "opinions": [
+        {
+          "target": "為替",
+          "category": "NULL#general",
+          "polarity": "neutral",
+          "from": 14,
+          "to": 16
+        },
+        {
+          "target": "企業収益",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 38,
+          "to": 42
+        },
+        {
+          "target": "雇用情勢",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 53,
+          "to": 57
+        },
+        {
+          "target": "所得環境",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 59,
+          "to": 63
+        }
+      ]
+    },
+    {
+      "sentence_id": 1,
+      "sentence": "しかしながら、今後の税負担増加等への不安感から生活防衛意識は依然として根強く、個人消費は底堅く推移しつつも大幅な改善には至っておりません",
+      "opinions": [
+        {
+          "target": "個人消費",
+          "category": "NULL#general",
+          "polarity": "neutral",
+          "from": 39,
+          "to": 43
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "sentence": "総じては、穏やかな景気回復に留まっているものと思われます",
+      "opinions": []
+    },
+    {
+      "sentence_id": 3,
+      "sentence": "また、世界経済においては、新興国の経済成長が鈍化するなか、米国は政権交代により内向化を鮮明にしており、英国によるＥＵ離脱決議など不安要素が散見される状況にあります",
+      "opinions": [
+        {
+          "target": "世界経済",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 3,
+          "to": 7
+        },
+        {
+          "target": "経済成長",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 17,
+          "to": 21
+        }
+      ]
+    },
+    {
+      "sentence_id": 4,
+      "sentence": "これらが、輸出に依存度の高い我が国経済に与える影響が懸念される状況にあります",
+      "opinions": []
+    },
+    {
+      "sentence_id": 5,
+      "sentence": "なお、当社の属する飲食業界におきましては、全般的に業績は堅調に推移しておりますが、雇用情勢の改善が進むなか人材不足は根強く、厳しい経営環境が継続する状況にあります",
+      "opinions": [
+        {
+          "target": "飲食業界",
+          "category": "market#general",
+          "polarity": "negative",
+          "from": 9,
+          "to": 13
+        },
+        {
+          "target": "業績",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 25,
+          "to": 27
+        },
+        {
+          "target": "雇用情勢",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 41,
+          "to": 45
+        }
+      ]
+    },
+    {
+      "sentence_id": 6,
+      "sentence": "また、酒類販売に依存度の高い業態においては、社会全般的に酒類の消費が減退傾向を強める状況に加え、食事性の高い業態による付加価値としての酒類販売強化や、酒類消費の中食化の進行など業界内外に多くの競争を強いられております",
+      "opinions": [
+        {
+          "target": "消費",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 31,
+          "to": 33
+        }
+      ]
+    },
+    {
+      "sentence_id": 7,
+      "sentence": "更に、低価格化の進行、業態の細分化による急速な陳腐化等の多くの問題を内包しております",
+      "opinions": []
+    },
+    {
+      "sentence_id": 8,
+      "sentence": "そのような状況のなか当社は、飲食業全般が置かれている状況に加え、業容の拡大を目指した過年度における大量出店及び人材不足により店舗運営力の低下を招く事態となりました",
+      "opinions": [
+        {
+          "target": "店舗運営力",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 62,
+          "to": 67
+        }
+      ]
+    },
+    {
+      "sentence_id": 9,
+      "sentence": "それらにより、相対的な競争力の低下を来した結果、販売実績は低迷しております",
+      "opinions": [
+        {
+          "target": "競争力",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 11,
+          "to": 14
+        },
+        {
+          "target": "販売実績",
+          "category": "NULL#amount",
+          "polarity": "negative",
+          "from": 24,
+          "to": 28
+        }
+      ]
+    },
+    {
+      "sentence_id": 10,
+      "sentence": "この状況を改善するため、当事業年度においては新規出店は一時的に停止したうえ、既存店舗の業況改善を優先してまいりました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 11,
+      "sentence": "当社の業態構成は、比較的客単価が高く幅広い飲食需要に対応を可能とするメニュー構成を持つ業態を指向してまいりましたが、酒類の消費が減退傾向にあるなか、業界が全般的に低価格化及び専門化に進みつつある状況に対応するため、次の業態を新たに開発し既存店舗からの業態変更を進めてまいりました",
+      "opinions": [
+        {
+          "target": "消費",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 61,
+          "to": 63
+        }
+      ]
+    },
+    {
+      "sentence_id": 12,
+      "sentence": "「みんなの和食村」業態\n　酒類販売に依存度の高い業態を中心とした店舗構成の是正のため、食事性を高めた豊富なメニュー構成により幅広い飲食需要への対応を可能とすることを意図して開発いたしました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 13,
+      "sentence": "「串三昧」業態及び「串市場」業態\n　低価格化・専門化へと進むことに対応し、店舗オペレーションの簡素化による効率向上を意図して次の２業態を開発いたしました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 14,
+      "sentence": "（串三昧）\n　食べ放題等の低価格業態へ飲食需要が移行する傾向への対応として「串焼き・串カツ・餃子の食べ放題」でお得感の訴求を意図して開発いたしました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 15,
+      "sentence": "（串市場）\n　低価格業態への需要増加への対応として専門業態のなかにあっても「肉・魚・野菜の串揚げ」と幅広い食材を低価格で提供する居酒屋業態として開発いたしました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 16,
+      "sentence": "「複合」業態\n　当社の保有する店舗は中規模から大規模な店舗が多く、低価格業態での営業には向かない傾向にあります",
+      "opinions": []
+    },
+    {
+      "sentence_id": 17,
+      "sentence": "そこで、一つの店舗に異なる性格の業態を組み合わせることにより、異なる飲食需要への対応を可能とし、業態ごとの稼働率向上をもって店舗全体としての稼働率の向上を意図して開発いたしました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 18,
+      "sentence": "なお、当事業年度に実施しました業態変更及び店舗改装は次のとおりであります",
+      "opinions": []
+    },
+    {
+      "sentence_id": 19,
+      "sentence": "○業態変更21店舗",
+      "opinions": []
+    },
+    {
+      "sentence_id": 20,
+      "sentence": "・「忍家」業態からの変更(７店舗)\n「みんなの和食村」業態２店舗 「串三昧」業態１店舗 「串市場」業態４店舗\n・「益益」業態からの変更(７店舗)\n「みんなの和食村」業態３店舗 「串三昧」業態２店舗 「複合」業態２店舗\n・「味斗」業態からの変更(７店舗)\n「みんなの和食村」業態３店舗 「串三昧」業態４店舗",
+      "opinions": []
+    },
+    {
+      "sentence_id": 21,
+      "sentence": "○店舗改装15店舗",
+      "opinions": []
+    },
+    {
+      "sentence_id": 22,
+      "sentence": "・「忍家」業態　\n　茨城県５店舗・栃木県５店舗・埼玉県２店舗・福島県１店舗 合計13店舗\n・「益益」業態　\n　茨城県２店舗",
+      "opinions": []
+    },
+    {
+      "sentence_id": 23,
+      "sentence": "また、当事業年度末の店舗数につきましては、前事業年度において決定しておりました２店舗、大幅な修繕を要する１店舗及び業績不振の６店舗を加えた合計９店舗を閉鎖しました結果、133店舗となり前事業年度末に比べ９店舗減少いたしました",
+      "opinions": [
+        {
+          "target": "店舗数",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 10,
+          "to": 13
+        }
+      ]
+    },
+    {
+      "sentence_id": 24,
+      "sentence": "なお、当事業年度末において、業績不振にある次の８店舗の閉鎖を決定いたしました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 25,
+      "sentence": "・「忍家」業態５店舗\n　東京都１店舗・埼玉県２店舗・千葉県１店舗・神奈川県１店舗\n・「串三昧」業態１店舗\n　栃木県１店舗\n・「みんなの和食村」業態２店舗\n　栃木県２店舗",
+      "opinions": []
+    },
+    {
+      "sentence_id": 26,
+      "sentence": "業績につきましては、業界全般が低価格化・専門化を指向するなか、主力の「忍家」業態の客単価を下げることにより来店数の増加を図りましたが、来店数は減少傾向のまま推移し結果としては売上高の減少を強めることとなりました",
+      "opinions": [
+        {
+          "target": "忍家",
+          "category": "business#price",
+          "polarity": "negative",
+          "from": 35,
+          "to": 37
+        },
+        {
+          "target": "忍家",
+          "category": "business#amount",
+          "polarity": "negative",
+          "from": 35,
+          "to": 37
+        },
+        {
+          "target": "忍家",
+          "category": "business#sales",
+          "polarity": "negative",
+          "from": 35,
+          "to": 37
+        }
+      ]
+    },
+    {
+      "sentence_id": 27,
+      "sentence": "また、上記の業態変更及び店舗改装においても同様に、来店数の大幅な増加には至らず増収効果は限定的なものに留まりました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 28,
+      "sentence": "以上の結果、当事業年度の売上高は7,292,771千円と、前事業年度に比べ931,658千円(△11.3％)の減収となりました",
+      "opinions": [
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "negative",
+          "from": 12,
+          "to": 15
+        }
+      ]
+    },
+    {
+      "sentence_id": 29,
+      "sentence": "利益面につきましては、減損処理及び経年減少による減価償却費の減少、深夜時間帯の稼働低下を勘案した営業時間の短縮による変動費の削減等により販売費及び一般管理費は5,261,681千円(前事業年度に比べ△407,972千円)となりました",
+      "opinions": [
+        {
+          "target": "減価償却費",
+          "category": "NULL#cost",
+          "polarity": "positive",
+          "from": 24,
+          "to": 29
+        },
+        {
+          "target": "販売費及び一般管理費",
+          "category": "NULL#cost",
+          "polarity": "positive",
+          "from": 68,
+          "to": 78
+        }
+      ]
+    },
+    {
+      "sentence_id": 30,
+      "sentence": "しかしながら、売上総利益の減少を補うには及ばず、営業利益61,563千円(前事業年度に比べ△272,939千円)経常利益44,335千円(前事業年度に比べ△290,282千円)と、いずれも前事業年度を大幅に下回り推移いたしました",
+      "opinions": [
+        {
+          "target": "売上総利益",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 7,
+          "to": 12
+        },
+        {
+          "target": "営業利益",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 24,
+          "to": 28
+        }
+      ]
+    },
+    {
+      "sentence_id": 31,
+      "sentence": "また、業績不振店及び閉鎖を決定した店舗にかかる「減損損失」434,752千円、店舗閉鎖に伴い発生が見込まれる損失にかかる「店舗閉鎖損失引当金繰入額」53,203千円等の合計518,406千円の特別損失を計上いたしました結果、当期純損失は502,840千円(前事業年度に比べ△388,966千円)となりました",
+      "opinions": [
+        {
+          "target": "当期純損失",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 112,
+          "to": 117
+        }
+      ]
+    },
+    {
+      "sentence_id": 32,
+      "sentence": "当事業年度の経営成績は次のとおりであります",
+      "opinions": []
+    },
+    {
+      "sentence_id": 33,
+      "sentence": "セグメント別の業績は次のとおりであります",
+      "opinions": []
+    },
+    {
+      "sentence_id": 34,
+      "sentence": "①北関東エリア",
+      "opinions": []
+    },
+    {
+      "sentence_id": 35,
+      "sentence": "当セグメントは、比較的長期に渡り営業を継続している店舗が多数を占めており、店舗設備の老朽化及び市場における陳腐化が進行していると考えております",
+      "opinions": [
+        {
+          "target": "店舗設備",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 37,
+          "to": 41
+        },
+        {
+          "target": "陳腐化",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 53,
+          "to": 56
+        }
+      ]
+    },
+    {
+      "sentence_id": 36,
+      "sentence": "よって、この状況を改善するために業績不振にある店舗の業態変更及び、店舗設備が老朽化した店舗の改装を進め既存店舗の業況改善を図ってまいりました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 37,
+      "sentence": "しかしながら、郊外型の店舗が比較的多く存する当セグメントにおいては、酒類消費の減退傾向が大きく影響しており、加えて他業態からの酒類販売強化の影響も大きく、全般的に前事業年度の売上高を下回る状況にあります",
+      "opinions": [
+        {
+          "target": "酒類消費",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 34,
+          "to": 38
+        }
+      ]
+    },
+    {
+      "sentence_id": 38,
+      "sentence": "また、業態変更及び改装に要する初期費用の支出も加わり、減収減益にて推移いたしました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 39,
+      "sentence": "当事業年度に実施しました業態変更及び店舗改装、閉鎖店舗は次のとおりであります",
+      "opinions": []
+    },
+    {
+      "sentence_id": 40,
+      "sentence": "○業態変更16店舗\n　・「忍家」業態からの変更３店舗\n　　「みんなの和食村」業態２店舗(栃木県那須塩原市・大田原市)\n　　「串三昧」業態１店舗(茨城県守谷市)\n　・「益益」業態からの変更７店舗\n　　「みんなの和食村」業態３店舗(茨城県筑西市、栃木県宇都宮市・栃木市)\n　　「串三昧」業態２店舗(茨城県水戸市、群馬県前橋市)\n　　「複合」業態２店舗(茨城県ひたちなか市、栃木県宇都宮市)\n　・「味斗」業態からの変更６店舗\n　　「みんなの和食村」業態３店舗(茨城県常陸太田市、栃木県真岡市・鹿沼市)\n　　「串三昧」業態３店舗(茨城県神栖市・石岡市、栃木県佐野市)\n　○店舗改装12店舗\n　・「忍家」業態10店舗\n　　茨城県５店舗(水戸市・日立市・古河市・龍ヶ崎市・茨城町 各１店舗)\n　　栃木県５店舗(宇都宮市４店舗・那須塩原市１店舗)\n　・「益益」業態２店舗　\n　　茨城県２店舗(那珂市・常陸大宮市)\n　○閉鎖４店舗\n　・「忍家」業態２店舗(栃木県宇都宮市、群馬県前橋市)\n　・「はれかの」業態１店舗(栃木県栃木市)\n　・「串三昧」業態１店舗(茨城県水戸市)\n　以上の結果、当事業年度末の店舗数は55店舗となり、前事業年度末に比べ４店舗減少しました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 41,
+      "sentence": "なお、当事業年度末において、次の３店舗の閉鎖を決定いたしました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 42,
+      "sentence": "「串三昧」業態１店舗(栃木県佐野市)\n　「みんなの和食村」業態２店舗(栃木県栃木市・鹿沼市)",
+      "opinions": []
+    },
+    {
+      "sentence_id": 43,
+      "sentence": "②首都圏エリア",
+      "opinions": []
+    },
+    {
+      "sentence_id": 44,
+      "sentence": "当セグメントは、比較的新しい店舗が多数を占めておりますので、店舗改装は少数に留めております",
+      "opinions": []
+    },
+    {
+      "sentence_id": 45,
+      "sentence": "競合店舗が多数乱立する市場環境のなか、酒類販売に依存度の高い業態においても比較的安価な業態が好調な業績を示す状況にあり、比較的客単価の高い当社の保有する業態は苦戦を強いられております",
+      "opinions": [
+        {
+          "target": "業績",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 49,
+          "to": 51
+        },
+        {
+          "target": "業態",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 76,
+          "to": 78
+        }
+      ]
+    },
+    {
+      "sentence_id": 46,
+      "sentence": "また、業容拡大を図るために行った過年度における大量出店が店舗オペレーションの低下を招いており、それらが複合的に作用し減収減益を招いたものと考えております",
+      "opinions": [
+        {
+          "target": "店舗オペレーション",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 28,
+          "to": 37
+        }
+      ]
+    },
+    {
+      "sentence_id": 47,
+      "sentence": "当事業年度に実施しました業態変更及び店舗改装、店舗閉鎖は次のとおりであります",
+      "opinions": []
+    },
+    {
+      "sentence_id": 48,
+      "sentence": "○業態変更４店舗\n　・「忍家」業態からの変更４店舗\n　「串市場」業態４店舗(埼玉県さいたま市・草加市、千葉県成田市・松戸市)\n　○店舗改装２店舗\n　・「忍家」業態(埼玉県越谷市・朝霞市)\n　○閉鎖５店舗\n　・「忍家」業態(東京都台東区、埼玉県川口市、千葉県松戸市・柏市・佐倉市)\n　以上の結果、当事業年度末の店舗数は56店舗となり、前事業年度末に比べ５店舗減少しました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 49,
+      "sentence": "なお、当事業年度末において、次の５店舗の閉鎖を決定いたしました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 50,
+      "sentence": "○「忍家」業態５店舗\n　(東京都渋谷区、埼玉県さいたま市・所沢市、千葉県香取市、神奈川県横須賀市)",
+      "opinions": []
+    },
+    {
+      "sentence_id": 51,
+      "sentence": "③東北エリア",
+      "opinions": []
+    },
+    {
+      "sentence_id": 52,
+      "sentence": "当セグメントは、比較的新しい店舗が多数を占めておりますので、店舗改装を少数に留めた結果、減収となりました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 53,
+      "sentence": "また、郊外型の店舗が多い当セグメントにおいても北関東エリアと同様に酒類消費の減退が大きく影響しているものと考えられます",
+      "opinions": [
+        {
+          "target": "酒類消費",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 33,
+          "to": 37
+        }
+      ]
+    },
+    {
+      "sentence_id": 54,
+      "sentence": "なお、これまでは東日本大震災からの復興事業に伴う安定的な飲食需要の増加を見てまいりましたが、競合他店の出店が進むなか店舗数の増加に伴い競争が激化しつつあることも大きな減収要因であります",
+      "opinions": [
+        {
+          "target": "競争",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 67,
+          "to": 69
+        }
+      ]
+    },
+    {
+      "sentence_id": 55,
+      "sentence": "当事業年度に実施しました業態変更及び店舗改装は次のとおりであります",
+      "opinions": []
+    },
+    {
+      "sentence_id": 56,
+      "sentence": "○業態変更１店舗\n　・「味斗」業態からの変更１店舗\n　・「串三昧」業態(福島県郡山市)\n　○店舗改装１店舗\n　・「忍家」業態(福島県いわき市)\n　以上の結果、当事業年度末の店舗数は22店舗であり、前事業年度末からの増減はありません",
+      "opinions": []
+    },
+    {
+      "sentence_id": 57,
+      "sentence": "④その他",
+      "opinions": []
+    },
+    {
+      "sentence_id": 58,
+      "sentence": "当セグメントは、報告セグメントに含まれない事業セグメントであり、本部における物販収入及び各報告セグメントに配分されていない全社費用を管理しております",
+      "opinions": []
+    },
+    {
+      "sentence_id": 59,
+      "sentence": "当セグメントにつきましては、季節商品(おせち)を中心とした加工食品の販売を行っております",
+      "opinions": []
+    },
+    {
+      "sentence_id": 60,
+      "sentence": "同様の商品が市場に氾濫するなか、売上高は減少傾向にありますが、商品の充実を図り本部経費の負担軽減を進めてまいります",
+      "opinions": [
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "negative",
+          "from": 16,
+          "to": 19
+        }
+      ]
+    },
+    {
+      "sentence_id": 61,
+      "sentence": "なお、既存店舗が減収傾向を強める状況のなか、本部経費は492,112千円と前事業年度に比べ7,226千円(1.4％)減少しましたが、全社売上高に対する割合は6.7％(前事業年度6.1％)と増加いたしました",
+      "opinions": [
+        {
+          "target": "既存店舗",
+          "category": "business#sales",
+          "polarity": "negative",
+          "from": 3,
+          "to": 7
+        },
+        {
+          "target": "本部経費",
+          "category": "NULL#cost",
+          "polarity": "positive",
+          "from": 22,
+          "to": 26
+        }
+      ]
+    }
+  ]
+}

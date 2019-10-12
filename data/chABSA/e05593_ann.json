@@ -1,0 +1,508 @@
+{
+  "header": {
+    "document_id": "E05593",
+    "document_name": "日本サード・パーティ株式会社",
+    "doc_text": "有価証券報告書",
+    "edi_id": "E05593",
+    "security_code": "24880",
+    "category33": "サービス業",
+    "category17": "情報通信・サービスその他",
+    "scale": ""
+  },
+  "sentences": [
+    {
+      "sentence_id": 0,
+      "sentence": "当連結会計年度における我が国経済は、政府の積極的な経済政策を背景に個人消費は底堅い動きとなっており、また、企業収益は改善に足踏みが見られるものの高い水準で推移し、全体として緩やかな回復基調となりました",
+      "opinions": [
+        {
+          "target": "我が国経済",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 11,
+          "to": 16
+        },
+        {
+          "target": "個人消費",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 33,
+          "to": 37
+        },
+        {
+          "target": "企業収益",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 53,
+          "to": 57
+        }
+      ]
+    },
+    {
+      "sentence_id": 1,
+      "sentence": "一方、中国を始めとするアジア新興国や資源国等の景気下振れにより、日本の景気が下押しされるリスクがあるほか、英国のＥＵ離脱問題や米国のトランプ政権誕生などによる海外経済の先行きは依然として不透明な状況となりました",
+      "opinions": [
+        {
+          "target": "アジア新興国",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 11,
+          "to": 17
+        },
+        {
+          "target": "資源国",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 18,
+          "to": 21
+        },
+        {
+          "target": "先行き",
+          "category": "NULL#general",
+          "polarity": "neutral",
+          "from": 84,
+          "to": 87
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "sentence": "情報サービス産業につきましては、企業の情報システム投資に対する慎重姿勢は継続しているものの、ＩＣＴの先端技術を効果的に利活用して、企業の成長等に役立つシステムやサービスをいかに生み出すかといった点に、高い関心が集められております",
+      "opinions": [
+        {
+          "target": "情報システム投資",
+          "category": "NULL#general",
+          "polarity": "neutral",
+          "from": 19,
+          "to": 27
+        }
+      ]
+    },
+    {
+      "sentence_id": 3,
+      "sentence": "今後これら技術革新が進むことによりサービスの形態が大きく変わり、業界自体も再編されていくことが予想されております",
+      "opinions": []
+    },
+    {
+      "sentence_id": 4,
+      "sentence": "このような状況の中、当社グループは「Connect to the Future（未来の新しい技術をお客様に提供する）」をテーマに、既存事業で安定的な収益を上げつつ積極的に新規事業の立ち上げにも注力致しました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 5,
+      "sentence": "具体的には、新規事業の立ち上げにかかる市場調査や人材育成投資を積極的に実施致しました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 6,
+      "sentence": "一方、既存事業においても、業務拡大のニーズが予想以上に高まり、エンジニア雇用を積極的に行いました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 7,
+      "sentence": "加えて、利益向上のために前倒しで不採算業務の撤退に取り組みました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 8,
+      "sentence": "新規事業の取り組み状況は、次の通りであります",
+      "opinions": []
+    },
+    {
+      "sentence_id": 9,
+      "sentence": "・クラウド分野",
+      "opinions": []
+    },
+    {
+      "sentence_id": 10,
+      "sentence": "前期から引き続き、同分野で高いシェアを誇り、様々なサービスの基盤となるＡＷＳ社（Amazon Web Services）の認定技術者育成のために、教育投資を実施致しました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 11,
+      "sentence": "その結果、平成29年３月末日時点での認定技術者数は121名（アソシエイツ107名、プロフェッショナル14名）となりました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 12,
+      "sentence": "また、それらの取り組みにより、平成28年９月１日、ＡＷＳ社より「APN スタンダードコンサルティングパートナー」に認定されました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 13,
+      "sentence": "その後は、認定技術者によるクラウドを基盤としたシステムの設計・構築といったサービス開発及び販売に注力しております",
+      "opinions": []
+    },
+    {
+      "sentence_id": 14,
+      "sentence": "・ロボット・ＡＩ分野",
+      "opinions": []
+    },
+    {
+      "sentence_id": 15,
+      "sentence": "公的機関の入札案件「介護事業者向けロボットの開発・導入促進事業」に提案し、採択されました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 16,
+      "sentence": "平成28年8月から平成29年３月まで、全国36箇所の介護施設へ58体のロボットの導入と実証実験が実施されました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 17,
+      "sentence": "また、平成28年11月より、ＧＰＵ（グラフィックスプロセッサ）分野の世界的なリーディングカンパニーであるＮＶＩＤＩＡ社が開発したディープ・ラーニング・スーパーコンピュータシステム「ＮＶＩＤＩＡ ＤＧＸ－１」の保守サポートを開始致しました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 18,
+      "sentence": "今後は、保守サポート業務にとどまらず、同社とのパートナー関係を強化し、当社の新たなサービス強化に取り組んでまいります",
+      "opinions": []
+    },
+    {
+      "sentence_id": 19,
+      "sentence": "・クラウド分野×ライフサイエンス分野",
+      "opinions": []
+    },
+    {
+      "sentence_id": 20,
+      "sentence": "電子ラボノート（化学分析の業界において広く導入されている、紙のノートに代わり実験結果を電子的に記録するツール）を活用した「水質検査パッケージ」をサービス化し、クラウドサービスにて提供を開始致しました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 21,
+      "sentence": "・ライフサイエンス分野",
+      "opinions": []
+    },
+    {
+      "sentence_id": 22,
+      "sentence": "海外医療機器メーカ向けに、医薬品医療機器等法に対応した医療機器承認取得から輸入、製造、販売、サポートまでをワンストップで提供するサービスを開始致しました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 23,
+      "sentence": "また、平成28年９月28日に株式会社夢真ホールディングスと資本業務提携契約を締結し、協業を開始致しました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 24,
+      "sentence": "今後は両社の強みを生かし、事業拡大をはかってまいります",
+      "opinions": []
+    },
+    {
+      "sentence_id": 25,
+      "sentence": "以上の結果、当連結会計年度の売上高は4,634,561千円（前期比2.3％減）となりました",
+      "opinions": [
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "negative",
+          "from": 14,
+          "to": 17
+        }
+      ]
+    },
+    {
+      "sentence_id": 26,
+      "sentence": "営業利益は195,230千円の（同17.8％減）となり、営業外費用として、持分法による投資損失59,750千円等を計上した結果、経常利益は136,089千円（同42.1％減）となりました",
+      "opinions": [
+        {
+          "target": "営業利益",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 0,
+          "to": 4
+        },
+        {
+          "target": "経常利益",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 64,
+          "to": 68
+        }
+      ]
+    },
+    {
+      "sentence_id": 27,
+      "sentence": "また、特別損失として、訴訟損失引当金繰入額を80,000千円計上した結果、親会社株主に帰属する当期純利益は3,199千円（同96.1％減）となりました",
+      "opinions": [
+        {
+          "target": "当期純利益",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 47,
+          "to": 52
+        }
+      ]
+    },
+    {
+      "sentence_id": 28,
+      "sentence": "セグメントごとの業績は、次の通りであります",
+      "opinions": []
+    },
+    {
+      "sentence_id": 29,
+      "sentence": "当連結会計年度より、当社グループの経営管理体制の見直しを行い、セグメントの名称変更並びに報告セグメントの区分を変更致しました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 30,
+      "sentence": "内容としては、従来の「ナレッジソリューションサービス事業」、「ＩＣＴソリューションサービス事業」、「ライフサイエンスサービス事業」、「その他」の区分を、「教育ソリューション事業」、「ＩＣＴソリューション事業」、「西日本ソリューション事業」、「ライフサイエンスサービス事業」、「その他」と変更し、従来、各セグメントに配分していた関西事業所を拠点としていた業務を「西日本ソリューション事業」として区分することと致しました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 31,
+      "sentence": "なお、前連結会計年度のセグメント情報については、変更後の報告セグメントの区分により作成することが実務上困難なため、前期との比較はしておりません",
+      "opinions": []
+    },
+    {
+      "sentence_id": 32,
+      "sentence": "①教育ソリューション事業",
+      "opinions": []
+    },
+    {
+      "sentence_id": 33,
+      "sentence": "海外メーカやサービスベンダが日本市場へ参入した際に、必要となるエンドユーザ向けの技術トレーニング事業を請負うほか、ＩＴエンジニアに必要とされるスキルを定量的に可視化するアセスメントツール「ＧＡＩＴ」のサービス提供を行っております",
+      "opinions": []
+    },
+    {
+      "sentence_id": 34,
+      "sentence": "技術トレーニング事業は、「ＦＲＯＮＴＥＯ」「Ｔａｌｅｎｄ」「Ｂｌｏｃｋｃｈａｉｎ」といった新たな取引先や領域に取り組んだ結果、売上高、利益が増加致しました",
+      "opinions": [
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 63,
+          "to": 66
+        },
+        {
+          "target": "利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 67,
+          "to": 69
+        }
+      ]
+    },
+    {
+      "sentence_id": 35,
+      "sentence": "「ＧＡＩＴ」については、受験者数は前年より減少致しましたが、試験システムの運用を一部自動化する等の施策により利益は増加致しました",
+      "opinions": [
+        {
+          "target": "ＧＡＩＴ",
+          "category": "product#amount",
+          "polarity": "negative",
+          "from": 1,
+          "to": 5
+        },
+        {
+          "target": "ＧＡＩＴ",
+          "category": "product#profit",
+          "polarity": "positive",
+          "from": 1,
+          "to": 5
+        }
+      ]
+    },
+    {
+      "sentence_id": 36,
+      "sentence": "以上の結果、当連結会計年度の教育ソリューション事業の売上高は640,056千円、セグメント利益は104,226千円となりました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 37,
+      "sentence": "②ＩＣＴソリューション事業",
+      "opinions": []
+    },
+    {
+      "sentence_id": 38,
+      "sentence": "ＩＣＴシステムの設計・構築・運用・保守サービスを一貫して行うことに加えて、ＩＣＴ機器の製造支援サービスを提供しております",
+      "opinions": []
+    },
+    {
+      "sentence_id": 39,
+      "sentence": "設計・構築業務は、顧客先への常駐案件等が増加したことにより、売上高、利益ともに増加致しました",
+      "opinions": [
+        {
+          "target": "設計・構築業務",
+          "category": "business#sales",
+          "polarity": "positive",
+          "from": 0,
+          "to": 7
+        },
+        {
+          "target": "設計・構築業務",
+          "category": "business#profit",
+          "polarity": "positive",
+          "from": 0,
+          "to": 7
+        },
+        {
+          "target": "常駐案件",
+          "category": "product#amount",
+          "polarity": "positive",
+          "from": 14,
+          "to": 18
+        }
+      ]
+    },
+    {
+      "sentence_id": 40,
+      "sentence": "運用・保守業務は、特定顧客向けの業務受託量が増加したことに加えて、「ＮＶＩＤＩＡ社」の保守サポート業務を開始したことにより、売上高、利益ともに増加致しました",
+      "opinions": [
+        {
+          "target": "運用・保守業務",
+          "category": "product#sales",
+          "polarity": "positive",
+          "from": 0,
+          "to": 7
+        },
+        {
+          "target": "運用・保守業務",
+          "category": "product#profit",
+          "polarity": "positive",
+          "from": 0,
+          "to": 7
+        },
+        {
+          "target": "業務受託量",
+          "category": "NULL#amount",
+          "polarity": "positive",
+          "from": 16,
+          "to": 21
+        }
+      ]
+    },
+    {
+      "sentence_id": 41,
+      "sentence": "一方、現行の製造支援サービスは、顧客の生産台数の減少に伴い、当社の業務受託量が減り、売上高、利益ともに減少致しました",
+      "opinions": [
+        {
+          "target": "製造支援サービス",
+          "category": "business#sales",
+          "polarity": "negative",
+          "from": 6,
+          "to": 14
+        },
+        {
+          "target": "製造支援サービス",
+          "category": "business#profit",
+          "polarity": "negative",
+          "from": 6,
+          "to": 14
+        },
+        {
+          "target": "生産台数",
+          "category": "NULL#amount",
+          "polarity": "negative",
+          "from": 19,
+          "to": 23
+        },
+        {
+          "target": "業務受託量",
+          "category": "NULL#amount",
+          "polarity": "negative",
+          "from": 33,
+          "to": 38
+        }
+      ]
+    },
+    {
+      "sentence_id": 42,
+      "sentence": "以上の結果、ＩＣＴソリューション事業の当連結会計年度の売上高は2,583,275千円、セグメント利益は538,154千円となりました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 43,
+      "sentence": "③西日本ソリューション事業",
+      "opinions": []
+    },
+    {
+      "sentence_id": 44,
+      "sentence": "西日本地域におけるＩＣＴシステムの運用・保守サービスとライフサイエンスサービスを提供しております",
+      "opinions": []
+    },
+    {
+      "sentence_id": 45,
+      "sentence": "運用・保守サービスは、不採算業務であった特定顧客向けのコールセンタ業務の早期撤退等により、売上高が減少、利益が増加致しました",
+      "opinions": [
+        {
+          "target": "運用・保守サービス",
+          "category": "business#sales",
+          "polarity": "negative",
+          "from": 0,
+          "to": 9
+        },
+        {
+          "target": "運用・保守サービス",
+          "category": "business#profit",
+          "polarity": "positive",
+          "from": 0,
+          "to": 9
+        }
+      ]
+    },
+    {
+      "sentence_id": 46,
+      "sentence": "以上の結果、西日本ソリューション事業の当連結会計年度の売上高は535,929千円、セグメント利益は55,314千円となりました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 47,
+      "sentence": "④ライフサイエンスサービス事業",
+      "opinions": []
+    },
+    {
+      "sentence_id": 48,
+      "sentence": "ＩＣＴが応用的に使われている医療機器、化学分析装置などの保守サービスを提供しております",
+      "opinions": []
+    },
+    {
+      "sentence_id": 49,
+      "sentence": "業務受託量は前年並みではありましたが、前述の海外医療機器メーカ向けの新たなサービスの立ち上げ費用等を計上した結果、利益は減少致しました",
+      "opinions": [
+        {
+          "target": "業務受託量",
+          "category": "NULL#amount",
+          "polarity": "neutral",
+          "from": 0,
+          "to": 5
+        },
+        {
+          "target": "利益",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 57,
+          "to": 59
+        }
+      ]
+    },
+    {
+      "sentence_id": 50,
+      "sentence": "以上の結果、ライフサイエンスサービス事業の当連結会計年度の売上高は627,497千円、セグメント利益は111,187千円となりました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 51,
+      "sentence": "⑤その他",
+      "opinions": []
+    },
+    {
+      "sentence_id": 52,
+      "sentence": "海外の最先端デジタルマーケティングソリューションのコンサルティングサービス・販売を行うほか、ロボットの販売から人工知能を活用したアプリケーションまで一貫したサービスを提供しております",
+      "opinions": []
+    },
+    {
+      "sentence_id": 53,
+      "sentence": "前述のロボット・ＡＩ分野における公的機関の入札案件受託により売上高は増加したものの、「クラウド・ビッグデータソリューション」「ロボットＡＩソリューション」「医療戦略コンサルティング」「デジタルソリューション」といった分野の新規事業開発に注力した為、その他の当連結会計年度の売上高は247,801千円、セグメント損失は78,492千円となりました",
+      "opinions": [
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 30,
+          "to": 33
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,406 @@
+{
+  "header": {
+    "document_id": "E00547",
+    "document_name": "ダイトウボウ株式会社",
+    "doc_text": "有価証券報告書",
+    "edi_id": "E00547",
+    "security_code": "32020",
+    "category33": "繊維製品",
+    "category17": "素材・化学",
+    "scale": "7"
+  },
+  "sentences": [
+    {
+      "sentence_id": 0,
+      "sentence": "当期におけるわが国経済は、きわめて緩和的な金融環境と政府による大型経済対策の効果を背景に、雇用・所得環境が着実に改善するなかで個人消費が底堅く推移するなど、緩やかな成長が続いた",
+      "opinions": [
+        {
+          "target": "わが国経済",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 6,
+          "to": 11
+        },
+        {
+          "target": "雇用",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 45,
+          "to": 47
+        },
+        {
+          "target": "所得環境",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 48,
+          "to": 52
+        },
+        {
+          "target": "個人消費",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 63,
+          "to": 67
+        }
+      ]
+    },
+    {
+      "sentence_id": 1,
+      "sentence": "事業環境については、緩やかな改善基調となった分野もあったものの、訪日外国人消費の失速や天候不順の影響から、高額品や季節性の衣料・寝具関係などで厳しい分野もあった",
+      "opinions": [
+        {
+          "target": "訪日外国人消費",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 32,
+          "to": 39
+        },
+        {
+          "target": "高額品",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 53,
+          "to": 56
+        },
+        {
+          "target": "衣料・寝具関係",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 61,
+          "to": 68
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "sentence": "こうした中で、当社グループは、中期経営計画「Bridge to the Future ～未来への架け橋～」に基づき、「財務体質の強化」「プロパー事業の強固な基盤作り」「利益の底上げ」を最優先課題として取り組んだ",
+      "opinions": []
+    },
+    {
+      "sentence_id": 3,
+      "sentence": "「財務体質の強化」では、平成28年度第１四半期において既存借入金の全額をシンジケートローンで借り換えたことにより長期安定資金を確保するとともに支払利息負担も軽減できたことなどにより、中期経営計画最終年度の目標としている財務諸目標を着実に達成しつつある",
+      "opinions": [
+        {
+          "target": "支払利息負担",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 71,
+          "to": 77
+        }
+      ]
+    },
+    {
+      "sentence_id": 4,
+      "sentence": "「プロパー事業の強固な基盤作り」では、商業施設事業において、静岡県下有数の商業施設である「サントムーン柿田川」において適宜必要なリニューアル投資に取り組むとともに、キッズ向けを中心とした各種販促イベントを強化し集客力増強に取り組んだ",
+      "opinions": []
+    },
+    {
+      "sentence_id": 5,
+      "sentence": "ヘルスケア事業においては、Ｅコマース事業の取扱開始や、当社独自技術を活用したＥウール、家庭用温熱電位治療器などのヘルスケア商品の営業力強化に取り組んだ",
+      "opinions": []
+    },
+    {
+      "sentence_id": 6,
+      "sentence": "繊維・アパレル事業においては、繊維・アパレル事業の構造改革実施後の事業再構築を進め、経費削減や採算性向上に引き続き努めた",
+      "opinions": []
+    },
+    {
+      "sentence_id": 7,
+      "sentence": "さらに、平成29年２月には、アライアンス強化の観点から、商業施設事業とヘルスケア事業のそれぞれにおいて当社の重要取引先との間で資本業務提携を実施し、各事業における強固な基盤作りを進めた",
+      "opinions": []
+    },
+    {
+      "sentence_id": 8,
+      "sentence": "「利益の底上げ」では、前期に実施した「繊維・アパレル事業の構造改革」により売上高は前期比減少となったものの、損益面では経費削減や採算性向上の効果により着実に利益の底上げを進めることができた",
+      "opinions": [
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "negative",
+          "from": 37,
+          "to": 40
+        }
+      ]
+    },
+    {
+      "sentence_id": 9,
+      "sentence": "この結果、当期の業績については、前期に実施した「繊維・アパレル事業の構造改革」による売上高の減少が響き、売上高は47億１百万円 (前期比13.0％減)となったものの、粗利率の改善効果や販売管理費の削減効果などにより営業利益は４億17百万円(前期比10.1％増)、経常利益はシンジケートローン実行に伴う当初費用の負担増があったものの、金利負担の削減もあり２億67百万円(前期比257.8％増)となった",
+      "opinions": [
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "negative",
+          "from": 42,
+          "to": 45
+        },
+        {
+          "target": "粗利率",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 83,
+          "to": 86
+        },
+        {
+          "target": "販売管理費",
+          "category": "NULL#cost",
+          "polarity": "positive",
+          "from": 92,
+          "to": 97
+        },
+        {
+          "target": "営業利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 107,
+          "to": 111
+        },
+        {
+          "target": "経常利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 131,
+          "to": 135
+        },
+        {
+          "target": "当初費用",
+          "category": "NULL#cost",
+          "polarity": "negative",
+          "from": 150,
+          "to": 154
+        },
+        {
+          "target": "金利負担",
+          "category": "NULL#cost",
+          "polarity": "negative",
+          "from": 166,
+          "to": 170
+        }
+      ]
+    },
+    {
+      "sentence_id": 10,
+      "sentence": "これに、特別損益として、シンジケートローン実行に係る借入金の中途解約損失や中国の縫製事業からの完全撤退に伴う特別損失、中国における商業施設事業の持分譲渡に伴う特別利益などを計上し、さらに繰延税金資産の計上などを加味して法人税等の負担を考慮した結果、親会社株主に帰属する当期純利益は１億56百万円(前期比25.0％増)となった",
+      "opinions": [
+        {
+          "target": "当期純利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 134,
+          "to": 139
+        }
+      ]
+    },
+    {
+      "sentence_id": 11,
+      "sentence": "セグメントの業績は、次のとおりである",
+      "opinions": []
+    },
+    {
+      "sentence_id": 12,
+      "sentence": "商業施設事業については、静岡県下有数の商業施設である「サントムーン柿田川」において、ヒット作に恵まれた映画館に加え、テレビ・ラジオなど各種媒体を通じた広告宣伝活動やキッズ向けイベントなどに注力し集客確保に努めた",
+      "opinions": []
+    },
+    {
+      "sentence_id": 13,
+      "sentence": "また、中核テナントの一つである生鮮館のリニューアルに取り組むなど適宜必要な設備投資も実施し競争力の維持向上に取り組んだ結果、売上高は前期を上回った",
+      "opinions": [
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 62,
+          "to": 65
+        }
+      ]
+    },
+    {
+      "sentence_id": 14,
+      "sentence": "この結果、商業施設事業の売上高は23億36百万円(前期比0.5％増)、減価償却費減少などによる粗利率改善効果もあり営業利益は９億48百万円(前期比7.4％増)となった",
+      "opinions": [
+        {
+          "target": "商業施設事業",
+          "category": "business#sales",
+          "polarity": "positive",
+          "from": 5,
+          "to": 11
+        },
+        {
+          "target": "商業施設事業",
+          "category": "business#profit",
+          "polarity": "positive",
+          "from": 5,
+          "to": 11
+        }
+      ]
+    },
+    {
+      "sentence_id": 15,
+      "sentence": "健康ビジネス部門については、Ｅウール毛布シリーズが順調に売上を伸ばしたものの、その他の健康寝具関係での対前年の反動減が響き、売上高は前期を下回った",
+      "opinions": [
+        {
+          "target": "健康ビジネス部門",
+          "category": "business#sales",
+          "polarity": "negative",
+          "from": 0,
+          "to": 8
+        },
+        {
+          "target": "Ｅウール毛布シリーズ",
+          "category": "product#sales",
+          "polarity": "positive",
+          "from": 14,
+          "to": 24
+        },
+        {
+          "target": "健康寝具関係",
+          "category": "product#sales",
+          "polarity": "negative",
+          "from": 43,
+          "to": 49
+        }
+      ]
+    },
+    {
+      "sentence_id": 16,
+      "sentence": "一般寝装品部門については、訪日需要に伴う業務用寝装品の受注獲得などにより、売上高は前期を上回った",
+      "opinions": []
+    },
+    {
+      "sentence_id": 17,
+      "sentence": "この結果、ヘルスケア事業の売上高は８億28百万円（前期比2.0％減）、原材料費の高止まりによる粗利率の減少や労務費の増加もあり、営業損失は37百万円（前期は営業損失10百万円）となった",
+      "opinions": [
+        {
+          "target": "ヘルスケア事業",
+          "category": "business#sales",
+          "polarity": "negative",
+          "from": 5,
+          "to": 12
+        },
+        {
+          "target": "ヘルスケア事業",
+          "category": "business#profit",
+          "polarity": "negative",
+          "from": 5,
+          "to": 12
+        },
+        {
+          "target": "原材料費",
+          "category": "NULL#cost",
+          "polarity": "negative",
+          "from": 35,
+          "to": 39
+        },
+        {
+          "target": "粗利率",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 47,
+          "to": 50
+        },
+        {
+          "target": "労務費",
+          "category": "NULL#cost",
+          "polarity": "negative",
+          "from": 54,
+          "to": 57
+        }
+      ]
+    },
+    {
+      "sentence_id": 18,
+      "sentence": "衣料部門については、前期に実施した「繊維・アパレル事業の構造改革」に伴う売上高の減少や、暖冬の影響から秋冬物の売上が伸び悩んだことから、売上高は前期を下回った",
+      "opinions": [
+        {
+          "target": "衣料部門",
+          "category": "business#sales",
+          "polarity": "negative",
+          "from": 0,
+          "to": 4
+        },
+        {
+          "target": "秋冬物",
+          "category": "product#sales",
+          "polarity": "negative",
+          "from": 51,
+          "to": 54
+        }
+      ]
+    },
+    {
+      "sentence_id": 19,
+      "sentence": "ユニフォーム部門については、前期大口受注のあった民需ユニフォームの反動減に加え、秋冬の官公庁関係の受注落ち込みがあり、売上高は前期を下回った",
+      "opinions": [
+        {
+          "target": "ユニフォーム部門",
+          "category": "business#sales",
+          "polarity": "negative",
+          "from": 0,
+          "to": 8
+        },
+        {
+          "target": "民需ユニフォーム",
+          "category": "product#sales",
+          "polarity": "negative",
+          "from": 24,
+          "to": 32
+        },
+        {
+          "target": "官公庁関係",
+          "category": "product#amount",
+          "polarity": "negative",
+          "from": 43,
+          "to": 48
+        }
+      ]
+    },
+    {
+      "sentence_id": 20,
+      "sentence": "この結果、繊維・アパレル事業の売上高は15億37百万円（前期比31.3％減）と減収になったものの、構造改革による粗利率の改善と販売管理費の削減効果が大きく、営業利益11百万円（前期は営業損失49百万円）と通期では10期ぶりの黒字転換となった",
+      "opinions": [
+        {
+          "target": "繊維・アパレル事業",
+          "category": "business#sales",
+          "polarity": "negative",
+          "from": 5,
+          "to": 14
+        },
+        {
+          "target": "繊維・アパレル事業",
+          "category": "business#profit",
+          "polarity": "positive",
+          "from": 5,
+          "to": 14
+        },
+        {
+          "target": "粗利率",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 56,
+          "to": 59
+        },
+        {
+          "target": "販売管理費",
+          "category": "NULL#cost",
+          "polarity": "positive",
+          "from": 63,
+          "to": 68
+        }
+      ]
+    },
+    {
+      "sentence_id": 21,
+      "sentence": "(注) １  上記のセグメントの業績に記載している営業利益は、セグメント間の内部取引を含んだ金額を記載している",
+      "opinions": []
+    },
+    {
+      "sentence_id": 22,
+      "sentence": "２  当社の消費税等に係る会計処理は、税抜方式によっているため、「１  業績等の概要」に記載した金額には、消費税等は含まれていない",
+      "opinions": []
+    },
+    {
+      "sentence_id": 23,
+      "sentence": "３  記載している見通し等将来についての事項は、当連結会計年度末現在において判断したものであり、予想しえない経済環境の変化等様々な要因があるため、その結果について当社グループが保証するものではない",
+      "opinions": []
+    }
+  ]
+}

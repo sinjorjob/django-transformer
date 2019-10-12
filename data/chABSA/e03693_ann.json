@@ -1,0 +1,444 @@
+{
+  "header": {
+    "document_id": "E03693",
+    "document_name": "アコム株式会社",
+    "doc_text": "有価証券報告書",
+    "edi_id": "E03693",
+    "security_code": "85720",
+    "category33": "その他金融業",
+    "category17": "金融（除く銀行）",
+    "scale": "4"
+  },
+  "sentences": [
+    {
+      "sentence_id": 0,
+      "sentence": "当連結会計年度におけるわが国経済は、政府による経済政策などの効果により、企業収益や雇用・所得環境に改善が見られ、個人消費においても持ち直しの動きが続いております",
+      "opinions": [
+        {
+          "target": "企業収益",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 36,
+          "to": 40
+        },
+        {
+          "target": "雇用",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 41,
+          "to": 43
+        },
+        {
+          "target": "所得環境",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 44,
+          "to": 48
+        },
+        {
+          "target": "個人消費",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 56,
+          "to": 60
+        }
+      ]
+    },
+    {
+      "sentence_id": 1,
+      "sentence": "今後も景気の回復が期待されるものの、海外経済の不確実性や金融資本市場の変動の影響など、わが国の景気を下押しする可能性が、引き続き存在しております",
+      "opinions": []
+    },
+    {
+      "sentence_id": 2,
+      "sentence": "また、消費者金融業界においては、市場規模が緩やかに拡大しつつありますが、利息返還請求は、いまだ終息には至らず、厳しい環境が続いております",
+      "opinions": [
+        {
+          "target": "消費者金融業界",
+          "category": "market#general",
+          "polarity": "negative",
+          "from": 3,
+          "to": 10
+        },
+        {
+          "target": "市場規模",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 16,
+          "to": 20
+        }
+      ]
+    },
+    {
+      "sentence_id": 3,
+      "sentence": "このような中、当社グループは、「一人でも多くのお客さまに最高の満足を感じていただき、個人ローン市場において社会に信頼されるリーディングカンパニーを目指す」という経営ビジョンの下、ローン・クレジットカード事業、信用保証事業、海外金融事業を中核３事業と位置付け、個人ローン市場におけるシェアの拡大をはかるとともに、市場の健全な成長に貢献すべく努めてまいりました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 4,
+      "sentence": "当連結会計年度における営業収益は、営業貸付金利息や信用保証収益の増加を主因に2,451億４千８百万円（前期比3.1％増）となりましたが、利息返還損失引当金繰入額や貸倒引当金繰入額などの増加により、営業費用が3,153億１千５百万円（前期比41.9％増）となったことから、営業損失は701億６千６百万円（前期は営業利益155億１千６百万円）、経常損失は695億４千３百万円（前期は経常利益162億円）、親会社株主に帰属する当期純損失は721億８千７百万円（前期は親会社株主に帰属する当期純利益145億９千８百万円）となりました",
+      "opinions": [
+        {
+          "target": "営業収益",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 11,
+          "to": 15
+        },
+        {
+          "target": "営業貸付金利息",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 17,
+          "to": 24
+        },
+        {
+          "target": "信用保証収益",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 25,
+          "to": 31
+        },
+        {
+          "target": "利息返還損失引当金繰入額",
+          "category": "NULL#cost",
+          "polarity": "negative",
+          "from": 68,
+          "to": 80
+        },
+        {
+          "target": "貸倒引当金繰入額",
+          "category": "NULL#cost",
+          "polarity": "negative",
+          "from": 81,
+          "to": 89
+        },
+        {
+          "target": "営業費用",
+          "category": "NULL#cost",
+          "polarity": "negative",
+          "from": 98,
+          "to": 102
+        },
+        {
+          "target": "営業損失",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 135,
+          "to": 139
+        },
+        {
+          "target": "経常損失",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 170,
+          "to": 174
+        },
+        {
+          "target": "当期純損失",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 210,
+          "to": 215
+        }
+      ]
+    },
+    {
+      "sentence_id": 5,
+      "sentence": "(2) 金融サービス事業別の状況",
+      "opinions": []
+    },
+    {
+      "sentence_id": 6,
+      "sentence": "① ローン・クレジットカード事業",
+      "opinions": []
+    },
+    {
+      "sentence_id": 7,
+      "sentence": "国内のローン・クレジットカード事業においては、商品・サービス機能の向上、新規集客の拡大、クレジットカード（ＡＣマスターカード）の販売推進、債権内容の健全性維持等に取り組んでまいりました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 8,
+      "sentence": "商品・サービス機能の向上、及び新規集客の拡大については、お客さまのニーズにお応えするとともに営業競争力の強化をはかる観点から、平成28年７月から無担保カードローンの下限利率を4.7％から3.0％に改定いたしました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 9,
+      "sentence": "また、インターネットの利用が増加する中、平成29年３月にホームページの全面リニューアルを実施し、今まで以上にお客さまの期待に応えられるよう内容の充実をはかってまいりました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 10,
+      "sentence": "あわせて、ＣＭでは高い好感度と新規集客における効果が得られていることから、「はじめてのアコム」のサウンドロゴを活用した女優「永作博美」さん出演のＣＭを継続して放映いたしました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 11,
+      "sentence": "クレジットカードの販売推進については、クレジットカード即時発行機の増設を推進したことなどにより、会員数が31万４千人（前期末比23.5％増）、年間取扱高が316億４千４百万円（前期比35.3％増）と拡大いたしました",
+      "opinions": [
+        {
+          "target": "クレジットカード",
+          "category": "product#amount",
+          "polarity": "positive",
+          "from": 0,
+          "to": 8
+        },
+        {
+          "target": "クレジットカード",
+          "category": "product#sales",
+          "polarity": "positive",
+          "from": 0,
+          "to": 8
+        }
+      ]
+    },
+    {
+      "sentence_id": 12,
+      "sentence": "以上の営業活動に加え、与信精度の向上をはじめ、与信研修や応対品質研修などの人材育成強化を通じて、債権内容の健全性の維持、応対品質の向上に努めた結果、当期末における当社の営業貸付金は7,848億６百万円（前期末比2.3％増）、割賦売掛金は381億９百万円（前期末比36.8％増）となりました",
+      "opinions": [
+        {
+          "target": "営業貸付金",
+          "category": "NULL#amount",
+          "polarity": "positive",
+          "from": 84,
+          "to": 89
+        },
+        {
+          "target": "割賦売掛金",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 112,
+          "to": 117
+        }
+      ]
+    },
+    {
+      "sentence_id": 13,
+      "sentence": "当連結会計年度の業績においては、業容の拡大に伴い営業貸付金利息や包括信用購入あっせん収益が増加したことなどを主因に、営業収益は1,359億７千１百万円（前期比2.1％増）となりましたが、営業費用において利息返還損失引当金繰入額が増加したことなどにより、933億７千３百万円の営業損失となりました（前期は営業損失118億４千１百万円）",
+      "opinions": [
+        {
+          "target": "営業貸付金利息",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 24,
+          "to": 31
+        },
+        {
+          "target": "包括信用購入あっせん収益",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 32,
+          "to": 44
+        },
+        {
+          "target": "営業収益",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 58,
+          "to": 62
+        },
+        {
+          "target": "利息返還損失引当金繰入額",
+          "category": "NULL#cost",
+          "polarity": "negative",
+          "from": 101,
+          "to": 113
+        },
+        {
+          "target": "営業損失",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 137,
+          "to": 141
+        }
+      ]
+    },
+    {
+      "sentence_id": 14,
+      "sentence": "② 信用保証事業",
+      "opinions": []
+    },
+    {
+      "sentence_id": 15,
+      "sentence": "信用保証事業においては、銀行カードローンの市場規模が拡大する中、当社及びエム・ユー信用保証株式会社は、新規の保証提携の推進や既存提携先との連携強化に取り組んでまいりました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 16,
+      "sentence": "当社の新規保証提携については、新たに株式会社琉球銀行と、またエム・ユー信用保証株式会社は、株式会社もみじ銀行並びに株式会社筑邦銀行と提携を開始し、両社合わせて提携先は50行となりました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 17,
+      "sentence": "既存提携先との連携強化については、適正な審査を継続するとともに、提携先の業績向上に向けた各種支援や、好事例の共有化等を実施いたしました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 18,
+      "sentence": "当連結会計期間末における当社及びエム・ユー信用保証株式会社の信用保証残高は合算で１兆1,297億７千３百万円（前期末比14.4％増）、当連結会計年度の営業収益は、信用保証収益の増加を主因に564億１千１百万円（前期比15.4％増）となりましたが、営業費用において貸倒引当金繰入額が増加したことなどにより、営業利益は96億１千４百万円（前期比33.5％減）となりました",
+      "opinions": [
+        {
+          "target": "営業収益",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 75,
+          "to": 79
+        },
+        {
+          "target": "信用保証収益",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 81,
+          "to": 87
+        },
+        {
+          "target": "貸倒引当金繰入額",
+          "category": "NULL#cost",
+          "polarity": "negative",
+          "from": 131,
+          "to": 139
+        },
+        {
+          "target": "営業利益",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 152,
+          "to": 156
+        }
+      ]
+    },
+    {
+      "sentence_id": 19,
+      "sentence": "③ 海外金融事業",
+      "opinions": []
+    },
+    {
+      "sentence_id": 20,
+      "sentence": "海外金融事業においては、債権内容の良化をはかりつつ事業の拡大を目指して、推進してまいりました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 21,
+      "sentence": "タイ王国のEASY BUY Public Company Limitedにおけるローン事業では、不安定な政治情勢にあったものの、ブランドイメージ向上、新規集客拡大を目標に、Umay+（ユメプラス）ブランドを積極展開することにより、新規契約件数・営業貸付金残高ともに堅調に増加し、同国内においてトップブランドの地位を築いております",
+      "opinions": [
+        {
+          "target": "政治情勢",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 52,
+          "to": 56
+        }
+      ]
+    },
+    {
+      "sentence_id": 22,
+      "sentence": "インドネシア共和国のPT. Bank Nusantara Parahyangan, Tbk.における銀行業では、国内経済の先行き不透明感が依然として強い中、内部管理態勢の強化や債権内容の改善に取り組みました",
+      "opinions": [
+        {
+          "target": "先行き",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 61,
+          "to": 64
+        }
+      ]
+    },
+    {
+      "sentence_id": 23,
+      "sentence": "駐在員事務所を開設しているベトナム社会主義共和国では、平成26年５月にファイナンス会社のライセンス申請を行い、審査結果を待ちつつ、今後の事業展開に向け、各種法令やリスク、市場分析などの調査活動を継続しております",
+      "opinions": []
+    },
+    {
+      "sentence_id": 24,
+      "sentence": "また、その他アジア諸国についても、事業展開の可能性を探り、調査を進めております",
+      "opinions": []
+    },
+    {
+      "sentence_id": 25,
+      "sentence": "当連結会計年度の業績においては、円高による為替変動の影響により、営業収益、営業費用とも減少したことを主因に、営業収益は456億１千８百万円（前期比5.5％減）、営業利益が126億４千万円（前期比13.5％増）となりました",
+      "opinions": [
+        {
+          "target": "営業収益",
+          "category": "NULL#sales",
+          "polarity": "negative",
+          "from": 32,
+          "to": 36
+        },
+        {
+          "target": "営業費用",
+          "category": "NULL#cost",
+          "polarity": "positive",
+          "from": 37,
+          "to": 41
+        },
+        {
+          "target": "営業収益",
+          "category": "NULL#sales",
+          "polarity": "negative",
+          "from": 54,
+          "to": 58
+        },
+        {
+          "target": "営業利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 80,
+          "to": 84
+        }
+      ]
+    },
+    {
+      "sentence_id": 26,
+      "sentence": "④ 債権管理回収事業",
+      "opinions": []
+    },
+    {
+      "sentence_id": 27,
+      "sentence": "債権管理回収事業において、アイ・アール債権回収株式会社では、買取債権市場において競合環境が激化する中、新規取引先の開拓を推進するとともに、収益力向上に取り組んでまいりました",
+      "opinions": [
+        {
+          "target": "競合環境",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 40,
+          "to": 44
+        }
+      ]
+    },
+    {
+      "sentence_id": 28,
+      "sentence": "当連結会計年度の業績においては、買取債権回収高の増加を主因に、営業収益は71億５千９百万円（前期比8.8％増）となりましたが、営業費用において貸倒引当金繰入額が増加したことなどにより、営業利益は５億４千４百万円（前期比49.2％減）となりました",
+      "opinions": [
+        {
+          "target": "買取債権回収高",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 16,
+          "to": 23
+        },
+        {
+          "target": "営業収益",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 31,
+          "to": 35
+        },
+        {
+          "target": "貸倒引当金繰入額",
+          "category": "NULL#cost",
+          "polarity": "negative",
+          "from": 71,
+          "to": 79
+        },
+        {
+          "target": "営業利益",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 92,
+          "to": 96
+        }
+      ]
+    }
+  ]
+}

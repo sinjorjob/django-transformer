@@ -1,0 +1,142 @@
+{
+  "header": {
+    "document_id": "E02353",
+    "document_name": "株式会社ホロン",
+    "doc_text": "有価証券報告書",
+    "edi_id": "E02353",
+    "security_code": "77480",
+    "category33": "精密機器",
+    "category17": "電機・精密",
+    "scale": ""
+  },
+  "sentences": [
+    {
+      "sentence_id": 0,
+      "sentence": "当事業年度におけるわが国経済は、日本銀行が発表した３月の短観で２期連続で指数が改善するなど、緩やかな回復基調が続いております",
+      "opinions": [
+        {
+          "target": "わが国経済",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 9,
+          "to": 14
+        },
+        {
+          "target": "指数",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 36,
+          "to": 38
+        }
+      ]
+    },
+    {
+      "sentence_id": 1,
+      "sentence": "一方、中国をはじめとするアジア新興国の景気減退、米国新政権における今後の政策動向、欧州における政情懸念等、世界情勢においては依然として先行き不透明な状況となっております",
+      "opinions": [
+        {
+          "target": "アジア新興国",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 12,
+          "to": 18
+        },
+        {
+          "target": "世界情勢",
+          "category": "NULL#general",
+          "polarity": "neutral",
+          "from": 53,
+          "to": 57
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "sentence": "半導体業界におきましては、既に量産のできるDRAMやフラッシュメモリにおいて、ともに供給不足が続くほど好調であり、中国での工場建設ラッシュも活発化しています",
+      "opinions": [
+        {
+          "target": "半導体業界",
+          "category": "market#general",
+          "polarity": "positive",
+          "from": 0,
+          "to": 5
+        },
+        {
+          "target": "工場建設ラッシュ",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 61,
+          "to": 69
+        }
+      ]
+    },
+    {
+      "sentence_id": 3,
+      "sentence": "一方、マスク設備には投資に遅れが生じ、当社におきましては第３四半期に業績の下方修正を発表いたしました",
+      "opinions": [
+        {
+          "target": "マスク設備",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 3,
+          "to": 8
+        }
+      ]
+    },
+    {
+      "sentence_id": 4,
+      "sentence": "しかしその後、当社の主力製品でありますマスクCD-SEM「ZX（ジーテン）」を１月に発表し、初号機を当第４四半期に売上げることができました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 5,
+      "sentence": "また、顧客の都合により先延ばしされた案件の一部も受注することができました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 6,
+      "sentence": "損益につきましては、研究開発費の凍結や経費の節減により利益確保に努めました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 7,
+      "sentence": "上記の結果、当事業年度の売上高は959百万円（前年同期比36.3％減）となりました",
+      "opinions": [
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "negative",
+          "from": 12,
+          "to": 15
+        }
+      ]
+    },
+    {
+      "sentence_id": 8,
+      "sentence": "損益につきましては、営業利益131百万円（前年同期比34.4％減）、経常利益129百万円（前年同期比30.8％減）及び当期純利益109百万円（前年同期比18.7％減）となりました",
+      "opinions": [
+        {
+          "target": "営業利益",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 10,
+          "to": 14
+        },
+        {
+          "target": "経常利益",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 34,
+          "to": 38
+        },
+        {
+          "target": "当期純利益",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 59,
+          "to": 64
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,396 @@
+{
+  "header": {
+    "document_id": "E21200",
+    "document_name": "株式会社川金ホールディングス",
+    "doc_text": "有価証券報告書",
+    "edi_id": "E21200",
+    "security_code": "56140",
+    "category33": "鉄鋼",
+    "category17": "鉄鋼・非鉄",
+    "scale": ""
+  },
+  "sentences": [
+    {
+      "sentence_id": 0,
+      "sentence": "当連結会計年度におけるわが国経済は、踊り場を脱し、緩やかな拡張を遂げました",
+      "opinions": [
+        {
+          "target": "わが国経済",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 11,
+          "to": 16
+        }
+      ]
+    },
+    {
+      "sentence_id": 1,
+      "sentence": "鉱工業生産が回復し、輸出も緩やかに伸びております",
+      "opinions": [
+        {
+          "target": "鉱工業生産",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 0,
+          "to": 5
+        },
+        {
+          "target": "輸出",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 10,
+          "to": 12
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "sentence": "雇用・所得ともに堅調なことから、個人消費も底堅く推移いたしました",
+      "opinions": [
+        {
+          "target": "雇用",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 0,
+          "to": 2
+        },
+        {
+          "target": "所得",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 3,
+          "to": 5
+        },
+        {
+          "target": "個人消費",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 16,
+          "to": 20
+        }
+      ]
+    },
+    {
+      "sentence_id": 3,
+      "sentence": "海外経済につきましては、ユーロ圏では個人消費、中国では鉱工業部門の回復が寄与し、緩やかに景況感が改善いたしました",
+      "opinions": [
+        {
+          "target": "海外経済",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 0,
+          "to": 4
+        },
+        {
+          "target": "個人消費",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 18,
+          "to": 22
+        },
+        {
+          "target": "鉱工業部門",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 27,
+          "to": 32
+        }
+      ]
+    },
+    {
+      "sentence_id": 4,
+      "sentence": "米国も個人消費が景気を下支えしております",
+      "opinions": [
+        {
+          "target": "個人消費",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 3,
+          "to": 7
+        }
+      ]
+    },
+    {
+      "sentence_id": 5,
+      "sentence": "このような経済環境のもと、当社グループでは、素形材事業部門と土木建築機材事業部門が堅調に推移し、連結売上高は31,981百万円（前期比5.6％増）となりました",
+      "opinions": [
+        {
+          "target": "素形材事業部門",
+          "category": "business#general",
+          "polarity": "positive",
+          "from": 22,
+          "to": 29
+        },
+        {
+          "target": "土木建築機材事業部門",
+          "category": "business#general",
+          "polarity": "positive",
+          "from": 30,
+          "to": 40
+        },
+        {
+          "target": "連結売上高",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 48,
+          "to": 53
+        }
+      ]
+    },
+    {
+      "sentence_id": 6,
+      "sentence": "損益面では、事業の再構築や高付加価値品の受注増など粗利率改善努力の積み上げにより、営業利益は2,165百万円（前期比49.3％増）、経常利益は2,041百万円（前期比79.6％増）となりました",
+      "opinions": [
+        {
+          "target": "高付加価値品",
+          "category": "product#amount",
+          "polarity": "positive",
+          "from": 13,
+          "to": 19
+        },
+        {
+          "target": "営業利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 41,
+          "to": 45
+        },
+        {
+          "target": "経常利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 66,
+          "to": 70
+        }
+      ]
+    },
+    {
+      "sentence_id": 7,
+      "sentence": "一方、工場設備の一部につきまして減損損失を計上致しました結果、親会社株主に帰属する当期純利益は、755百万円（前期は損失1,119百万円）となりました",
+      "opinions": [
+        {
+          "target": "当期純利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 41,
+          "to": 46
+        }
+      ]
+    },
+    {
+      "sentence_id": 8,
+      "sentence": "セグメント別概況",
+      "opinions": []
+    },
+    {
+      "sentence_id": 9,
+      "sentence": "［素形材事業］",
+      "opinions": []
+    },
+    {
+      "sentence_id": 10,
+      "sentence": "精密鋳造品は、事業構造改革の成果が表れ、自動車部品を中心に受注が回復いたしました",
+      "opinions": [
+        {
+          "target": "精密鋳造品",
+          "category": "product#amount",
+          "polarity": "positive",
+          "from": 0,
+          "to": 5
+        }
+      ]
+    },
+    {
+      "sentence_id": 11,
+      "sentence": "鋳鋼品は、船舶関連の需要減退に伴い、生産低迷が続いております",
+      "opinions": [
+        {
+          "target": "鋳鋼品",
+          "category": "product#amount",
+          "polarity": "negative",
+          "from": 0,
+          "to": 3
+        },
+        {
+          "target": "船舶関連",
+          "category": "product#amount",
+          "polarity": "negative",
+          "from": 5,
+          "to": 9
+        }
+      ]
+    },
+    {
+      "sentence_id": 12,
+      "sentence": "異型鋼につきましては、電子機器向けや自動化関連投資に伴う受注が好調に推移いたしました",
+      "opinions": [
+        {
+          "target": "電子機器向け",
+          "category": "product#amount",
+          "polarity": "positive",
+          "from": 11,
+          "to": 17
+        },
+        {
+          "target": "受注",
+          "category": "NULL#amount",
+          "polarity": "positive",
+          "from": 28,
+          "to": 30
+        }
+      ]
+    },
+    {
+      "sentence_id": 13,
+      "sentence": "アルミダイカスト品も、一部ユーザーの需要増を取り込み、生産が順調に進みました",
+      "opinions": [
+        {
+          "target": "アルミダイカスト品",
+          "category": "product#amount",
+          "polarity": "positive",
+          "from": 0,
+          "to": 9
+        },
+        {
+          "target": "一部ユーザー",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 11,
+          "to": 17
+        }
+      ]
+    },
+    {
+      "sentence_id": 14,
+      "sentence": "これらの結果、売上高は11,294百万円（前期比6.0％増）となりました",
+      "opinions": [
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 7,
+          "to": 10
+        }
+      ]
+    },
+    {
+      "sentence_id": 15,
+      "sentence": "［土木建築機材事業］",
+      "opinions": []
+    },
+    {
+      "sentence_id": 16,
+      "sentence": "建築関連は官庁工事の入札延期などの影響を受け、翌期以降に延期となる物件が複数ありました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 17,
+      "sentence": "土木関連は、短納期の震災復興関連需要が入り、当期中に売り上がる物件が増えました",
+      "opinions": [
+        {
+          "target": "土木関連",
+          "category": "product#sales",
+          "polarity": "positive",
+          "from": 0,
+          "to": 4
+        }
+      ]
+    },
+    {
+      "sentence_id": 18,
+      "sentence": "維持補修関連も回復し、受注が堅調に推移しました結果、売上高は13,910百万円（前期比13.8％増）となりました",
+      "opinions": [
+        {
+          "target": "維持補修関連",
+          "category": "product#amount",
+          "polarity": "positive",
+          "from": 0,
+          "to": 6
+        },
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 26,
+          "to": 29
+        }
+      ]
+    },
+    {
+      "sentence_id": 19,
+      "sentence": "［産業機械事業］",
+      "opinions": []
+    },
+    {
+      "sentence_id": 20,
+      "sentence": "油圧機器につきましては、建設機械向けシリンダーは堅調に推移したものの、掘削機用ジャッキと免制震ダンパーの受注が伸びませんでした",
+      "opinions": [
+        {
+          "target": "シリンダー",
+          "category": "product#amount",
+          "polarity": "positive",
+          "from": 18,
+          "to": 23
+        },
+        {
+          "target": "ジャッキ",
+          "category": "product#amount",
+          "polarity": "negative",
+          "from": 39,
+          "to": 43
+        },
+        {
+          "target": "免制震ダンパー",
+          "category": "product#amount",
+          "polarity": "negative",
+          "from": 44,
+          "to": 51
+        }
+      ]
+    },
+    {
+      "sentence_id": 21,
+      "sentence": "ゴム用射出成型機につきましては、引き続き主力製品の販売が堅調でした",
+      "opinions": [
+        {
+          "target": "主力製品",
+          "category": "product#amount",
+          "polarity": "positive",
+          "from": 20,
+          "to": 24
+        }
+      ]
+    },
+    {
+      "sentence_id": 22,
+      "sentence": "これらの結果、売上高は6,267百万円（前期比9.6％減）となりました",
+      "opinions": [
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "negative",
+          "from": 7,
+          "to": 10
+        }
+      ]
+    },
+    {
+      "sentence_id": 23,
+      "sentence": "［不動産賃貸事業］",
+      "opinions": []
+    },
+    {
+      "sentence_id": 24,
+      "sentence": "不動産賃貸につきましては、売上高は509百万円（前期比6.6％増）となりました",
+      "opinions": [
+        {
+          "target": "不動産賃貸",
+          "category": "business#sales",
+          "polarity": "positive",
+          "from": 0,
+          "to": 5
+        }
+      ]
+    }
+  ]
+}

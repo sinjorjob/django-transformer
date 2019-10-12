@@ -1,0 +1,218 @@
+{
+  "header": {
+    "document_id": "E01865",
+    "document_name": "本多通信工業株式会社",
+    "doc_text": "有価証券報告書",
+    "edi_id": "E01865",
+    "security_code": "68260",
+    "category33": "電気機器",
+    "category17": "電機・精密",
+    "scale": "7"
+  },
+  "sentences": [
+    {
+      "sentence_id": 0,
+      "sentence": "現在取組中の「中期計画GC20(2015年度～2020年度)」では、グループ企業理念「Value by Connecting つなぐ喜び、創る感動」とコーポレートガバナンス基本方針のもと、事業戦略「Segments No.1 戦略の深耕」およびプラットフォーム戦略「コンパクト経営の追求」により、",
+      "opinions": []
+    },
+    {
+      "sentence_id": 1,
+      "sentence": "a.全てのステークホルダーから信頼と期待をいただき持続的に成長できる“よい会社(Good Company)”",
+      "opinions": []
+    },
+    {
+      "sentence_id": 2,
+      "sentence": "b.売上高250億円、営業利益25億円の過去最高業績",
+      "opinions": [
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 2,
+          "to": 5
+        },
+        {
+          "target": "営業利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 11,
+          "to": 15
+        }
+      ]
+    },
+    {
+      "sentence_id": 3,
+      "sentence": "を目指しています",
+      "opinions": []
+    },
+    {
+      "sentence_id": 4,
+      "sentence": "2016年度は、これらゴールに向けた仕込みを展開する“Season 1”の中間年として、諸活動を展開しました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 5,
+      "sentence": "業績は、上期には円高や特殊要因(車載用コネクタの商流変更)による押し下げ要因があったものの、下期からの国内外での設備投資の活況を受けFA分野が堅調に推移したことにより、売上高は172億５百万円(前年同期比0.5％増)となり、また営業利益も体質強化の取組みにより、14億25百万円(同9.5％増)と、ともにITバブル崩壊があった2001年以降で最高となりました",
+      "opinions": [
+        {
+          "target": "押し下げ要因",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 32,
+          "to": 38
+        },
+        {
+          "target": "設備投資",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 56,
+          "to": 60
+        },
+        {
+          "target": "FA分野",
+          "category": "market#general",
+          "polarity": "positive",
+          "from": 66,
+          "to": 70
+        },
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 84,
+          "to": 87
+        },
+        {
+          "target": "営業利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 114,
+          "to": 118
+        }
+      ]
+    },
+    {
+      "sentence_id": 6,
+      "sentence": "また、経常利益は14億76百万円(同19.3％増)、親会社に帰属する当期純利益は、当連結会計年度の業績および今後の業績動向を踏まえ回収可能性がある部分について繰延税金資産を計上した結果、15億42百万円(同13.0％増)と上場来最高となりました",
+      "opinions": [
+        {
+          "target": "経常利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 3,
+          "to": 7
+        },
+        {
+          "target": "当期純利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 34,
+          "to": 39
+        }
+      ]
+    },
+    {
+      "sentence_id": 7,
+      "sentence": "セグメントの業績は、次のとおりです",
+      "opinions": []
+    },
+    {
+      "sentence_id": 8,
+      "sentence": "（コネクタ）",
+      "opinions": []
+    },
+    {
+      "sentence_id": 9,
+      "sentence": "業績は、車載カメラ用コネクタの市場拡大やFA分野の回復により、堅調に推移していますが、上期の円高や特殊要因(車載用コネクタの商流変更)による押し下げ要因があったため、売上高は146億41百万円(前年同期比0.3%減)となりました",
+      "opinions": [
+        {
+          "target": "業績",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 0,
+          "to": 2
+        },
+        {
+          "target": "コネクタ",
+          "category": "market#general",
+          "polarity": "positive",
+          "from": 10,
+          "to": 14
+        },
+        {
+          "target": "FA分野",
+          "category": "market#general",
+          "polarity": "positive",
+          "from": 20,
+          "to": 24
+        },
+        {
+          "target": "押し下げ要因",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 70,
+          "to": 76
+        },
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "negative",
+          "from": 83,
+          "to": 86
+        }
+      ]
+    },
+    {
+      "sentence_id": 10,
+      "sentence": "一方、車載分野の実質的な増販が為替調整分を上回ったため、セグメント利益は12億82百万円(同9.6%増)となりました",
+      "opinions": [
+        {
+          "target": "車載分野",
+          "category": "product#amount",
+          "polarity": "positive",
+          "from": 3,
+          "to": 7
+        },
+        {
+          "target": "セグメント利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 28,
+          "to": 35
+        }
+      ]
+    },
+    {
+      "sentence_id": 11,
+      "sentence": "（情報システム）",
+      "opinions": []
+    },
+    {
+      "sentence_id": 12,
+      "sentence": "クラウド技術を生かした高付加価値案件の獲得により伸長し、売上高は26億43百万円(前年同期比5.7%増)、セグメント利益は1億42百万円(同8.3%増)になりました",
+      "opinions": [
+        {
+          "target": "高付加価値案件",
+          "category": "product#general",
+          "polarity": "positive",
+          "from": 11,
+          "to": 18
+        },
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 28,
+          "to": 31
+        },
+        {
+          "target": "セグメント利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 53,
+          "to": 60
+        }
+      ]
+    }
+  ]
+}

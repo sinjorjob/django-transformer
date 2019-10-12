@@ -1,0 +1,866 @@
+{
+  "header": {
+    "document_id": "E00435",
+    "document_name": "キッコーマン株式会社",
+    "doc_text": "有価証券報告書",
+    "edi_id": "E00435",
+    "security_code": "28010",
+    "category33": "食料品",
+    "category17": "食品",
+    "scale": "4"
+  },
+  "sentences": [
+    {
+      "sentence_id": 0,
+      "sentence": "当連結会計年度の世界経済は、米国や欧州で回復が緩やかに続いているものの、中国をはじめとする新興国の減速で、全体としては成長がやや鈍化しております",
+      "opinions": [
+        {
+          "target": "世界経済",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 8,
+          "to": 12
+        },
+        {
+          "target": "米国",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 14,
+          "to": 16
+        },
+        {
+          "target": "欧州",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 17,
+          "to": 19
+        },
+        {
+          "target": "新興国",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 45,
+          "to": 48
+        }
+      ]
+    },
+    {
+      "sentence_id": 1,
+      "sentence": "一方、日本経済も、世界経済同様、回復ペースは緩やかにとどまっております",
+      "opinions": [
+        {
+          "target": "日本経済",
+          "category": "NULL#general",
+          "polarity": "neutral",
+          "from": 3,
+          "to": 7
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "sentence": "このような状況下における、当社グループの売上は、国内については、しょうゆ、飲料が堅調に推移し、食品、酒類が前期を下回ったものの、全体としてほぼ前期並みとなりました",
+      "opinions": [
+        {
+          "target": "売上",
+          "category": "NULL#sales",
+          "polarity": "neutral",
+          "from": 20,
+          "to": 22
+        },
+        {
+          "target": "しょうゆ",
+          "category": "product#general",
+          "polarity": "positive",
+          "from": 32,
+          "to": 36
+        },
+        {
+          "target": "飲料",
+          "category": "product#general",
+          "polarity": "positive",
+          "from": 37,
+          "to": 39
+        },
+        {
+          "target": "食品",
+          "category": "product#general",
+          "polarity": "negative",
+          "from": 47,
+          "to": 49
+        },
+        {
+          "target": "酒類",
+          "category": "product#general",
+          "polarity": "negative",
+          "from": 50,
+          "to": 52
+        }
+      ]
+    },
+    {
+      "sentence_id": 3,
+      "sentence": "海外については、円高による為替換算の影響を受けましたが、現地通貨ベースでは、しょうゆは北米、欧州、アジア・オセアニアともに売上を伸ばし、食料品卸売事業も好調に推移し、前期の売上を上回りました",
+      "opinions": [
+        {
+          "target": "しょうゆ",
+          "category": "product#sales",
+          "polarity": "positive",
+          "from": 38,
+          "to": 42
+        },
+        {
+          "target": "食料品卸売事業",
+          "category": "business#general",
+          "polarity": "positive",
+          "from": 68,
+          "to": 75
+        },
+        {
+          "target": "売上",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 86,
+          "to": 88
+        }
+      ]
+    },
+    {
+      "sentence_id": 4,
+      "sentence": "この結果、当連結会計年度の連結グループの売上高は4,021億７千４百万円（前期比98.5％）、営業利益は328億４千２百万円（前期比100.7％）、経常利益は320億３千７百万円（前期比103.2％）、親会社株主に帰属する当期純利益は238億１千万円（前期比119.3％）となりました",
+      "opinions": [
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "negative",
+          "from": 20,
+          "to": 23
+        },
+        {
+          "target": "営業利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 47,
+          "to": 51
+        },
+        {
+          "target": "経常利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 74,
+          "to": 78
+        },
+        {
+          "target": "当期純利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 111,
+          "to": 116
+        }
+      ]
+    },
+    {
+      "sentence_id": 5,
+      "sentence": "＜セグメントの業績の概要＞\nセグメントの業績の概要は次のとおりであります",
+      "opinions": []
+    },
+    {
+      "sentence_id": 6,
+      "sentence": "国内における売上の概要は次のとおりであります",
+      "opinions": []
+    },
+    {
+      "sentence_id": 7,
+      "sentence": "（国内 食料品製造・販売事業）",
+      "opinions": []
+    },
+    {
+      "sentence_id": 8,
+      "sentence": "当事業は、しょうゆ部門、つゆ・たれ・デルモンテ調味料等の食品部門、豆乳飲料・デルモンテ飲料等の飲料部門、みりん・ワイン等の酒類部門からなり、国内において当該商品の製造・販売を手がけております",
+      "opinions": []
+    },
+    {
+      "sentence_id": 9,
+      "sentence": "各部門の売上の概要は次のとおりであります",
+      "opinions": []
+    },
+    {
+      "sentence_id": 10,
+      "sentence": "■しょうゆ部門",
+      "opinions": []
+    },
+    {
+      "sentence_id": 11,
+      "sentence": "しょうゆは、家庭用分野では「いつでも新鮮」シリーズが「新鮮な生しょうゆのおいしさ」、「鮮度維持」、「使いやすさ」という付加価値が市場に浸透し、商品ラインアップ、店頭販促やテレビ広告も強化した結果、順調に拡大を続けており、部門全体で数量、金額ともに前期を上回りました",
+      "opinions": [
+        {
+          "target": "しょうゆ",
+          "category": "business#amount",
+          "polarity": "positive",
+          "from": 0,
+          "to": 4
+        },
+        {
+          "target": "しょうゆ",
+          "category": "business#sales",
+          "polarity": "positive",
+          "from": 0,
+          "to": 4
+        },
+        {
+          "target": "「いつでも新鮮」シリーズ",
+          "category": "product#general",
+          "polarity": "positive",
+          "from": 13,
+          "to": 25
+        }
+      ]
+    },
+    {
+      "sentence_id": 12,
+      "sentence": "■食品部門",
+      "opinions": []
+    },
+    {
+      "sentence_id": 13,
+      "sentence": "つゆ類は、家庭用分野では、「いつでも新鮮贅沢白だし」「鯛だし塩鍋つゆ」「海老だし鍋つゆ」「だししっかり減塩つゆ」等の高付加価値品が売上に寄与しましたが、主力の「本つゆ」のリニューアルにともなう価格体系変更による売上減もあり、つゆ類全体としては前期を下回りました",
+      "opinions": [
+        {
+          "target": "つゆ類",
+          "category": "product#sales",
+          "polarity": "negative",
+          "from": 0,
+          "to": 3
+        },
+        {
+          "target": "いつでも新鮮贅沢白だし",
+          "category": "product#sales",
+          "polarity": "positive",
+          "from": 14,
+          "to": 25
+        },
+        {
+          "target": "鯛だし塩鍋つゆ",
+          "category": "product#sales",
+          "polarity": "positive",
+          "from": 27,
+          "to": 34
+        },
+        {
+          "target": "海老だし鍋つゆ",
+          "category": "product#sales",
+          "polarity": "positive",
+          "from": 36,
+          "to": 43
+        },
+        {
+          "target": "だししっかり減塩つゆ",
+          "category": "product#sales",
+          "polarity": "positive",
+          "from": 45,
+          "to": 55
+        },
+        {
+          "target": "本つゆ",
+          "category": "product#sales",
+          "polarity": "negative",
+          "from": 80,
+          "to": 83
+        }
+      ]
+    },
+    {
+      "sentence_id": 14,
+      "sentence": "たれ類は、主力商品である「わが家は焼肉屋さん」で「ジワっと辛い旨辛だれ」等の商品ラインアップの強化や、市場が堅調に推移したことにより、たれ類全体として前期を上回りました",
+      "opinions": [
+        {
+          "target": "たれ類",
+          "category": "product#general",
+          "polarity": "positive",
+          "from": 0,
+          "to": 3
+        },
+        {
+          "target": "市場",
+          "category": "market#general",
+          "polarity": "positive",
+          "from": 51,
+          "to": 53
+        }
+      ]
+    },
+    {
+      "sentence_id": 15,
+      "sentence": "「うちのごはん」は、さまざまなプロモーションやテレビ広告、店頭販促活動を行いましたが、そうざいの素市場低迷の影響もあり、前期を下回りました",
+      "opinions": [
+        {
+          "target": "うちのごはん",
+          "category": "product#general",
+          "polarity": "negative",
+          "from": 1,
+          "to": 7
+        },
+        {
+          "target": "そうざいの素市場",
+          "category": "market#general",
+          "polarity": "negative",
+          "from": 43,
+          "to": 51
+        }
+      ]
+    },
+    {
+      "sentence_id": 16,
+      "sentence": "デルモンテ調味料は、「リコピンリッチ」のテレビ広告効果もあり、高付加価値品を中心に主力のトマトケチャップが伸長し、前期を上回りました",
+      "opinions": [
+        {
+          "target": "デルモンテ調味料",
+          "category": "product#general",
+          "polarity": "positive",
+          "from": 0,
+          "to": 8
+        },
+        {
+          "target": "トマトケチャップ",
+          "category": "product#general",
+          "polarity": "positive",
+          "from": 44,
+          "to": 52
+        }
+      ]
+    },
+    {
+      "sentence_id": 17,
+      "sentence": "この結果、部門全体としてはつゆ類の売上減が影響し、前期の売上を下回りました",
+      "opinions": [
+        {
+          "target": "部門全体",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 5,
+          "to": 9
+        },
+        {
+          "target": "つゆ類",
+          "category": "product#sales",
+          "polarity": "negative",
+          "from": 13,
+          "to": 16
+        }
+      ]
+    },
+    {
+      "sentence_id": 18,
+      "sentence": "■飲料部門",
+      "opinions": []
+    },
+    {
+      "sentence_id": 19,
+      "sentence": "豆乳飲料は、健康志向の高まりを背景に、特定保健用食品の商品が伸長しました",
+      "opinions": [
+        {
+          "target": "特定保健用食品",
+          "category": "product#general",
+          "polarity": "positive",
+          "from": 19,
+          "to": 26
+        }
+      ]
+    },
+    {
+      "sentence_id": 20,
+      "sentence": "また、飲用だけでなくレシピ本を活用し料理用として訴求する等、テレビや雑誌等の各メディアと連携を図りながら、市場拡大につながる販促活動を実施し、前期の売上を上回りました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 21,
+      "sentence": "デルモンテ飲料は、野菜ジュースが前期の売上を下回ったものの、主力となるトマトジュースや、ギフト、果汁飲料はキャンペーン等の販促活動により売上を伸ばし、デルモンテ飲料全体として前期の売上を上回りました",
+      "opinions": [
+        {
+          "target": "デルモンテ飲料",
+          "category": "product#sales",
+          "polarity": "positive",
+          "from": 0,
+          "to": 7
+        },
+        {
+          "target": "野菜ジュース",
+          "category": "product#sales",
+          "polarity": "negative",
+          "from": 9,
+          "to": 15
+        },
+        {
+          "target": "トマトジュース",
+          "category": "product#sales",
+          "polarity": "positive",
+          "from": 35,
+          "to": 42
+        },
+        {
+          "target": "ギフト",
+          "category": "product#sales",
+          "polarity": "positive",
+          "from": 44,
+          "to": 47
+        },
+        {
+          "target": "果汁飲料",
+          "category": "product#sales",
+          "polarity": "positive",
+          "from": 48,
+          "to": 52
+        }
+      ]
+    },
+    {
+      "sentence_id": 22,
+      "sentence": "この結果、部門全体としても前期の売上を上回りました",
+      "opinions": [
+        {
+          "target": "部門全体",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 5,
+          "to": 9
+        }
+      ]
+    },
+    {
+      "sentence_id": 23,
+      "sentence": "■酒類部門",
+      "opinions": []
+    },
+    {
+      "sentence_id": 24,
+      "sentence": "本みりんは、「米麹こだわり仕込み本みりん」、料理酒は、「国産米こだわり仕込み料理の清酒」等の高付加価値品は順調に推移しましたが、一方でギフトや加工・業務用が振るわず、本みりん全体として前期を下回りました",
+      "opinions": [
+        {
+          "target": "本みりん",
+          "category": "product#general",
+          "polarity": "negative",
+          "from": 0,
+          "to": 4
+        },
+        {
+          "target": "米麹こだわり仕込み本みりん",
+          "category": "product#general",
+          "polarity": "positive",
+          "from": 7,
+          "to": 20
+        },
+        {
+          "target": "国産米こだわり仕込み料理の清酒",
+          "category": "product#general",
+          "polarity": "positive",
+          "from": 28,
+          "to": 43
+        },
+        {
+          "target": "ギフト",
+          "category": "product#general",
+          "polarity": "negative",
+          "from": 67,
+          "to": 70
+        },
+        {
+          "target": "加工・業務用",
+          "category": "product#general",
+          "polarity": "negative",
+          "from": 71,
+          "to": 77
+        }
+      ]
+    },
+    {
+      "sentence_id": 25,
+      "sentence": "国産ワインは、伊勢志摩サミットに採用された「甲州酵母の泡」等の日本ワインが引き続き順調に推移しましたが、１．８Ｌ等の業務用大型容器が前年を下回り前期並みとなりました",
+      "opinions": [
+        {
+          "target": "甲州酵母の泡",
+          "category": "product#general",
+          "polarity": "positive",
+          "from": 22,
+          "to": 28
+        },
+        {
+          "target": "業務用大型容器",
+          "category": "product#general",
+          "polarity": "negative",
+          "from": 58,
+          "to": 65
+        }
+      ]
+    },
+    {
+      "sentence_id": 26,
+      "sentence": "輸入ワインは、低価格帯の商品が振るわず前期を下回りました",
+      "opinions": [
+        {
+          "target": "輸入ワイン",
+          "category": "product#amount",
+          "polarity": "negative",
+          "from": 0,
+          "to": 5
+        },
+        {
+          "target": "商品",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 12,
+          "to": 14
+        }
+      ]
+    },
+    {
+      "sentence_id": 27,
+      "sentence": "この結果、部門全体としては前期の売上を下回りました",
+      "opinions": [
+        {
+          "target": "部門全体",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 5,
+          "to": 9
+        }
+      ]
+    },
+    {
+      "sentence_id": 28,
+      "sentence": "以上の結果、国内 食料品製造・販売事業の売上高は1,673億３千７百万円（前期比99.8％）、営業利益は83億６百万円（前期比127.1％）と減収増益となりました",
+      "opinions": [
+        {
+          "target": "食料品製造・販売事業",
+          "category": "business#sales",
+          "polarity": "negative",
+          "from": 9,
+          "to": 19
+        },
+        {
+          "target": "食料品製造・販売事業",
+          "category": "business#profit",
+          "polarity": "positive",
+          "from": 9,
+          "to": 19
+        }
+      ]
+    },
+    {
+      "sentence_id": 29,
+      "sentence": "（国内 その他事業）",
+      "opinions": []
+    },
+    {
+      "sentence_id": 30,
+      "sentence": "当事業は、臨床診断薬・衛生検査薬・加工用酵素、ヒアルロン酸等の化成品等の製造・販売、不動産賃貸及び運送事業、グループ会社内への間接業務の提供等を行っております",
+      "opinions": []
+    },
+    {
+      "sentence_id": 31,
+      "sentence": "臨床診断薬や衛生検査薬、運送事業が前期の売上を上回りました",
+      "opinions": [
+        {
+          "target": "臨床診断薬",
+          "category": "product#sales",
+          "polarity": "positive",
+          "from": 0,
+          "to": 5
+        },
+        {
+          "target": "衛生検査薬",
+          "category": "product#sales",
+          "polarity": "positive",
+          "from": 6,
+          "to": 11
+        },
+        {
+          "target": "運送事業",
+          "category": "business#sales",
+          "polarity": "positive",
+          "from": 12,
+          "to": 16
+        }
+      ]
+    },
+    {
+      "sentence_id": 32,
+      "sentence": "この結果、部門全体としては前期の売上を上回りました",
+      "opinions": [
+        {
+          "target": "部門全体",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 5,
+          "to": 9
+        }
+      ]
+    },
+    {
+      "sentence_id": 33,
+      "sentence": "この結果、国内 その他事業の売上高は210億３千５百万円（前期比101.9％）、営業利益は14億４千３百万円（前期比95.3％）と、増収減益となりました",
+      "opinions": [
+        {
+          "target": "その他事業",
+          "category": "business#sales",
+          "polarity": "positive",
+          "from": 8,
+          "to": 13
+        },
+        {
+          "target": "その他事業",
+          "category": "business#profit",
+          "polarity": "negative",
+          "from": 8,
+          "to": 13
+        }
+      ]
+    },
+    {
+      "sentence_id": 34,
+      "sentence": "海外における売上の概要は次のとおりであります",
+      "opinions": []
+    },
+    {
+      "sentence_id": 35,
+      "sentence": "（海外 食料品製造・販売事業）",
+      "opinions": []
+    },
+    {
+      "sentence_id": 36,
+      "sentence": "当事業は、しょうゆ部門、デルモンテ部門、健康食品等のその他食料品部門からなり、海外において当該商品の製造・販売を手がけております",
+      "opinions": []
+    },
+    {
+      "sentence_id": 37,
+      "sentence": "各部門の売上の概要は次のとおりであります",
+      "opinions": []
+    },
+    {
+      "sentence_id": 38,
+      "sentence": "■しょうゆ部門",
+      "opinions": []
+    },
+    {
+      "sentence_id": 39,
+      "sentence": "北米市場においては、家庭用分野では、主力商品であるしょうゆに加え、しょうゆをベースとした調味料等の拡充に引き続き力を入れ、当社のブランド力を生かした事業展開を行ってまいりました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 40,
+      "sentence": "また、加工・業務用分野では顧客のニーズに合わせたきめ細かな対応を行い、両分野とも順調に推移いたしました",
+      "opinions": [
+        {
+          "target": "加工・業務用分野",
+          "category": "business#general",
+          "polarity": "positive",
+          "from": 3,
+          "to": 11
+        }
+      ]
+    },
+    {
+      "sentence_id": 41,
+      "sentence": "この結果、現地通貨ベースでは前期の売上を上回りました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 42,
+      "sentence": "欧州市場においては、重点市場であるドイツ、フランス等で堅調に売上を伸ばし、現地通貨ベースでは前期の売上を上回りました",
+      "opinions": [
+        {
+          "target": "欧州市場",
+          "category": "business#sales",
+          "polarity": "positive",
+          "from": 0,
+          "to": 4
+        },
+        {
+          "target": "ドイツ",
+          "category": "business#sales",
+          "polarity": "positive",
+          "from": 17,
+          "to": 20
+        },
+        {
+          "target": "フランス",
+          "category": "business#sales",
+          "polarity": "positive",
+          "from": 21,
+          "to": 25
+        }
+      ]
+    },
+    {
+      "sentence_id": 43,
+      "sentence": "アジア・オセアニア市場においては、マレーシア等で売上を伸ばしました",
+      "opinions": [
+        {
+          "target": "マレーシア",
+          "category": "business#sales",
+          "polarity": "positive",
+          "from": 17,
+          "to": 22
+        }
+      ]
+    },
+    {
+      "sentence_id": 44,
+      "sentence": "また、中国の製造・販売会社の実績が第４四半期より加わり、現地通貨ベースでは前期を大きく上回りました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 45,
+      "sentence": "この結果、部門全体では為替換算の影響により、前期の売上を下回ったものの、現地通貨ベースでは前期の売上を上回りました",
+      "opinions": [
+        {
+          "target": "部門全体",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 5,
+          "to": 9
+        }
+      ]
+    },
+    {
+      "sentence_id": 46,
+      "sentence": "■デルモンテ部門",
+      "opinions": []
+    },
+    {
+      "sentence_id": 47,
+      "sentence": "当部門は、アジア・オセアニア地域で、フルーツ缶詰・コーン製品、トマトケチャップ等を製造・販売しております",
+      "opinions": []
+    },
+    {
+      "sentence_id": 48,
+      "sentence": "天候不順の影響によりフィリピン産パイナップル缶詰の供給が不足し、主要市場である香港、中国をはじめとする全市場に影響し、前期の売上を下回りました",
+      "opinions": [
+        {
+          "target": "パイナップル缶詰",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 16,
+          "to": 24
+        }
+      ]
+    },
+    {
+      "sentence_id": 49,
+      "sentence": "■その他食料品部門",
+      "opinions": []
+    },
+    {
+      "sentence_id": 50,
+      "sentence": "当部門は、主に北米地域において、健康食品を製造・販売しております",
+      "opinions": []
+    },
+    {
+      "sentence_id": 51,
+      "sentence": "一般店舗ルート、医師ルート向けの売上が好調に推移したことから、現地通貨ベースでは前期の売上を上回りました",
+      "opinions": [
+        {
+          "target": "一般店舗ルート",
+          "category": "business#sales",
+          "polarity": "positive",
+          "from": 0,
+          "to": 7
+        },
+        {
+          "target": "医師ルート向け",
+          "category": "business#sales",
+          "polarity": "positive",
+          "from": 8,
+          "to": 15
+        }
+      ]
+    },
+    {
+      "sentence_id": 52,
+      "sentence": "以上の結果、海外 食料品製造・販売事業の売上高は817億８千３百万円（前期比96.4％）、営業利益は162億５千１百万円（前期比98.8％）と、減収減益となりました",
+      "opinions": [
+        {
+          "target": "食料品製造・販売事業",
+          "category": "business#sales",
+          "polarity": "negative",
+          "from": 9,
+          "to": 19
+        },
+        {
+          "target": "食料品製造・販売事業",
+          "category": "business#profit",
+          "polarity": "negative",
+          "from": 9,
+          "to": 19
+        }
+      ]
+    },
+    {
+      "sentence_id": 53,
+      "sentence": "（海外 食料品卸売事業）",
+      "opinions": []
+    },
+    {
+      "sentence_id": 54,
+      "sentence": "当事業は、国内外において、東洋食品等を仕入れ、販売しております",
+      "opinions": []
+    },
+    {
+      "sentence_id": 55,
+      "sentence": "北米ではアジア系マーケットにとどまらず、ローカルマーケットへのさらなる浸透を進め、現地通貨ベースでは売上を伸ばしました",
+      "opinions": [
+        {
+          "target": "売上",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 50,
+          "to": 52
+        }
+      ]
+    },
+    {
+      "sentence_id": 56,
+      "sentence": "また、欧州、アジア・オセアニアでは引き続き市場が拡大しており、各地域で売上は順調に推移いたしました",
+      "opinions": [
+        {
+          "target": "市場",
+          "category": "market#general",
+          "polarity": "positive",
+          "from": 21,
+          "to": 23
+        },
+        {
+          "target": "売上",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 35,
+          "to": 37
+        }
+      ]
+    },
+    {
+      "sentence_id": 57,
+      "sentence": "この結果、現地通貨ベースでは前期の売上を上回りました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 58,
+      "sentence": "この結果、海外 食料品卸売事業の売上高は1,568億６千８百万円（前期比98.2％）、営業利益は76億４千８百万円（前期比99.7％）と、減収減益となりました",
+      "opinions": [
+        {
+          "target": "食料品卸売事業",
+          "category": "business#sales",
+          "polarity": "negative",
+          "from": 8,
+          "to": 15
+        },
+        {
+          "target": "食料品卸売事業",
+          "category": "business#profit",
+          "polarity": "negative",
+          "from": 8,
+          "to": 15
+        }
+      ]
+    }
+  ]
+}

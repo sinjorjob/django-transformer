@@ -1,0 +1,750 @@
+{
+  "header": {
+    "document_id": "E07801",
+    "document_name": "株式会社リクルートホールディングス",
+    "doc_text": "有価証券報告書",
+    "edi_id": "E07801",
+    "security_code": "60980",
+    "category33": "サービス業",
+    "category17": "情報通信・サービスその他",
+    "scale": "2"
+  },
+  "sentences": [
+    {
+      "sentence_id": 0,
+      "sentence": "当連結会計年度における我が国経済は、雇用情勢が高位安定するなか、緩やかな回復基調で推移しました",
+      "opinions": [
+        {
+          "target": "我が国経済",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 11,
+          "to": 16
+        },
+        {
+          "target": "雇用情勢",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 18,
+          "to": 22
+        }
+      ]
+    },
+    {
+      "sentence_id": 1,
+      "sentence": "欧米経済は、英国のEU離脱問題及び米国の政権交代の影響等から先行き不透明な状況が続くものの、個人消費を中心に緩やかな成長が継続しました",
+      "opinions": [
+        {
+          "target": "欧米経済",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 0,
+          "to": 4
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "sentence": "豪州経済は、個人消費が成長を支え底堅く推移しました",
+      "opinions": [
+        {
+          "target": "豪州経済",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 0,
+          "to": 4
+        }
+      ]
+    },
+    {
+      "sentence_id": 3,
+      "sentence": "このような環境の下、当社グループは引き続き国内事業の強化とともに、海外展開を進めてまいりました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 4,
+      "sentence": "販促メディア事業においては、主に飲食分野や美容分野でITを活用したクライアント基盤の強化や予約サービスの拡大等によるユーザーの利便性向上を推進してまいりました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 5,
+      "sentence": "人材メディア事業においては、雇用情勢が高位安定している国内人材募集領域では、更なる競争力の強化に注力しました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 6,
+      "sentence": "また、海外人材募集領域では、主にブランド認知度の向上と営業体制の強化に努めることでユーザー及びクライアントの獲得に取り組んでまいりました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 7,
+      "sentence": "人材派遣事業においては、効率的な事業運営を推進したほか、M&A等により展開地域の拡大を進めてまいりました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 8,
+      "sentence": "これらの結果、売上高は１兆8,399億円（前連結会計年度比15.8％増）、営業利益は1,272億円（前連結会計年度比11.6％増）、経常利益は1,317億円（前連結会計年度比10.4％増）となりました",
+      "opinions": [
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 7,
+          "to": 10
+        },
+        {
+          "target": "営業利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 37,
+          "to": 41
+        },
+        {
+          "target": "経常利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 66,
+          "to": 70
+        }
+      ]
+    },
+    {
+      "sentence_id": 9,
+      "sentence": "また、特別利益として関係会社株式売却益を218億円計上したこと等により、親会社株主に帰属する当期純利益は854億円（前連結会計年度比32.4％増）となりました",
+      "opinions": [
+        {
+          "target": "当期純利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 46,
+          "to": 51
+        }
+      ]
+    },
+    {
+      "sentence_id": 10,
+      "sentence": "EBITDA（営業利益＋減価償却費＋のれん償却額）は2,308億円（前連結会計年度比14.1％増）、のれん償却前当期純利益（親会社株主に帰属する当期純利益＋のれん償却額）は1,389億円（前連結会計年度比23.5％増）、調整後EPS（注１）は241.27円（前連結会計年度比15.1％増）となりました",
+      "opinions": [
+        {
+          "target": "EBITDA",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 0,
+          "to": 6
+        },
+        {
+          "target": "のれん償却前当期純利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 50,
+          "to": 61
+        },
+        {
+          "target": "調整後EPS",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 110,
+          "to": 116
+        }
+      ]
+    },
+    {
+      "sentence_id": 11,
+      "sentence": "M&A等により新たに連結を開始する子会社の業績を控除した、既存事業での売上高は１兆6,762億円（前連結会計年度比5.5％増）、EBITDAは2,212億円（前連結会計年度比9.4％増）となりました",
+      "opinions": [
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 35,
+          "to": 38
+        },
+        {
+          "target": "EBITDA",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 64,
+          "to": 70
+        }
+      ]
+    },
+    {
+      "sentence_id": 12,
+      "sentence": "なお、当社グループでは、M&A等を活用した事業基盤の強化や拡大を積極的に目指していくなかで、各国の会計基準の差異にとらわれることなく企業比較が可能なEBITDAを業績の指標として採用しております",
+      "opinions": []
+    },
+    {
+      "sentence_id": 13,
+      "sentence": "また、平成30年３月期から当社グループの連結財務諸表について、従来の日本基準に替えて国際財務報告基準（以下「IFRS」という",
+      "opinions": []
+    },
+    {
+      "sentence_id": 14,
+      "sentence": "）を任意適用し、平成30年３月期第１四半期連結会計期間からIFRSに基づき開示を行います",
+      "opinions": []
+    },
+    {
+      "sentence_id": 15,
+      "sentence": "（注１）調整後EPS（調整後１株当たり当期純利益）：調整後当期純利益（注２）／（期末発行済株式数－期末\n          自己株式数）\n　（注２）調整後当期純利益：親会社株主に帰属する当期純利益±調整項目（注３）（非支配株主帰属分を除く）\n　　　　　±調整項目の一部に係る税金相当額\n　（注３）調整項目：企業結合に伴い生じたのれん以外の無形固定資産及びのれんの償却額±特別損益",
+      "opinions": []
+    },
+    {
+      "sentence_id": 16,
+      "sentence": "上記指標は、日本基準に基づく内容で記載しております",
+      "opinions": []
+    },
+    {
+      "sentence_id": 17,
+      "sentence": "IFRSに基づく内容は、「３　経営方針、経営環境及び対処すべき課題等（２）目標とする経営指標」をご参照ください",
+      "opinions": []
+    },
+    {
+      "sentence_id": 18,
+      "sentence": "主なセグメント別の概況は、以下のとおりであります",
+      "opinions": []
+    },
+    {
+      "sentence_id": 19,
+      "sentence": "①  販促メディア事業",
+      "opinions": []
+    },
+    {
+      "sentence_id": 20,
+      "sentence": "当連結会計年度における販促メディア事業の売上高は3,763億円（前連結会計年度比7.7％増）、セグメント利益（セグメントEBITDA）は1,020億円（前連結会計年度比9.4％増）となりました",
+      "opinions": [
+        {
+          "target": "販促メディア事業",
+          "category": "business#sales",
+          "polarity": "positive",
+          "from": 11,
+          "to": 19
+        },
+        {
+          "target": "販促メディア事業",
+          "category": "business#profit",
+          "polarity": "positive",
+          "from": 11,
+          "to": 19
+        }
+      ]
+    },
+    {
+      "sentence_id": 21,
+      "sentence": "主な領域別の概況は、以下のとおりであります",
+      "opinions": []
+    },
+    {
+      "sentence_id": 22,
+      "sentence": "（ライフイベント領域）",
+      "opinions": []
+    },
+    {
+      "sentence_id": 23,
+      "sentence": "住宅分野においては、ユーザー集客の推進に加えて、クライアントの集客ニーズの高まり等により、主要分野である分譲マンション分野、戸建・流通分野及び賃貸分野が全て伸長した結果、売上高は好調に推移しました",
+      "opinions": [
+        {
+          "target": "住宅分野",
+          "category": "business#sales",
+          "polarity": "positive",
+          "from": 0,
+          "to": 4
+        },
+        {
+          "target": "集客ニーズ",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 31,
+          "to": 36
+        },
+        {
+          "target": "分譲マンション分野",
+          "category": "business#general",
+          "polarity": "positive",
+          "from": 52,
+          "to": 61
+        },
+        {
+          "target": "戸建・流通分野",
+          "category": "business#general",
+          "polarity": "positive",
+          "from": 62,
+          "to": 69
+        },
+        {
+          "target": "賃貸分野",
+          "category": "business#general",
+          "polarity": "positive",
+          "from": 71,
+          "to": 75
+        }
+      ]
+    },
+    {
+      "sentence_id": 24,
+      "sentence": "結婚分野においては、少子化の影響で国内の婚姻組数自体は減少傾向にあるものの、サービスの利便性向上及び大手結婚式場運営クライアントの集客ニーズの高まり等を背景に、売上高は堅調に推移しました",
+      "opinions": [
+        {
+          "target": "結婚分野",
+          "category": "business#sales",
+          "polarity": "positive",
+          "from": 0,
+          "to": 4
+        },
+        {
+          "target": "婚姻組数",
+          "category": "NULL#amount",
+          "polarity": "negative",
+          "from": 20,
+          "to": 24
+        },
+        {
+          "target": "集客ニーズ",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 65,
+          "to": 70
+        }
+      ]
+    },
+    {
+      "sentence_id": 25,
+      "sentence": "これらの結果、ライフイベント領域における売上高は1,974億円（前連結会計年度比10.2％増）となりました",
+      "opinions": [
+        {
+          "target": "ライフイベント領域",
+          "category": "business#sales",
+          "polarity": "positive",
+          "from": 7,
+          "to": 16
+        }
+      ]
+    },
+    {
+      "sentence_id": 26,
+      "sentence": "なお、主要分野の売上高の内訳は、住宅分野995億円（前連結会計年度比13.1％増）、結婚分野546億円（前連結会計年度比1.8％増）となりました",
+      "opinions": [
+        {
+          "target": "住宅分野",
+          "category": "business#sales",
+          "polarity": "positive",
+          "from": 16,
+          "to": 20
+        },
+        {
+          "target": "結婚分野",
+          "category": "business#sales",
+          "polarity": "positive",
+          "from": 42,
+          "to": 46
+        }
+      ]
+    },
+    {
+      "sentence_id": 27,
+      "sentence": "（日常消費領域）",
+      "opinions": []
+    },
+    {
+      "sentence_id": 28,
+      "sentence": "旅行分野においては、第２四半期連結会計期間において子会社を譲渡したことにより、売上高は前連結会計年度比で減少となりました",
+      "opinions": [
+        {
+          "target": "旅行分野",
+          "category": "business#sales",
+          "polarity": "negative",
+          "from": 0,
+          "to": 4
+        }
+      ]
+    },
+    {
+      "sentence_id": 29,
+      "sentence": "なお、主力事業である「じゃらん」の売上高は、延べ宿泊者数の増加等により好調に推移しました",
+      "opinions": [
+        {
+          "target": "じゃらん",
+          "category": "product#amount",
+          "polarity": "positive",
+          "from": 11,
+          "to": 15
+        },
+        {
+          "target": "じゃらん",
+          "category": "product#sales",
+          "polarity": "positive",
+          "from": 11,
+          "to": 15
+        }
+      ]
+    },
+    {
+      "sentence_id": 30,
+      "sentence": "飲食分野においては、「Airシリーズ」を軸としてクライアント接点を強化したこと及びネット予約人数が引き続き順調に拡大したこと等を背景に、売上高は堅調に推移しました",
+      "opinions": [
+        {
+          "target": "飲食分野",
+          "category": "business#sales",
+          "polarity": "positive",
+          "from": 0,
+          "to": 4
+        },
+        {
+          "target": "ネット予約人数",
+          "category": "NULL#amount",
+          "polarity": "positive",
+          "from": 41,
+          "to": 48
+        }
+      ]
+    },
+    {
+      "sentence_id": 31,
+      "sentence": "また、美容分野においては、「SALON BOARD」の利便性向上を進めたこと及びネット予約件数が引き続き順調に拡大したこと等を背景に、既存クライアントとの取引拡大や新規クライアントの獲得が進んだ結果、売上高は好調に推移しました",
+      "opinions": [
+        {
+          "target": "美容分野",
+          "category": "business#sales",
+          "polarity": "positive",
+          "from": 3,
+          "to": 7
+        },
+        {
+          "target": "ネット予約件数",
+          "category": "NULL#amount",
+          "polarity": "positive",
+          "from": 40,
+          "to": 47
+        }
+      ]
+    },
+    {
+      "sentence_id": 32,
+      "sentence": "これらの結果、日常消費領域における売上高は1,717億円（前連結会計年度比2.7％増）となりました",
+      "opinions": [
+        {
+          "target": "日常消費領域",
+          "category": "business#sales",
+          "polarity": "positive",
+          "from": 7,
+          "to": 13
+        }
+      ]
+    },
+    {
+      "sentence_id": 33,
+      "sentence": "なお、主要分野の売上高の内訳は、旅行分野585億円（前連結会計年度比3.8％減）、飲食分野375億円（前連結会計年度比3.2％増）、美容分野573億円（前連結会計年度比24.4％増）となりました",
+      "opinions": [
+        {
+          "target": "旅行分野",
+          "category": "business#sales",
+          "polarity": "negative",
+          "from": 16,
+          "to": 20
+        },
+        {
+          "target": "飲食分野",
+          "category": "business#sales",
+          "polarity": "positive",
+          "from": 41,
+          "to": 45
+        },
+        {
+          "target": "美容分野",
+          "category": "business#sales",
+          "polarity": "positive",
+          "from": 66,
+          "to": 70
+        }
+      ]
+    },
+    {
+      "sentence_id": 34,
+      "sentence": "②  人材メディア事業",
+      "opinions": []
+    },
+    {
+      "sentence_id": 35,
+      "sentence": "当連結会計年度における人材メディア事業の売上高は4,053億円（前連結会計年度比12.8％増）、セグメント利益（セグメントEBITDA）は946億円（前連結会計年度比7.6％増）となりました",
+      "opinions": [
+        {
+          "target": "人材メディア事業",
+          "category": "business#sales",
+          "polarity": "positive",
+          "from": 11,
+          "to": 19
+        },
+        {
+          "target": "人材メディア事業",
+          "category": "business#profit",
+          "polarity": "positive",
+          "from": 11,
+          "to": 19
+        }
+      ]
+    },
+    {
+      "sentence_id": 36,
+      "sentence": "主な領域別の概況は、以下のとおりであります",
+      "opinions": []
+    },
+    {
+      "sentence_id": 37,
+      "sentence": "（国内人材募集領域）",
+      "opinions": []
+    },
+    {
+      "sentence_id": 38,
+      "sentence": "国内人材募集領域においては、有効求人倍率が高位安定し求人広告掲載件数の増加も続く等、堅調な雇用環境が継続しております",
+      "opinions": [
+        {
+          "target": "有効求人倍率",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 14,
+          "to": 20
+        },
+        {
+          "target": "求人広告掲載件数",
+          "category": "NULL#amount",
+          "polarity": "positive",
+          "from": 26,
+          "to": 34
+        },
+        {
+          "target": "雇用環境",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 45,
+          "to": 49
+        }
+      ]
+    },
+    {
+      "sentence_id": 39,
+      "sentence": "このような環境の下、正社員募集及びアルバイト・パート募集分野ともに、売上高は堅調に推移しました",
+      "opinions": [
+        {
+          "target": "正社員募集",
+          "category": "business#sales",
+          "polarity": "positive",
+          "from": 10,
+          "to": 15
+        },
+        {
+          "target": "アルバイト・パート募集分野",
+          "category": "business#sales",
+          "polarity": "positive",
+          "from": 17,
+          "to": 30
+        }
+      ]
+    },
+    {
+      "sentence_id": 40,
+      "sentence": "また、更なる競争力強化を目指し、特に第２四半期連結累計期間においてユーザー集客及び営業体制の強化を行いました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 41,
+      "sentence": "これらの結果、国内人材募集領域における売上高は2,666億円（前連結会計年度比4.2％増）となりました",
+      "opinions": [
+        {
+          "target": "国内人材募集領域",
+          "category": "business#sales",
+          "polarity": "positive",
+          "from": 7,
+          "to": 15
+        }
+      ]
+    },
+    {
+      "sentence_id": 42,
+      "sentence": "（海外人材募集領域）",
+      "opinions": []
+    },
+    {
+      "sentence_id": 43,
+      "sentence": "海外人材募集領域においては、現在の事業の中心である米国に加え、その他の国においても「Indeed.com」の広告宣伝を実施しブランド認知度を高めたほか、営業体制の強化を行った結果、サービス利用が順調に拡大し、売上高は好調に推移しました",
+      "opinions": [
+        {
+          "target": "サービス利用",
+          "category": "NULL#amount",
+          "polarity": "positive",
+          "from": 90,
+          "to": 96
+        },
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 104,
+          "to": 107
+        }
+      ]
+    },
+    {
+      "sentence_id": 44,
+      "sentence": "これらの結果、海外人材募集領域における売上高は1,202億円（前連結会計年度比42.5％増）となりました",
+      "opinions": [
+        {
+          "target": "海外人材募集領域",
+          "category": "business#sales",
+          "polarity": "positive",
+          "from": 7,
+          "to": 15
+        }
+      ]
+    },
+    {
+      "sentence_id": 45,
+      "sentence": "③  人材派遣事業",
+      "opinions": []
+    },
+    {
+      "sentence_id": 46,
+      "sentence": "当連結会計年度における人材派遣事業の売上高は１兆687億円（前連結会計年度比20.1％増）、セグメント利益（セグメントEBITDA）は633億円（前連結会計年度比27.6％増）となりました",
+      "opinions": [
+        {
+          "target": "人材派遣事業",
+          "category": "business#sales",
+          "polarity": "positive",
+          "from": 11,
+          "to": 17
+        },
+        {
+          "target": "人材派遣事業",
+          "category": "business#profit",
+          "polarity": "positive",
+          "from": 11,
+          "to": 17
+        }
+      ]
+    },
+    {
+      "sentence_id": 47,
+      "sentence": "主な領域別の概況は、以下のとおりであります",
+      "opinions": []
+    },
+    {
+      "sentence_id": 48,
+      "sentence": "（国内派遣領域）",
+      "opinions": []
+    },
+    {
+      "sentence_id": 49,
+      "sentence": "国内派遣領域においては、派遣社員実稼働者数が継続的に増加する等、人材派遣市場は緩やかな拡大傾向が継続しております",
+      "opinions": [
+        {
+          "target": "派遣社員実稼働者数",
+          "category": "NULL#amount",
+          "polarity": "positive",
+          "from": 12,
+          "to": 21
+        },
+        {
+          "target": "人材派遣市場",
+          "category": "market#general",
+          "polarity": "positive",
+          "from": 32,
+          "to": 38
+        }
+      ]
+    },
+    {
+      "sentence_id": 50,
+      "sentence": "このような環境の下、営業力を強化したこと及び既存派遣契約の継続や新規派遣契約数の増加に注力したこと等により、引き続き事務、エンジニアリング及びIT分野を中心に売上高が好調に推移しました",
+      "opinions": [
+        {
+          "target": "事務",
+          "category": "business#sales",
+          "polarity": "positive",
+          "from": 58,
+          "to": 60
+        },
+        {
+          "target": "エンジニアリング",
+          "category": "business#sales",
+          "polarity": "positive",
+          "from": 61,
+          "to": 69
+        },
+        {
+          "target": "IT分野",
+          "category": "business#sales",
+          "polarity": "positive",
+          "from": 71,
+          "to": 75
+        }
+      ]
+    },
+    {
+      "sentence_id": 51,
+      "sentence": "これらの結果、国内派遣領域における売上高は4,634億円（前連結会計年度比11.9％増）となりました",
+      "opinions": [
+        {
+          "target": "国内派遣領域",
+          "category": "business#sales",
+          "polarity": "positive",
+          "from": 7,
+          "to": 13
+        }
+      ]
+    },
+    {
+      "sentence_id": 52,
+      "sentence": "（海外派遣領域）",
+      "opinions": []
+    },
+    {
+      "sentence_id": 53,
+      "sentence": "海外派遣領域においては、前連結会計年度において株式を取得したChandler Macleod Group Limited及びAtterro, Inc.等の業績が、当連結会計年度においては期首より寄与したことに加え、第３四半期連結会計期間より、第１四半期連結会計期間において株式を取得したUSG People B.V.（平成28年７月にUSG People N.V.から社名変更）の業績が新たに寄与した結果、当領域の売上高は増加しました",
+      "opinions": [
+        {
+          "target": "海外派遣領域",
+          "category": "business#sales",
+          "polarity": "positive",
+          "from": 0,
+          "to": 6
+        }
+      ]
+    },
+    {
+      "sentence_id": 54,
+      "sentence": "これらの結果、海外派遣領域における売上高は6,052億円（前連結会計年度比27.2％増）となりました",
+      "opinions": [
+        {
+          "target": "海外派遣領域",
+          "category": "business#sales",
+          "polarity": "positive",
+          "from": 7,
+          "to": 13
+        }
+      ]
+    },
+    {
+      "sentence_id": 55,
+      "sentence": "④  その他事業",
+      "opinions": []
+    },
+    {
+      "sentence_id": 56,
+      "sentence": "当連結会計年度におけるその他事業の売上高は53億円（前連結会計年度比4.4％増）、セグメント利益（セグメントEBITDA）は128億円のマイナス（前連結会計年度は118億円のマイナス）となりました",
+      "opinions": [
+        {
+          "target": "その他事業",
+          "category": "business#sales",
+          "polarity": "positive",
+          "from": 11,
+          "to": 16
+        },
+        {
+          "target": "その他事業",
+          "category": "business#profit",
+          "polarity": "negative",
+          "from": 11,
+          "to": 16
+        }
+      ]
+    }
+  ]
+}

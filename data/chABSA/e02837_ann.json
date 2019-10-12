@@ -1,0 +1,340 @@
+{
+  "header": {
+    "document_id": "E02837",
+    "document_name": "尾家産業株式会社",
+    "doc_text": "有価証券報告書",
+    "edi_id": "E02837",
+    "security_code": "74810",
+    "category33": "卸売業",
+    "category17": "商社・卸売",
+    "scale": "7"
+  },
+  "sentences": [
+    {
+      "sentence_id": 0,
+      "sentence": "当事業年度におけるわが国経済は、平成29年１月に就任したドナルド・トランプアメリカ大統領の次々と打ち",
+      "opinions": []
+    },
+    {
+      "sentence_id": 1,
+      "sentence": "出される政策により、世界の為替相場並びに株式市場は翻弄されました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 2,
+      "sentence": "ＥＵ、中国や新興国の経済に、陰りが",
+      "opinions": []
+    },
+    {
+      "sentence_id": 3,
+      "sentence": "見え出す一方、原油、穀物の価格が上昇するなど、一段と先行き不透明な状況が続くと予想されます",
+      "opinions": [
+        {
+          "target": "価格",
+          "category": "NULL#price",
+          "polarity": "negative",
+          "from": 13,
+          "to": 15
+        },
+        {
+          "target": "先行き",
+          "category": "NULL#general",
+          "polarity": "neutral",
+          "from": 26,
+          "to": 29
+        }
+      ]
+    },
+    {
+      "sentence_id": 4,
+      "sentence": "慢性的な",
+      "opinions": []
+    },
+    {
+      "sentence_id": 5,
+      "sentence": "人手不足は、働き方改革と併せて、物流費、人件費等の高騰を招き、企業の業績は更に厳しいものになりました",
+      "opinions": [
+        {
+          "target": "物流費",
+          "category": "NULL#cost",
+          "polarity": "negative",
+          "from": 16,
+          "to": 19
+        },
+        {
+          "target": "人件費",
+          "category": "NULL#cost",
+          "polarity": "negative",
+          "from": 20,
+          "to": 23
+        },
+        {
+          "target": "業績",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 34,
+          "to": 36
+        }
+      ]
+    },
+    {
+      "sentence_id": 6,
+      "sentence": "また、円高により輸出企業の業績も大きく影響を受けました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 7,
+      "sentence": "明るい話題としては、昨年の訪日外国人は",
+      "opinions": []
+    },
+    {
+      "sentence_id": 8,
+      "sentence": "約2,400万人と過去最高を記録し、ホテル、観光地では、その恩恵に浴しました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 9,
+      "sentence": "当社の主要取引先であります外食業界におきましても、一部の業態（ファーストフードや焼肉業態等）では",
+      "opinions": []
+    },
+    {
+      "sentence_id": 10,
+      "sentence": "前年に比べ売上の回復も見られましたが、消費者の可処分所得の減少は、節約志向に繋がり、低価格化へと、",
+      "opinions": [
+        {
+          "target": "売上",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 5,
+          "to": 7
+        },
+        {
+          "target": "可処分所得",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 23,
+          "to": 28
+        }
+      ]
+    },
+    {
+      "sentence_id": 11,
+      "sentence": "より厳しい競争を余儀なくされています",
+      "opinions": [
+        {
+          "target": "競争",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 5,
+          "to": 7
+        }
+      ]
+    },
+    {
+      "sentence_id": 12,
+      "sentence": "特に、若者のアルコール離れにより、居酒屋、パブでは前年同期と",
+      "opinions": []
+    },
+    {
+      "sentence_id": 13,
+      "sentence": "比較し、苦戦を強いられました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 14,
+      "sentence": "このような経済環境の下、当社は長期的目標であります「いい会社をつくろう」を目指し、平成28年４月より、",
+      "opinions": []
+    },
+    {
+      "sentence_id": 15,
+      "sentence": "第三次３ヶ年中期経営計画「変革！Ｇｒｏｗ＆Ｃｈａｌｌｅｎｇｅ」を実行しております",
+      "opinions": []
+    },
+    {
+      "sentence_id": 16,
+      "sentence": "初年度の当期は、",
+      "opinions": []
+    },
+    {
+      "sentence_id": 17,
+      "sentence": "基本方針として新たに「安心・安全の徹底」「利益創出」「人財の育成」を掲げ、全社を挙げて計画達成に向けて",
+      "opinions": []
+    },
+    {
+      "sentence_id": 18,
+      "sentence": "取組みました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 19,
+      "sentence": "営業政策としましては、好調分野であるヘルスケアフード事業の年間売上は、前年比122.5％の129億円となり",
+      "opinions": [
+        {
+          "target": "ヘルスケアフード事業",
+          "category": "business#sales",
+          "polarity": "positive",
+          "from": 18,
+          "to": 28
+        }
+      ]
+    },
+    {
+      "sentence_id": 20,
+      "sentence": "ました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 21,
+      "sentence": "４ヶ所で開催した「やさしいメニュー」セミナー＆提案会や、各事業所におけるプレゼンテーションの",
+      "opinions": []
+    },
+    {
+      "sentence_id": 22,
+      "sentence": "成果が現れました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 23,
+      "sentence": "平成28年８月から９月には秋季提案会を、また、平成29年１月から３月には、春季提案会を",
+      "opinions": []
+    },
+    {
+      "sentence_id": 24,
+      "sentence": "それぞれ15会場で開催し、約14千名のお客様に来場をいただきました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 25,
+      "sentence": "新規のお客様も多数来場され、お取引のきっかけにも繋がりました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 26,
+      "sentence": "出展メーカー様の協力を得て、新商品や",
+      "opinions": []
+    },
+    {
+      "sentence_id": 27,
+      "sentence": "新メニューの導入に努め、成果の見える化を実現いたしました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 28,
+      "sentence": "また、既存のお客様との取組みを更に深化させ、",
+      "opinions": []
+    },
+    {
+      "sentence_id": 29,
+      "sentence": "並行して新規得意先開拓に努力いたしました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 30,
+      "sentence": "恒例の第10回大感謝セールは、平成28年12月から平成29年１月まで実施し、お客様に１年分の感謝の気持ちを",
+      "opinions": []
+    },
+    {
+      "sentence_id": 31,
+      "sentence": "こめて、利益を還元いたしました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 32,
+      "sentence": "拠点政策としましては、平成28年10月に厚木営業所、静岡営業所、福井営業所、松山営業所、11月に",
+      "opinions": []
+    },
+    {
+      "sentence_id": 33,
+      "sentence": "東大阪営業所、平成29年１月に神戸支店の６ヶ所をそれぞれ新築移転いたしました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 34,
+      "sentence": "第58期には、浜松営業所の増築、三重営業所、京都支店、奈良営業所、長崎営業所等を新築移転する予定で",
+      "opinions": []
+    },
+    {
+      "sentence_id": 35,
+      "sentence": "あります",
+      "opinions": []
+    },
+    {
+      "sentence_id": 36,
+      "sentence": "平成29年３月末現在では、全国46事業所（11支店、33営業所、サンプラザ２店（業務用食品スーパー））と",
+      "opinions": []
+    },
+    {
+      "sentence_id": 37,
+      "sentence": "前期末と同数であります",
+      "opinions": []
+    },
+    {
+      "sentence_id": 38,
+      "sentence": "更に、物流業務（倉庫内作業）の精度向上とスピードアップを図るために、「ボイスシステム（音声による",
+      "opinions": []
+    },
+    {
+      "sentence_id": 39,
+      "sentence": "入出庫作業と在庫管理システム）」を３月末には、郡山営業所、高崎営業所、沖縄営業所、サンプラザを除く",
+      "opinions": []
+    },
+    {
+      "sentence_id": 40,
+      "sentence": "全41ヶ所に導入を完了し、物流品質の改善に努めております",
+      "opinions": []
+    },
+    {
+      "sentence_id": 41,
+      "sentence": "配送用車両の安全運転と燃費向上を目指して導入しました「無事故プログラムＤＲ",
+      "opinions": []
+    },
+    {
+      "sentence_id": 42,
+      "sentence": "（ＤＲＩＶＥ　ＲＥＣＯＲＤＥＲ）」は、全車両約400台に設置し、安全運転に努めております",
+      "opinions": []
+    },
+    {
+      "sentence_id": 43,
+      "sentence": "以上の結果、当期の業績につきましては、売上高915億９百万円（前期比5.0％増）、営業利益８億27百万円",
+      "opinions": [
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 19,
+          "to": 22
+        }
+      ]
+    },
+    {
+      "sentence_id": 44,
+      "sentence": "（前期比5.9％減）、経常利益９億32百万円（前期比1.4％減）、当期純利益４億15百万円（前期比26.1％減）と",
+      "opinions": [
+        {
+          "target": "経常利益",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 11,
+          "to": 15
+        },
+        {
+          "target": "当期純利益",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 33,
+          "to": 38
+        }
+      ]
+    },
+    {
+      "sentence_id": 45,
+      "sentence": "増収減益となりました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 46,
+      "sentence": "なお、当社は食品卸売事業の単一セグメントであるため、セグメント別の記載を省略しております",
+      "opinions": []
+    }
+  ]
+}

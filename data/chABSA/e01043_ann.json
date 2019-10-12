@@ -1,0 +1,280 @@
+{
+  "header": {
+    "document_id": "E01043",
+    "document_name": "曽田香料株式会社",
+    "doc_text": "有価証券報告書",
+    "edi_id": "E01043",
+    "security_code": "49650",
+    "category33": "化学",
+    "category17": "素材・化学",
+    "scale": ""
+  },
+  "sentences": [
+    {
+      "sentence_id": 0,
+      "sentence": "当連結会計年度のわが国経済は、企業収益の改善や輸出が緩やかに回復する中、堅調な雇用・所得情勢を受けて、個人消費も持ち直しつつあります",
+      "opinions": [
+        {
+          "target": "企業収益",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 15,
+          "to": 19
+        },
+        {
+          "target": "輸出",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 23,
+          "to": 25
+        },
+        {
+          "target": "雇用",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 39,
+          "to": 41
+        },
+        {
+          "target": "所得情勢",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 42,
+          "to": 46
+        },
+        {
+          "target": "個人消費",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 51,
+          "to": 55
+        }
+      ]
+    },
+    {
+      "sentence_id": 1,
+      "sentence": "今後日本経済は、緩やかに回復していくと思われますが、欧州の政治情勢や米国新政権の政策の不確実性の世界経済への影響等が懸念され、先行きは依然不透明な状況にあります",
+      "opinions": [
+        {
+          "target": "先行き",
+          "category": "NULL#general",
+          "polarity": "neutral",
+          "from": 63,
+          "to": 66
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "sentence": "国内の香料市場においては、市場規模の拡大が期待できない中、市場の成熟化、一部天産品原料価格の上昇、競合他社との競争激化、品質保証に対する要求増加など依然として厳しい状況にあります",
+      "opinions": [
+        {
+          "target": "香料市場",
+          "category": "market#general",
+          "polarity": "negative",
+          "from": 3,
+          "to": 7
+        },
+        {
+          "target": "天産品原料価格",
+          "category": "NULL#cost",
+          "polarity": "negative",
+          "from": 38,
+          "to": 45
+        }
+      ]
+    },
+    {
+      "sentence_id": 3,
+      "sentence": "一方で国外に目を転じれば、アセアン地域等今後の成長が期待できる市場が育まれつつあります",
+      "opinions": []
+    },
+    {
+      "sentence_id": 4,
+      "sentence": "このような状況下、当社グループは、生産・販売・研究・開発が一体となって、製品開発における顧客ニーズへの対応力を強化するとともに、ユーザーの海外展開に対応すべく中国市場での事業拡大の推進と東南アジア市場開拓のための拠点作りを進めてまいりました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 5,
+      "sentence": "この結果、当連結会計年度の売上高につきましては、国内事業の調合香料事業と合成香料・ケミカル事業がいずれも前期比減収の中、中国市場を主力とする海外事業が前期比増収となりましたが、売上高は前連結会計年度比5.3%減の15,250百万円となりました",
+      "opinions": [
+        {
+          "target": "調合香料事業",
+          "category": "business#sales",
+          "polarity": "negative",
+          "from": 29,
+          "to": 35
+        },
+        {
+          "target": "合成香料・ケミカル事業",
+          "category": "business#sales",
+          "polarity": "negative",
+          "from": 36,
+          "to": 47
+        },
+        {
+          "target": "海外事業",
+          "category": "business#sales",
+          "polarity": "positive",
+          "from": 70,
+          "to": 74
+        },
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "negative",
+          "from": 88,
+          "to": 91
+        }
+      ]
+    },
+    {
+      "sentence_id": 6,
+      "sentence": "利益につきましては、国内事業や中国子会社の採算悪化等により、営業利益は525百万円（前連結会計年度比 17.1％減）、経常利益は中国子会社の為替差損による営業外収支の悪化により424百万円（同 23.8％減)となり、親会社株主に帰属する当期純利益は、台湾子会社の税率変更による繰延税金負債の取崩しの影響等により243百万円（同 19.6％増）となりました",
+      "opinions": [
+        {
+          "target": "国内事業",
+          "category": "business#profit",
+          "polarity": "negative",
+          "from": 10,
+          "to": 14
+        },
+        {
+          "target": "中国子会社",
+          "category": "company#profit",
+          "polarity": "negative",
+          "from": 15,
+          "to": 20
+        },
+        {
+          "target": "営業利益",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 30,
+          "to": 34
+        },
+        {
+          "target": "経常利益",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 59,
+          "to": 63
+        },
+        {
+          "target": "営業外収支",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 77,
+          "to": 82
+        },
+        {
+          "target": "当期純利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 118,
+          "to": 123
+        }
+      ]
+    },
+    {
+      "sentence_id": 7,
+      "sentence": "また、当連結会計年度において、当社が保有するケミカル関連設備（建物、生産設備等）に事業環境の変化に伴う収益性の低下による減損の兆候が認められたことから、将来の回収可能性を検討した結果、帳簿価額を回収可能価額まで減額し、139百万円を減損損失として特別損失に計上しております",
+      "opinions": [
+        {
+          "target": "収益性",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 51,
+          "to": 54
+        }
+      ]
+    },
+    {
+      "sentence_id": 8,
+      "sentence": "主要なセグメントの売上高につきましては、国内事業のうち、フレグランスとフレーバーの調合香料事業は、フレグランスは前期比増収となりましたが、フレーバーの取扱商品が前期に比べ大幅減収となったため、前期比9.1％減の7,074百万円となりました",
+      "opinions": [
+        {
+          "target": "調合香料事業",
+          "category": "business#sales",
+          "polarity": "negative",
+          "from": 41,
+          "to": 47
+        },
+        {
+          "target": "フレグランス",
+          "category": "product#sales",
+          "polarity": "positive",
+          "from": 49,
+          "to": 55
+        },
+        {
+          "target": "取扱商品",
+          "category": "product#sales",
+          "polarity": "negative",
+          "from": 75,
+          "to": 79
+        }
+      ]
+    },
+    {
+      "sentence_id": 9,
+      "sentence": "合成香料・ケミカル事業は、合成香料とケミカル受託製品の減収により、前期比9.2％減の3,212百万円となりました",
+      "opinions": [
+        {
+          "target": "合成香料・ケミカル事業",
+          "category": "business#sales",
+          "polarity": "negative",
+          "from": 0,
+          "to": 11
+        },
+        {
+          "target": "合成香料",
+          "category": "product#sales",
+          "polarity": "negative",
+          "from": 13,
+          "to": 17
+        },
+        {
+          "target": "ケミカル受託製品",
+          "category": "product#sales",
+          "polarity": "negative",
+          "from": 18,
+          "to": 26
+        }
+      ]
+    },
+    {
+      "sentence_id": 10,
+      "sentence": "また、国内子会社は前期比2.1％減の1,346百万円となりました",
+      "opinions": [
+        {
+          "target": "国内子会社",
+          "category": "company#sales",
+          "polarity": "negative",
+          "from": 3,
+          "to": 8
+        }
+      ]
+    },
+    {
+      "sentence_id": 11,
+      "sentence": "海外事業は中国の景気が減速する中、前期比6.4％増の3,616百万円となりました",
+      "opinions": [
+        {
+          "target": "海外事業",
+          "category": "business#sales",
+          "polarity": "positive",
+          "from": 0,
+          "to": 4
+        },
+        {
+          "target": "景気",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 8,
+          "to": 10
+        }
+      ]
+    }
+  ]
+}

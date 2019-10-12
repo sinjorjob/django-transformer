@@ -1,0 +1,308 @@
+{
+  "header": {
+    "document_id": "E02289",
+    "document_name": "株式会社東京精密",
+    "doc_text": "有価証券報告書",
+    "edi_id": "E02289",
+    "security_code": "77290",
+    "category33": "精密機器",
+    "category17": "電機・精密",
+    "scale": "6"
+  },
+  "sentences": [
+    {
+      "sentence_id": 0,
+      "sentence": "当連結会計年度の内外経済情勢は、先進国を中心に緩やかな回復基調が続いた",
+      "opinions": [
+        {
+          "target": "内外経済情勢",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 8,
+          "to": 14
+        }
+      ]
+    },
+    {
+      "sentence_id": 1,
+      "sentence": "米国経済は雇用回復と堅調な個人消費を背景に景気の緩やかな拡大が続き、欧州経済も英国のEU離脱選択による一時的な金融不安等があったものの、その影響は軽微にとどまり、緩やかな回復が続いた",
+      "opinions": [
+        {
+          "target": "個人消費",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 13,
+          "to": 17
+        },
+        {
+          "target": "景気",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 21,
+          "to": 23
+        },
+        {
+          "target": "欧州経済",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 34,
+          "to": 38
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "sentence": "日本経済は年初来の円高の進行で年度前半は足踏み状態であったが、後半は円安に転じ企業収益環境が改善、また雇用環境改善を背景に個人消費にも持ち直しの動きが見られるなど緩やかな回復傾向となった",
+      "opinions": [
+        {
+          "target": "日本経済",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 0,
+          "to": 4
+        },
+        {
+          "target": "企業収益環境",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 39,
+          "to": 45
+        },
+        {
+          "target": "個人消費",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 61,
+          "to": 65
+        }
+      ]
+    },
+    {
+      "sentence_id": 3,
+      "sentence": "一方、アジア新興国では、中国経済に各種政策効果で若干の持ち直しの動きが見られたものの、その他新興国経済は斑模様で全般的には依然として停滞した推移を続けた",
+      "opinions": [
+        {
+          "target": "中国経済",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 12,
+          "to": 16
+        },
+        {
+          "target": "その他新興国経済",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 43,
+          "to": 51
+        }
+      ]
+    },
+    {
+      "sentence_id": 4,
+      "sentence": "このような状況下、当連結会計年度の当社グループの業績は、主要ユーザーである半導体関連業界の活発な設備投資需要を主因に、売上高777億92百万円(前年同期比10.7％増)、営業利益136億59百万円(同3.3％増)、経常利益 138億64百万円(同4.8％増)、親会社株主に帰属する当期純利益99億９百万円(同2.1％増)と増収・増益となった",
+      "opinions": [
+        {
+          "target": "半導体関連業界",
+          "category": "market#general",
+          "polarity": "positive",
+          "from": 37,
+          "to": 44
+        },
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 59,
+          "to": 62
+        },
+        {
+          "target": "営業利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 85,
+          "to": 89
+        },
+        {
+          "target": "経常利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 107,
+          "to": 111
+        },
+        {
+          "target": "当期純利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 140,
+          "to": 145
+        }
+      ]
+    },
+    {
+      "sentence_id": 5,
+      "sentence": "以下、セグメントにそくして業績の概要を示すと次のとおりとなる",
+      "opinions": []
+    },
+    {
+      "sentence_id": 6,
+      "sentence": "①　半導体製造装置",
+      "opinions": []
+    },
+    {
+      "sentence_id": 7,
+      "sentence": "スマートフォンの大容量化やストレージ、パワー半導体、車載デバイス用電子部品等に対する市場拡大を背景に、半導体及び電子部品メーカー各社は年度を通じて積極的な設備投資を続けた",
+      "opinions": [
+        {
+          "target": "電子部品",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 33,
+          "to": 37
+        },
+        {
+          "target": "設備投資",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 77,
+          "to": 81
+        }
+      ]
+    },
+    {
+      "sentence_id": 8,
+      "sentence": "これにより当事業分野での通例となっていた年度内での短期の需要変動も当年度は軽微にとどまり、年間を通じて高水準の受注活動が続いた",
+      "opinions": [
+        {
+          "target": "需要変動",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 28,
+          "to": 32
+        },
+        {
+          "target": "受注活動",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 55,
+          "to": 59
+        }
+      ]
+    },
+    {
+      "sentence_id": 9,
+      "sentence": "当連結会計年度の当セグメントの業績は、売上高502億91百万円(前年同期比20.4％増)、セグメント利益(営業利益)88億20百万円(同20.2％増)であった",
+      "opinions": [
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 19,
+          "to": 22
+        },
+        {
+          "target": "セグメント利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 45,
+          "to": 52
+        }
+      ]
+    },
+    {
+      "sentence_id": 10,
+      "sentence": "②　計測機器",
+      "opinions": []
+    },
+    {
+      "sentence_id": 11,
+      "sentence": "主要ユーザーである自動車関連業界はワールドワイドな生産体制の構築と生産効率向上に向けた革新投資を進めたが、年初来の円高による企業収益への影響を踏まえ更新投資については抑制的な対応をした",
+      "opinions": [
+        {
+          "target": "更新投資",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 74,
+          "to": 78
+        }
+      ]
+    },
+    {
+      "sentence_id": 12,
+      "sentence": "また、中国、東南アジア地域における投資需要も一部で回復の動きは見られたが引き続き力強さを欠いた",
+      "opinions": [
+        {
+          "target": "投資需要",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 17,
+          "to": 21
+        }
+      ]
+    },
+    {
+      "sentence_id": 13,
+      "sentence": "国内中堅中小企業マーケットにおける政府助成金の政策効果も薄らぐ中、航空機関連業界からの需要動向は堅調を維持した",
+      "opinions": [
+        {
+          "target": "政策効果",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 23,
+          "to": 27
+        },
+        {
+          "target": "需要動向",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 43,
+          "to": 47
+        }
+      ]
+    },
+    {
+      "sentence_id": 14,
+      "sentence": "このような市場環境を受け、当社装置の受注・売上は前年同期比で減少となった",
+      "opinions": [
+        {
+          "target": "受注",
+          "category": "NULL#amount",
+          "polarity": "negative",
+          "from": 18,
+          "to": 20
+        },
+        {
+          "target": "売上",
+          "category": "NULL#sales",
+          "polarity": "negative",
+          "from": 21,
+          "to": 23
+        }
+      ]
+    },
+    {
+      "sentence_id": 15,
+      "sentence": "当連結会計年度の当セグメントの業績は、売上高275億１百万円(前年同期比3.5％減)、セグメント利益(営業利益)48億39百万円(同17.7％減)であった",
+      "opinions": [
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "negative",
+          "from": 19,
+          "to": 22
+        },
+        {
+          "target": "セグメント利益",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 43,
+          "to": 50
+        }
+      ]
+    },
+    {
+      "sentence_id": 16,
+      "sentence": "(注)　なお、上記金額には消費税等は含まれていない",
+      "opinions": []
+    }
+  ]
+}

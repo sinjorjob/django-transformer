@@ -1,0 +1,481 @@
+{
+  "header": {
+    "document_id": "E30085",
+    "document_name": "エンカレッジ・テクノロジ株式会社",
+    "doc_text": "有価証券報告書",
+    "edi_id": "E30085",
+    "security_code": "36820",
+    "category33": "情報・通信業",
+    "category17": "情報通信・サービスその他",
+    "scale": ""
+  },
+  "sentences": [
+    {
+      "sentence_id": 0,
+      "sentence": "当社グループは、当連結会計年度より連結財務諸表を作成しているため、前連結会計年度との対比の記載はしておりま",
+      "opinions": []
+    },
+    {
+      "sentence_id": 1,
+      "sentence": "せん",
+      "opinions": []
+    },
+    {
+      "sentence_id": 2,
+      "sentence": "当連結会計年度におけるわが国経済は、個人消費の低迷による国内需要の弱さがみられたものの円安による輸出の増加",
+      "opinions": [
+        {
+          "target": "個人消費",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 18,
+          "to": 22
+        },
+        {
+          "target": "国内需要",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 28,
+          "to": 32
+        },
+        {
+          "target": "輸出",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 48,
+          "to": 50
+        }
+      ]
+    },
+    {
+      "sentence_id": 3,
+      "sentence": "等によって緩やかな回復基調で推移しました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 4,
+      "sentence": "平成28年２月に導入された日銀のマイナス金利政策は1年を経過して、当",
+      "opinions": []
+    },
+    {
+      "sentence_id": 5,
+      "sentence": "社グループの主要顧客先である金融業に大きく影響を及ぼし、利ザヤの縮小、運用難による収益悪化により、設備投資は",
+      "opinions": [
+        {
+          "target": "金融業",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 14,
+          "to": 17
+        },
+        {
+          "target": "利ザヤ",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 28,
+          "to": 31
+        }
+      ]
+    },
+    {
+      "sentence_id": 6,
+      "sentence": "当初計画からの抑制、見送りなど大幅な減額修正がなされました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 7,
+      "sentence": "このような経済状況のもとで、当社グループは、製品開発では自治体情報システム強靭性向上（注１）の一環としてフ",
+      "opinions": []
+    },
+    {
+      "sentence_id": 8,
+      "sentence": "ァイル無害化ソリューション「ESS FileGate（EFG）」をリリース、更にトレンドマイクロ社のウィルス、マルウエア駆",
+      "opinions": []
+    },
+    {
+      "sentence_id": 9,
+      "sentence": "除ソフトウエア「Trend Micro Deep Security」と連携した「EFG V1.1」をリリースし発売いたしました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 10,
+      "sentence": "また、既存製",
+      "opinions": []
+    },
+    {
+      "sentence_id": 11,
+      "sentence": "品の拡張・改良として、特権ID（注２）管理ソリューションである「ESS AdminControl(EAC)」にデータベースへの不審",
+      "opinions": []
+    },
+    {
+      "sentence_id": 12,
+      "sentence": "なアクセスの発見を容易にした「EAC V1.5」をリリースするなど、製品の拡張・改良、品質向上に努めました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 13,
+      "sentence": "営業面では、高度化する標的型サイバー攻撃による大規模な情報漏えい事件の増加が続き、大企業を中心に対策製品の",
+      "opinions": [
+        {
+          "target": "情報漏えい事件",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 27,
+          "to": 34
+        }
+      ]
+    },
+    {
+      "sentence_id": 14,
+      "sentence": "導入が優先課題として取り組まれてきましたが、社内システムへの不正侵入を防ぐ水際（入口）対策の限界も見えはじ",
+      "opinions": []
+    },
+    {
+      "sentence_id": 15,
+      "sentence": "め、当社のソリューションであるシステム運用における証跡管理や特権ID管理が多層防御の要であるとの認識が一部の企",
+      "opinions": []
+    },
+    {
+      "sentence_id": 16,
+      "sentence": "業で見えはじめました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 17,
+      "sentence": "当社は引き続きセミナーやイベント出展を通じて、多様化するセキュリティリスクに対する特権",
+      "opinions": []
+    },
+    {
+      "sentence_id": 18,
+      "sentence": "ID認証と証跡管理についての当社ソリューションのPRに努め、株式会社ナノオプト・メディア主催「Security Days",
+      "opinions": []
+    },
+    {
+      "sentence_id": 19,
+      "sentence": "Spring 2017」では３日間にわたって金融以外の幅広い業種からの来場顧客の情報収集を行い、そのフォローアップを実",
+      "opinions": []
+    },
+    {
+      "sentence_id": 20,
+      "sentence": "施しました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 21,
+      "sentence": "代理店施策では、金融専門セミナーである日本金融通信社主催「FIT大阪フォーラム」での共同出展を実施したほか、",
+      "opinions": []
+    },
+    {
+      "sentence_id": 22,
+      "sentence": "福岡ではプライベートセミナーを共催し参加した九州地区の金融関係顧客への共同フォローを実施しました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 23,
+      "sentence": "当社製品を",
+      "opinions": []
+    },
+    {
+      "sentence_id": 24,
+      "sentence": "使用されているお客様を対象とした「活用塾セミナー」も「ESS REC」以外の製品へと幅を広げ、また「活用塾セミナ",
+      "opinions": []
+    },
+    {
+      "sentence_id": 25,
+      "sentence": "ー・冬」ではセミナー会場へ来場出来ないお客様にWebを利用したライブ配信での提供を実施いたしました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 26,
+      "sentence": "以上の結",
+      "opinions": []
+    },
+    {
+      "sentence_id": 27,
+      "sentence": "果、当連結会計年度の売上高は1,871,634千円、営業利益は471,605千円、経常利益は472,319千円、親会社株主に帰属す",
+      "opinions": []
+    },
+    {
+      "sentence_id": 28,
+      "sentence": "る当期純利益は336,824千円となりました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 29,
+      "sentence": "セグメントの業績は、次のとおりであります",
+      "opinions": []
+    },
+    {
+      "sentence_id": 30,
+      "sentence": "①パッケージソフトウエア事業",
+      "opinions": []
+    },
+    {
+      "sentence_id": 31,
+      "sentence": "当連結会計年度におけるパッケージソフトウエア事業のライセンス売上は、地方銀行や信用金庫でのFISC（公益財団法",
+      "opinions": []
+    },
+    {
+      "sentence_id": 32,
+      "sentence": "人金融情報システムセンター）の安全対策基準準拠への対応やシステム更改に伴う増強などがありましたが、メガバンク",
+      "opinions": []
+    },
+    {
+      "sentence_id": 33,
+      "sentence": "のシステム統合案件が一段落したことやマイナス金利政策による収益の悪化から主要顧客先である銀行業のソフトウエア",
+      "opinions": [
+        {
+          "target": "収益",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 29,
+          "to": 31
+        }
+      ]
+    },
+    {
+      "sentence_id": 34,
+      "sentence": "投資が抑制された影響を強く受けました",
+      "opinions": [
+        {
+          "target": "投資",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 0,
+          "to": 2
+        }
+      ]
+    },
+    {
+      "sentence_id": 35,
+      "sentence": "金融業では、システムの統制強化を図る一部の保険業やPCI DSS（注３）準拠",
+      "opinions": []
+    },
+    {
+      "sentence_id": 36,
+      "sentence": "のためクレジットカード・信販会社で、システム証跡管理製品「ESS REC」及び特権ID管理製品「ESS AdminControl",
+      "opinions": []
+    },
+    {
+      "sentence_id": 37,
+      "sentence": "（EAC）」の導入が堅調に推移しましたが、銀行業向けライセンス売上の減少を補うまでには至りませんでした",
+      "opinions": [
+        {
+          "target": "導入",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 7,
+          "to": 9
+        },
+        {
+          "target": "ライセンス売上",
+          "category": "NULL#sales",
+          "polarity": "negative",
+          "from": 26,
+          "to": 33
+        }
+      ]
+    },
+    {
+      "sentence_id": 38,
+      "sentence": "また、",
+      "opinions": []
+    },
+    {
+      "sentence_id": 39,
+      "sentence": "当連結会計年度においては年初より標的型サイバー攻撃対策が課題となり、６月には大手旅行業者のサーバーへの標的型",
+      "opinions": []
+    },
+    {
+      "sentence_id": 40,
+      "sentence": "メールによる不正アクセスにより大量の個人情報が流出する事件が発生したこともあって、多くの企業で標的型サイバー",
+      "opinions": []
+    },
+    {
+      "sentence_id": 41,
+      "sentence": "攻撃対策製品の導入が優先されました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 42,
+      "sentence": "新製品であるファイル無害化ソリューション「ESS FileGate（EFG）」の販売に",
+      "opinions": []
+    },
+    {
+      "sentence_id": 43,
+      "sentence": "つきましては、株式会社電算との協業の成果として信越地域及び周辺地域の25市町村で受注し導入が開始されました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 44,
+      "sentence": "EFGは自治体のみならず企業への拡販を企図して登録パートナー制度「ESS FileGateベンダーコミュニティ」を立ち",
+      "opinions": []
+    },
+    {
+      "sentence_id": 45,
+      "sentence": "上げEFGに関する製品情報の提供を行うとともに、中小規模システムを有する企業をターゲットとしたシステム管理製",
+      "opinions": []
+    },
+    {
+      "sentence_id": 46,
+      "sentence": "品「ESS AdminGate(EAG)」の販売促進を図りました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 47,
+      "sentence": "保守サポートサービスは、保守契約更新率95%を確保し堅調に売上を伸長しましたほか、コンサルティングサービス",
+      "opinions": [
+        {
+          "target": "売上",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 29,
+          "to": 31
+        }
+      ]
+    },
+    {
+      "sentence_id": 48,
+      "sentence": "も地方銀行でのSIO製品（注４）の導入に伴う構築サービスの売上が増加いたしました",
+      "opinions": [
+        {
+          "target": "構築サービス",
+          "category": "product#sales",
+          "polarity": "positive",
+          "from": 22,
+          "to": 28
+        }
+      ]
+    },
+    {
+      "sentence_id": 49,
+      "sentence": "以上の結果、セグメント売上高は1,656,428千円（前年同期比は単体決算のため参考となりますが2.1%増）となりま",
+      "opinions": [
+        {
+          "target": "セグメント売上高",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 6,
+          "to": 14
+        }
+      ]
+    },
+    {
+      "sentence_id": 50,
+      "sentence": "した",
+      "opinions": []
+    },
+    {
+      "sentence_id": 51,
+      "sentence": "セグメント利益は、定期採用及びキャリア採用による人員増と待遇改善、確定拠出年金制度の導入など福利施策",
+      "opinions": []
+    },
+    {
+      "sentence_id": 52,
+      "sentence": "に伴う人件費増加、研究開発部門での派遣技術者受入費用の増加などにより売上原価及び一般管理費が増加した結果",
+      "opinions": [
+        {
+          "target": "派遣技術者受入費用",
+          "category": "NULL#cost",
+          "polarity": "negative",
+          "from": 17,
+          "to": 26
+        },
+        {
+          "target": "売上原価",
+          "category": "NULL#cost",
+          "polarity": "negative",
+          "from": 34,
+          "to": 38
+        },
+        {
+          "target": "一般管理費",
+          "category": "NULL#cost",
+          "polarity": "negative",
+          "from": 40,
+          "to": 45
+        }
+      ]
+    },
+    {
+      "sentence_id": 53,
+      "sentence": "803,951千円となりました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 54,
+      "sentence": "②システム開発サービス事業",
+      "opinions": []
+    },
+    {
+      "sentence_id": 55,
+      "sentence": "システム開発サービス事業は、既存顧客先向け売上は横ばいで推移しましたが、エンカレッジ・テクノロジ株式会社の",
+      "opinions": []
+    },
+    {
+      "sentence_id": 56,
+      "sentence": "技術要員不足に対処して製品開発並びに品質保証部門等への要員派遣増加によりシナジー強化に努めました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 57,
+      "sentence": "以上の結果セグメント売上は248,634千円、セグメント利益は23,473千円となりました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 58,
+      "sentence": "（注１）自治体情報システム強靭性向上：日本年金機構の情報漏えい事件を受けて、総務省が地方自治体情報セキュリティの抜本対策として",
+      "opinions": []
+    },
+    {
+      "sentence_id": 59,
+      "sentence": "検討し、決定した「自治体セキュリティ強靭性向上」対策のことをいいます",
+      "opinions": []
+    },
+    {
+      "sentence_id": 60,
+      "sentence": "（注２）特権ID：システム運用管理においてプログラムの変更やデータベースの変更等で使用する高いアクセス権限を持つシステム運用管理",
+      "opinions": []
+    },
+    {
+      "sentence_id": 61,
+      "sentence": "者用のIDのことをいいます",
+      "opinions": []
+    },
+    {
+      "sentence_id": 62,
+      "sentence": "（注３）PCI DSS：Payment Card Industry Data Security Standardの略で国際ブランドのカード会社が共同策定したカード情報保護のセキ",
+      "opinions": []
+    },
+    {
+      "sentence_id": 63,
+      "sentence": "ュリティ基準のことをいいます",
+      "opinions": []
+    },
+    {
+      "sentence_id": 64,
+      "sentence": "クレジットカード発行会社、カード決済処理会社、加盟店などの企業で準拠が求められています",
+      "opinions": []
+    },
+    {
+      "sentence_id": 65,
+      "sentence": "（注４）ESS SmartIT Operation(略称：SIO)：システムの変化や形態に影響されず、様々なオペレーション・システム（OS）が混在する環境",
+      "opinions": []
+    },
+    {
+      "sentence_id": 66,
+      "sentence": "であっても一貫性のある運用管理、運用統制が実現できるパッケージソフトウエア技術の在り方を定義した技術戦略です",
+      "opinions": []
+    },
+    {
+      "sentence_id": 67,
+      "sentence": "当社のシ",
+      "opinions": []
+    },
+    {
+      "sentence_id": 68,
+      "sentence": "ステム運用管理ソフトウエアは、基本的にこの戦略に基づいて開発しております",
+      "opinions": []
+    }
+  ]
+}

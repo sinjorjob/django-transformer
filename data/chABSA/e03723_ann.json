@@ -1,0 +1,535 @@
+{
+  "header": {
+    "document_id": "E03723",
+    "document_name": "株式会社小林洋行",
+    "doc_text": "有価証券報告書",
+    "edi_id": "E03723",
+    "security_code": "87420",
+    "category33": "証券、商品先物取引業",
+    "category17": "金融（除く銀行）",
+    "scale": "7"
+  },
+  "sentences": [
+    {
+      "sentence_id": 0,
+      "sentence": "当連結会計年度におけるわが国経済は、政府及び日銀の各種政策の効果により雇用・所得環境の改善が続くなかで、景気は、一部に弱さや改善の遅れがみられるものの、緩やかな回復基調で推移しました",
+      "opinions": [
+        {
+          "target": "雇用",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 35,
+          "to": 37
+        },
+        {
+          "target": "所得環境",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 38,
+          "to": 42
+        },
+        {
+          "target": "景気",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 52,
+          "to": 54
+        }
+      ]
+    },
+    {
+      "sentence_id": 1,
+      "sentence": "一方で、アジア新興国等の経済成長の減速や、英国のＥＵ離脱問題に揺れるユーロ圏や新政権に移行した米国の経済政策に関する不確実性の影響が、わが国の景気を下押しするリスクとして懸念され、先行きは引き続き不透明な状況にあります",
+      "opinions": [
+        {
+          "target": "経済成長",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 12,
+          "to": 16
+        },
+        {
+          "target": "先行き",
+          "category": "NULL#general",
+          "polarity": "neutral",
+          "from": 90,
+          "to": 93
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "sentence": "当社グループの主たる事業である投資・金融サービス業においては、６月の英国によるＥＵ離脱の是非を問う国民投票や11月の米大統領選挙といった欧米のイベント時には、貴金属市場を中心に市場は活況となりましたが、ＦＲＢによる利上げ判断の動向や米国の新政権による経済政策の先行きを睨んだ様子見ムードにより、期間全体を通して積極的な取引を手控える期間が長引きました",
+      "opinions": [
+        {
+          "target": "市場",
+          "category": "market#general",
+          "polarity": "positive",
+          "from": 88,
+          "to": 90
+        }
+      ]
+    },
+    {
+      "sentence_id": 3,
+      "sentence": "その結果、国内商品取引所の総売買高は、前期と比較して2.9％減の51,581千枚となりました",
+      "opinions": [
+        {
+          "target": "総売買高",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 13,
+          "to": 17
+        }
+      ]
+    },
+    {
+      "sentence_id": 4,
+      "sentence": "生活・環境事業においては、省エネやコスト削減の意識の高まりが引き続きＬＥＤ照明等の需要を支えておりますが、その莫大な需要を巡って価格競争が激化したため、販売環境は厳しい状況になりました",
+      "opinions": [
+        {
+          "target": "価格競争",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 64,
+          "to": 68
+        },
+        {
+          "target": "販売環境",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 76,
+          "to": 80
+        }
+      ]
+    },
+    {
+      "sentence_id": 5,
+      "sentence": "また、スポーツ施設提供業おいては、天候により来場者数、売上が左右されるなか、各ゴルフ場間での価格競争の激化が、集客に苦戦を強いられる要因となりました",
+      "opinions": [
+        {
+          "target": "価格競争",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 46,
+          "to": 50
+        }
+      ]
+    },
+    {
+      "sentence_id": 6,
+      "sentence": "不動産業においては、外国人観光客数は、前年度と比較すると減少しておりますが、依然高水準で推移しており、都市圏を中心にホテル業はその恩恵を受けております",
+      "opinions": [
+        {
+          "target": "外国人観光客数",
+          "category": "NULL#amount",
+          "polarity": "positive",
+          "from": 10,
+          "to": 17
+        }
+      ]
+    },
+    {
+      "sentence_id": 7,
+      "sentence": "このような事業環境のもと、投資・金融サービス業においては、当社連結子会社の株式会社フジトミが平成28年１月より取扱いを開始した取引所為替証拠金取引（くりっく365）及び取引所株価指数証拠金取引（くりっく株365）が加わったため、当社グループの受取手数料は1,210百万円（前連結会計年度比11.4％増）となりました",
+      "opinions": [
+        {
+          "target": "当社グループ",
+          "category": "company#sales",
+          "polarity": "positive",
+          "from": 114,
+          "to": 120
+        }
+      ]
+    },
+    {
+      "sentence_id": 8,
+      "sentence": "また、自己ディーリング部門は、48百万円の売買損（前連結会計年度は331百万円の売買益）となっております",
+      "opinions": [
+        {
+          "target": "自己ディーリング部門",
+          "category": "business#sales",
+          "polarity": "negative",
+          "from": 3,
+          "to": 13
+        }
+      ]
+    },
+    {
+      "sentence_id": 9,
+      "sentence": "生活・環境事業において、生命保険・損害保険の募集業務では、所属員の総合的な提案スキルを向上させ、生損保のクロスセリングの推進により顧客基盤の拡充を図ったため、募集手数料は143百万円（前連結会計年度比15.6％増）となりました",
+      "opinions": [
+        {
+          "target": "募集業務",
+          "category": "product#sales",
+          "polarity": "positive",
+          "from": 22,
+          "to": 26
+        }
+      ]
+    },
+    {
+      "sentence_id": 10,
+      "sentence": "これ以外の事業では、協業体制を強化し最大限にシナジー効果を発揮させることにより収益の確保へ繋げた結果、太陽光発電機・ＬＥＤ照明等の売上高は171百万円（同9.3％増）となり、当社連結子会社の株式会社三新電業社及び看板資材株式会社が営む広告用電設資材卸売業の売上高513百万円などを加えた、売上高は879百万円（同3.8％減）となっております",
+      "opinions": [
+        {
+          "target": "太陽光発電機",
+          "category": "product#sales",
+          "polarity": "positive",
+          "from": 51,
+          "to": 57
+        },
+        {
+          "target": "ＬＥＤ照明",
+          "category": "product#sales",
+          "polarity": "positive",
+          "from": 58,
+          "to": 63
+        },
+        {
+          "target": "電設資材卸売業",
+          "category": "business#sales",
+          "polarity": "neutral",
+          "from": 120,
+          "to": 127
+        },
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "negative",
+          "from": 144,
+          "to": 147
+        }
+      ]
+    },
+    {
+      "sentence_id": 11,
+      "sentence": "スポーツ施設提供業においては、当社が所有するゴルフ場（ゴールデンクロスカントリークラブ）ですが、前半は比較的天候に恵まれ、来場者数の増加に繋がりました",
+      "opinions": [
+        {
+          "target": "ゴルフ場",
+          "category": "product#amount",
+          "polarity": "positive",
+          "from": 22,
+          "to": 26
+        }
+      ]
+    },
+    {
+      "sentence_id": 12,
+      "sentence": "後半は周辺のゴルフ場との価格競争の激化に天候不良が重なり苦戦を強いられましたが、料金設定の見直しなど営業活動に注力した結果、売上高は450百万円（同1.7％増）となっております",
+      "opinions": [
+        {
+          "target": "価格競争",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 12,
+          "to": 16
+        },
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 62,
+          "to": 65
+        }
+      ]
+    },
+    {
+      "sentence_id": 13,
+      "sentence": "不動産業において、不動産賃貸では、当社グループが所有する賃貸用不動産は、入居率、稼働率ともに高水準で推移しており、安定した収益源となっております",
+      "opinions": [
+        {
+          "target": "賃貸用不動産",
+          "category": "product#general",
+          "polarity": "positive",
+          "from": 28,
+          "to": 34
+        }
+      ]
+    },
+    {
+      "sentence_id": 14,
+      "sentence": "また、不動産売買では、短期に収益を獲得できる案件に加え、安定性のある優良賃貸物件等の獲得にも力を入れました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 15,
+      "sentence": "その結果、売上高は590百万円（同3.4％増）となり、その他の事業を含めた営業収益は3,227百万円、営業総利益は1,993百万円となっております",
+      "opinions": [
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 5,
+          "to": 8
+        },
+        {
+          "target": "営業収益",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 37,
+          "to": 41
+        },
+        {
+          "target": "営業総利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 51,
+          "to": 56
+        }
+      ]
+    },
+    {
+      "sentence_id": 16,
+      "sentence": "一方、営業費用は2,204百万円となり、持分法による投資損失229百万円を営業外費用として計上したため、経常損失353百万円（前連結会計年度は経常損失109百万円）となりました",
+      "opinions": [
+        {
+          "target": "経常損失",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 52,
+          "to": 56
+        }
+      ]
+    },
+    {
+      "sentence_id": 17,
+      "sentence": "また、貸倒引当金戻入額112百万円などの特別利益126百万円を計上したため、親会社株主に帰属する当期純損失は128百万円（前連結会計年度は親会社株主に帰属する当期純損失563百万円）となりました",
+      "opinions": [
+        {
+          "target": "当期純損失",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 48,
+          "to": 53
+        }
+      ]
+    },
+    {
+      "sentence_id": 18,
+      "sentence": "なお、平成27年２月より連結子会社化しました株式会社三新電業社及び看板資材株式会社の平成27年３月分を含めているため、前連結会計年度につきましては、両社の13ヶ月間（平成27年３月１日～平成28年３月31日）を連結対象期間とした決算となっております",
+      "opinions": []
+    },
+    {
+      "sentence_id": 19,
+      "sentence": "このため、対前年連結会計年度比につきましては記載しておりません",
+      "opinions": []
+    },
+    {
+      "sentence_id": 20,
+      "sentence": "セグメントの業績は、次のとおりです",
+      "opinions": []
+    },
+    {
+      "sentence_id": 21,
+      "sentence": "①　投資・金融サービス業",
+      "opinions": []
+    },
+    {
+      "sentence_id": 22,
+      "sentence": "当連結会計年度の投資・金融サービス業の営業収益は1,161百万円（前連結会計年度比18.1％減）、セグメント損失は115百万円（前連結会計年度は36百万円のセグメント損失）となりました",
+      "opinions": [
+        {
+          "target": "投資・金融サービス業",
+          "category": "business#sales",
+          "polarity": "negative",
+          "from": 8,
+          "to": 18
+        },
+        {
+          "target": "投資・金融サービス業",
+          "category": "business#profit",
+          "polarity": "negative",
+          "from": 8,
+          "to": 18
+        }
+      ]
+    },
+    {
+      "sentence_id": 23,
+      "sentence": "当連結会計年度における投資・金融サービス業の営業収益は、次のとおりであります",
+      "opinions": []
+    },
+    {
+      "sentence_id": 24,
+      "sentence": "イ　受取手数料",
+      "opinions": []
+    },
+    {
+      "sentence_id": 25,
+      "sentence": "（注）上記の金額には消費税等は含まれておりません",
+      "opinions": []
+    },
+    {
+      "sentence_id": 26,
+      "sentence": "ロ　売買損益",
+      "opinions": []
+    },
+    {
+      "sentence_id": 27,
+      "sentence": "（注）上記の金額には消費税等は含まれておりません",
+      "opinions": []
+    },
+    {
+      "sentence_id": 28,
+      "sentence": "ハ　その他",
+      "opinions": []
+    },
+    {
+      "sentence_id": 29,
+      "sentence": "（注）上記の金額には消費税等は含まれておりません",
+      "opinions": []
+    },
+    {
+      "sentence_id": 30,
+      "sentence": "当社グループの商品先物取引の売買高に関して当連結会計年度中の状況は、次のとおりであります",
+      "opinions": []
+    },
+    {
+      "sentence_id": 31,
+      "sentence": "ニ　商品先物取引の売買高の状況",
+      "opinions": []
+    },
+    {
+      "sentence_id": 32,
+      "sentence": "(注)１．主な商品別の委託売買高とその総委託売買高に対する割合は、次のとおりです",
+      "opinions": []
+    },
+    {
+      "sentence_id": 33,
+      "sentence": "２．商品先物取引における取引単位の最低単位を枚と呼び、例えば㈱東京商品取引所の金は１枚1kg、ガソリンは１枚50ｋlというように1枚当たりの数量は商品ごとに異なります",
+      "opinions": []
+    },
+    {
+      "sentence_id": 34,
+      "sentence": "当社グループの商品先物取引に関する売買高のうち、当連結会計年度末において反対売買により決済されていない建玉の状況は、次のとおりであります",
+      "opinions": []
+    },
+    {
+      "sentence_id": 35,
+      "sentence": "ホ　商品先物取引の未決済建玉の状況",
+      "opinions": []
+    },
+    {
+      "sentence_id": 36,
+      "sentence": "②　生活・環境事業",
+      "opinions": []
+    },
+    {
+      "sentence_id": 37,
+      "sentence": "当連結会計年度の生活・環境事業の営業収益は879百万円（前連結会計年度比3.8％減）、セグメント損失は13百万円（前連結会計年度は33百万円のセグメント損失）となりました",
+      "opinions": [
+        {
+          "target": "生活・環境事業",
+          "category": "business#sales",
+          "polarity": "negative",
+          "from": 8,
+          "to": 15
+        },
+        {
+          "target": "生活・環境事業",
+          "category": "business#profit",
+          "polarity": "positive",
+          "from": 8,
+          "to": 15
+        }
+      ]
+    },
+    {
+      "sentence_id": 38,
+      "sentence": "（注）１．上記の金額には、消費税等は含まれておりません",
+      "opinions": []
+    },
+    {
+      "sentence_id": 39,
+      "sentence": "２．広告用電設資材卸売業につきましては、平成27年２月より連結子会社化しました株式会社三新電業社及び看板資材株式会社の平成27年３月分を含めているため、前連結会計年度は、両社の13ヶ月間（平成27年３月１日～平成28年３月31日）を連結対象期間とした決算となっております",
+      "opinions": []
+    },
+    {
+      "sentence_id": 40,
+      "sentence": "このため、対前年連結会計年度比につきましては記載しておりません",
+      "opinions": []
+    },
+    {
+      "sentence_id": 41,
+      "sentence": "③　スポーツ施設提供業",
+      "opinions": []
+    },
+    {
+      "sentence_id": 42,
+      "sentence": "当連結会計年度のスポーツ施設提供業の営業収益は450百万円（前連結会計年度比1.7％増）、セグメント利益は16百万円（同7.9％増）となりました",
+      "opinions": [
+        {
+          "target": "スポーツ施設提供業",
+          "category": "business#sales",
+          "polarity": "positive",
+          "from": 8,
+          "to": 17
+        },
+        {
+          "target": "スポーツ施設提供業",
+          "category": "business#profit",
+          "polarity": "positive",
+          "from": 8,
+          "to": 17
+        }
+      ]
+    },
+    {
+      "sentence_id": 43,
+      "sentence": "④　不動産業",
+      "opinions": []
+    },
+    {
+      "sentence_id": 44,
+      "sentence": "当連結会計年度の不動産業の営業収益は590百万円（前連結会計年度比3.4％増）、セグメント利益は227百万円（同8.7％減）となりました",
+      "opinions": [
+        {
+          "target": "不動産業",
+          "category": "business#sales",
+          "polarity": "positive",
+          "from": 8,
+          "to": 12
+        },
+        {
+          "target": "不動産業",
+          "category": "business#profit",
+          "polarity": "negative",
+          "from": 8,
+          "to": 12
+        }
+      ]
+    },
+    {
+      "sentence_id": 45,
+      "sentence": "（注）上記の金額には、消費税等は含まれておりません",
+      "opinions": []
+    },
+    {
+      "sentence_id": 46,
+      "sentence": "⑤　その他",
+      "opinions": []
+    },
+    {
+      "sentence_id": 47,
+      "sentence": "当連結会計年度のインターネット広告業などの営業収益は145百万円（前連結会計年度比5.4％減）、セグメント利益は17百万円（同6.8％減）となりました",
+      "opinions": [
+        {
+          "target": "インターネット広告業",
+          "category": "business#sales",
+          "polarity": "negative",
+          "from": 8,
+          "to": 18
+        },
+        {
+          "target": "インターネット広告業",
+          "category": "business#profit",
+          "polarity": "negative",
+          "from": 8,
+          "to": 18
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,300 @@
+{
+  "header": {
+    "document_id": "E00051",
+    "document_name": "前田建設工業株式会社",
+    "doc_text": "有価証券報告書",
+    "edi_id": "E00051",
+    "security_code": "18240",
+    "category33": "建設業",
+    "category17": "建設・資材",
+    "scale": "4"
+  },
+  "sentences": [
+    {
+      "sentence_id": 0,
+      "sentence": "当連結会計年度におけるわが国経済は、企業業績の改善に一時期足踏みが見られたものの、輸出や個人消費に持ち直しの動きが見られるなど、景気は緩やかな回復基調が続いた",
+      "opinions": [
+        {
+          "target": "わが国経済",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 11,
+          "to": 16
+        },
+        {
+          "target": "企業業績",
+          "category": "NULL#general",
+          "polarity": "neutral",
+          "from": 18,
+          "to": 22
+        },
+        {
+          "target": "輸出",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 41,
+          "to": 43
+        },
+        {
+          "target": "個人消費",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 44,
+          "to": 48
+        }
+      ]
+    },
+    {
+      "sentence_id": 1,
+      "sentence": "建設業界においては、民間建設投資が横ばいで推移するなか、公共投資は底堅く、堅調な受注環境が続いた",
+      "opinions": [
+        {
+          "target": "建設業界",
+          "category": "market#general",
+          "polarity": "positive",
+          "from": 0,
+          "to": 4
+        },
+        {
+          "target": "民間建設投資",
+          "category": "NULL#general",
+          "polarity": "neutral",
+          "from": 10,
+          "to": 16
+        },
+        {
+          "target": "公共投資",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 28,
+          "to": 32
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "sentence": "このような状況のなかで、当社は、平成28年度を初年度とする３カ年の中期経営計画「Maeda JUMP’16～’18」を推進するため、請負事業の更なる収益力強化を図るとともに、愛知県有料道路の運営に係るコンセッション事業において公共施設等運営権実施契約を締結するなど、「脱請負」の取り組みも推し進めてきた",
+      "opinions": []
+    },
+    {
+      "sentence_id": 3,
+      "sentence": "当連結会計年度の業績は、売上高は前期比4.3％減の4,225億円余、営業利益は建設事業部門が堅調であったことにより231億円余となり、経常利益は273億円余となった",
+      "opinions": [
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "negative",
+          "from": 12,
+          "to": 15
+        },
+        {
+          "target": "営業利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 34,
+          "to": 38
+        },
+        {
+          "target": "建設事業部門",
+          "category": "business#general",
+          "polarity": "positive",
+          "from": 39,
+          "to": 45
+        },
+        {
+          "target": "経常利益",
+          "category": "NULL#profit",
+          "polarity": "neutral",
+          "from": 67,
+          "to": 71
+        }
+      ]
+    },
+    {
+      "sentence_id": 4,
+      "sentence": "また、親会社株主に帰属する当期純利益については、239億円余となった",
+      "opinions": [
+        {
+          "target": "当期純利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 13,
+          "to": 18
+        }
+      ]
+    },
+    {
+      "sentence_id": 5,
+      "sentence": "なお、当連結会計年度から報告セグメントを「建築事業」、「土木事業」、「製造事業」、「インフラ運営事業」の４つの区分に変更している",
+      "opinions": []
+    },
+    {
+      "sentence_id": 6,
+      "sentence": "また、前期比較については、前期の数値を変更後のセグメント区分に組み替えた数値で比較している",
+      "opinions": []
+    },
+    {
+      "sentence_id": 7,
+      "sentence": "セグメントの業績は、次のとおりである",
+      "opinions": []
+    },
+    {
+      "sentence_id": 8,
+      "sentence": "（建築事業）",
+      "opinions": []
+    },
+    {
+      "sentence_id": 9,
+      "sentence": "売上高は前期比5.3％減の2,395億円余となった",
+      "opinions": [
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "negative",
+          "from": 0,
+          "to": 3
+        }
+      ]
+    },
+    {
+      "sentence_id": 10,
+      "sentence": "セグメント利益は、完成工事利益率が向上し、前期比26.8％増の137億円余となった",
+      "opinions": [
+        {
+          "target": "セグメント利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 0,
+          "to": 7
+        },
+        {
+          "target": "完成工事利益率",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 9,
+          "to": 16
+        }
+      ]
+    },
+    {
+      "sentence_id": 11,
+      "sentence": "（土木事業）",
+      "opinions": []
+    },
+    {
+      "sentence_id": 12,
+      "sentence": "期首手持工事の進捗に伴い、売上高は前期比2.9％増の1,357億円余となった",
+      "opinions": [
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 13,
+          "to": 16
+        }
+      ]
+    },
+    {
+      "sentence_id": 13,
+      "sentence": "セグメント利益は、海外工事の完成工事利益率の悪化により、前期比21.9％減の52億円余となった",
+      "opinions": [
+        {
+          "target": "セグメント利益",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 0,
+          "to": 7
+        },
+        {
+          "target": "完成工事利益率",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 14,
+          "to": 21
+        }
+      ]
+    },
+    {
+      "sentence_id": 14,
+      "sentence": "（製造事業）",
+      "opinions": []
+    },
+    {
+      "sentence_id": 15,
+      "sentence": "連結子会社の業績向上等により、売上高は前期比6.1％増の371億円余となり、セグメント利益は前期比41.3％増の20億円余となった",
+      "opinions": [
+        {
+          "target": "連結子会社",
+          "category": "company#general",
+          "polarity": "positive",
+          "from": 0,
+          "to": 5
+        },
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 15,
+          "to": 18
+        },
+        {
+          "target": "セグメント利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 38,
+          "to": 45
+        }
+      ]
+    },
+    {
+      "sentence_id": 16,
+      "sentence": "（インフラ運営事業）",
+      "opinions": []
+    },
+    {
+      "sentence_id": 17,
+      "sentence": "子会社の新規連結等により、売上高は前期比557.2％増の84億円余となり、セグメント利益は前期比518.8％増の20億円余となった",
+      "opinions": [
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 13,
+          "to": 16
+        },
+        {
+          "target": "セグメント利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 37,
+          "to": 44
+        }
+      ]
+    },
+    {
+      "sentence_id": 18,
+      "sentence": "（その他）",
+      "opinions": []
+    },
+    {
+      "sentence_id": 19,
+      "sentence": "不動産事業を中心に展開しており、売上高は前期比91.8％減の16億円余となり、セグメント利益は前期比0.9％減の４億円余となった",
+      "opinions": [
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "negative",
+          "from": 16,
+          "to": 19
+        },
+        {
+          "target": "セグメント利益",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 39,
+          "to": 46
+        }
+      ]
+    }
+  ]
+}

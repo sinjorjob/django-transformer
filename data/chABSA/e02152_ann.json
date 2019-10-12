@@ -1,0 +1,559 @@
+{
+  "header": {
+    "document_id": "E02152",
+    "document_name": "株式会社ＳＵＢＡＲＵ",
+    "doc_text": "訂正有価証券報告書",
+    "edi_id": "E02152",
+    "security_code": "72700",
+    "category33": "輸送用機器",
+    "category17": "自動車・輸送機",
+    "scale": "2"
+  },
+  "sentences": [
+    {
+      "sentence_id": 0,
+      "sentence": "当連結会計年度の国内経済につきましては、緩やかな景気回復が続きました",
+      "opinions": [
+        {
+          "target": "国内経済",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 8,
+          "to": 12
+        }
+      ]
+    },
+    {
+      "sentence_id": 1,
+      "sentence": "一方、世界情勢につきましては、英国のEU離脱表明や米国における新政権誕生などを背景に、政治および経済の先行きの不確実性が高まりました",
+      "opinions": [
+        {
+          "target": "先行き",
+          "category": "NULL#general",
+          "polarity": "neutral",
+          "from": 51,
+          "to": 54
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "sentence": "これらを背景に、為替の動向につきましては、前連結会計年度に比べ大幅な円高ドル安に推移いたしました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 3,
+      "sentence": "当社グループは、ＳＵＢＡＲＵがお客さまの心の中で際立った存在になることを目指して、2014年に策定いたしました中期経営ビジョン「際立とう2020」の取り組みを通じ、徹底的に考え抜いたクルマづくり、確かなモノづくりを貫き、お客様への「安心と愉しさ」の提供を追求していくための努力を続けてまいりました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 4,
+      "sentence": "また、重点取り組みであります「ＳＵＢＡＲＵブランドを磨く」をさらに加速させるため、当社の事業ポートフォリオを総合的に検討した結果、今後の持続的成長の実現を目指し、事業の中核である自動車事業のさらなる競争力の強化に向けて、経営資源をより有効に活用するために、産業機器事業を終了することを決定いたしました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 5,
+      "sentence": "そして当社は、第85期定時株主総会の決議事項に基づき、2017年４月１日をもちまして、富士重工業株式会社から株式会社ＳＵＢＡＲＵへ社名変更いたしました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 6,
+      "sentence": "当連結会計年度は、当社の重点市場であります北米市場が前連結会計年度に引き続き世界販売を牽引し、自動車売上台数は当社として初の100万台超えを記録するなど、着実に取り組みの成果を出すことができました",
+      "opinions": [
+        {
+          "target": "北米市場",
+          "category": "market#general",
+          "polarity": "positive",
+          "from": 21,
+          "to": 25
+        },
+        {
+          "target": "自動車売上台数",
+          "category": "NULL#amount",
+          "polarity": "positive",
+          "from": 47,
+          "to": 54
+        }
+      ]
+    },
+    {
+      "sentence_id": 7,
+      "sentence": "これらの取り組みの結果、当連結会計年度の連結決算は次のとおりとなりました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 8,
+      "sentence": "売上高は、自動車売上台数の増加などにより、為替変動に伴う売上高の減少を吸収し、過去最高となる３兆3,260億円と前連結会計年度に比べ937億円（2.9％）の増収となりました",
+      "opinions": [
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 0,
+          "to": 3
+        },
+        {
+          "target": "自動車売上台数",
+          "category": "NULL#amount",
+          "polarity": "positive",
+          "from": 5,
+          "to": 12
+        },
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "negative",
+          "from": 28,
+          "to": 31
+        }
+      ]
+    },
+    {
+      "sentence_id": 9,
+      "sentence": "利益面につきましては、自動車売上台数の増加や原価低減の進捗などがあったものの、エアバッグインフレータ※に起因する品質関連費用および米国の金利上昇に伴う販売費を中心とした諸経費等の増加、為替変動の影響、試験研究費の増加により、営業利益が4,108億円と前連結会計年度に比べ1,548億円（27.4％）の減益となり、経常利益につきましても、3,943億円と前連結会計年度に比べ1,826億円（31.7％）の減益となりました",
+      "opinions": [
+        {
+          "target": "自動車売上台数",
+          "category": "NULL#amount",
+          "polarity": "positive",
+          "from": 11,
+          "to": 18
+        },
+        {
+          "target": "品質関連費用",
+          "category": "NULL#cost",
+          "polarity": "negative",
+          "from": 56,
+          "to": 62
+        },
+        {
+          "target": "諸経費",
+          "category": "NULL#cost",
+          "polarity": "negative",
+          "from": 84,
+          "to": 87
+        },
+        {
+          "target": "試験研究費",
+          "category": "NULL#cost",
+          "polarity": "negative",
+          "from": 100,
+          "to": 105
+        },
+        {
+          "target": "営業利益",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 112,
+          "to": 116
+        },
+        {
+          "target": "経常利益",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 156,
+          "to": 160
+        }
+      ]
+    },
+    {
+      "sentence_id": 10,
+      "sentence": "また、親会社株主に帰属する当期純利益につきましても、2,824億円と前連結会計年度に比べ1,543億円（35.3％）の減益となりました",
+      "opinions": [
+        {
+          "target": "当期純利益",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 13,
+          "to": 18
+        }
+      ]
+    },
+    {
+      "sentence_id": 11,
+      "sentence": "※：エアバッグの膨張装置",
+      "opinions": []
+    },
+    {
+      "sentence_id": 12,
+      "sentence": "セグメントの業績は次のとおりであります",
+      "opinions": []
+    },
+    {
+      "sentence_id": 13,
+      "sentence": "なお、前連結会計年度までご報告いたしておりました「産業機器事業」につきましては、事業終了を決定したことに伴い、当連結会計年度より「その他事業」の区分に含めて記載しております",
+      "opinions": []
+    },
+    {
+      "sentence_id": 14,
+      "sentence": "また、以下の前連結会計年度との比較については、前連結会計年度の数値を変更後の区分に組み替えた数値で比較しております",
+      "opinions": []
+    },
+    {
+      "sentence_id": 15,
+      "sentence": "当連結会計年度の国内の自動車全体需要は、登録車につきましては、各社の新型車投入の影響などにより前連結会計年度比8.1％の増加となり、軽自動車につきましては、前連結会計年度からの軽自動車税増税の影響などにより前連結会計年度比5.1％の減少となり、国内自動車全体では507.8万台(前連結会計年度比2.8％の増加）となりました",
+      "opinions": [
+        {
+          "target": "自動車全体需要",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 11,
+          "to": 18
+        },
+        {
+          "target": "登録車",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 20,
+          "to": 23
+        },
+        {
+          "target": "軽自動車",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 66,
+          "to": 70
+        }
+      ]
+    },
+    {
+      "sentence_id": 16,
+      "sentence": "また、当社の重点市場であります米国の自動車全体需要は、乗用車系からSUV（多目的スポーツ車）を含むライトトラック系へ移行が進み、前連結会計年度並みの1,748.9万台となりました",
+      "opinions": [
+        {
+          "target": "自動車全体需要",
+          "category": "NULL#general",
+          "polarity": "neutral",
+          "from": 18,
+          "to": 25
+        }
+      ]
+    },
+    {
+      "sentence_id": 17,
+      "sentence": "このような全需動向の中、国内の登録車につきましては、全面改良を行った「インプレッサ」に加え、「レヴォーグ」および「フォレスター」の販売が好調に推移したことにより、売上台数は12.6万台と前連結会計年度に比べ1.5万台（13.3％）の増加となりました",
+      "opinions": [
+        {
+          "target": "インプレッサ",
+          "category": "product#amount",
+          "polarity": "positive",
+          "from": 35,
+          "to": 41
+        },
+        {
+          "target": "レヴォーグ",
+          "category": "product#amount",
+          "polarity": "positive",
+          "from": 47,
+          "to": 52
+        },
+        {
+          "target": "フォレスター",
+          "category": "product#amount",
+          "polarity": "positive",
+          "from": 57,
+          "to": 63
+        },
+        {
+          "target": "売上台数",
+          "category": "NULL#amount",
+          "polarity": "positive",
+          "from": 81,
+          "to": 85
+        }
+      ]
+    },
+    {
+      "sentence_id": 18,
+      "sentence": "また、軽自動車につきましては、新型車「シフォン」が販売に寄与したものの、その他車種が減少したことにより、売上台数は3.3万台と前連結会計年度に比べ0.1万台（3.4％）の減少となりました",
+      "opinions": [
+        {
+          "target": "シフォン",
+          "category": "product#amount",
+          "polarity": "positive",
+          "from": 19,
+          "to": 23
+        },
+        {
+          "target": "その他車種",
+          "category": "product#amount",
+          "polarity": "negative",
+          "from": 36,
+          "to": 41
+        },
+        {
+          "target": "売上台数",
+          "category": "NULL#amount",
+          "polarity": "negative",
+          "from": 52,
+          "to": 56
+        }
+      ]
+    },
+    {
+      "sentence_id": 19,
+      "sentence": "これらの結果、売上台数の合計は、15.9万台と前連結会計年度に比べ1.4万台（9.4％）の増加となりました",
+      "opinions": [
+        {
+          "target": "合計",
+          "category": "NULL#amount",
+          "polarity": "positive",
+          "from": 12,
+          "to": 14
+        }
+      ]
+    },
+    {
+      "sentence_id": 20,
+      "sentence": "海外につきましては、北米で「アウトバック」が好調を維持する中、米国生産拠点であるスバル オブ インディアナ オートモーティブ インク（以下SIA）の生産能力増強が寄与し、大幅に売上台数が増加しました",
+      "opinions": [
+        {
+          "target": "アウトバック",
+          "category": "product#general",
+          "polarity": "positive",
+          "from": 14,
+          "to": 20
+        },
+        {
+          "target": "売上台数",
+          "category": "NULL#amount",
+          "polarity": "positive",
+          "from": 88,
+          "to": 92
+        }
+      ]
+    },
+    {
+      "sentence_id": 21,
+      "sentence": "加えて、北米を中心に「クロストレック（日本名:ＳＵＢＡＲＵ ＸＶ）」および「フォレスター」が年度を通して好調を維持しました",
+      "opinions": [
+        {
+          "target": "クロストレック（日本名:ＳＵＢＡＲＵ ＸＶ）",
+          "category": "product#general",
+          "polarity": "positive",
+          "from": 11,
+          "to": 33
+        },
+        {
+          "target": "フォレスター",
+          "category": "product#general",
+          "polarity": "positive",
+          "from": 38,
+          "to": 44
+        }
+      ]
+    },
+    {
+      "sentence_id": 22,
+      "sentence": "これらの結果、売上台数の合計は、90.6万台と前連結会計年度に比べ9.3万台（11.4％）の増加となりました",
+      "opinions": [
+        {
+          "target": "合計",
+          "category": "NULL#amount",
+          "polarity": "positive",
+          "from": 12,
+          "to": 14
+        }
+      ]
+    },
+    {
+      "sentence_id": 23,
+      "sentence": "地域別には、北米で72.1万台と前連結会計年度に比べ9.0万台（14.3％）の増加、ロシアを含む欧州で4.6万台と前連結会計年度に比べ0.1万台（2.6％）の減少、豪州で4.9万台と前連結会計年度に比べ0.4万台（10.1％）の増加、中国で前連結会計年度並みの4.4万台、その他地域で前連結会計年度並みの4.6万台となりました",
+      "opinions": [
+        {
+          "target": "北米",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 6,
+          "to": 8
+        },
+        {
+          "target": "欧州",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 48,
+          "to": 50
+        },
+        {
+          "target": "豪州",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 82,
+          "to": 84
+        },
+        {
+          "target": "中国",
+          "category": "NULL#general",
+          "polarity": "neutral",
+          "from": 117,
+          "to": 119
+        },
+        {
+          "target": "その他地域",
+          "category": "NULL#general",
+          "polarity": "neutral",
+          "from": 136,
+          "to": 141
+        }
+      ]
+    },
+    {
+      "sentence_id": 24,
+      "sentence": "以上の結果、国内と海外を合わせた売上台数は、過去最高となる106.5万台と前連結会計年度に比べ10.7万台（11.1％）の増加となり、全体の売上高は３兆1,520億円と前連結会計年度に比べ1,125億円（3.7％）の増収となりました",
+      "opinions": [
+        {
+          "target": "売上台数",
+          "category": "NULL#amount",
+          "polarity": "positive",
+          "from": 16,
+          "to": 20
+        },
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 70,
+          "to": 73
+        }
+      ]
+    },
+    {
+      "sentence_id": 25,
+      "sentence": "また、セグメント利益につきましては、エアバッグインフレータに起因する品質関連費用および米国の金利上昇に伴う販売費を中心とした諸経費等の増加、為替変動の影響、試験研究費の増加により、3,977億円と前連結会計年度に比べ1,460億円（26.8％）の減益となりました",
+      "opinions": [
+        {
+          "target": "セグメント利益",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 3,
+          "to": 10
+        },
+        {
+          "target": "品質関連費用",
+          "category": "NULL#cost",
+          "polarity": "negative",
+          "from": 34,
+          "to": 40
+        },
+        {
+          "target": "諸経費",
+          "category": "NULL#cost",
+          "polarity": "negative",
+          "from": 62,
+          "to": 65
+        },
+        {
+          "target": "試験研究費",
+          "category": "NULL#cost",
+          "polarity": "negative",
+          "from": 78,
+          "to": 83
+        }
+      ]
+    },
+    {
+      "sentence_id": 26,
+      "sentence": "なお、当連結会計年度の連結売上台数は以下のとおりです",
+      "opinions": []
+    },
+    {
+      "sentence_id": 27,
+      "sentence": "防衛省向け製品では、新多用途ヘリコプター「UH-X」の契約に基づく開発本格化などにより、売上高は前連結会計年度を上回りました",
+      "opinions": [
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 44,
+          "to": 47
+        }
+      ]
+    },
+    {
+      "sentence_id": 28,
+      "sentence": "一方、民間向け製品では、為替変動に伴う売上高の減少および「ボーイング777」の生産機数減少などにより、売上高は前連結会計年度を下回りました",
+      "opinions": [
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "negative",
+          "from": 19,
+          "to": 22
+        },
+        {
+          "target": "ボーイング777",
+          "category": "product#amount",
+          "polarity": "negative",
+          "from": 29,
+          "to": 37
+        },
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "negative",
+          "from": 51,
+          "to": 54
+        }
+      ]
+    },
+    {
+      "sentence_id": 29,
+      "sentence": "以上の結果、全体の売上高は1,388億円と前連結会計年度に比べ140億円（9.2％）の減収となりました",
+      "opinions": [
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "negative",
+          "from": 9,
+          "to": 12
+        }
+      ]
+    },
+    {
+      "sentence_id": 30,
+      "sentence": "また、セグメント利益につきましても、91億円と前連結会計年度に比べ91億円（50.0％）の減益となりました",
+      "opinions": [
+        {
+          "target": "セグメント利益",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 3,
+          "to": 10
+        }
+      ]
+    },
+    {
+      "sentence_id": 31,
+      "sentence": "産業機器事業において、北米向けレジャービークル用エンジンの販売が減少したことにより、売上高は353億円と前連結会計年度に比べ48億円（11.9％）の減収となりました",
+      "opinions": [
+        {
+          "target": "エンジン",
+          "category": "product#amount",
+          "polarity": "negative",
+          "from": 24,
+          "to": 28
+        },
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "negative",
+          "from": 42,
+          "to": 45
+        }
+      ]
+    },
+    {
+      "sentence_id": 32,
+      "sentence": "また、セグメント利益につきましては、35億円と前連結会計年度に比べ５億円（17.1％）の増益となりました",
+      "opinions": [
+        {
+          "target": "セグメント利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 3,
+          "to": 10
+        }
+      ]
+    }
+  ]
+}

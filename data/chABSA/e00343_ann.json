@@ -1,0 +1,320 @@
+{
+  "header": {
+    "document_id": "E00343",
+    "document_name": "滝沢ハム株式会社",
+    "doc_text": "有価証券報告書",
+    "edi_id": "E00343",
+    "security_code": "22930",
+    "category33": "食料品",
+    "category17": "食品",
+    "scale": ""
+  },
+  "sentences": [
+    {
+      "sentence_id": 0,
+      "sentence": "当連結会計年度における我が国経済は、政府による継続的な景気対策や日銀の金融緩和策により、緩やかな景気回復基調が続きましたが、個人消費は足踏み状況が見られる他、英国のＥＵ離脱問題、中国を中心とする新興国経済の鈍化等、先行き不透明な状況が続いております",
+      "opinions": [
+        {
+          "target": "我が国経済",
+          "category": "NULL#general",
+          "polarity": "neutral",
+          "from": 11,
+          "to": 16
+        },
+        {
+          "target": "個人消費",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 62,
+          "to": 66
+        },
+        {
+          "target": "新興国経済",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 97,
+          "to": 102
+        }
+      ]
+    },
+    {
+      "sentence_id": 1,
+      "sentence": "当業界におきましては、加工品の原料価格は比較的安定しておりましたが、食品全般に対する節約志向、低価格志向が高まる中、物流費の上昇や企業間の販売競争が激化し厳しい状況が続きました",
+      "opinions": [
+        {
+          "target": "原料価格",
+          "category": "NULL#cost",
+          "polarity": "neutral",
+          "from": 15,
+          "to": 19
+        },
+        {
+          "target": "物流費",
+          "category": "NULL#cost",
+          "polarity": "negative",
+          "from": 58,
+          "to": 61
+        },
+        {
+          "target": "販売競争",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 69,
+          "to": 73
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "sentence": "このような状況の中で、当社グループは、新商品及び重点強化商品を中心とした販売促進、外食業界や業務卸等の新規開拓や歳暮ギフトの販売強化等の施策を推進してまいりました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 3,
+      "sentence": "生産部門では、商品の統廃合を進めるとともに製品歩留りの改善など生産効率の向上に取り組んでまいりました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 4,
+      "sentence": "また、食肉部門におきましては、輸入豚肉のブランド肉の仕入強化、国産銘柄牛・豚及び食肉一次加工品等の付加価値の高い商品の販売強化を図ってまいりました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 5,
+      "sentence": "以上の結果、当連結会計年度の売上高は、327億67百万円（前年同期比7.9％増）となり増加いたしました",
+      "opinions": [
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 14,
+          "to": 17
+        }
+      ]
+    },
+    {
+      "sentence_id": 6,
+      "sentence": "損益面では、売上高の増加要因やコスト削減に努めた結果、営業利益は５億１百万円（前年同期比176.2％増）、経常利益は５億41百万円（前年同期比159.1％増）となり、親会社株主に帰属する当期純利益は遊休土地の減損損失計上もあり３億91百万円（前年同期比156.0％増）となりました",
+      "opinions": [
+        {
+          "target": "営業利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 27,
+          "to": 31
+        },
+        {
+          "target": "経常利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 53,
+          "to": 57
+        },
+        {
+          "target": "当期純利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 93,
+          "to": 98
+        }
+      ]
+    },
+    {
+      "sentence_id": 7,
+      "sentence": "部門別の概況は次のとおりです",
+      "opinions": []
+    },
+    {
+      "sentence_id": 8,
+      "sentence": "食肉加工品部門",
+      "opinions": []
+    },
+    {
+      "sentence_id": 9,
+      "sentence": "食肉加工品部門につきましては、春の新商品の売上が好調に推移したことや歳暮ギフトの販売も回復してきたことから、売上高は増加いたしました",
+      "opinions": [
+        {
+          "target": "食肉加工品部門",
+          "category": "business#sales",
+          "polarity": "positive",
+          "from": 0,
+          "to": 7
+        },
+        {
+          "target": "新商品",
+          "category": "product#sales",
+          "polarity": "positive",
+          "from": 17,
+          "to": 20
+        },
+        {
+          "target": "歳暮ギフト",
+          "category": "product#amount",
+          "polarity": "positive",
+          "from": 34,
+          "to": 39
+        }
+      ]
+    },
+    {
+      "sentence_id": 10,
+      "sentence": "この結果、この部門の売上高は126億26百万円（前年同期比7.6％増）となりました",
+      "opinions": [
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 10,
+          "to": 13
+        }
+      ]
+    },
+    {
+      "sentence_id": 11,
+      "sentence": "惣菜その他加工品部門",
+      "opinions": []
+    },
+    {
+      "sentence_id": 12,
+      "sentence": "惣菜その他加工品部門につきましては、ハンバーグ類や簡便性を重視した惣菜商品の新商品の売上が好調に推移したため、売上高は増加しました",
+      "opinions": [
+        {
+          "target": "惣菜その他加工品部門",
+          "category": "business#sales",
+          "polarity": "positive",
+          "from": 0,
+          "to": 10
+        },
+        {
+          "target": "ハンバーグ類",
+          "category": "product#sales",
+          "polarity": "positive",
+          "from": 18,
+          "to": 24
+        },
+        {
+          "target": "惣菜商品",
+          "category": "product#sales",
+          "polarity": "positive",
+          "from": 33,
+          "to": 37
+        }
+      ]
+    },
+    {
+      "sentence_id": 13,
+      "sentence": "この結果、この部門の売上高は45億73百万円（前年同期比14.2％増）となりました",
+      "opinions": [
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 10,
+          "to": 13
+        }
+      ]
+    },
+    {
+      "sentence_id": 14,
+      "sentence": "食　肉　部　門",
+      "opinions": []
+    },
+    {
+      "sentence_id": 15,
+      "sentence": "食肉部門につきましては、輸入牛肉及び輸入豚肉はブランド商品の拡販に努め売上高は増加いたしました",
+      "opinions": [
+        {
+          "target": "食肉部門",
+          "category": "business#sales",
+          "polarity": "positive",
+          "from": 0,
+          "to": 4
+        }
+      ]
+    },
+    {
+      "sentence_id": 16,
+      "sentence": "国産牛肉は前期に事業所を設置し新規開拓を行った結果、売上高は増加しました",
+      "opinions": [
+        {
+          "target": "国産牛肉",
+          "category": "product#sales",
+          "polarity": "positive",
+          "from": 0,
+          "to": 4
+        }
+      ]
+    },
+    {
+      "sentence_id": 17,
+      "sentence": "国産豚肉につきましては、販売単価は前期を下回りましたが販売数量の増加により売上高は増加いたしました",
+      "opinions": [
+        {
+          "target": "国産豚肉",
+          "category": "product#price",
+          "polarity": "negative",
+          "from": 0,
+          "to": 4
+        },
+        {
+          "target": "国産豚肉",
+          "category": "product#amount",
+          "polarity": "positive",
+          "from": 0,
+          "to": 4
+        },
+        {
+          "target": "国産豚肉",
+          "category": "product#sales",
+          "polarity": "positive",
+          "from": 0,
+          "to": 4
+        }
+      ]
+    },
+    {
+      "sentence_id": 18,
+      "sentence": "また、食肉一次加工品につきましても、販売促進に努めた結果、売上高は増加いたしました",
+      "opinions": [
+        {
+          "target": "食肉一次加工品",
+          "category": "product#sales",
+          "polarity": "positive",
+          "from": 3,
+          "to": 10
+        }
+      ]
+    },
+    {
+      "sentence_id": 19,
+      "sentence": "この結果、この部門の売上高は154億15百万円（前年同期比6.4％増）となりました",
+      "opinions": [
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 10,
+          "to": 13
+        }
+      ]
+    },
+    {
+      "sentence_id": 20,
+      "sentence": "そ の 他 部 門",
+      "opinions": []
+    },
+    {
+      "sentence_id": 21,
+      "sentence": "その他部門につきましては、売上高は１億51百万円（前年同期比9.3％増）となりました",
+      "opinions": [
+        {
+          "target": "その他部門",
+          "category": "business#sales",
+          "polarity": "positive",
+          "from": 0,
+          "to": 5
+        }
+      ]
+    }
+  ]
+}

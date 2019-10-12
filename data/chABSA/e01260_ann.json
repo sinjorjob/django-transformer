@@ -1,0 +1,169 @@
+{
+  "header": {
+    "document_id": "E01260",
+    "document_name": "北越メタル株式会社",
+    "doc_text": "有価証券報告書",
+    "edi_id": "E01260",
+    "security_code": "54460",
+    "category33": "鉄鋼",
+    "category17": "鉄鋼・非鉄",
+    "scale": ""
+  },
+  "sentences": [
+    {
+      "sentence_id": 0,
+      "sentence": "当連結会計年度におけるわが国経済は、企業収益や雇用・所得環境の改善が進み、緩やかな回復基調で推移しているものの、米国の経済政策や英国のＥＵ離脱に向けた動向、新興国経済の下振れリスクなど、景気の先行きは不透明な状況が続いている",
+      "opinions": [
+        {
+          "target": "わが国経済",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 11,
+          "to": 16
+        },
+        {
+          "target": "企業収益",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 18,
+          "to": 22
+        },
+        {
+          "target": "雇用",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 23,
+          "to": 25
+        },
+        {
+          "target": "所得環境",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 26,
+          "to": 30
+        },
+        {
+          "target": "先行き",
+          "category": "NULL#general",
+          "polarity": "neutral",
+          "from": 96,
+          "to": 99
+        }
+      ]
+    },
+    {
+      "sentence_id": 1,
+      "sentence": "当社グループの関連業界については、主原料である鉄スクラップ価格が大きく変動するなかで製品販売価格の改善などに努めたが、建設業界の工事着工遅れなどから鋼材需要は伸び悩み、価格の改善が進まず、厳しい環境となった",
+      "opinions": [
+        {
+          "target": "関連業界",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 7,
+          "to": 11
+        },
+        {
+          "target": "鉄スクラップ価格",
+          "category": "NULL#cost",
+          "polarity": "negative",
+          "from": 23,
+          "to": 31
+        },
+        {
+          "target": "鋼材需要",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 74,
+          "to": 78
+        },
+        {
+          "target": "価格",
+          "category": "NULL#price",
+          "polarity": "negative",
+          "from": 84,
+          "to": 86
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "sentence": "このような経営環境において、当社グループは、2018年度を最終年度とする３か年の中期経営計画「ＭＰＺ2018」を策定し、財務安全性を重視しつつ、中長期的な視点に立ち、当社の独自性を活かした中で持続的な企業価値を創出し続け、地域やお客様に貢献していくことができる企業グループを構築することを基本方針に鋭意取り組んできた",
+      "opinions": []
+    },
+    {
+      "sentence_id": 3,
+      "sentence": "また、平成28年４月から新たに開始した改善活動「ＴＣＣ2016」を中心に全社一丸となって鋭意努力した",
+      "opinions": []
+    },
+    {
+      "sentence_id": 4,
+      "sentence": "その中で、販売面では、主力製品の異形棒鋼は、鉄スクラップ価格が大きく変動し、鋼材需要が伸び悩むなかで、製品販売価格の改善と製品販売数量の確保に努めた",
+      "opinions": [
+        {
+          "target": "鉄スクラップ価格",
+          "category": "NULL#cost",
+          "polarity": "negative",
+          "from": 22,
+          "to": 30
+        },
+        {
+          "target": "鋼材需要",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 38,
+          "to": 42
+        }
+      ]
+    },
+    {
+      "sentence_id": 5,
+      "sentence": "土木・加工製品等についても製品販売価格の改善、新規顧客の開拓及び新製品の開発などに取り組んできた",
+      "opinions": []
+    },
+    {
+      "sentence_id": 6,
+      "sentence": "コスト面では、改善活動を中心とした製造コストの低減に鋭意努力した",
+      "opinions": []
+    },
+    {
+      "sentence_id": 7,
+      "sentence": "その結果、当連結グループにおける売上高は、製品販売価格安が影響して、18,031百万円（前年同期比7.5％減）となった",
+      "opinions": [
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "negative",
+          "from": 16,
+          "to": 19
+        }
+      ]
+    },
+    {
+      "sentence_id": 8,
+      "sentence": "収益面では、電力などのエネルギーコストの低減等はあったものの、製品販売価格安が大きく影響し、経常利益は500百万円（前年同期比53.0％減）、親会社株主に帰属する当期純利益は302百万円（前年同期比54.3％減）となり、前年同期を下回る業績となった",
+      "opinions": [
+        {
+          "target": "エネルギーコスト",
+          "category": "NULL#cost",
+          "polarity": "positive",
+          "from": 11,
+          "to": 19
+        },
+        {
+          "target": "経常利益",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 46,
+          "to": 50
+        },
+        {
+          "target": "当期純利益",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 81,
+          "to": 86
+        }
+      ]
+    }
+  ]
+}

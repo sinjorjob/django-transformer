@@ -1,0 +1,524 @@
+{
+  "header": {
+    "document_id": "E00534",
+    "document_name": "サイボー株式会社",
+    "doc_text": "有価証券報告書",
+    "edi_id": "E00534",
+    "security_code": "31230",
+    "category33": "繊維製品",
+    "category17": "素材・化学",
+    "scale": ""
+  },
+  "sentences": [
+    {
+      "sentence_id": 0,
+      "sentence": "当連結会計年度におけるわが国経済は、海外の景気回復と年後半の円安進行を受けて、外需主導で緩やかに回復いたしました",
+      "opinions": [
+        {
+          "target": "わが国経済",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 11,
+          "to": 16
+        },
+        {
+          "target": "海外",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 18,
+          "to": 20
+        }
+      ]
+    },
+    {
+      "sentence_id": 1,
+      "sentence": "企業活動が活発になり雇用環境は改善しておりますが、設備投資と個人消費は一進一退の状況が続いております",
+      "opinions": [
+        {
+          "target": "企業活動",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 0,
+          "to": 4
+        },
+        {
+          "target": "雇用環境",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 10,
+          "to": 14
+        },
+        {
+          "target": "設備投資",
+          "category": "NULL#general",
+          "polarity": "neutral",
+          "from": 25,
+          "to": 29
+        },
+        {
+          "target": "個人消費",
+          "category": "NULL#general",
+          "polarity": "neutral",
+          "from": 30,
+          "to": 34
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "sentence": "当社グループにおける事業環境は繊維事業では、上期に円高が進んだことや原材料市場及び法人需要増により収益の改善が見られたものの、百貨店を中心とした衣料品の伸び悩みは依然続いており、総じて厳しい状況で推移いたしました",
+      "opinions": [
+        {
+          "target": "繊維事業",
+          "category": "business#general",
+          "polarity": "negative",
+          "from": 15,
+          "to": 19
+        },
+        {
+          "target": "収益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 49,
+          "to": 51
+        },
+        {
+          "target": "伸び悩み",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 76,
+          "to": 80
+        }
+      ]
+    },
+    {
+      "sentence_id": 3,
+      "sentence": "一方、収益の柱であります不動産活用事業は、二つの大型商業施設が集客力を維持しており、さらに平成27年11月に病院施設の賃貸を開始したことから、営業収益は引き続き安定しております",
+      "opinions": [
+        {
+          "target": "不動産活用事業",
+          "category": "business#sales",
+          "polarity": "positive",
+          "from": 12,
+          "to": 19
+        },
+        {
+          "target": "集客力",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 31,
+          "to": 34
+        }
+      ]
+    },
+    {
+      "sentence_id": 4,
+      "sentence": "この結果、当連結会計年度の売上高は、83億円（前期比0.6％増）、経常利益は９億88百万円（前期比12.0％減）となりました",
+      "opinions": [
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 13,
+          "to": 16
+        },
+        {
+          "target": "経常利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 33,
+          "to": 37
+        }
+      ]
+    },
+    {
+      "sentence_id": 5,
+      "sentence": "親会社株主に帰属する当期純利益につきましては、投資有価証券売却益等の特別利益を計上したことにより、８億24百万円（前期比62.7％増）となりました",
+      "opinions": [
+        {
+          "target": "当期純利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 10,
+          "to": 15
+        }
+      ]
+    },
+    {
+      "sentence_id": 6,
+      "sentence": "なお、事業別セグメントの概況は、次のとおりであります",
+      "opinions": []
+    },
+    {
+      "sentence_id": 7,
+      "sentence": "①　繊維事業",
+      "opinions": []
+    },
+    {
+      "sentence_id": 8,
+      "sentence": "マテリアル部は、円高の恩恵もあり仕入コストが低下、またレーヨン糸の市場ニーズにより販売量が増加し、輸入原糸販売は好調に推移しました",
+      "opinions": [
+        {
+          "target": "マテリアル部",
+          "category": "business#cost",
+          "polarity": "positive",
+          "from": 0,
+          "to": 6
+        },
+        {
+          "target": "マテリアル部",
+          "category": "business#amount",
+          "polarity": "positive",
+          "from": 0,
+          "to": 6
+        },
+        {
+          "target": "輸入原糸販売",
+          "category": "NULL#amount",
+          "polarity": "positive",
+          "from": 49,
+          "to": 55
+        }
+      ]
+    },
+    {
+      "sentence_id": 9,
+      "sentence": "またポリエステル生地の販売は、輸出向けを中心に需要が増加し増収増益となりました",
+      "opinions": [
+        {
+          "target": "ポリエステル生地",
+          "category": "product#sales",
+          "polarity": "positive",
+          "from": 2,
+          "to": 10
+        },
+        {
+          "target": "ポリエステル生地",
+          "category": "product#profit",
+          "polarity": "positive",
+          "from": 2,
+          "to": 10
+        },
+        {
+          "target": "需要",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 23,
+          "to": 25
+        }
+      ]
+    },
+    {
+      "sentence_id": 10,
+      "sentence": "アパレル部は、景気回復基調から主力商品である法人ユニフォームの直需と百貨店の受注が堅実に伸び、スポーツ関連商品もプロ野球の盛り上がり等の追い風を受け、引き続き堅調に推移し大幅な増収増益となりました",
+      "opinions": [
+        {
+          "target": "アパレル部",
+          "category": "business#sales",
+          "polarity": "positive",
+          "from": 0,
+          "to": 5
+        },
+        {
+          "target": "アパレル部",
+          "category": "business#profit",
+          "polarity": "positive",
+          "from": 0,
+          "to": 5
+        },
+        {
+          "target": "法人ユニフォーム",
+          "category": "product#amount",
+          "polarity": "positive",
+          "from": 22,
+          "to": 30
+        },
+        {
+          "target": "スポーツ関連商品",
+          "category": "product#general",
+          "polarity": "positive",
+          "from": 47,
+          "to": 55
+        },
+        {
+          "target": "プロ野球",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 56,
+          "to": 60
+        }
+      ]
+    },
+    {
+      "sentence_id": 11,
+      "sentence": "カジュアル部の縫製品関係は、「ユミカツラ」「ミュゼ　ジョワイユ」「ディレツィオーネ」等の自社企画ブランドのメンズカジュアル商品を販売する百貨店の店舗改装の実施やネット販売を進めましたが、販売員経費等が増加し、また在庫品の評価減があり損失を計上いたしました",
+      "opinions": [
+        {
+          "target": "カジュアル部",
+          "category": "business#profit",
+          "polarity": "negative",
+          "from": 0,
+          "to": 6
+        },
+        {
+          "target": "販売員経費",
+          "category": "NULL#cost",
+          "polarity": "negative",
+          "from": 93,
+          "to": 98
+        },
+        {
+          "target": "在庫品",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 106,
+          "to": 109
+        }
+      ]
+    },
+    {
+      "sentence_id": 12,
+      "sentence": "刺繍レースを扱うフロリア㈱は、新たにノベルティ商品の販売が増えたものの、主力販売品の高級婦人服地の売上が低迷し減収となりました",
+      "opinions": [
+        {
+          "target": "フロリア㈱",
+          "category": "company#sales",
+          "polarity": "negative",
+          "from": 8,
+          "to": 13
+        },
+        {
+          "target": "ノベルティ商品",
+          "category": "product#amount",
+          "polarity": "positive",
+          "from": 18,
+          "to": 25
+        },
+        {
+          "target": "高級婦人服地",
+          "category": "product#sales",
+          "polarity": "negative",
+          "from": 42,
+          "to": 48
+        }
+      ]
+    },
+    {
+      "sentence_id": 13,
+      "sentence": "この結果、繊維事業の売上高は45億59百万円（前期比9.7％増）となり、営業損失は前期に比べ58百万円改善して１億20百万円となりました",
+      "opinions": [
+        {
+          "target": "繊維事業",
+          "category": "business#sales",
+          "polarity": "positive",
+          "from": 5,
+          "to": 9
+        },
+        {
+          "target": "繊維事業",
+          "category": "business#profit",
+          "polarity": "positive",
+          "from": 5,
+          "to": 9
+        }
+      ]
+    },
+    {
+      "sentence_id": 14,
+      "sentence": "②　不動産活用事業",
+      "opinions": []
+    },
+    {
+      "sentence_id": 15,
+      "sentence": "不動産活用事業においては、「イオンモール川口前川」は近隣の大型商業施設に比べ「回遊型ショッピング」ができるというお客様の利便性と近隣住民の生活環境にあった専門店選びが評価されております",
+      "opinions": []
+    },
+    {
+      "sentence_id": 16,
+      "sentence": "また、「イオンモール川口」は開設から32年経つものの近隣のお客様が固定客として定着しております",
+      "opinions": []
+    },
+    {
+      "sentence_id": 17,
+      "sentence": "二つの大型商業施設を主とする不動産活用事業は引き続き安定した収益基盤を維持しております",
+      "opinions": []
+    },
+    {
+      "sentence_id": 18,
+      "sentence": "賃料収入面においては、病院施設の賃貸による増収があったものの、「イオンモール川口」の契約期間満了後の契約更新による賃料減額等があり、減収減益となりました",
+      "opinions": [
+        {
+          "target": "賃料収入面",
+          "category": "NULL#sales",
+          "polarity": "negative",
+          "from": 0,
+          "to": 5
+        },
+        {
+          "target": "病院施設",
+          "category": "product#sales",
+          "polarity": "positive",
+          "from": 11,
+          "to": 15
+        }
+      ]
+    },
+    {
+      "sentence_id": 19,
+      "sentence": "この結果、不動産活用事業の売上高は24億13百万円（前期比2.5％減）となり、営業利益は８億90百万円（前期比16.4％減）となりました",
+      "opinions": [
+        {
+          "target": "不動産活用事業",
+          "category": "business#sales",
+          "polarity": "negative",
+          "from": 5,
+          "to": 12
+        },
+        {
+          "target": "不動産活用事業",
+          "category": "business#profit",
+          "polarity": "negative",
+          "from": 5,
+          "to": 12
+        }
+      ]
+    },
+    {
+      "sentence_id": 20,
+      "sentence": "③　ゴルフ練習場事業",
+      "opinions": []
+    },
+    {
+      "sentence_id": 21,
+      "sentence": "埼玉興業㈱の「川口・黒浜・騎西の各グリーンゴルフ」練習場は、お客様に快適に楽しんでいただけるよう、人工芝等の設備の更新工事を進めておりますが、天候の影響や若年層の新規入場者が伸び悩んだことから減収減益となりました",
+      "opinions": [
+        {
+          "target": "埼玉興業㈱",
+          "category": "business#sales",
+          "polarity": "negative",
+          "from": 0,
+          "to": 5
+        },
+        {
+          "target": "埼玉興業㈱",
+          "category": "business#profit",
+          "polarity": "negative",
+          "from": 0,
+          "to": 5
+        },
+        {
+          "target": "埼玉興業㈱",
+          "category": "business#amount",
+          "polarity": "negative",
+          "from": 0,
+          "to": 5
+        }
+      ]
+    },
+    {
+      "sentence_id": 22,
+      "sentence": "この結果、ゴルフ練習場事業の売上高は８億76百万円（前期比1.8％減）、営業利益は28百万円（前期比57.6％減）となりました",
+      "opinions": [
+        {
+          "target": "ゴルフ練習場事業",
+          "category": "business#sales",
+          "polarity": "negative",
+          "from": 5,
+          "to": 13
+        },
+        {
+          "target": "ゴルフ練習場事業",
+          "category": "business#profit",
+          "polarity": "negative",
+          "from": 5,
+          "to": 13
+        }
+      ]
+    },
+    {
+      "sentence_id": 23,
+      "sentence": "④　その他の事業",
+      "opinions": []
+    },
+    {
+      "sentence_id": 24,
+      "sentence": "当社のギフト事業部営業課の葬祭返礼品販売は、主要な取引先との取引を平成28年4月末日で解消したため大幅な減収減益となりました",
+      "opinions": [
+        {
+          "target": "葬祭返礼品販売",
+          "category": "NULL#sales",
+          "polarity": "negative",
+          "from": 13,
+          "to": 20
+        },
+        {
+          "target": "取引",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 30,
+          "to": 32
+        }
+      ]
+    },
+    {
+      "sentence_id": 25,
+      "sentence": "ディアグリーン課の緑化事業は、観葉植物の新規レンタル契約獲得と慶弔用の花卉ギフト販売に注力し増収となりましたが、営業課の人員を吸収したことから減益となりました",
+      "opinions": [
+        {
+          "target": "緑化事業",
+          "category": "business#sales",
+          "polarity": "positive",
+          "from": 9,
+          "to": 13
+        },
+        {
+          "target": "緑化事業",
+          "category": "business#profit",
+          "polarity": "negative",
+          "from": 9,
+          "to": 13
+        }
+      ]
+    },
+    {
+      "sentence_id": 26,
+      "sentence": "神根サイボー㈱のインテリア施工事業は、当社が賃貸する大型商業施設の店舗入替えに伴う内装工事等を受注し、増収増益となりました",
+      "opinions": [
+        {
+          "target": "インテリア施工事業",
+          "category": "business#sales",
+          "polarity": "positive",
+          "from": 8,
+          "to": 17
+        },
+        {
+          "target": "インテリア施工事業",
+          "category": "business#profit",
+          "polarity": "positive",
+          "from": 8,
+          "to": 17
+        }
+      ]
+    },
+    {
+      "sentence_id": 27,
+      "sentence": "この結果、その他の事業の売上高は４億51百万円（前期比37.6％減）、営業利益は46百万円（前期比81.0％増）となりました",
+      "opinions": [
+        {
+          "target": "その他の事業",
+          "category": "business#sales",
+          "polarity": "negative",
+          "from": 5,
+          "to": 11
+        },
+        {
+          "target": "その他の事業",
+          "category": "business#profit",
+          "polarity": "positive",
+          "from": 5,
+          "to": 11
+        }
+      ]
+    }
+  ]
+}

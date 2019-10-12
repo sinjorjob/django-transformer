@@ -1,0 +1,747 @@
+{
+  "header": {
+    "document_id": "E01533",
+    "document_name": "住友重機械工業株式会社",
+    "doc_text": "有価証券報告書",
+    "edi_id": "E01533",
+    "security_code": "63020",
+    "category33": "機械",
+    "category17": "機械",
+    "scale": "4"
+  },
+  "sentences": [
+    {
+      "sentence_id": 0,
+      "sentence": "当期のわが国経済は、輸出の回復などを背景に企業収益は増加し、緩やかな景気の回復を見せました",
+      "opinions": [
+        {
+          "target": "わが国経済",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 3,
+          "to": 8
+        },
+        {
+          "target": "輸出",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 10,
+          "to": 12
+        },
+        {
+          "target": "企業収益",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 21,
+          "to": 25
+        }
+      ]
+    },
+    {
+      "sentence_id": 1,
+      "sentence": "個人消費は力強さを欠いておりますが、企業の設備投資については、老朽化や人手不足を背景にした更新投資や省力化投資への底堅さは維持しております",
+      "opinions": [
+        {
+          "target": "個人消費",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 0,
+          "to": 4
+        },
+        {
+          "target": "設備投資",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 21,
+          "to": 25
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "sentence": "海外では、米国経済は個人消費の増加などにより景気回復が持続し、欧州経済も緩やかな景気回復が持続しました",
+      "opinions": [
+        {
+          "target": "米国経済",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 5,
+          "to": 9
+        },
+        {
+          "target": "個人消費",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 10,
+          "to": 14
+        },
+        {
+          "target": "欧州経済",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 31,
+          "to": 35
+        }
+      ]
+    },
+    {
+      "sentence_id": 3,
+      "sentence": "中国経済は、公共投資による下支えなどにより景気減速の動きが落ち着きましたが、民間投資の抑制は継続しております",
+      "opinions": [
+        {
+          "target": "中国経済",
+          "category": "NULL#general",
+          "polarity": "neutral",
+          "from": 0,
+          "to": 4
+        }
+      ]
+    },
+    {
+      "sentence_id": 4,
+      "sentence": "その他新興国では、資源価格の下げ止まりなどにより、経済状況に改善がみられました",
+      "opinions": [
+        {
+          "target": "資源価格",
+          "category": "NULL#price",
+          "polarity": "positive",
+          "from": 9,
+          "to": 13
+        },
+        {
+          "target": "経済状況",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 25,
+          "to": 29
+        }
+      ]
+    },
+    {
+      "sentence_id": 5,
+      "sentence": "世界経済全体としては、米欧での政治的な不確実性や中国経済失速のリスクなどを抱え、不透明感の強い状況にありました",
+      "opinions": [
+        {
+          "target": "世界経済",
+          "category": "NULL#general",
+          "polarity": "neutral",
+          "from": 0,
+          "to": 4
+        },
+        {
+          "target": "米欧",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 11,
+          "to": 13
+        }
+      ]
+    },
+    {
+      "sentence_id": 6,
+      "sentence": "このような経営環境のもと、当社グループは、「中期経営計画２０１６」の最終年度にあたる当期において、以下の項目を重点施策として事業運営を行ってまいりました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 7,
+      "sentence": "①　持続的成長の基盤を構築するための「着実な成長」",
+      "opinions": []
+    },
+    {
+      "sentence_id": 8,
+      "sentence": "プラスチック加工機械事業では、ドイツの子会社のSumitomo(SHI)Demag Plastics Machinery GmbHとの間で欧州での電動射出成形機の販売、開発の連携強化を継続するとともに、欧州の販売子会社設立や代理店網の強化を進めました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 9,
+      "sentence": "減・変速機事業では、ドイツの子会社のSumitomo(SHI)Cyclo Drive Germany GmbHを中心にしたグループ会社の経営統合による経営効率化、EMEA(Europe,the Middle East and Africa)における営業力強化を進めました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 10,
+      "sentence": "(b) 「イノベーション(変わる)」",
+      "opinions": []
+    },
+    {
+      "sentence_id": 11,
+      "sentence": "減・変速機事業では、一般産業用汎用ギヤボックスとして、半世紀以上の実績を誇るパラマックス減速機の最新モデルとなるパラマックス減速機10シリーズを開発し、中国、東南アジア、オセアニアへ販売を開始しました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 12,
+      "sentence": "プラスチック加工機械事業では、「世界最薄」の薄肉化を実現した導光板専用全電動射出成形機SEEV-A-LGPを開発し販売を開始しました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 13,
+      "sentence": "また、建設機械事業では、特定特殊自動車排出ガス規制2014年基準に適合し、スピード作業と低燃費を高次元で両立させることを可能にした新型油圧ショベルを発売しました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 14,
+      "sentence": "その代表的機種であるSH250-7は、「2016年度グッドデザイン賞」を受賞し、お客様から好評を博しております",
+      "opinions": []
+    },
+    {
+      "sentence_id": 15,
+      "sentence": "グループ内で培ったシステム制御技術を活用し、プラスチック加工機械、極低温冷凍機及び油圧ショベル等の差別化への取組みを加速させました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 16,
+      "sentence": "また、エネルギー環境分野では、ボイラ事業とタービン事業の協業、水処理施設の新設事業と維持運転管理等のアフターサービス事業の統合を進めるなど、グループ内で連携し競争力の強化を図ってまいりました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 17,
+      "sentence": "運搬機械事業においては、前期に三菱重工業株式会社の子会社である三菱重工マシナリーテクノロジー株式会社の搬送システム事業を承継したことによる事業基盤の強化が進みました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 18,
+      "sentence": "また、ボイラ事業では、国内最大級のバイオマス高混焼発電設備及びバイオマス専焼発電所向けボイラ設備を受注し、当社の高効率バイオマス発電の分野での高いシェアと実績が評価されました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 19,
+      "sentence": "本社経営品質本部がリーダーシップをとり、当社グループの製品品質管理機能を強化するための取組みを継続し定着化が進みました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 20,
+      "sentence": "安全への取組みにつきましても、安全衛生改革基本計画の第二次実行計画に基づき、安全衛生管理力の強化と労働災害撲滅に努めてまいりました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 21,
+      "sentence": "「コンプライアンスは全てに優先する」という基本原則のもと、当期は海外不正競争行為防止教育や、ディスカッション方式及びｅラーニングによるコンプライアンス教育等を行いました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 22,
+      "sentence": "また、中国の事業拠点においても、ｅラーニングによるコンプライアンス教育を行い、コンプライアンス体制の強化を図りました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 23,
+      "sentence": "これらの経営施策に取り組みました結果、当社グループの当期の受注高は、前期比４％増の7,111億円、売上高につきましては、前期比４％減の6,743億円となりました",
+      "opinions": [
+        {
+          "target": "当社グループ",
+          "category": "company#amount",
+          "polarity": "positive",
+          "from": 19,
+          "to": 25
+        },
+        {
+          "target": "当社グループ",
+          "category": "company#sales",
+          "polarity": "negative",
+          "from": 19,
+          "to": 25
+        }
+      ]
+    },
+    {
+      "sentence_id": 24,
+      "sentence": "損益面につきましては、営業利益は前期比４％減の484億円、経常利益は前期比２％減の483億円となり、親会社株主に帰属する当期純利益は前期比１％増の336億円となりました",
+      "opinions": [
+        {
+          "target": "営業利益",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 11,
+          "to": 15
+        },
+        {
+          "target": "経常利益",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 29,
+          "to": 33
+        },
+        {
+          "target": "当期純利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 60,
+          "to": 65
+        }
+      ]
+    },
+    {
+      "sentence_id": 25,
+      "sentence": "また、税引後のＲＯＩＣは7.3％となりました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 26,
+      "sentence": "各部門状況は概ね次のとおりであります",
+      "opinions": []
+    },
+    {
+      "sentence_id": 27,
+      "sentence": "国内、中国、EMEAの中小型の減・変速機の市況は堅調に推移したものの、国内外の大型機種の市況低迷が継続したことから、受注、売上ともに減少いたしました",
+      "opinions": [
+        {
+          "target": "市況",
+          "category": "market#general",
+          "polarity": "positive",
+          "from": 21,
+          "to": 23
+        },
+        {
+          "target": "市況",
+          "category": "market#general",
+          "polarity": "negative",
+          "from": 44,
+          "to": 46
+        },
+        {
+          "target": "受注",
+          "category": "NULL#amount",
+          "polarity": "negative",
+          "from": 58,
+          "to": 60
+        },
+        {
+          "target": "売上",
+          "category": "NULL#sales",
+          "polarity": "negative",
+          "from": 61,
+          "to": 63
+        }
+      ]
+    },
+    {
+      "sentence_id": 28,
+      "sentence": "この結果、受注高は前期比７％減の974億円、売上高は前期比８％減の986億円、営業利益は前期比２％増の91億円となりました",
+      "opinions": [
+        {
+          "target": "受注高",
+          "category": "NULL#amount",
+          "polarity": "negative",
+          "from": 5,
+          "to": 8
+        },
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "negative",
+          "from": 22,
+          "to": 25
+        },
+        {
+          "target": "営業利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 39,
+          "to": 43
+        }
+      ]
+    },
+    {
+      "sentence_id": 29,
+      "sentence": "プラスチック加工機械事業は、欧州市場が堅調に推移したものの、中国他での電気電子関連需要が減少したことから、受注、売上ともに減少いたしました",
+      "opinions": [
+        {
+          "target": "プラスチック加工機械事業",
+          "category": "business#amount",
+          "polarity": "negative",
+          "from": 0,
+          "to": 12
+        },
+        {
+          "target": "プラスチック加工機械事業",
+          "category": "business#sales",
+          "polarity": "negative",
+          "from": 0,
+          "to": 12
+        },
+        {
+          "target": "欧州市場",
+          "category": "market#general",
+          "polarity": "positive",
+          "from": 14,
+          "to": 18
+        },
+        {
+          "target": "電気電子関連需要",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 35,
+          "to": 43
+        }
+      ]
+    },
+    {
+      "sentence_id": 30,
+      "sentence": "その他事業は、極低温冷凍機他が堅調に推移したことから、受注、売上ともに増加いたしました",
+      "opinions": [
+        {
+          "target": "その他事業",
+          "category": "business#sales",
+          "polarity": "positive",
+          "from": 0,
+          "to": 5
+        },
+        {
+          "target": "その他事業",
+          "category": "business#profit",
+          "polarity": "positive",
+          "from": 0,
+          "to": 5
+        },
+        {
+          "target": "極低温冷凍機",
+          "category": "product#general",
+          "polarity": "positive",
+          "from": 7,
+          "to": 13
+        }
+      ]
+    },
+    {
+      "sentence_id": 31,
+      "sentence": "この結果、受注高は前期とほぼ同じ1,547億円、売上高は前期比６％減の1,457億円、営業利益は前期比22％減の146億円となりました",
+      "opinions": [
+        {
+          "target": "受注高",
+          "category": "NULL#amount",
+          "polarity": "positive",
+          "from": 5,
+          "to": 8
+        },
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "negative",
+          "from": 24,
+          "to": 27
+        },
+        {
+          "target": "営業利益",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 43,
+          "to": 47
+        }
+      ]
+    },
+    {
+      "sentence_id": 32,
+      "sentence": "油圧ショベル事業は、中国での需要は底打ちの兆しが見え、国内及び北米では需要減の中でシェアアップに努めたものの、為替の円高影響などにより、受注、売上ともに減少いたしました",
+      "opinions": [
+        {
+          "target": "油圧ショベル事業",
+          "category": "business#amount",
+          "polarity": "negative",
+          "from": 0,
+          "to": 8
+        },
+        {
+          "target": "油圧ショベル事業",
+          "category": "business#sales",
+          "polarity": "negative",
+          "from": 0,
+          "to": 8
+        },
+        {
+          "target": "需要",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 14,
+          "to": 16
+        }
+      ]
+    },
+    {
+      "sentence_id": 33,
+      "sentence": "建設用クレーン事業は、北米市場の低迷が長期化したことから、受注、売上ともに減少いたしました",
+      "opinions": [
+        {
+          "target": "クレーン事業",
+          "category": "business#amount",
+          "polarity": "negative",
+          "from": 3,
+          "to": 9
+        },
+        {
+          "target": "クレーン事業",
+          "category": "business#sales",
+          "polarity": "negative",
+          "from": 3,
+          "to": 9
+        },
+        {
+          "target": "北米市場",
+          "category": "market#general",
+          "polarity": "negative",
+          "from": 11,
+          "to": 15
+        }
+      ]
+    },
+    {
+      "sentence_id": 34,
+      "sentence": "この結果、受注高は前期比３％減の1,903億円、売上高は前期比10％減の1,825億円、営業利益は前期比68％減の14億円となりました",
+      "opinions": [
+        {
+          "target": "受注高",
+          "category": "NULL#amount",
+          "polarity": "negative",
+          "from": 5,
+          "to": 8
+        },
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "negative",
+          "from": 24,
+          "to": 27
+        },
+        {
+          "target": "営業利益",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 44,
+          "to": 48
+        }
+      ]
+    },
+    {
+      "sentence_id": 35,
+      "sentence": "運搬機械事業は、三菱重工業株式会社の子会社である三菱重工マシナリーテクノロジー株式会社の搬送システム事業を承継したことなどにより、受注は増加したものの、産業機器事業やタービン事業において受注が減少したことなどから、部門全体では受注は減少いたしました",
+      "opinions": [
+        {
+          "target": "運搬機械事業",
+          "category": "business#amount",
+          "polarity": "negative",
+          "from": 0,
+          "to": 6
+        },
+        {
+          "target": "産業機器事業",
+          "category": "business#amount",
+          "polarity": "negative",
+          "from": 76,
+          "to": 82
+        },
+        {
+          "target": "タービン事業",
+          "category": "business#amount",
+          "polarity": "negative",
+          "from": 83,
+          "to": 89
+        }
+      ]
+    },
+    {
+      "sentence_id": 36,
+      "sentence": "また売上は、運搬機械事業をはじめ各事業の工事が順調に推移したことから、増加いたしました",
+      "opinions": [
+        {
+          "target": "売上",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 2,
+          "to": 4
+        },
+        {
+          "target": "運搬機械事業",
+          "category": "business#general",
+          "polarity": "positive",
+          "from": 6,
+          "to": 12
+        }
+      ]
+    },
+    {
+      "sentence_id": 37,
+      "sentence": "この結果、受注高は前期比１％減の913億円、売上高は前期比12％増の989億円、営業利益は前期比８％増の108億円となりました",
+      "opinions": [
+        {
+          "target": "受注高",
+          "category": "NULL#amount",
+          "polarity": "negative",
+          "from": 5,
+          "to": 8
+        },
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 22,
+          "to": 25
+        },
+        {
+          "target": "営業利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 40,
+          "to": 44
+        }
+      ]
+    },
+    {
+      "sentence_id": 38,
+      "sentence": "船舶市況は低迷が継続しておりますが、前期より１隻多い３隻の新造船を受注いたしました",
+      "opinions": [
+        {
+          "target": "船舶市況",
+          "category": "market#general",
+          "polarity": "negative",
+          "from": 0,
+          "to": 4
+        }
+      ]
+    },
+    {
+      "sentence_id": 39,
+      "sentence": "また売上は、前期と同じ３隻の引渡しとなりました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 40,
+      "sentence": "この結果、受注高は前期比33％増の300億円、売上高は前期比13％増の326億円、営業利益は前期比37％増の13億円となりました",
+      "opinions": [
+        {
+          "target": "受注高",
+          "category": "NULL#amount",
+          "polarity": "positive",
+          "from": 5,
+          "to": 8
+        },
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 23,
+          "to": 26
+        },
+        {
+          "target": "営業利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 41,
+          "to": 45
+        }
+      ]
+    },
+    {
+      "sentence_id": 41,
+      "sentence": "エネルギープラント事業は、国内最大級のバイオマス発電設備の受注や大規模な灰処理設備などの受注があったことから受注は増加したものの、工事案件が減少したことから、売上は減少いたしました",
+      "opinions": [
+        {
+          "target": "エネルギープラント事業",
+          "category": "business#amount",
+          "polarity": "positive",
+          "from": 0,
+          "to": 11
+        },
+        {
+          "target": "エネルギープラント事業",
+          "category": "business#sales",
+          "polarity": "negative",
+          "from": 0,
+          "to": 11
+        },
+        {
+          "target": "受注",
+          "category": "NULL#amount",
+          "polarity": "positive",
+          "from": 54,
+          "to": 56
+        },
+        {
+          "target": "工事案件",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 65,
+          "to": 69
+        }
+      ]
+    },
+    {
+      "sentence_id": 42,
+      "sentence": "水処理プラント事業は、長期包括運営管理事業の受注があったことや大規模補修改良工事が順調に推移したことから、受注、売上ともに増加いたしました",
+      "opinions": [
+        {
+          "target": "水処理プラント事業",
+          "category": "business#amount",
+          "polarity": "positive",
+          "from": 0,
+          "to": 9
+        },
+        {
+          "target": "水処理プラント事業",
+          "category": "business#sales",
+          "polarity": "positive",
+          "from": 0,
+          "to": 9
+        },
+        {
+          "target": "大規模補修改良工事",
+          "category": "product#general",
+          "polarity": "positive",
+          "from": 31,
+          "to": 40
+        }
+      ]
+    },
+    {
+      "sentence_id": 43,
+      "sentence": "この結果、受注高は前期比31％増の1,394億円、売上高は前期比２％減の1,076億円、営業利益は前期比57％増の91億円となりました",
+      "opinions": [
+        {
+          "target": "受注高",
+          "category": "NULL#amount",
+          "polarity": "positive",
+          "from": 5,
+          "to": 8
+        },
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "negative",
+          "from": 25,
+          "to": 28
+        },
+        {
+          "target": "営業利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 44,
+          "to": 48
+        }
+      ]
+    },
+    {
+      "sentence_id": 44,
+      "sentence": "受注高は前期比１％減の80億円、売上高は前期比18％減の83億円、営業利益は前期比９％増の20億円となりました",
+      "opinions": [
+        {
+          "target": "受注高",
+          "category": "NULL#amount",
+          "polarity": "negative",
+          "from": 0,
+          "to": 3
+        },
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "negative",
+          "from": 16,
+          "to": 19
+        },
+        {
+          "target": "営業利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 33,
+          "to": 37
+        }
+      ]
+    }
+  ]
+}

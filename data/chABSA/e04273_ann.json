@@ -1,0 +1,893 @@
+{
+  "header": {
+    "document_id": "E04273",
+    "document_name": "ＡＮＡホールディングス株式会社",
+    "doc_text": "有価証券報告書",
+    "edi_id": "E04273",
+    "security_code": "92020",
+    "category33": "空運業",
+    "category17": "運輸・物流",
+    "scale": "2"
+  },
+  "sentences": [
+    {
+      "sentence_id": 0,
+      "sentence": "当連結会計年度（平成28年４月１日～平成29年３月31日、以下「当期」という）のわが国経済は、企業収益及び雇用環境の改善が続く中、個人消費は総じてみれば持ち直しの動きが続く等、景気は緩やかな回復基調が続いた",
+      "opinions": [
+        {
+          "target": "企業収益",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 47,
+          "to": 51
+        },
+        {
+          "target": "雇用環境",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 53,
+          "to": 57
+        },
+        {
+          "target": "個人消費",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 65,
+          "to": 69
+        },
+        {
+          "target": "景気",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 88,
+          "to": 90
+        }
+      ]
+    },
+    {
+      "sentence_id": 1,
+      "sentence": "航空業界を取り巻く環境は、国内・海外経済の緩やかな回復が続く中で、訪日外国人の増加等により、需要は概ね堅調に推移した",
+      "opinions": [
+        {
+          "target": "国内",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 13,
+          "to": 15
+        },
+        {
+          "target": "海外経済",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 16,
+          "to": 20
+        },
+        {
+          "target": "訪日外国人",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 33,
+          "to": 38
+        },
+        {
+          "target": "需要",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 46,
+          "to": 48
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "sentence": "このような経済情勢の下、「2016～2020年度ＡＮＡグループ中期経営戦略」で掲げた、「エアライン事業領域の拡大」、「新規事業の創造と既存事業の成長加速」を柱とし、新規投資やイノベーションの創出、戦略的投資等をシンプルかつタイムリーに判断する「攻めのスピード経営」を遂行した",
+      "opinions": []
+    },
+    {
+      "sentence_id": 3,
+      "sentence": "以上の結果、当期における連結業績は、為替等の影響により航空事業が減収となったこと等から、売上高は１兆7,652億円（前期比1.4％減）と前期を下回ったが、営業費用では、費用の抑制に努めたこと等から、営業利益は1,455億円（前期比6.7％増）、経常利益は1,403億円（前期比7.4％増）、親会社株主に帰属する当期純利益は988億円（前期比26.4％増）と前期を上回った",
+      "opinions": [
+        {
+          "target": "連結業績",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 12,
+          "to": 16
+        },
+        {
+          "target": "航空事業",
+          "category": "business#sales",
+          "polarity": "negative",
+          "from": 27,
+          "to": 31
+        },
+        {
+          "target": "売上高",
+          "category": "business#sales",
+          "polarity": "negative",
+          "from": 44,
+          "to": 47
+        },
+        {
+          "target": "営業利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 99,
+          "to": 103
+        },
+        {
+          "target": "経常利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 122,
+          "to": 126
+        },
+        {
+          "target": "当期純利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 155,
+          "to": 160
+        }
+      ]
+    },
+    {
+      "sentence_id": 4,
+      "sentence": "また、当社は、女性活躍推進に優れた企業として経済産業省と東京証券取引所から「なでしこ銘柄」に２年連続で選定された",
+      "opinions": []
+    },
+    {
+      "sentence_id": 5,
+      "sentence": "セグメント別の概況は以下のとおりである",
+      "opinions": []
+    },
+    {
+      "sentence_id": 6,
+      "sentence": "◎航空事業",
+      "opinions": []
+    },
+    {
+      "sentence_id": 7,
+      "sentence": "当期の航空事業における売上高は、事業規模を拡大した国際線において、旅客数が好調に推移したが、燃油市況の下落に伴う燃油特別付加運賃収入が減少した他、円高に伴う外貨建て収入の円換算額の減少があったこと等により、１兆5,363億円（前期比1.1％減）となった",
+      "opinions": [
+        {
+          "target": "航空事業",
+          "category": "business#amount",
+          "polarity": "positive",
+          "from": 3,
+          "to": 7
+        },
+        {
+          "target": "航空事業",
+          "category": "business#sales",
+          "polarity": "negative",
+          "from": 3,
+          "to": 7
+        },
+        {
+          "target": "燃油市況",
+          "category": "market#general",
+          "polarity": "negative",
+          "from": 46,
+          "to": 50
+        },
+        {
+          "target": "燃油特別付加運賃収入",
+          "category": "NULL#sales",
+          "polarity": "negative",
+          "from": 56,
+          "to": 66
+        }
+      ]
+    },
+    {
+      "sentence_id": 8,
+      "sentence": "また、円高の影響や燃油価格の下落によって費用が減少したことに加え、着実にコストマネジメント等を通じて費用抑制に努めたものの、事業規模拡大に伴う生産連動費用が増加したこと等により、営業利益は1,395億円（前期比0.2％減）となった",
+      "opinions": [
+        {
+          "target": "燃油価格",
+          "category": "NULL#price",
+          "polarity": "negative",
+          "from": 9,
+          "to": 13
+        },
+        {
+          "target": "生産連動費用",
+          "category": "NULL#cost",
+          "polarity": "negative",
+          "from": 71,
+          "to": 77
+        },
+        {
+          "target": "営業利益",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 89,
+          "to": 93
+        }
+      ]
+    },
+    {
+      "sentence_id": 9,
+      "sentence": "概要は以下のとおりである",
+      "opinions": []
+    },
+    {
+      "sentence_id": 10,
+      "sentence": "なお、当社グループの中核会社である全日本空輸株式会社は、英国スカイトラックス社（航空業界の格付会社）から、顧客満足度で最高評価となる「５ＳＴＡＲ」に５年連続で認定された",
+      "opinions": []
+    },
+    {
+      "sentence_id": 11,
+      "sentence": "＜国内線旅客＞",
+      "opinions": []
+    },
+    {
+      "sentence_id": 12,
+      "sentence": "国内線旅客は、４月に発生した熊本地震、７月以降に発生した台風や12月の降雪の影響等を受ける中でも、需要動向に応じた各種割引運賃を設定したこと等により、旅客数は前期を上回ったが、他社との競争激化の影響等から単価が前期を下回ったことにより、収入は前期を下回った",
+      "opinions": [
+        {
+          "target": "国内線旅客",
+          "category": "NULL#amount",
+          "polarity": "positive",
+          "from": 0,
+          "to": 5
+        },
+        {
+          "target": "国内線旅客",
+          "category": "business#price",
+          "polarity": "negative",
+          "from": 0,
+          "to": 5
+        },
+        {
+          "target": "国内線旅客",
+          "category": "business#sales",
+          "polarity": "negative",
+          "from": 0,
+          "to": 5
+        }
+      ]
+    },
+    {
+      "sentence_id": 13,
+      "sentence": "路線ネットワークでは、サマーダイヤから羽田＝宮古線を新規開設、関西＝宮古線を再開したことに加え、夏季の一部期間において羽田＝沖縄線の深夜便（「ギャラクシーフライト」）を運航した他、一部の路線において期間増便を継続する等、需要の取り込みを図った",
+      "opinions": []
+    },
+    {
+      "sentence_id": 14,
+      "sentence": "また、11月からのエアバスA321ceo型機の運航開始を契機として、予約状況に応じてきめ細かく機材の入れ替えを行う「ピタッとフリート」の運用を更に進め、座席利用率の向上を図った",
+      "opinions": []
+    },
+    {
+      "sentence_id": 15,
+      "sentence": "営業面では、「旅割タイムセール」を実施したことに加え、10月からは一部の路線に対して、予約状況に応じて価格を機動的に変動させる運賃を設定する等、販売の強化を図った",
+      "opinions": []
+    },
+    {
+      "sentence_id": 16,
+      "sentence": "サービス面では、４月に羽田空港国内線第２旅客ターミナルの出発カウンターをリニューアルした他、９月にウェブサイト（ANA SKY WEB）及びモバイル用サイト（ANA SKY MOBILE）の国内線予約機能をリニューアルし、視認性・操作性を向上させた",
+      "opinions": []
+    },
+    {
+      "sentence_id": 17,
+      "sentence": "また、12月より国内線「ANA Wi-Fiサービス」において、ANAマイルでの決済を可能にした他、「ANA SKY LIVE TVサービス」で視聴できるチャンネルを増やし、機内エンターテイメントの充実を図った",
+      "opinions": []
+    },
+    {
+      "sentence_id": 18,
+      "sentence": "また、４月に発生した熊本地震に対する災害支援への取り組みとして合計175便の不定期便及び臨時便を運航した他、九州における観光産業の早期復興に向けた「でかけよう九州」プロジェクトを実施した",
+      "opinions": []
+    },
+    {
+      "sentence_id": 19,
+      "sentence": "加えて、８月後半から連続して台風の被害に見舞われた北海道や、10月に発生した地震の被害に見舞われた鳥取県においても応援プロジェクトを実施した",
+      "opinions": []
+    },
+    {
+      "sentence_id": 20,
+      "sentence": "以上の結果、当期の国内線旅客数は4,296万人（前期比0.7％増）となり、収入は6,783億円（同1.1％減）となった",
+      "opinions": [
+        {
+          "target": "国内線旅客数",
+          "category": "NULL#amount",
+          "polarity": "positive",
+          "from": 9,
+          "to": 15
+        },
+        {
+          "target": "収入",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 37,
+          "to": 39
+        }
+      ]
+    },
+    {
+      "sentence_id": 21,
+      "sentence": "＜国際線旅客＞",
+      "opinions": []
+    },
+    {
+      "sentence_id": 22,
+      "sentence": "国際線旅客は、当期の前半は日本発欧州方面のプレジャー需要においてテロの影響が残ったものの、日本発ビジネス需要が期を通じて好調に推移したことに加え、旺盛な訪日需要を取り込んだこと等により、旅客数・収入ともに前期を上回った",
+      "opinions": [
+        {
+          "target": "国際線旅客",
+          "category": "NULL#amount",
+          "polarity": "positive",
+          "from": 0,
+          "to": 5
+        },
+        {
+          "target": "国際線旅客",
+          "category": "business#sales",
+          "polarity": "positive",
+          "from": 0,
+          "to": 5
+        },
+        {
+          "target": "ビジネス需要",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 48,
+          "to": 54
+        },
+        {
+          "target": "訪日需要",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 76,
+          "to": 80
+        }
+      ]
+    },
+    {
+      "sentence_id": 23,
+      "sentence": "路線ネットワークでは、４月より成田＝武漢線、９月より日本から唯一の直行便となる成田＝プノンペン線を新規開設し、アジアのネットワークを強化した",
+      "opinions": []
+    },
+    {
+      "sentence_id": 24,
+      "sentence": "ウィンターダイヤより羽田＝ニューヨーク・シカゴ・クアラルンプール線を新規開設し、羽田空港の利便性を活用したビジネス需要の取り込みを図った他、本年２月より成田＝メキシコシティ線を新規開設し、日系企業の進出が著しいメキシコへのビジネス需要等の獲得に努めた",
+      "opinions": []
+    },
+    {
+      "sentence_id": 25,
+      "sentence": "また、成田＝ホーチミンシティ線を増便するとともに、ベトナム航空と締結した業務・資本提携契約に基づき、コードシェア便の運航を開始する等、北米＝アジア間における乗り継ぎ利便性の向上や、旺盛な訪日需要の取り込みを図った",
+      "opinions": []
+    },
+    {
+      "sentence_id": 26,
+      "sentence": "営業面では、中国線を中心として、訪日需要を喚起するために海外発割引運賃を設定した他、中国のアリババグループが運営する旅行サイトにおいてＡＮＡの航空券の購入を可能とすることで、中国人のお客様の更なる利便性の向上に取り組み、需要喚起に努めた",
+      "opinions": []
+    },
+    {
+      "sentence_id": 27,
+      "sentence": "サービス面では、東南アジア路線を中心とする中距離国際線のビジネスクラスに、フルフラット・シートの「ANAビジネス・スタッガード」を導入した他、６月より成田空港の国際線ＡＮＡラウンジ内にて、シェフが握り寿司等をお客様に直接サービスする「シェフサービス」を本格的に開始した",
+      "opinions": []
+    },
+    {
+      "sentence_id": 28,
+      "sentence": "また、11月より一部の機材において、国際線エンターテイメントプログラムに目や耳が不自由なお客様に対応したコンテンツを日本の航空会社として初めて導入した",
+      "opinions": []
+    },
+    {
+      "sentence_id": 29,
+      "sentence": "以上の結果、当期の国際線旅客数は911万人（前期比11.6％増）となり、収入は5,167億円（同0.2％増）となった",
+      "opinions": [
+        {
+          "target": "国際線旅客数",
+          "category": "NULL#amount",
+          "polarity": "positive",
+          "from": 9,
+          "to": 15
+        },
+        {
+          "target": "収入",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 36,
+          "to": 38
+        }
+      ]
+    },
+    {
+      "sentence_id": 30,
+      "sentence": "＜貨物＞",
+      "opinions": []
+    },
+    {
+      "sentence_id": 31,
+      "sentence": "国内線貨物は、単価の改善を図った他、沖縄からの花卉(かき)需要が高まる期間に沖縄＝羽田線の貨物臨時便を設定する等、増収に努めたが、航空貨物需要全体が期を通じて低調に推移したことや、天候不順により、北海道発の生鮮貨物の取扱いが減少したこと等から、輸送重量、収入ともに前期を下回った",
+      "opinions": [
+        {
+          "target": "国内線貨物",
+          "category": "product#amount",
+          "polarity": "negative",
+          "from": 0,
+          "to": 5
+        },
+        {
+          "target": "国内線貨物",
+          "category": "product#sales",
+          "polarity": "negative",
+          "from": 0,
+          "to": 5
+        },
+        {
+          "target": "航空貨物需要",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 65,
+          "to": 71
+        },
+        {
+          "target": "取扱い",
+          "category": "NULL#amount",
+          "polarity": "negative",
+          "from": 108,
+          "to": 111
+        }
+      ]
+    },
+    {
+      "sentence_id": 32,
+      "sentence": "以上の結果、当期の国内線貨物輸送重量は45万１千トン（前期比3.4％減）となり、収入は308億円（同2.8％減）となった",
+      "opinions": [
+        {
+          "target": "国内線貨物輸送重量",
+          "category": "NULL#amount",
+          "polarity": "negative",
+          "from": 9,
+          "to": 18
+        },
+        {
+          "target": "収入",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 40,
+          "to": 42
+        }
+      ]
+    },
+    {
+      "sentence_id": 33,
+      "sentence": "国内郵便輸送重量は３万３千トン（同3.7％減）となり、収入は34億円（同6.8％減）となった",
+      "opinions": [
+        {
+          "target": "国内郵便輸送重量",
+          "category": "NULL#amount",
+          "polarity": "negative",
+          "from": 0,
+          "to": 8
+        },
+        {
+          "target": "収入",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 27,
+          "to": 29
+        }
+      ]
+    },
+    {
+      "sentence_id": 34,
+      "sentence": "国際線貨物は、上期は円高による為替影響や燃油市況の下落に伴う燃油特別付加運賃収入の減少があったものの、下期からは単価水準が改善した他、日本発アジア・中国向けの電子部品や半導体関連並びに自動車関連需要、中国発北米向けにおいては衣料品や電子部品需要等を取り込んだ",
+      "opinions": [
+        {
+          "target": "国際線貨物",
+          "category": "product#price",
+          "polarity": "positive",
+          "from": 0,
+          "to": 5
+        },
+        {
+          "target": "国際線貨物",
+          "category": "product#general",
+          "polarity": "positive",
+          "from": 0,
+          "to": 5
+        },
+        {
+          "target": "燃油市況",
+          "category": "market#general",
+          "polarity": "negative",
+          "from": 20,
+          "to": 24
+        },
+        {
+          "target": "燃油特別付加運賃収入",
+          "category": "NULL#sales",
+          "polarity": "negative",
+          "from": 30,
+          "to": 40
+        }
+      ]
+    },
+    {
+      "sentence_id": 35,
+      "sentence": "貨物専用機においては、下期より路線ネットワークの見直しによる需給適合を図りながら、堅調な三国間輸送貨物を取り込んだ",
+      "opinions": [
+        {
+          "target": "貨物専用機",
+          "category": "product#general",
+          "polarity": "positive",
+          "from": 0,
+          "to": 5
+        }
+      ]
+    },
+    {
+      "sentence_id": 36,
+      "sentence": "また、需要に応じた臨時便やチャーター便の設定による増収に努め、収益性の改善を図った",
+      "opinions": []
+    },
+    {
+      "sentence_id": 37,
+      "sentence": "以上の結果、当期の国際線貨物輸送重量は95万４千トン（前期比17.7％増）となったが、収入は為替影響による海外発貨物収入の減少や代理店向けの「国際貨物販売手数料」を廃止して収入と費用を相殺したこと等により、933億円（同17.7％減）となった",
+      "opinions": [
+        {
+          "target": "国際線貨物輸送重量",
+          "category": "NULL#amount",
+          "polarity": "positive",
+          "from": 9,
+          "to": 18
+        },
+        {
+          "target": "収入",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 43,
+          "to": 45
+        },
+        {
+          "target": "海外発貨物収入",
+          "category": "NULL#sales",
+          "polarity": "negative",
+          "from": 53,
+          "to": 60
+        }
+      ]
+    },
+    {
+      "sentence_id": 38,
+      "sentence": "国際郵便輸送重量は２万８千トン（同13.8％減）となり、収入は48億円（同27.0％減）となった",
+      "opinions": [
+        {
+          "target": "国際郵便輸送重量",
+          "category": "NULL#amount",
+          "polarity": "negative",
+          "from": 0,
+          "to": 8
+        },
+        {
+          "target": "収入",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 28,
+          "to": 30
+        }
+      ]
+    },
+    {
+      "sentence_id": 39,
+      "sentence": "＜その他＞",
+      "opinions": []
+    },
+    {
+      "sentence_id": 40,
+      "sentence": "航空事業におけるその他の収入は2,087億円（前期比6.2％増）となった",
+      "opinions": [
+        {
+          "target": "航空事業",
+          "category": "business#sales",
+          "polarity": "positive",
+          "from": 0,
+          "to": 4
+        }
+      ]
+    },
+    {
+      "sentence_id": 41,
+      "sentence": "なお、航空事業におけるその他には、マイレージ附帯収入、バニラ・エア株式会社の収入、機内販売収入、整備受託収入等が含まれている",
+      "opinions": []
+    },
+    {
+      "sentence_id": 42,
+      "sentence": "バニラ・エア株式会社では、機材を前期より４機増機して12機での運航体制とし、国際線では４月より関西＝台北（桃園）線、９月より台北（桃園）＝ホーチミンシティ線、沖縄＝台北（桃園）線、12月より成田＝セブ線を新規開設した",
+      "opinions": []
+    },
+    {
+      "sentence_id": 43,
+      "sentence": "国内線では本年２月より成田＝函館線、成田＝関西線、本年３月より関西＝函館線、関西＝奄美大島線を新規開設した",
+      "opinions": []
+    },
+    {
+      "sentence_id": 44,
+      "sentence": "また、需要動向に応じてキャンペーン運賃を設定すること等によって需要の取り込みを図った他、11月よりLCCアライアンス「バリューアライアンス」のメンバーであるスクート社への乗り継ぎ予約が、バニラ・エア株式会社のホームページから可能となった",
+      "opinions": []
+    },
+    {
+      "sentence_id": 45,
+      "sentence": "当期におけるバニラ・エア株式会社の輸送実績は、旅客数は2,129千人（前期比25.9％増）、座キロは4,221,180千席キロ（同24.4％増）、旅客キロは3,622,218千人キロ（同25.2％増）、利用率は85.8％（前期差0.6％増）となった",
+      "opinions": [
+        {
+          "target": "バニラ・エア株式会社",
+          "category": "company#amount",
+          "polarity": "positive",
+          "from": 6,
+          "to": 16
+        }
+      ]
+    },
+    {
+      "sentence_id": 46,
+      "sentence": "◎航空関連事業",
+      "opinions": []
+    },
+    {
+      "sentence_id": 47,
+      "sentence": "羽田空港や関西空港における旅客の搭乗受付や手荷物搭載の空港地上支援業務の受託が増加したこと等により、売上高は2,644億円（前期比14.0％増）となり、営業利益は83億円（前期 営業損失42億円）となった",
+      "opinions": [
+        {
+          "target": "搭乗受付",
+          "category": "product#amount",
+          "polarity": "positive",
+          "from": 16,
+          "to": 20
+        },
+        {
+          "target": "空港地上支援業務",
+          "category": "product#amount",
+          "polarity": "positive",
+          "from": 27,
+          "to": 35
+        },
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 50,
+          "to": 53
+        },
+        {
+          "target": "営業利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 76,
+          "to": 80
+        }
+      ]
+    },
+    {
+      "sentence_id": 48,
+      "sentence": "また、マイレージプログラム等を通じて、お客様一人ひとりのニーズにお応えする「One to Oneマーケティング」の推進を担う「ANA X（エーエヌエーエックス）株式会社」を設立し、12月から営業を開始した",
+      "opinions": []
+    },
+    {
+      "sentence_id": 49,
+      "sentence": "◎旅行事業",
+      "opinions": []
+    },
+    {
+      "sentence_id": 50,
+      "sentence": "国内旅行は、ダイナミックパッケージ商品「旅作」において、プロモーション強化による需要の早期取り込みや、「九州ふっこう割クーポン」の実施等により取扱高は前期を上回ったが、主力商品の「ANAスカイホリデー」は、熊本地震の影響による九州方面の落ち込みに加え、主要方面の北海道、関東、沖縄方面等の集客が伸び悩んだことにより、売上高は前期を下回った",
+      "opinions": [
+        {
+          "target": "国内旅行",
+          "category": "business#amount",
+          "polarity": "positive",
+          "from": 0,
+          "to": 4
+        },
+        {
+          "target": "国内旅行",
+          "category": "business#sales",
+          "polarity": "negative",
+          "from": 0,
+          "to": 4
+        },
+        {
+          "target": "九州方面",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 113,
+          "to": 117
+        },
+        {
+          "target": "集客",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 144,
+          "to": 146
+        }
+      ]
+    },
+    {
+      "sentence_id": 51,
+      "sentence": "海外旅行は、主力商品の「ANAハローツアー」において、重点的に販売強化に取り組んだハワイとオセアニア方面の取扱高は堅調に推移したものの、テロの影響が残る欧州方面の取扱高の落ち込みが大きく、売上高は前期を下回った",
+      "opinions": [
+        {
+          "target": "海外旅行",
+          "category": "product#sales",
+          "polarity": "negative",
+          "from": 0,
+          "to": 4
+        },
+        {
+          "target": "欧州方面",
+          "category": "product#amount",
+          "polarity": "negative",
+          "from": 76,
+          "to": 80
+        }
+      ]
+    },
+    {
+      "sentence_id": 52,
+      "sentence": "また、訪日旅行は、他社との競争激化の影響により売上高は前期を下回った",
+      "opinions": [
+        {
+          "target": "訪日旅行",
+          "category": "product#sales",
+          "polarity": "negative",
+          "from": 3,
+          "to": 7
+        }
+      ]
+    },
+    {
+      "sentence_id": 53,
+      "sentence": "以上の結果、当期の旅行事業における売上高は1,606億円（前期比4.0％減）、営業利益は37億円（前期比12.8％減）となった",
+      "opinions": [
+        {
+          "target": "旅行事業",
+          "category": "business#sales",
+          "polarity": "negative",
+          "from": 9,
+          "to": 13
+        },
+        {
+          "target": "旅行事業",
+          "category": "business#profit",
+          "polarity": "negative",
+          "from": 9,
+          "to": 13
+        }
+      ]
+    },
+    {
+      "sentence_id": 54,
+      "sentence": "◎商社事業",
+      "opinions": []
+    },
+    {
+      "sentence_id": 55,
+      "sentence": "リテール部門では、円高や中国の関税引き上げ等により訪日旅客の購買行動が変化する中、国際線旅客数の増加や訪日旅客の嗜好変化にあわせた商品を充実させたこと等により、空港免税店「ANA DUTY FREE SHOP」や空港物販店「ANA FESTA」の販売が堅調に推移したものの、わずかに前期の水準には届かず、売上高は減少した",
+      "opinions": [
+        {
+          "target": "リテール部門",
+          "category": "business#sales",
+          "polarity": "negative",
+          "from": 0,
+          "to": 6
+        },
+        {
+          "target": "ANA DUTY FREE SHOP",
+          "category": "business#sales",
+          "polarity": "positive",
+          "from": 86,
+          "to": 104
+        },
+        {
+          "target": "ANA FESTA",
+          "category": "business#sales",
+          "polarity": "positive",
+          "from": 112,
+          "to": 121
+        }
+      ]
+    },
+    {
+      "sentence_id": 56,
+      "sentence": "食品部門では、バナナ等の生鮮食品の売上高は堅調に推移したものの、ナッツ・ドライフルーツ等の加工食品の取扱量が減少し、売上高は減少した",
+      "opinions": [
+        {
+          "target": "食品部門",
+          "category": "business#sales",
+          "polarity": "negative",
+          "from": 0,
+          "to": 4
+        },
+        {
+          "target": "生鮮食品",
+          "category": "product#sales",
+          "polarity": "positive",
+          "from": 12,
+          "to": 16
+        },
+        {
+          "target": "加工食品",
+          "category": "product#amount",
+          "polarity": "negative",
+          "from": 45,
+          "to": 49
+        }
+      ]
+    },
+    {
+      "sentence_id": 57,
+      "sentence": "航空・電子部門では、半導体関連で受注減や円高の影響により売上高が減少した",
+      "opinions": [
+        {
+          "target": "航空・電子部門",
+          "category": "business#sales",
+          "polarity": "negative",
+          "from": 0,
+          "to": 7
+        },
+        {
+          "target": "半導体関連",
+          "category": "product#amount",
+          "polarity": "negative",
+          "from": 10,
+          "to": 15
+        }
+      ]
+    },
+    {
+      "sentence_id": 58,
+      "sentence": "以上の結果、当期の商社事業における売上高は1,367億円（前期比2.5％減）、営業利益は43億円（前期比17.5％減）となった",
+      "opinions": [
+        {
+          "target": "商社事業",
+          "category": "business#sales",
+          "polarity": "negative",
+          "from": 9,
+          "to": 13
+        },
+        {
+          "target": "商社事業",
+          "category": "business#profit",
+          "polarity": "negative",
+          "from": 9,
+          "to": 13
+        }
+      ]
+    },
+    {
+      "sentence_id": 59,
+      "sentence": "◎その他",
+      "opinions": []
+    },
+    {
+      "sentence_id": 60,
+      "sentence": "不動産関連事業が堅調に推移したこと等の結果、当期のその他の売上高は、347億円（前期比3.0％増）となり、営業利益は13億円（前期比17.5％減）となった",
+      "opinions": [
+        {
+          "target": "不動産関連事業",
+          "category": "business#general",
+          "polarity": "positive",
+          "from": 0,
+          "to": 7
+        },
+        {
+          "target": "その他",
+          "category": "business#sales",
+          "polarity": "positive",
+          "from": 25,
+          "to": 28
+        },
+        {
+          "target": "その他",
+          "category": "business#profit",
+          "polarity": "negative",
+          "from": 25,
+          "to": 28
+        }
+      ]
+    }
+  ]
+}

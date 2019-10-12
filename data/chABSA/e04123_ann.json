@@ -1,0 +1,643 @@
+{
+  "header": {
+    "document_id": "E04123",
+    "document_name": "広島電鉄株式会社",
+    "doc_text": "有価証券報告書",
+    "edi_id": "E04123",
+    "security_code": "90330",
+    "category33": "陸運業",
+    "category17": "運輸・物流",
+    "scale": ""
+  },
+  "sentences": [
+    {
+      "sentence_id": 0,
+      "sentence": "当連結会計年度におけるわが国経済は、新興国景気の下振れやイギリスのEU離脱、アメリカ新大統領の政策動向など海外経済に対するリスクはあるものの、政府・日本銀行の各種経済政策や金融緩和を背景に設備投資や雇用環境が改善し、景気は穏やかな回復基調で推移しました",
+      "opinions": [
+        {
+          "target": "新興国景気",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 18,
+          "to": 23
+        },
+        {
+          "target": "設備投資",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 94,
+          "to": 98
+        },
+        {
+          "target": "雇用環境",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 99,
+          "to": 103
+        },
+        {
+          "target": "景気",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 108,
+          "to": 110
+        }
+      ]
+    },
+    {
+      "sentence_id": 1,
+      "sentence": "このような状況のもと、当社グループにおきましては、旅客輸送における設備の修繕をはじめとする安全確保のより一層の強化や、顧客へのサービス向上を図り、各事業とも積極的な営業活動を展開して収益の確保に努めました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 2,
+      "sentence": "平成24年７月に着工した石内東地区の大規模不動産開発プロジェクト「西風新都グリーンフォートそらの」につきましては、平成28年１月から開始した住宅用地の分譲を進めてまいります",
+      "opinions": []
+    },
+    {
+      "sentence_id": 3,
+      "sentence": "また、八丁堀地区における再開発事業「（仮称）広島八丁堀共同プロジェクト」として、平成27年12月に新築工事に着手した新ビル「スタートラム広島」につきましては、工事を安全かつ堅実に施工するよう工程管理を行ってまいります",
+      "opinions": []
+    },
+    {
+      "sentence_id": 4,
+      "sentence": "さらに、広島市が事業主体である電車の広島駅前大橋ルートの整備や、広島県と廿日市市が事業主体である宮島口整備事業といった事業を関係機関と協力しながら推進するとともに、広島大学跡地の活用策「ひろしまの『知の拠点』再生プロジェクト」といった新規事業にも取り組み、活力ある街づくりに尽力してまいります",
+      "opinions": []
+    },
+    {
+      "sentence_id": 5,
+      "sentence": "当連結会計年度の営業収益は、運輸業および建設業が増収となったものの、流通業、不動産業およびレジャー・サービス業が減収となり、前連結会計年度と比較して10.2％、4,813百万円減少し、42,231百万円となりました",
+      "opinions": [
+        {
+          "target": "営業収益",
+          "category": "NULL#sales",
+          "polarity": "negative",
+          "from": 8,
+          "to": 12
+        },
+        {
+          "target": "運輸業",
+          "category": "business#sales",
+          "polarity": "positive",
+          "from": 14,
+          "to": 17
+        },
+        {
+          "target": "建設業",
+          "category": "business#sales",
+          "polarity": "positive",
+          "from": 20,
+          "to": 23
+        },
+        {
+          "target": "流通業",
+          "category": "business#sales",
+          "polarity": "negative",
+          "from": 34,
+          "to": 37
+        },
+        {
+          "target": "不動産業",
+          "category": "business#sales",
+          "polarity": "negative",
+          "from": 38,
+          "to": 42
+        },
+        {
+          "target": "レジャー・サービス業",
+          "category": "business#sales",
+          "polarity": "negative",
+          "from": 45,
+          "to": 55
+        }
+      ]
+    },
+    {
+      "sentence_id": 6,
+      "sentence": "利益につきましては、営業利益は、前連結会計年度と比較して72.9％、1,836百万円減少し、684百万円となり、経常利益は、前連結会計年度と比較して67.0％、1,541百万円減少し、760百万円となり、親会社株主に帰属する当期純利益は、29.3％、539百万円減少し、1,301百万円となりました",
+      "opinions": [
+        {
+          "target": "営業利益",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 10,
+          "to": 14
+        },
+        {
+          "target": "経常利益",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 56,
+          "to": 60
+        },
+        {
+          "target": "当期純利益",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 112,
+          "to": 117
+        }
+      ]
+    },
+    {
+      "sentence_id": 7,
+      "sentence": "各セグメントの業績を示すと、次のとおりであります",
+      "opinions": []
+    },
+    {
+      "sentence_id": 8,
+      "sentence": "①　(運輸業)",
+      "opinions": []
+    },
+    {
+      "sentence_id": 9,
+      "sentence": "運輸業におきましては、平成28年５月のオバマ前アメリカ大統領の広島訪問や、広島東洋カープの25年ぶりのリーグ優勝などにより、沿線施設への来訪者が好調に推移し、増収となりました",
+      "opinions": [
+        {
+          "target": "運輸業",
+          "category": "business#sales",
+          "polarity": "positive",
+          "from": 0,
+          "to": 3
+        },
+        {
+          "target": "来訪者",
+          "category": "NULL#amount",
+          "polarity": "positive",
+          "from": 68,
+          "to": 71
+        }
+      ]
+    },
+    {
+      "sentence_id": 10,
+      "sentence": "鉄軌道事業では、導入を進めている超低床車両1000形を２両増備し、電車ロケーションシステムを市内線２電停に設置したほか、新たな観光需要の取込みとして、車内で飲食ができる路面電車「トランルージュ」の運行を開始しました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 11,
+      "sentence": "また、線路や電気設備、車両機器の更新も継続的に行い、利便性の向上と安全運行のための整備を継続的に実施しました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 12,
+      "sentence": "自動車事業では、ハイブリッドバスやノンステップバスの代替を継続的に実施して低公害化とバリアフリー化に積極的に取り組んだほか、利用が増えている外国人観光客向けに、広島県バス協会や県内のバス事業者と共同で広島県内のバスや路面電車が乗り放題となる「Visit Hiroshima Tourist Pass」の販売を始めました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 13,
+      "sentence": "また、広島おりづるタワーと宮島口に交通案内所を設置するなど、公共交通を分かりやすく利用できる施策を行いました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 14,
+      "sentence": "海上運送業及び索道業では、宮島来島者数の増加により、増収となりました",
+      "opinions": [
+        {
+          "target": "海上運送業",
+          "category": "business#sales",
+          "polarity": "positive",
+          "from": 0,
+          "to": 5
+        },
+        {
+          "target": "索道業",
+          "category": "business#sales",
+          "polarity": "positive",
+          "from": 7,
+          "to": 10
+        },
+        {
+          "target": "宮島来島者数",
+          "category": "NULL#amount",
+          "polarity": "positive",
+          "from": 13,
+          "to": 19
+        }
+      ]
+    },
+    {
+      "sentence_id": 15,
+      "sentence": "この結果、当連結会計年度における営業収益は、前連結会計年度と比較して0.5％、99百万円増加して21,871百万円となりましたが、営業損益は、人件費の増加や新車導入に伴う償却費の増加等の影響により、前連結会計年度771百万円の営業損失に対し、1,102百万円の営業損失となりました",
+      "opinions": [
+        {
+          "target": "営業収益",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 16,
+          "to": 20
+        },
+        {
+          "target": "営業損益",
+          "category": "NULL#sales",
+          "polarity": "negative",
+          "from": 65,
+          "to": 69
+        },
+        {
+          "target": "人件費",
+          "category": "NULL#cost",
+          "polarity": "negative",
+          "from": 71,
+          "to": 74
+        },
+        {
+          "target": "償却費",
+          "category": "NULL#cost",
+          "polarity": "negative",
+          "from": 85,
+          "to": 88
+        }
+      ]
+    },
+    {
+      "sentence_id": 16,
+      "sentence": "提出会社の運輸成績表",
+      "opinions": []
+    },
+    {
+      "sentence_id": 17,
+      "sentence": "(鉄軌道事業)",
+      "opinions": []
+    },
+    {
+      "sentence_id": 18,
+      "sentence": "(注)　乗車効率の算出方法",
+      "opinions": []
+    },
+    {
+      "sentence_id": 19,
+      "sentence": "乗車効率＝延人キロ／延定員走行キロ×100",
+      "opinions": []
+    },
+    {
+      "sentence_id": 20,
+      "sentence": "(自動車事業)",
+      "opinions": []
+    },
+    {
+      "sentence_id": 21,
+      "sentence": "(注)　乗車効率の算出方法",
+      "opinions": []
+    },
+    {
+      "sentence_id": 22,
+      "sentence": "乗車効率＝延人キロ／延定員走行キロ×100",
+      "opinions": []
+    },
+    {
+      "sentence_id": 23,
+      "sentence": "業種別営業成績",
+      "opinions": []
+    },
+    {
+      "sentence_id": 24,
+      "sentence": "②　(流通業)",
+      "opinions": []
+    },
+    {
+      "sentence_id": 25,
+      "sentence": "流通業におきましては、マダムジョイ店舗では直営部門は利用客、売上ともに増加したものの、軽油単価の下落による商事部門の売上高減少やテナント売上高減少の影響により、減収となりました",
+      "opinions": [
+        {
+          "target": "流通業",
+          "category": "business#sales",
+          "polarity": "negative",
+          "from": 0,
+          "to": 3
+        },
+        {
+          "target": "マダムジョイ店舗",
+          "category": "business#amount",
+          "polarity": "positive",
+          "from": 11,
+          "to": 19
+        },
+        {
+          "target": "マダムジョイ店舗",
+          "category": "business#sales",
+          "polarity": "positive",
+          "from": 11,
+          "to": 19
+        },
+        {
+          "target": "軽油単価",
+          "category": "NULL#cost",
+          "polarity": "negative",
+          "from": 43,
+          "to": 47
+        },
+        {
+          "target": "商事部門",
+          "category": "business#sales",
+          "polarity": "negative",
+          "from": 53,
+          "to": 57
+        },
+        {
+          "target": "テナント売上高",
+          "category": "NULL#sales",
+          "polarity": "negative",
+          "from": 64,
+          "to": 71
+        }
+      ]
+    },
+    {
+      "sentence_id": 26,
+      "sentence": "また、宮島口もみじ本陣においては、宮島来島者数の増加に伴い増収となりました",
+      "opinions": [
+        {
+          "target": "宮島口もみじ本陣",
+          "category": "business#sales",
+          "polarity": "positive",
+          "from": 3,
+          "to": 11
+        },
+        {
+          "target": "宮島来島者数",
+          "category": "NULL#amount",
+          "polarity": "positive",
+          "from": 17,
+          "to": 23
+        }
+      ]
+    },
+    {
+      "sentence_id": 27,
+      "sentence": "サービスエリアにおいては、熊本地震で高速道路の通行量が減少した影響等で、減収となりました",
+      "opinions": [
+        {
+          "target": "サービスエリア",
+          "category": "business#sales",
+          "polarity": "negative",
+          "from": 0,
+          "to": 7
+        },
+        {
+          "target": "通行量",
+          "category": "NULL#amount",
+          "polarity": "negative",
+          "from": 23,
+          "to": 26
+        }
+      ]
+    },
+    {
+      "sentence_id": 28,
+      "sentence": "この結果、当連結会計年度における営業収益は、前連結会計年度と比較して1.7％、180百万円減少し、10,261百万円となりましたが、営業利益は、減価償却費の減少等により、前連結会計年度23百万円の営業損失に対し、60百万円の営業利益となりました",
+      "opinions": [
+        {
+          "target": "営業収益",
+          "category": "NULL#sales",
+          "polarity": "negative",
+          "from": 16,
+          "to": 20
+        },
+        {
+          "target": "営業利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 66,
+          "to": 70
+        },
+        {
+          "target": "減価償却費",
+          "category": "NULL#cost",
+          "polarity": "positive",
+          "from": 72,
+          "to": 77
+        }
+      ]
+    },
+    {
+      "sentence_id": 29,
+      "sentence": "業種別営業成績",
+      "opinions": []
+    },
+    {
+      "sentence_id": 30,
+      "sentence": "③　(不動産業)",
+      "opinions": []
+    },
+    {
+      "sentence_id": 31,
+      "sentence": "不動産業におきましては、不動産賃貸業では、解体に着手した広電第二タワービルのテナント退去による賃料収入の減少により減収となり、不動産販売業では、前連結会計年度に「西風新都グリーンフォートそらの」の商業用地および業務用地や五日市分譲マンションの販売があったのに対し、当連結会計年度ではそのような大型物件の販売がなかったことから、減収となりました",
+      "opinions": [
+        {
+          "target": "不動産賃貸業",
+          "category": "business#sales",
+          "polarity": "negative",
+          "from": 12,
+          "to": 18
+        },
+        {
+          "target": "賃料収入",
+          "category": "NULL#sales",
+          "polarity": "negative",
+          "from": 47,
+          "to": 51
+        },
+        {
+          "target": "不動産販売業",
+          "category": "business#sales",
+          "polarity": "negative",
+          "from": 63,
+          "to": 69
+        }
+      ]
+    },
+    {
+      "sentence_id": 32,
+      "sentence": "この結果、当連結会計年度における営業収益は、前連結会計年度と比較して50.7％、5,360百万円減少し、5,219百万円となり、営業利益は、前連結会計年度3,023百万円に対し、51.7％、1,562百万円減少し、1,461百万円となりました",
+      "opinions": [
+        {
+          "target": "営業収益",
+          "category": "NULL#sales",
+          "polarity": "negative",
+          "from": 16,
+          "to": 20
+        },
+        {
+          "target": "営業利益",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 64,
+          "to": 68
+        }
+      ]
+    },
+    {
+      "sentence_id": 33,
+      "sentence": "業種別営業成績",
+      "opinions": []
+    },
+    {
+      "sentence_id": 34,
+      "sentence": "④　(建設業)",
+      "opinions": []
+    },
+    {
+      "sentence_id": 35,
+      "sentence": "建設業におきましては、防災対策の公共工事や民間の建築工事が増加したことなどにより、増収となりました",
+      "opinions": [
+        {
+          "target": "建設業",
+          "category": "business#sales",
+          "polarity": "positive",
+          "from": 0,
+          "to": 3
+        },
+        {
+          "target": "公共工事",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 16,
+          "to": 20
+        },
+        {
+          "target": "建築工事",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 24,
+          "to": 28
+        }
+      ]
+    },
+    {
+      "sentence_id": 36,
+      "sentence": "この結果、当連結会計年度における営業収益は、前連結会計年度と比較して20.0％、936百万円増加し、5,612百万円となり、営業利益は、前連結会計年度194百万円に対し3.7％、７百万円増加し、201百万円となりました",
+      "opinions": [
+        {
+          "target": "営業収益",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 16,
+          "to": 20
+        },
+        {
+          "target": "営業利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 62,
+          "to": 66
+        }
+      ]
+    },
+    {
+      "sentence_id": 37,
+      "sentence": "業種別営業成績",
+      "opinions": []
+    },
+    {
+      "sentence_id": 38,
+      "sentence": "⑤　(レジャー・サービス業)",
+      "opinions": []
+    },
+    {
+      "sentence_id": 39,
+      "sentence": "レジャー・サービス業におきましては、ホテル業では、外国人旅行客や法人利用、ホテル会員の宿泊利用が増加し、増収となりました",
+      "opinions": [
+        {
+          "target": "ホテル業",
+          "category": "business#amount",
+          "polarity": "positive",
+          "from": 18,
+          "to": 22
+        },
+        {
+          "target": "ホテル業",
+          "category": "business#sales",
+          "polarity": "positive",
+          "from": 18,
+          "to": 22
+        }
+      ]
+    },
+    {
+      "sentence_id": 40,
+      "sentence": "ゴルフ業では、謝恩特別デーの開催など積極的に営業展開したものの利用者はほぼ横ばいで、減収となりました",
+      "opinions": [
+        {
+          "target": "ゴルフ業",
+          "category": "business#amount",
+          "polarity": "neutral",
+          "from": 0,
+          "to": 4
+        },
+        {
+          "target": "ゴルフ業",
+          "category": "business#sales",
+          "polarity": "negative",
+          "from": 0,
+          "to": 4
+        }
+      ]
+    },
+    {
+      "sentence_id": 41,
+      "sentence": "ボウリング業では、健康ボウリング教室を精力的に開催したほか、ボウリングと食事のパック商品を新たに販売するなど利用者増加の取組みを行いましたが、ゲームコーナーの縮小により減収となりました",
+      "opinions": [
+        {
+          "target": "ボウリング業",
+          "category": "business#sales",
+          "polarity": "negative",
+          "from": 0,
+          "to": 6
+        },
+        {
+          "target": "ゲームコーナー",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 71,
+          "to": 78
+        }
+      ]
+    },
+    {
+      "sentence_id": 42,
+      "sentence": "ゴルフ練習場においては、シニア層の来客の減少により、減収となりました",
+      "opinions": [
+        {
+          "target": "ゴルフ練習場",
+          "category": "business#amount",
+          "polarity": "negative",
+          "from": 0,
+          "to": 6
+        },
+        {
+          "target": "ゴルフ練習場",
+          "category": "business#sales",
+          "polarity": "negative",
+          "from": 0,
+          "to": 6
+        }
+      ]
+    },
+    {
+      "sentence_id": 43,
+      "sentence": "この結果、当連結会計年度における営業収益は、前連結会計年度と比較して0.3％、５百万円減少し、1,924百万円となり、営業利益は、前連結会計年度85百万円に対し、11.9％、10百万円減少し、74百万円となりました",
+      "opinions": [
+        {
+          "target": "営業収益",
+          "category": "NULL#sales",
+          "polarity": "negative",
+          "from": 16,
+          "to": 20
+        },
+        {
+          "target": "営業利益",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 59,
+          "to": 63
+        }
+      ]
+    },
+    {
+      "sentence_id": 44,
+      "sentence": "業種別営業成績",
+      "opinions": []
+    }
+  ]
+}

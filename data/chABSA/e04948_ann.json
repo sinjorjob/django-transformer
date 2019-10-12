@@ -1,0 +1,387 @@
+{
+  "header": {
+    "document_id": "E04948",
+    "document_name": "株式会社光通信",
+    "doc_text": "有価証券報告書",
+    "edi_id": "E04948",
+    "security_code": "94350",
+    "category33": "情報・通信業",
+    "category17": "情報通信・サービスその他",
+    "scale": "4"
+  },
+  "sentences": [
+    {
+      "sentence_id": 0,
+      "sentence": "※当社グループは当連結会計年度（2016年４月１日～2017年３月31日）より、従来の日本基準に替えてIFRSを適用しており、前連結会計年度の数値をIFRSに組み替えて比較分析を行っております",
+      "opinions": []
+    },
+    {
+      "sentence_id": 1,
+      "sentence": "当連結会計年度（2016年４月１日～2017年３月31日）における我が国経済は、景気の一部に改善の遅れがみられるものの、緩やかな回復基調で推移し、雇用・所得環境の改善が続く中、先行きについても各種政策の効果などで緩やかな回復傾向にある旨指摘されております",
+      "opinions": [
+        {
+          "target": "我が国経済",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 33,
+          "to": 38
+        },
+        {
+          "target": "一部",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 43,
+          "to": 45
+        },
+        {
+          "target": "雇用",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 73,
+          "to": 75
+        },
+        {
+          "target": "所得環境",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 76,
+          "to": 80
+        },
+        {
+          "target": "先行き",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 88,
+          "to": 91
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "sentence": "海外経済では全体としては緩やかに景気が回復していますが、米国の金融政策、中国を始めとするアジア新興国などの経済・政策に関する不確実性、金融資本市場の変動などの影響など、依然として先行き不透明な状況が続いております",
+      "opinions": [
+        {
+          "target": "海外経済",
+          "category": "NULL#general",
+          "polarity": "neutral",
+          "from": 0,
+          "to": 4
+        },
+        {
+          "target": "景気",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 16,
+          "to": 18
+        }
+      ]
+    },
+    {
+      "sentence_id": 3,
+      "sentence": "当社グループの属する情報通信分野においては、移動体通信の市場が成熟しつつある中で、政府の競争促進政策及び、仮想移動体通信事業者（MVNO）による格安SIMサービスなどの普及、長期利用者向けの新料金プラン提供開始など、市場構造が急速に変化しております",
+      "opinions": [
+        {
+          "target": "市場",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 28,
+          "to": 30
+        }
+      ]
+    },
+    {
+      "sentence_id": 4,
+      "sentence": "固定通信市場におきましても、光回線の卸売り販売により、さまざまな事業者が自社サービスと組み合わせてユーザーに提供することが可能となるなど、同事業分野におけるサービスの競争環境は今後も加速していくことが予想されます",
+      "opinions": [
+        {
+          "target": "固定通信市場",
+          "category": "market#general",
+          "polarity": "neutral",
+          "from": 0,
+          "to": 6
+        }
+      ]
+    },
+    {
+      "sentence_id": 5,
+      "sentence": "そのような中、当社グループでは、従来のビジネスである商品・サービスの取次ぎ（販売代理店モデル）に加え、自社開発商材やMVNOサービス、契約後の継続収益の一部を受け取るレベニューシェア型の商品・サービス（高ストックモデル）の獲得数を増やすことができました",
+      "opinions": [
+        {
+          "target": "販売代理店モデル",
+          "category": "business#amount",
+          "polarity": "positive",
+          "from": 38,
+          "to": 46
+        },
+        {
+          "target": "高ストックモデル",
+          "category": "business#amount",
+          "polarity": "positive",
+          "from": 101,
+          "to": 109
+        }
+      ]
+    },
+    {
+      "sentence_id": 6,
+      "sentence": "その結果、販売手数料など販売活動に係る費用は増加いたしましたが、顧客契約数が伸びたことにより、将来の安定した収益源となるストック利益（ストック利益とは、当社グループが獲得したユーザーによって契約後に毎月支払われる基本契約料金・使用料金・保険料金等から得られる収入から、顧客維持コスト、提供サービスの原価等を除いた利益分のことであります",
+      "opinions": [
+        {
+          "target": "販売手数料",
+          "category": "NULL#cost",
+          "polarity": "negative",
+          "from": 5,
+          "to": 10
+        },
+        {
+          "target": "顧客契約数",
+          "category": "NULL#amount",
+          "polarity": "positive",
+          "from": 32,
+          "to": 37
+        }
+      ]
+    },
+    {
+      "sentence_id": 7,
+      "sentence": "収入については、通信キャリア、保険会社などから受け取る場合と、ユーザーから直接受け取る場合とがあります",
+      "opinions": []
+    },
+    {
+      "sentence_id": 8,
+      "sentence": "）が増加いたしました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 9,
+      "sentence": "加えて、リアル店舗を運営する中小企業向けに、各業種に特化した予約管理システムの販売などを行う業種別・ITソリューション事業の契約（保有）店舗数も順調に推移いたしました",
+      "opinions": [
+        {
+          "target": "ITソリューション事業",
+          "category": "product#amount",
+          "polarity": "positive",
+          "from": 50,
+          "to": 61
+        }
+      ]
+    },
+    {
+      "sentence_id": 10,
+      "sentence": "また、情報通信以外にも、ウォーターサーバーや保険などの生活に関連するサービスも拡大しており、当社グループの強みである販売力を活かしながら、収益力の向上を図ってまいりました",
+      "opinions": [
+        {
+          "target": "ウォーターサーバー",
+          "category": "product#general",
+          "polarity": "positive",
+          "from": 12,
+          "to": 21
+        },
+        {
+          "target": "保険",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 22,
+          "to": 24
+        }
+      ]
+    },
+    {
+      "sentence_id": 11,
+      "sentence": "その結果、当連結会計年度の業績は、売上収益が428,913百万円（前連結会計年度比4.2％減）、営業利益が41,561百万円（同10.4％増）、税引前利益が62,703百万円（同30.7％増）、親会社の所有者に帰属する当期利益が39,034百万円（同72.9％増）となりました",
+      "opinions": [
+        {
+          "target": "売上収益",
+          "category": "NULL#sales",
+          "polarity": "negative",
+          "from": 17,
+          "to": 21
+        },
+        {
+          "target": "営業利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 48,
+          "to": 52
+        },
+        {
+          "target": "税引前利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 72,
+          "to": 77
+        },
+        {
+          "target": "当期利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 109,
+          "to": 113
+        }
+      ]
+    },
+    {
+      "sentence_id": 12,
+      "sentence": "法人事業におきましては、主要顧客である中小企業層に対し、訪問販売にてOA機器や環境関連商材、法人向け携帯電話などの販売などを通じて、業務効率向上とコスト適正化のご提案を行っております",
+      "opinions": []
+    },
+    {
+      "sentence_id": 13,
+      "sentence": "また、コールセンターやWEBなどでは、固定回線やブロードバンド回線などの通信回線サービスの取次ぎ・販売を行っております",
+      "opinions": []
+    },
+    {
+      "sentence_id": 14,
+      "sentence": "そのような中、当社グループでは、従来のビジネスである商品・サービスの取次ぎ（販売代理店モデル）に加え、自社開発商材やMVNOサービス、契約後の継続収益の一部を受け取るレベニューシェア型の商品・サービス（高ストックモデル）の獲得数を増やすことができました",
+      "opinions": [
+        {
+          "target": "販売代理店モデル",
+          "category": "business#amount",
+          "polarity": "positive",
+          "from": 38,
+          "to": 46
+        },
+        {
+          "target": "高ストックモデル",
+          "category": "business#amount",
+          "polarity": "positive",
+          "from": 101,
+          "to": 109
+        }
+      ]
+    },
+    {
+      "sentence_id": 15,
+      "sentence": "その結果、顧客契約数が伸びたことにより、将来の安定した収益源となるストック利益が増加いたしました",
+      "opinions": [
+        {
+          "target": "顧客契約数",
+          "category": "NULL#amount",
+          "polarity": "positive",
+          "from": 5,
+          "to": 10
+        },
+        {
+          "target": "ストック利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 33,
+          "to": 39
+        }
+      ]
+    },
+    {
+      "sentence_id": 16,
+      "sentence": "加えて、リアル店舗を運営する中小企業向けに、各業種に特化したITソリューションサービスの提案を行う業種別・ITソリューション事業の契約（保有）店舗数も順調に推移いたしました",
+      "opinions": [
+        {
+          "target": "ITソリューション事業",
+          "category": "business#amount",
+          "polarity": "positive",
+          "from": 53,
+          "to": 64
+        }
+      ]
+    },
+    {
+      "sentence_id": 17,
+      "sentence": "さらに、中小企業におけるエコやコスト削減に対する意識の高まりを背景に、LED照明をはじめとした、業務用空調機器や太陽光発電システム、ウォーターサーバーなどの環境関連商材の販売を行ってまいりました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 18,
+      "sentence": "その結果、当連結会計年度の法人事業の売上収益は269,532百万円（前連結会計年度比3.9％増）、営業利益は26,670百万円（同8.4％増）となりました",
+      "opinions": [
+        {
+          "target": "法人事業",
+          "category": "business#sales",
+          "polarity": "positive",
+          "from": 13,
+          "to": 17
+        },
+        {
+          "target": "法人事業",
+          "category": "business#profit",
+          "polarity": "positive",
+          "from": 13,
+          "to": 17
+        }
+      ]
+    },
+    {
+      "sentence_id": 19,
+      "sentence": "SHOP事業におきましては、日本全国で展開する店舗において携帯電話端末や周辺機器、データ通信端末、モバイルコンテンツなどの販売事業を行っております",
+      "opinions": []
+    },
+    {
+      "sentence_id": 20,
+      "sentence": "携帯電話販売においては、移動体通信市場の成熟ならびに政府の競争促進政策の影響などにより、販売台数は減少いたしましたが、携帯電話端末以外のモバイルデータ通信端末の販売を拡大する一方、当連結会計年度においても、店舗の統廃合や当社グループの直営店を当社グループの代理店に譲渡するなど、効率的な店舗運営に向けた施策を展開してまいりました",
+      "opinions": [
+        {
+          "target": "携帯電話販売",
+          "category": "business#amount",
+          "polarity": "negative",
+          "from": 0,
+          "to": 6
+        }
+      ]
+    },
+    {
+      "sentence_id": 21,
+      "sentence": "その結果、当連結会計年度におけるSHOP事業の売上収益は131,967百万円（前連結会計年度比17.4％減）、営業利益は14,137百万円（同1.0％増）となりました",
+      "opinions": [
+        {
+          "target": "SHOP事業",
+          "category": "business#sales",
+          "polarity": "negative",
+          "from": 16,
+          "to": 22
+        },
+        {
+          "target": "SHOP事業",
+          "category": "business#profit",
+          "polarity": "positive",
+          "from": 16,
+          "to": 22
+        }
+      ]
+    },
+    {
+      "sentence_id": 22,
+      "sentence": "保険事業におきましては、コールセンターや保険ショップにおける各種保険サービスのご提案に加え、顧客基盤を有する企業へのアポインター派遣を行う派遣事業や、法人向けにコンサルティングサービスを通じた保険代理店事業を行っております",
+      "opinions": []
+    },
+    {
+      "sentence_id": 23,
+      "sentence": "当連結会計年度においては、コールセンター・店舗・WEB・訪問のチャネル展開、及び販売網の連携強化に注力し、販売は好調に推移いたしました",
+      "opinions": [
+        {
+          "target": "販売",
+          "category": "NULL#amount",
+          "polarity": "positive",
+          "from": 53,
+          "to": 55
+        }
+      ]
+    },
+    {
+      "sentence_id": 24,
+      "sentence": "その結果、当連結会計年度の保険事業の売上収益は29,401百万円（前連結会計年度比5.1％減）、営業利益は5,539百万円（同25.8％増）となりました",
+      "opinions": [
+        {
+          "target": "保険事業",
+          "category": "business#sales",
+          "polarity": "negative",
+          "from": 13,
+          "to": 17
+        },
+        {
+          "target": "保険事業",
+          "category": "business#profit",
+          "polarity": "positive",
+          "from": 13,
+          "to": 17
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,240 @@
+{
+  "header": {
+    "document_id": "E04844",
+    "document_name": "株式会社ユニマット　リタイアメント・コミュニティ",
+    "doc_text": "有価証券報告書",
+    "edi_id": "E04844",
+    "security_code": "97070",
+    "category33": "サービス業",
+    "category17": "情報通信・サービスその他",
+    "scale": ""
+  },
+  "sentences": [
+    {
+      "sentence_id": 0,
+      "sentence": "当連結会計年度の我が国経済は、前半は米国経済の減速や新興国経済の失速懸念、英国のＥＵ離脱ショックによる金融市場の混乱、原油価格の下落等の影響を受けて、低調に推移しました",
+      "opinions": [
+        {
+          "target": "我が国経済",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 8,
+          "to": 13
+        },
+        {
+          "target": "原油価格",
+          "category": "NULL#price",
+          "polarity": "negative",
+          "from": 59,
+          "to": 63
+        }
+      ]
+    },
+    {
+      "sentence_id": 1,
+      "sentence": "後半は米国大統領選挙においてトランプ候補が勝利し、インフラ投資など大規模な財政支出拡大への期待を背景に円安と株高が進展し、持ち直しの兆しが見られました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 2,
+      "sentence": "介護業界の状況としては、高齢化率が平成28年に過去最高の27.3％となり、平成72年には2.5人に１人が65歳以上に、４人に１人が75歳以上になると予測されております",
+      "opinions": []
+    },
+    {
+      "sentence_id": 3,
+      "sentence": "また、一方では、慢性的な人材不足が深刻化しており、これに対応すべく前連結会計年度において介護職員への処遇改善加算が拡充されましたが、「平成27年度 介護労働実態調査」によると、平成26年10月１日から平成27年９月30日までの介護職員の離職率は16.5％（正規職員15.1％、非正規職員18.0％）であり、「平成27年雇用動向調査結果」による平成27年１月１日から平成27年12月31日までの全産業平均の15.0％を上回っていることから、依然として雇用環境の整備にも力を入れていく必要があると考えております",
+      "opinions": [
+        {
+          "target": "人材不足",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 12,
+          "to": 16
+        }
+      ]
+    },
+    {
+      "sentence_id": 4,
+      "sentence": "このような状況のもと、当社といたしましては、様々な介護サービスをワンストップで提供できる複合型施設を全国展開している強みを活かし、運営力と収益力の更なる強化を図るとともに、事業領域をシニアマーケット全体へと拡大すべく、新たなビジネス領域の開拓に取り組んでおります",
+      "opinions": []
+    },
+    {
+      "sentence_id": 5,
+      "sentence": "また、介護職員に対する入社後のフォロー体制や教育研修体制の強化、業務の効率化を図るべくシステム化の推進等、職場環境の改善にも取り組んでおります",
+      "opinions": []
+    },
+    {
+      "sentence_id": 6,
+      "sentence": "当連結会計年度におきましては、売上高は、主力事業である介護事業においては、計画通り堅調に推移いたしましたが、その他の事業において、前年同期比で減少いたしました",
+      "opinions": [
+        {
+          "target": "介護事業",
+          "category": "business#sales",
+          "polarity": "positive",
+          "from": 27,
+          "to": 31
+        },
+        {
+          "target": "その他の事業",
+          "category": "business#sales",
+          "polarity": "negative",
+          "from": 54,
+          "to": 60
+        }
+      ]
+    },
+    {
+      "sentence_id": 7,
+      "sentence": "また、介護事業におけるシフト管理の徹底等、業務の効率化及び人員配置の適正化に継続して取り組んだことに並行して、コスト削減の取組みが進展した結果、売上原価が減少いたしました",
+      "opinions": [
+        {
+          "target": "売上原価",
+          "category": "NULL#cost",
+          "polarity": "positive",
+          "from": 72,
+          "to": 76
+        }
+      ]
+    },
+    {
+      "sentence_id": 8,
+      "sentence": "加えて、今後の業績動向等を勘案し、繰延税金資産の回収可能性を慎重に検討した結果、回収可能性がある部分について繰延税金資産を計上したことにより、売上高は442億４千３百万円（前年同期比７億２千８百万円減）、営業利益は21億１千４百万円（前年同期比13億４千２百万円増）、経常利益は16億２千１百万円（前年同期比13億４千１百万円増）、親会社株主に帰属する当期純利益は13億４千１百万円（前年同期は１億６千３百万円の親会社株主に帰属する当期純損失）となりました",
+      "opinions": [
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "negative",
+          "from": 71,
+          "to": 74
+        },
+        {
+          "target": "営業利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 102,
+          "to": 106
+        },
+        {
+          "target": "経常利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 134,
+          "to": 138
+        },
+        {
+          "target": "当期純利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 176,
+          "to": 181
+        }
+      ]
+    },
+    {
+      "sentence_id": 9,
+      "sentence": "[介護事業]",
+      "opinions": []
+    },
+    {
+      "sentence_id": 10,
+      "sentence": "介護事業におきましては、当連結会計年度において、５拠点の新規開設により、介護サービス拠点は、直営で281拠点、ＦＣ施設１拠点の合計282拠点（平成29年３月末現在）となり、提供するサービス事業所は、統廃合等により602事業所となりました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 11,
+      "sentence": "当連結会計年度は、全国の各施設の取組み事例の共有により、サービス内容の拡充と質の向上を図ったことや、お客様のご希望に対しきめ細かく対応した結果、デイサービスをはじめとした各サービスの利用者数が増加いたしました",
+      "opinions": [
+        {
+          "target": "デイサービス",
+          "category": "product#amount",
+          "polarity": "positive",
+          "from": 72,
+          "to": 78
+        }
+      ]
+    },
+    {
+      "sentence_id": 12,
+      "sentence": "また、前連結会計年度より継続して取り組んでおります営業力の強化に加えて、コンタクトセンターの設置により、お客様からのお問い合わせに迅速に対応できる環境となったため有料老人ホームをはじめとした居住系施設の入居率も向上いたしました",
+      "opinions": [
+        {
+          "target": "居住系施設",
+          "category": "product#amount",
+          "polarity": "positive",
+          "from": 95,
+          "to": 100
+        }
+      ]
+    },
+    {
+      "sentence_id": 13,
+      "sentence": "加えて、シフト管理の徹底等、業務の効率化及び人員配置の適正化に継続して取り組んだことと並行して、コスト削減の取組みが進展した結果、介護事業の売上高は439億２千万円（前年同期比７億７千３百万円増）、営業利益は33億３千９百万円（前年同期比13億１千５百万円増）となりました",
+      "opinions": [
+        {
+          "target": "介護事業",
+          "category": "business#sales",
+          "polarity": "positive",
+          "from": 65,
+          "to": 69
+        },
+        {
+          "target": "介護事業",
+          "category": "business#profit",
+          "polarity": "positive",
+          "from": 65,
+          "to": 69
+        }
+      ]
+    },
+    {
+      "sentence_id": 14,
+      "sentence": "今後につきましては、引き続き、稼働率の向上と経費削減に注力しながら、収益性の向上と経営基盤の安定化に努めてまいります",
+      "opinions": []
+    },
+    {
+      "sentence_id": 15,
+      "sentence": "[その他の事業]",
+      "opinions": []
+    },
+    {
+      "sentence_id": 16,
+      "sentence": "高齢者向けマンション事業におきましては、売上高は堅調に推移いたしました",
+      "opinions": [
+        {
+          "target": "高齢者向けマンション事業",
+          "category": "business#sales",
+          "polarity": "positive",
+          "from": 0,
+          "to": 12
+        }
+      ]
+    },
+    {
+      "sentence_id": 17,
+      "sentence": "一方で、投資型不動産の分譲販売にかかる収益が減少したことにより、その他の事業の売上高は３億２千２百万円（前年同期比15億２百万円減）、営業利益は７千万円（前年同期比１億６千３百万円減）となりました",
+      "opinions": [
+        {
+          "target": "分譲販売",
+          "category": "business#profit",
+          "polarity": "negative",
+          "from": 11,
+          "to": 15
+        },
+        {
+          "target": "その他の事業",
+          "category": "business#sales",
+          "polarity": "negative",
+          "from": 32,
+          "to": 38
+        },
+        {
+          "target": "その他の事業",
+          "category": "business#profit",
+          "polarity": "negative",
+          "from": 32,
+          "to": 38
+        }
+      ]
+    }
+  ]
+}

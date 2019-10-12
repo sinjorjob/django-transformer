@@ -1,0 +1,458 @@
+{
+  "header": {
+    "document_id": "E00107",
+    "document_name": "三機工業株式会社",
+    "doc_text": "有価証券報告書",
+    "edi_id": "E00107",
+    "security_code": "19610",
+    "category33": "建設業",
+    "category17": "建設・資材",
+    "scale": "7"
+  },
+  "sentences": [
+    {
+      "sentence_id": 0,
+      "sentence": "当連結会計年度の我が国経済は、前半は円高や新興国経済の減速による企業収益の悪化から回復ペースが鈍化しておりましたが、後半は円安の進行や海外経済の回復を背景とした企業収益の改善を受けて持ち直しの動きが見られました",
+      "opinions": [
+        {
+          "target": "我が国経済",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 8,
+          "to": 13
+        },
+        {
+          "target": "新興国経済",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 21,
+          "to": 26
+        },
+        {
+          "target": "企業収益",
+          "category": "NULL#general",
+          "polarity": "negative",
+          "from": 32,
+          "to": 36
+        },
+        {
+          "target": "海外経済",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 67,
+          "to": 71
+        },
+        {
+          "target": "企業収益",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 80,
+          "to": 84
+        }
+      ]
+    },
+    {
+      "sentence_id": 1,
+      "sentence": "また、設備投資につきましても、慎重姿勢は残るものの緩やかな回復基調にあります",
+      "opinions": [
+        {
+          "target": "設備投資",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 3,
+          "to": 7
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "sentence": "建設投資につきましては、公共投資は下げ止まりが見られ、国内の民間設備投資は先行きの不透明感から横ばいに推移しております",
+      "opinions": [
+        {
+          "target": "公共投資",
+          "category": "NULL#general",
+          "polarity": "positive",
+          "from": 12,
+          "to": 16
+        },
+        {
+          "target": "民間設備投資",
+          "category": "NULL#general",
+          "polarity": "neutral",
+          "from": 30,
+          "to": 36
+        },
+        {
+          "target": "先行き",
+          "category": "NULL#general",
+          "polarity": "neutral",
+          "from": 37,
+          "to": 40
+        }
+      ]
+    },
+    {
+      "sentence_id": 3,
+      "sentence": "このような環境のなかで当社グループは、2025年の創立100周年を見据え、当連結会計年度を初年度とする10年間の長期ビジョン“Century 2025”及び３ヵ年の新中期経営計画“Century 2025”Phase1の経営方針にもとづいて、コア事業の強化や生産性・業務効率の改善を図り、また、大和地区再開発に着手することで、未来に向けた技術の向上と事業領域の拡大を目指す取り組みを開始しました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 4,
+      "sentence": "その結果、当連結会計年度における当社グループの業績は次のとおりとなりました",
+      "opinions": []
+    },
+    {
+      "sentence_id": 5,
+      "sentence": "受注高につきましては、前連結会計年度を1.4％上回る1,858億8千万円となりました",
+      "opinions": [
+        {
+          "target": "受注高",
+          "category": "NULL#amount",
+          "polarity": "positive",
+          "from": 0,
+          "to": 3
+        }
+      ]
+    },
+    {
+      "sentence_id": 6,
+      "sentence": "セグメント別の状況といたしまして、建築設備事業は、前連結会計年度を3.8％下回る1,466億1千2百万円となりました",
+      "opinions": [
+        {
+          "target": "建築設備事業",
+          "category": "business#amount",
+          "polarity": "negative",
+          "from": 17,
+          "to": 23
+        }
+      ]
+    },
+    {
+      "sentence_id": 7,
+      "sentence": "機械システム事業は、前連結会計年度に大型搬送用設備を受注した影響等により、前連結会計年度を21.1％下回る81億3千万円となりました",
+      "opinions": [
+        {
+          "target": "機械システム事業",
+          "category": "business#amount",
+          "polarity": "negative",
+          "from": 0,
+          "to": 8
+        }
+      ]
+    },
+    {
+      "sentence_id": 8,
+      "sentence": "環境システム事業は、主に廃棄物処理施設における長期の維持管理運営業務を受託したこと等により、前連結会計年度を56.2％上回る306億2千6百万円となりました",
+      "opinions": [
+        {
+          "target": "環境システム事業",
+          "category": "business#amount",
+          "polarity": "positive",
+          "from": 0,
+          "to": 8
+        }
+      ]
+    },
+    {
+      "sentence_id": 9,
+      "sentence": "不動産事業は、前連結会計年度を3.9％上回る15億9千2百万円となりました",
+      "opinions": [
+        {
+          "target": "不動産事業",
+          "category": "business#amount",
+          "polarity": "positive",
+          "from": 0,
+          "to": 5
+        }
+      ]
+    },
+    {
+      "sentence_id": 10,
+      "sentence": "売上高につきましては、1,685億1千2百万円と前連結会計年度と比較し、5.8％の減収となりましたが、翌連結会計年度への繰越受注高は、前連結会計年度末に比べて173億6千7百万円、率にして16.3％増加し、1,237億5千6百万円となりました",
+      "opinions": [
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "negative",
+          "from": 0,
+          "to": 3
+        },
+        {
+          "target": "繰越受注高",
+          "category": "NULL#amount",
+          "polarity": "positive",
+          "from": 60,
+          "to": 65
+        }
+      ]
+    },
+    {
+      "sentence_id": 11,
+      "sentence": "セグメント別の状況といたしまして、建築設備事業は、1,415億6千7百万円と前連結会計年度と比較し、5.6％の減収となりました",
+      "opinions": [
+        {
+          "target": "建築設備事業",
+          "category": "business#sales",
+          "polarity": "negative",
+          "from": 17,
+          "to": 23
+        }
+      ]
+    },
+    {
+      "sentence_id": 12,
+      "sentence": "機械システム事業は、受注高が減少したことにより、81億9千2百万円と前連結会計年度と比較し、11.1％の減収となり、環境システム事業は、182億7千1百万円と前連結会計年度と比較し、2.5％の減収となりました",
+      "opinions": [
+        {
+          "target": "機械システム事業",
+          "category": "business#amount",
+          "polarity": "negative",
+          "from": 0,
+          "to": 8
+        },
+        {
+          "target": "機械システム事業",
+          "category": "business#sales",
+          "polarity": "negative",
+          "from": 0,
+          "to": 8
+        },
+        {
+          "target": "環境システム事業",
+          "category": "business#sales",
+          "polarity": "negative",
+          "from": 58,
+          "to": 66
+        }
+      ]
+    },
+    {
+      "sentence_id": 13,
+      "sentence": "不動産事業は、15億9千2百万円と前連結会計年度と比較し、3.9％の増収となりました",
+      "opinions": [
+        {
+          "target": "不動産事業",
+          "category": "business#sales",
+          "polarity": "positive",
+          "from": 0,
+          "to": 5
+        }
+      ]
+    },
+    {
+      "sentence_id": 14,
+      "sentence": "利益面につきまして、営業利益は60億1千2百万円（前年同期比7.6％減）となりました",
+      "opinions": [
+        {
+          "target": "営業利益",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 10,
+          "to": 14
+        }
+      ]
+    },
+    {
+      "sentence_id": 15,
+      "sentence": "これは、原価管理の徹底や作業効率の向上等利益率改善に努めましたものの、減収に加え、退職給付に係る数理計算上の差異償却額の増加等が影響したことによるものであります",
+      "opinions": [
+        {
+          "target": "差異償却額",
+          "category": "NULL#cost",
+          "polarity": "negative",
+          "from": 54,
+          "to": 59
+        }
+      ]
+    },
+    {
+      "sentence_id": 16,
+      "sentence": "経常利益は68億8千万円（前年同期比15.4％減）、親会社株主に帰属する当期純利益は46億9千8百万円（前年同期比11.8％減) となりました",
+      "opinions": [
+        {
+          "target": "経常利益",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 0,
+          "to": 4
+        },
+        {
+          "target": "当期純利益",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 36,
+          "to": 41
+        }
+      ]
+    },
+    {
+      "sentence_id": 17,
+      "sentence": "なお、一昨年同期との比較では営業利益は30億6千1百万円、率にして103.7％の増益（一昨年同期の営業利益は29億5千1百万円）であり、前連結会計年度から引き続き高い利益水準を維持しております",
+      "opinions": [
+        {
+          "target": "営業利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 14,
+          "to": 18
+        }
+      ]
+    },
+    {
+      "sentence_id": 18,
+      "sentence": "セグメントの業績は、次のとおりであります",
+      "opinions": []
+    },
+    {
+      "sentence_id": 19,
+      "sentence": "①  建築設備事業",
+      "opinions": []
+    },
+    {
+      "sentence_id": 20,
+      "sentence": "受注高は前連結会計年度を3.8％下回る1,466億1千2百万円、売上高は前連結会計年度を5.6％下回る1,415億6千7百万円、セグメント利益（経常利益）は前連結会計年度を16.8％下回る64億4百万円となりました",
+      "opinions": [
+        {
+          "target": "受注高",
+          "category": "NULL#amount",
+          "polarity": "negative",
+          "from": 0,
+          "to": 3
+        },
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "negative",
+          "from": 32,
+          "to": 35
+        },
+        {
+          "target": "セグメント利益",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 64,
+          "to": 71
+        }
+      ]
+    },
+    {
+      "sentence_id": 21,
+      "sentence": "②  機械システム事業",
+      "opinions": []
+    },
+    {
+      "sentence_id": 22,
+      "sentence": "受注高は前連結会計年度を21.1％下回る81億3千万円、売上高は前連結会計年度を11.1％下回る81億9千2百万円、セグメント損失（経常損失）は1億3千8百万円（前連結会計年度はセグメント利益2億7千5百万円）となりました",
+      "opinions": [
+        {
+          "target": "受注高",
+          "category": "NULL#amount",
+          "polarity": "negative",
+          "from": 0,
+          "to": 3
+        },
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "negative",
+          "from": 28,
+          "to": 31
+        },
+        {
+          "target": "セグメント損失",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 58,
+          "to": 65
+        }
+      ]
+    },
+    {
+      "sentence_id": 23,
+      "sentence": "③  環境システム事業",
+      "opinions": []
+    },
+    {
+      "sentence_id": 24,
+      "sentence": "受注高は前連結会計年度を56.2％上回る306億2千6百万円、売上高は前連結会計年度を2.5％下回る182億7千1百万円、セグメント利益（経常利益）は6億7千1百万円（前連結会計年度はセグメント損失3億1千5百万円）となりました",
+      "opinions": [
+        {
+          "target": "受注高",
+          "category": "NULL#amount",
+          "polarity": "positive",
+          "from": 0,
+          "to": 3
+        },
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "negative",
+          "from": 31,
+          "to": 34
+        },
+        {
+          "target": "セグメント利益",
+          "category": "NULL#profit",
+          "polarity": "positive",
+          "from": 61,
+          "to": 68
+        }
+      ]
+    },
+    {
+      "sentence_id": 25,
+      "sentence": "④  不動産事業",
+      "opinions": []
+    },
+    {
+      "sentence_id": 26,
+      "sentence": "売上高は前連結会計年度を3.9％上回る15億9千2百万円、セグメント利益（経常利益）は前連結会計年度を18.8％下回る1億8千9百万円となりました",
+      "opinions": [
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "positive",
+          "from": 0,
+          "to": 3
+        },
+        {
+          "target": "セグメント利益",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 29,
+          "to": 36
+        }
+      ]
+    },
+    {
+      "sentence_id": 27,
+      "sentence": "⑤　その他",
+      "opinions": []
+    },
+    {
+      "sentence_id": 28,
+      "sentence": "売上高は前連結会計年度を7.9％下回る4億9千9百万円、セグメント利益（経常利益）は前連結会計年度を57.2％下回る2千2百万円となりました",
+      "opinions": [
+        {
+          "target": "売上高",
+          "category": "NULL#sales",
+          "polarity": "negative",
+          "from": 0,
+          "to": 3
+        },
+        {
+          "target": "セグメント利益",
+          "category": "NULL#profit",
+          "polarity": "negative",
+          "from": 28,
+          "to": 35
+        }
+      ]
+    },
+    {
+      "sentence_id": 29,
+      "sentence": "なお、「第２　事業の状況」における各事項の記載については、消費税等抜きの金額で表示しております",
+      "opinions": []
+    }
+  ]
+}
