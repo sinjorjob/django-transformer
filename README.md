@@ -40,6 +40,7 @@ chABSA-datasetのデータの本文がネガティブか、ポジティブ化を
 ### 1.2 各種ライブラリー導入  
 
 主に以下のモジュールを利用している。
+```
 Django==2.2.6
 django-bootstrap4==1.0.1
 django-widgets-improved==1.5.0
@@ -48,6 +49,7 @@ torch==1.1.0
 torchsummary==1.5.1
 torchtext==0.4.0
 torchvision==0.3.0
+```
 
 必須のモジュールを整理しきれなかったので、エラーが出る場合はrequirements.txtを参照して環境をそろえてみて下しさい。  
 
@@ -64,6 +66,17 @@ TEXT = create_vocab(pkl_path)
 ```
 ※sample\app1\data\text.pklが生成される。
 
+### 1.4 アプリ起動
+
+```
+cd sample  
+python manage.py makemigrations
+python manage.py migrate
+python manage.py runserver
+```
+
+アクセスＵＲＬ  
+http://127.0.0.1:8000/demo/sentiment
 
 
 ###各種ファイルの概要
