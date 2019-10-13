@@ -91,7 +91,7 @@ def create_vocab(pkl_path):
     train_ds, val_ds = torchtext.data.TabularDataset.splits(
         path=data_path, train='train.tsv',validation='test.tsv', format='tsv',
         fields=[('Text', TEXT), ('Label', LABEL)])
-    japanese_fastText_vectors = Vectors(name='/mnt/c/Users/sinfo/Desktop/pytorch/pytorch_advanced-master/django/sample/app1/data/model.vec')
+    japanese_fastText_vectors = Vectors(name=vec_path)
     # ベクトル化したバージョンのボキャブラリーを作成
     TEXT.build_vocab(train_ds, vectors=japanese_fastText_vectors, min_freq=5)
     pickle_dump(TEXT, pkl_path)
