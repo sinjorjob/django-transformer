@@ -47,7 +47,7 @@ def tokenizer_mecab(text):
 # 前処理と分かち書きをまとめた関数を定義
 def tokenizer_with_preprocessing(text):
     text = preprocessing_text(text)  # 前処理の正規化
-    ret = tokenizer_mecab(text)  # Janomeの単語分割
+    ret = tokenizer_mecab(text)  # Mecabの単語分割
 
     return ret
 
