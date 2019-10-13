@@ -3,3 +3,4 @@ model_path = '/mnt/c/Users/sinfo/Desktop/pytorch/pytorch_advanced-master/django/
 max_length = 256
 data_path = '/mnt/c/Users/sinfo/Desktop/pytorch/pytorch_advanced-master/django/sample/app1/data'
 pkl_path = '/mnt/c/Users/sinfo/Desktop/pytorch/pytorch_advanced-master/django/sample/app1/data/text.pkl'
+vec_path = '/mnt/c/Users/sinfo/Desktop/pytorch/pytorch_advanced-master/django/sample/app1/data/model.vec'
