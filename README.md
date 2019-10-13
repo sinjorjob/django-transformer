@@ -26,7 +26,7 @@ Djangoアプリのデモ動画
 - data  
    chABSA：chABSA-datasetデータセットからネガポジ分類用に生成した学習データファイル（tsv)  
    14_steps_fastText_weight.pth：fastTextを用いた学習済みモデル(pytorch)  
-   ※fastText(日本語学習済みモデルは容量が大きいため各自JupterNotebook記載の手順に従いmodel.vecをダウンロードのこと)
+   ※fastText(日本語学習済みモデルは容量が大きいため各自JupterNotebook記載の手順に従いmodel.vecをダウンロードのこと)  
    text.pkl：torchtextを使って学習データから生成した以下のようなVocabデータが格納されています。  
 
 ```
