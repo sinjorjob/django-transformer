@@ -69,7 +69,11 @@ TEXT = create_vocab(pkl_path)
 ```
 ※sample\app1\data\text.pklが生成される。
 
-### 1.4 アプリ起動
+### 1.4 各種パスの変更
+confing.pyのパスは各環境に合わせて適宜修正してください。  
+
+
+### 1.5 アプリ起動
 
 ```
 cd sample  
