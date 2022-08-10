@@ -48,7 +48,7 @@ mkl-random==1.0.2
 mkl-service==2.0.2
 mojimoji==0.0.9
 murmurhash==1.0.2
-nbconvert==5.5.0
+nbconvert==6.3.0
 nbformat==4.4.0
 notebook==5.7.8
 numpy==1.16.4
